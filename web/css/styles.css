@@ -578,7 +578,22 @@ textarea{
 }
 
 .mdl-logo{
-    color: #303f9f;
+    /*color: #303f9f;*/
+}
+
+.demo-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+}
+
+.demo-avatar-dropdown {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    /*width: 100%;*/
+    padding-left: 1em;
 }
 
 .section__circle--big {
@@ -676,6 +691,11 @@ div .mdl-textfield__label:after {
     margin: -8px;
 }
 
+.android-card-container svg{
+    margin: 0 auto;
+    padding-bottom: 1em;
+}
+
 .vertical-mdl-tabs {
     margin-top: 30px;
 }
@@ -715,7 +735,7 @@ div .mdl-textfield__label:after {
     overflow: visible;
     text-transform: inherit;
     font-weight: 500;
-    height: 6em;
+    height: 8em;
     line-height: inherit;
     display: table;
 }
@@ -872,5 +892,13 @@ div .mdl-textfield__label:after {
 
     .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
         bottom: 0px;
+    }
+    
+    .demo-avatar{
+        display: none;
+    }
+    
+    .demo-avatar-dropdown{
+        padding-left: 0;
     }
 }
