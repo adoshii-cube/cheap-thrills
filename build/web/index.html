@@ -30,6 +30,7 @@ and open the template in the editor.
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="css/material.min.css">
         <link href="css/materialdesignicons.css" media="all" rel="stylesheet" type="text/css" />
+        <link href="css/mdl-selectfield.min.css" media="all" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="css/styles.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.1/dc.min.css" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -109,19 +110,27 @@ and open the template in the editor.
                                 <div class="mdl-cell mdl-cell--9-col">
                                     <div class="mdl-tabs__panel is-active" id="tab1-panel">
                                         <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart1">
+                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart1">
                                                 <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q1 Chart 1</h2>
+                                                    <h2 class="mdl-card__title-text">States (sized by # of applications)</h2>
                                                 </div>
                                             </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart2">
+                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart2">
                                                 <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q1 Chart 2</h2>
+                                                    <h2 class="mdl-card__title-text">Time period (sized by # of applications)</h2>
+                                                    <!--<div class="reset">selected: <span class="filter"></span>-->
+
+                                                    <!--</div>-->
                                                 </div>
                                             </div>
                                             <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart3">
                                                 <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q1 Chart 3</h2>
+                                                    <h2 class="mdl-card__title-text"># of Applications (by Source)</h2>
+                                                </div>
+                                            </div>
+                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart3">
+                                                <div class="mdl-card__title">
+                                                    <h2 class="mdl-card__title-text">TAT (by Source)</h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -394,6 +403,11 @@ and open the template in the editor.
                                                     <h2 class="mdl-card__title-text">TAB 4 Q1 Chart 3</h2>
                                                 </div>
                                             </div>
+                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q1-chart4">
+                                                <div class="mdl-card__title">
+                                                    <h2 class="mdl-card__title-text">TAB 4 Q1 Chart 4</h2>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="mdl-tabs__panel" id="tab4-Q2-panel">
@@ -453,6 +467,7 @@ and open the template in the editor.
         </div>
 
         <script src="js/material.min.js"></script>
+        <script src="js/mdl-selectfield.min.js"></script>
 
         <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>-->
         <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"></script>-->

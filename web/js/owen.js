@@ -12,157 +12,257 @@ $(document).ready(function () {
     plotProductivityQ1Charts();
 //    plotProductivityQ2Charts();
 //    plotProductivityQ3Charts();
+
+
+
+
+    plotDummyChartsInAttrition();
 });
 
 function plotHiringQ1Charts() {
 
-    var chart1 = dc.pieChart("#hiring-q1-chart1");
+    var chart1 = dc.barChart("#hiring-q1-chart1");
     var chart2 = dc.barChart("#hiring-q1-chart2");
+    var chart3 = dc.pieChart("#hiring-q1-chart3");
 
-    d3.csv("personal_details.csv", function (error, data) {
+    d3.csv("personal_details_date.csv", function (error, data) {
+
+        var parseDate = d3.time.format.utc("%y-%m-%d").parse;
+        data.forEach(function (d) {
+            d.ValidatedRecruiterDate = parseDate(d.ValidatedRecruiterDate);
+        });
+
 
         var cf = crossfilter(data),
                 barDimension = cf.dimension(function (d) {
                     return d.Address_State;
                 }),
-                barGroup = barDimension.group();
-
-
-        chart1
-                .width(400)
-                .height(250)
-//                .brushOn(false)
-                .dimension(barDimension)
-                .group(barGroup)
-        chart1.render();
-
-
-        var parseDate = d3.time.format.utc("%Y-%m-%d").parse;
-        data.forEach(function (d) {
-            d.ValidatedRecruiterDate = parseDate(d.ValidatedRecruiterDate);
-        });
-
-        var ndx = crossfilter(data),
-                runDimension = ndx.dimension(function (d) {
+                barGroup = barDimension.group(),
+                runDimension = cf.dimension(function (d) {
                     return +d.ValidatedRecruiterDate;
                 }),
-                speedSumGroup = runDimension.group();
+                speedSumGroup = runDimension.group(),
+                pieDimension = cf.dimension(function (d) {
+                    return d.SourceName;
+                }),
+                pieGroup = pieDimension.group();
 
         var minDate = runDimension.bottom(1)[0].ValidatedRecruiterDate;
         var maxDate = runDimension.top(1)[0].ValidatedRecruiterDate;
 
+
+        chart1
+                .width(900)
+                .height(250)
+                .x(d3.scale.ordinal())
+                .xUnits(dc.units.ordinal)
+                .colors(['#303f9f'])
+                .centerBar(true)
+                .elasticY(true)
+//                .brushOn(false)
+                .dimension(barDimension)
+                .group(barGroup);
+        chart1.render();
+
         chart2
-                .width(768)
-                .height(480)
+                .width(900)
+                .height(250)
                 .x(d3.time.scale().domain([minDate, maxDate]))
-                .brushOn(false)
-                .yAxisLabel("This is the Y Axis!")
+                .xUnits(d3.time.months)
+//                .elasticY(true)
+//                .brushOn(true)
+//                .yAxisLabel("This is the Y Axis!")
                 .dimension(runDimension)
                 .group(speedSumGroup)
-                .on('renderlet', function (chart) {
-                    chart.selectAll('rect').on("click", function (d) {
-                        console.log("click!", d);
-                    });
-                });
+                .colors(['#303f9f'])
         chart2.render();
 
+        chart3
+                .width(400)
+                .height(250)
+                .ordinalColors(['#303f9f', '#7B1FA2', '#C2185B', '#d32f2f', '#E64A19', '#F57C00'])
+                .dimension(pieDimension)
+                .group(pieGroup);
+        chart3.filter = function () {};
+        chart3.render();
+    });
+}
 
 
+//DUMMY DATA TRIAL
+function plotDummyChartsInAttrition() {
+
+    var dummyChart1 = dc.pieChart("#attrition-q1-chart1");
+    var dummyChart2 = dc.pieChart("#attrition-q1-chart2");
+    var dummyChart3 = dc.pieChart("#attrition-q1-chart3");
+    var dummyChart4 = dc.pieChart("#attrition-q1-chart4");
+
+    function isCandidateCount(v) {
+        return v.Type === "Candidate_count" && v.SubType === "Candidate_count";
+    }
+
+    function isTATScore(v) {
+        return v.Type === "TAT_Score";
+    }
+
+    function isCandidateTATCount(v) {
+        return v.Type === "TAT_Cand_count";
+    }
+
+    function isTATProduct(v) {
+        return v.Type === "TAT_prod";
+    }
+
+    d3.csv("dummy_data_TAT (2).csv", function (error, data) {
+        var cf = crossfilter(data);
+
+        var dummyDimensionState = cf.dimension(function (d) {
+            return d.State;
+        });
+
+        var dummyGroupState = dummyDimensionState.group().reduce(
+                function (p, v) {
+                    if (isCandidateCount(v)) {
+                        p += +v.Value;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isCandidateCount(v)) {
+                        p -= +v.Value;
+                    }
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+
+        var dummyDimensionRole = cf.dimension(function (d) {
+            return d.Role;
+        });
+
+        var dummyGroupRole = dummyDimensionRole.group().reduce(
+                function (p, v) {
+                    if (isCandidateCount(v)) {
+                        p += +v.Value;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isCandidateCount(v)) {
+                        p -= +v.Value;
+                    }
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+
+        var dummyDimensionTAT = cf.dimension(function (d) {
+            return d.SubType;
+        });
+
+        var dummyGroupTAT = dummyDimensionTAT.group().reduce(
+                function (p, v) {
+                    if (isTATScore(v)) {
+                        p.Count++;
+                        p.Sum += +v.Value;
+                        p.Average = d3.round((p.Sum / p.Count), 2);
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isTATScore(v)) {
+                        p.Count--;
+                        p.Sum -= +v.Value;
+                        p.Average = d3.round((p.Sum / p.Count), 2);
+                    }
+                    return p;
+                },
+                function () {
+                    return {
+                        Count: 0,
+                        Sum: 0,
+                        Average: 0
+                    };
+                }
+        );
+
+        var dummyDimensionWeightedTAT = cf.dimension(function (d) {
+            return d.SubType;
+        });
+
+        var dummyGroupWeightedTAT = dummyDimensionWeightedTAT.group().reduce(
+                function (p, v) {
+                    if (isCandidateTATCount(v)) {
+                        p.denominator += +v.Value;
+                    }
+                    if (isTATProduct(v)) {
+                        p.numerator += +v.Value;
+                        p.avg = d3.round((p.numerator / p.denominator), 2);
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isCandidateTATCount(v)) {
+                        p.denominator -= +v.Value;
+                    }
+                    if (isTATProduct(v)) {
+                        p.numerator -= +v.Value;
+                        p.avg = d3.round((p.numerator / p.denominator), 2);
+                    }
+                    
+                    return p;
+                },
+                function () {
+                    return{
+                        denominator: 0,
+                        numerator: 0,
+                        avg: 0
+                    };
+                }
+        );
+
+        dummyChart1
+                .width(250)
+                .height(250)
+                .dimension(dummyDimensionState)
+                .group(dummyGroupState)
+                .render();
+
+        dummyChart2
+                .width(250)
+                .height(250)
+                .dimension(dummyDimensionRole)
+                .group(dummyGroupRole)
+                .render();
+
+        dummyChart3
+                .width(250)
+                .height(250)
+                .valueAccessor(function (p) {
+                    return p.value.Count > 0 ? p.value.Average : 0;
+                })
+                .dimension(dummyDimensionTAT)
+                .group(dummyGroupTAT)
+                .render();
+
+        dummyChart4
+                .width(250)
+                .height(250)
+                .valueAccessor(function (p) {
+                    return p.value.avg;
+                })
+                .dimension(dummyDimensionWeightedTAT)
+                .group(dummyGroupWeightedTAT)
+                .render();
 
 
     });
-
-
-//    d3.csv("morley.csv", function (error, experiments) {
-//
-//    });
-//
-//
-////    var yearRingChart = dc.pieChart("#hiring-q1-chart1"),
-//    spendHistChart = dc.barChart("#hiring-q1-chart2"),
-//            spenderRowChart = dc.rowChart("#hiring-q1-chart3");
-//// use static or load via d3.csv("spendData.csv", function(error, spendData) {/* do stuff */});
-//    var spendData = [
-//        {Name: 'Mr A', Spent: '$40', Year: 2011},
-//        {Name: 'Mr B', Spent: '$10', Year: 2011},
-//        {Name: 'Mr C', Spent: '$40', Year: 2011},
-//        {Name: 'Mr A', Spent: '$70', Year: 2012},
-//        {Name: 'Mr B', Spent: '$20', Year: 2012},
-//        {Name: 'Mr B', Spent: '$50', Year: 2013},
-//        {Name: 'Mr C', Spent: '$30', Year: 2013}
-//    ];
-//// normalize/parse data
-//    spendData.forEach(function (d) {
-//        d.Spent = d.Spent.match(/\d+/);
-//    });
-//// set crossfilter
-//    var ndx = crossfilter(spendData),
-//            yearDim = ndx.dimension(function (d) {
-//                return +d.Year;
-//            }),
-//            spendDim = ndx.dimension(function (d) {
-//                return Math.floor(d.Spent / 10);
-//            }),
-//            nameDim = ndx.dimension(function (d) {
-//                return d.Name;
-//            }),
-//            spendPerYear = yearDim.group().reduceSum(function (d) {
-//        return +d.Spent;
-//    }),
-//            spendPerName = nameDim.group().reduceSum(function (d) {
-//        return +d.Spent;
-//    }),
-//            spendHist = spendDim.group().reduceCount();
-////    yearRingChart
-////            .height(250)
-////            .width(250)
-////            .dimension(yearDim)
-////            .group(spendPerYear)
-////            .innerRadius(50)
-////            .ordinalColors(['#7986CB', '#3F51B5', '#303f9f'])
-////            .controlsUseVisibility(true);
-//    spendHistChart
-//            .height(250)
-//            .width(400)
-//            .dimension(spendDim)
-//            .group(spendHist)
-//            .x(d3.scale.linear().domain([0, 10]))
-//            .elasticY(true)
-//            .colors(["#303f9f"])
-//            .controlsUseVisibility(true);
-//    spendHistChart.xAxis().tickFormat(function (d) {
-//        return d * 10
-//    }); // convert back to base unit
-//    spendHistChart.yAxis().ticks(2);
-//    spenderRowChart
-//            .height(250)
-//            .width(400)
-//            .dimension(nameDim)
-//            .group(spendPerName)
-//            .elasticX(true)
-//            .ordinalColors(['#7986CB', '#3F51B5', '#303f9f'])
-//            .controlsUseVisibility(true);
-//    function show_empty_message(chart) {
-//        var is_empty = d3.sum(chart.group().all().map(chart.valueAccessor())) === 0;
-//        var data = is_empty ? [1] : [];
-//        var empty = chart.svg().selectAll('.empty-message').data(data);
-//        empty.enter().append('text')
-//                .text('NO DATA!')
-//                .attr({
-//                    'text-anchor': 'middle',
-//                    'alignment-baseline': 'middle',
-//                    class: 'empty-message',
-//                    x: chart.margins().left + chart.effectiveWidth() / 2,
-//                    y: chart.margins().top + chart.effectiveHeight() / 2
-//                })
-//                .style('opacity', 0);
-//        empty.transition().duration(1000).style('opacity', 1);
-//        empty.exit().remove();
-//    }
-//    spendHistChart.on('pretransition', show_empty_message);
-//    spenderRowChart.on('pretransition', show_empty_message);
-//    dc.renderAll();
 }
+//DUMMY DATA TRIAL
 
 function plotHiringQ2Charts() {
 
