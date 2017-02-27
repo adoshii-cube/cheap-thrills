@@ -521,6 +521,8 @@ textarea{
 .android-card-container .mdl-card__title-text {
     color: black;
     height: auto;
+    font-weight: bold;
+    font-size: 14px;
 }
 
 .android-card-container .mdl-card__supporting-text {
@@ -697,7 +699,7 @@ div .mdl-textfield__label:after {
 }
 
 .vertical-mdl-tabs {
-    margin-top: 30px;
+    margin-top: 15px;
 }
 .vertical-mdl-tabs .mdl-tabs__tab-bar {
     -webkit-flex-direction: column;
@@ -718,7 +720,7 @@ div .mdl-textfield__label:after {
 }
 
 .vertical-mdl-tabs.mdl-tabs.is-upgraded a.mdl-tabs__tab.is-active {
-    border-right: 2px solid #ED462F;
+    border-right: 4px solid #ED462F;
     font-weight: 600;
 }
 .vertical-mdl-tabs.mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after {
@@ -727,7 +729,7 @@ div .mdl-textfield__label:after {
 }
 
 .vertical-mdl-tabs.mdl-tabs.is-upgraded .mdl-tabs__panel.is-active, .mdl-tabs__panel {
-    padding: 0 30px;
+    padding: 0 12px;
 }
 
 .vertical-mdl-tabs.mdl-tabs .mdl-tabs__tab {
@@ -735,7 +737,7 @@ div .mdl-textfield__label:after {
     overflow: visible;
     text-transform: inherit;
     font-weight: 500;
-    height: 8em;
+    height: 5em;
     line-height: inherit;
     display: table;
 }
@@ -743,6 +745,60 @@ div .mdl-textfield__label:after {
 .vertical-mdl-tabs.mdl-tabs .mdl-tabs__tab > div{
     display: table-cell;
     vertical-align: middle;
+}
+
+.mdl-cell{
+    float: left;
+}
+
+.mdl-chart__bar svg{
+    margin: 0 auto;
+}
+
+.mdl-chart__bar text{
+    font-size: 12px;
+}
+
+.mdl-chart__timeseries{
+    min-height: 75px;
+}
+
+.mdl-chart__dropdown{
+    min-height: 75px !important;
+    max-height: 75px !important;
+}
+
+.mdl-selectfield{
+    margin: 8px !important;
+    width: calc(33.3333333333% - 16px) !important;
+}
+
+.mdl-chart__map svg,
+.mdl-chart__pie svg,
+.mdl-chart__bar svg,
+.mdl-chart__timeseries svg{
+    margin: 0 auto;
+}
+
+.chart-body text{
+    font-size: 12px;
+}
+
+.mdl-chart__bar text{
+    fill: #000000;
+}
+
+select {
+    font-family: inherit;
+    background-color: transparent;
+    width: 90%;
+    margin: 0 auto;
+    padding: 4px 0;
+    font-size: 16px;
+    /* color: rgba(0,0,0, 0.26); */
+    border: none;
+    border-bottom: 1px solid rgba(0,0,0, 0.12);
+    outline: none;
 }
 
 /*
@@ -893,11 +949,11 @@ div .mdl-textfield__label:after {
     .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
         bottom: 0px;
     }
-    
+
     .demo-avatar{
         display: none;
     }
-    
+
     .demo-avatar-dropdown{
         padding-left: 0;
     }

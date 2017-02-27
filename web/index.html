@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html lang="en">
     <head>
-        <title>OWEN Analytics - AI driven people solutions</title>
+        <title>OWEN Analytics Demo - AI driven people solutions</title>
 
         <meta name="description" content="Harness the power of the informal organization. Redefine workforce engagement by leveraging employee interaction patterns. Optimize these interactions through a clever combination of traditional engagement mechanisms, network analysis and new-age predictive algorithms. Empower HR leaders to make data-driven decisions.">
         <meta name="keywords" content="human resources, HR, big data, talent management, talent acquisition, productivity, onboarding, onboarding and engagement, recruitment, solution, insights, machine learning, artificial intelligence, organizational network analysis, ona, retention, attrition">
@@ -26,13 +26,13 @@ and open the template in the editor.
 
 
         <!-- Page styles -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+        <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,thin,black,medium&amp;lang=en">-->
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="css/material.min.css">
-        <link href="css/materialdesignicons.css" media="all" rel="stylesheet" type="text/css" />
         <link href="css/mdl-selectfield.min.css" media="all" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="css/styles.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.1/dc.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/dc.css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
         <link rel='shortcut icon' type='image/x-icon' href='images/OWEN_Favicon.ico'/>
@@ -46,436 +46,151 @@ and open the template in the editor.
         <meta name="apple-mobile-web-app-status-bar-style" content="#303f9f">
     </head>   
     <body>
-        <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
-            <header class="mdl-layout__header mdl-layout__header--waterfall">
+        <!-- Always shows a header, even in smaller screens. -->
+        <div class="mdl-layout mdl-js-layout">
+            <header class="mdl-layout__header">
                 <div class="mdl-layout__header-row">
-                    <a href="http://owenanalytics.com">
-                        <span class="android-title mdl-layout-title">
-                            <img class="android-logo-image" src="images/OWEN_Logo_white.png" alt="OWEN Logo">
-                        </span>
-                    </a>
+                    <!-- Title -->
+                    <span class="android-title mdl-layout-title">
+                        <img class="android-logo-image" src="images/OWEN_Logo_white.png" alt="OWEN Logo">
+                    </span>
+                    <!-- Add spacer, to align navigation to the right -->
                     <div class="mdl-layout-spacer"></div>
-                    <img src="images/user.jpg" class="demo-avatar">
-                    <div class="demo-avatar-dropdown">
-                        <span>hello@example.com</span>
+                    <!-- Navigation. We hide it in small screens. -->
+                    <div class="android-navigation-container">
+                        <nav class="android-navigation mdl-navigation">
+                            <a class="mdl-navigation__link" href="">Hiring</a>
+                            <a class="mdl-navigation__link" href="">Onboarding & Engagement</a>
+                            <a class="mdl-navigation__link" href="">Attrition</a>
+                            <a class="mdl-navigation__link" href="index">Logout</a>
+                        </nav>
                     </div>
-                    <a href="http://owenanalytics.com">
-                        <span class="android-mobile-title mdl-layout-title">
-                            <img class="android-logo-image" src="images/OWEN_Logo_white.png" alt="OWEN Logo">
-                        </span>
-                    </a>
-                </div>
-                <!-- Tabs -->
-                <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
-                    <a href="#scroll-tab-0" class="mdl-layout__tab is-active">Workforce Summary</a>
-                    <a href="#scroll-tab-1" class="mdl-layout__tab">Recruiting</a>
-                    <a href="#scroll-tab-2" class="mdl-layout__tab">Engagement</a>
-                    <a href="#scroll-tab-3" class="mdl-layout__tab">Productivity</a>
-                    <a href="#scroll-tab-4" class="mdl-layout__tab">Attrition</a>
+                    <span class="android-mobile-title mdl-layout-title">
+                        <img class="android-logo-image" src="images/OWEN_Logo_white.png" alt="OWEN Logo">
+                    </span>
                 </div>
             </header>
-            <main class="android-content mdl-layout__content">
-                <section class="mdl-layout__tab-panel is-active" id="scroll-tab-0">
-                    <div class="page-content">
-
-                    </div>
-                </section>
-                <section class="mdl-layout__tab-panel" id="scroll-tab-1">
-                    <div class="page-content">
-
-                        <div class="mdl-tabs vertical-mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
-                            <div class="mdl-grid mdl-grid--no-spacing">
-                                <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-phone">
-                                    <div class="mdl-tabs__tab-bar">
-                                        <a href="#tab1-panel" class="mdl-tabs__tab is-active">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                Which recruiting sources deliver top performers?
-                                            </div>
-                                        </a>
-                                        <a href="#tab2-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                Are you hiring the right people at the right cost?
-                                            </div>
-                                        </a>
-                                        <a href="#tab3-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                What are the bottlenecks in the hiring process?
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="mdl-cell mdl-cell--9-col">
-                                    <div class="mdl-tabs__panel is-active" id="tab1-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">States (sized by # of applications)</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">Time period (sized by # of applications)</h2>
-                                                    <!--<div class="reset">selected: <span class="filter"></span>-->
-
-                                                    <!--</div>-->
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text"># of Applications (by Source)</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q1-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAT (by Source)</h2>
-                                                </div>
-                                            </div>
+            <div class="mdl-layout__drawer">
+                <span class="mdl-layout-title">
+                    <img class="android-logo-image" src="images/OWEN_Logo.png" alt="OWEN Logo">
+                </span>
+                <nav class="mdl-navigation">
+                    <a class="mdl-navigation__link" href="">Link</a>
+                    <a class="mdl-navigation__link" href="">Link</a>
+                    <a class="mdl-navigation__link" href="">Link</a>
+                    <a class="mdl-navigation__link" href="">Link</a>
+                </nav>
+            </div>
+            <main class="mdl-layout__content">
+                <div class="page-content">
+                    <!--<div id="loader" class="mdl-progress mdl-js-progress mdl-progress__indeterminate"></div>-->
+                    <div class="mdl-tabs vertical-mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
+                        <div class="mdl-grid mdl-grid--no-spacing">
+                            <div class="mdl-cell mdl-cell--2-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+                                <div class="mdl-tabs__tab-bar">
+                                    <a href="#tab1-panel" class="mdl-tabs__tab is-active">
+                                        <div>
+                                            Demographic profile
                                         </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab2-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q2-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q2 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q2-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q2 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q2-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q2 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q2-chart4">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q2 Chart 4</h2>
-                                                </div>
-                                            </div>
+                                    </a>
+                                    <a href="#tab2-panel" class="mdl-tabs__tab">
+                                        <div>
+                                            Experience profile
                                         </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab3-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q3 Slider Input</h2>
-                                                </div>
-                                                <div id="inputSlider">
-
-                                                    <input id="slideRange" class="mdl-slider mdl-js-slider" type="range" 
-                                                           value="0.5" min="0" max="1.0" step="0.1"
-                                                           onchange="plotHiringQ3Charts().updateSlider(this.value);" >
-                                                    <!--Value: <span id="sliderValue" >0.5</span>-->
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q3-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q3 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="hiring-q3-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 1 Q3 Chart 2</h2>
-                                                </div>
-                                            </div>
+                                    </a>
+                                    <a href="#tab3-panel" class="mdl-tabs__tab">
+                                        <div>
+                                            Hiring funnel
                                         </div>
-                                    </div>
+                                    </a>
+                                    <a href="#tab4-panel" class="mdl-tabs__tab">
+                                        <div>
+                                            Source of hire
+                                        </div>
+                                    </a>
                                 </div>
                             </div>
-                        </div>
+                            <div class="mdl-cell mdl-cell--10-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+                                <div class="mdl-tabs__panel is-active" id="tab1-panel"> 
+                                    <div class="android-card-container">
 
-                    </div>
-                </section>
-                <section class="mdl-layout__tab-panel" id="scroll-tab-2">
-                    <div class="page-content">
-                        <div class="mdl-tabs vertical-mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
-                            <div class="mdl-grid mdl-grid--no-spacing">
-                                <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-phone">
-                                    <div class="mdl-tabs__tab-bar">
-                                        <a href="#tab2-Q1-panel" class="mdl-tabs__tab is-active">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                What is the link between employee engagement, customer satisfaction, revenue and profits? What are the drivers?
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q1_chart1">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">State</h2>
                                             </div>
-                                        </a>
-                                        <a href="#tab2-Q2-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                Could we offer compensation and benefits that both cost less and engage/retain employees better?
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q1_chart2">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Role</h2>
                                             </div>
-                                        </a>
-                                        <a href="#tab2-Q3-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                Are leaders effectively managing human capital? Do leaders correlate to employee engagement, retention and performance?
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q1_chart3">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Source</h2>
                                             </div>
-                                        </a>
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q1_chart4">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Time Period</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q1_chart5">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Age</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart6">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Education (by Level)</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart7">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Education (by Stream)</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart8">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Gender</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart9">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Marital Status</h2>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="mdl-cell mdl-cell--9-col">
-                                    <div class="mdl-tabs__panel is-active" id="tab2-Q1-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q1-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q1 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q1-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q1 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q1-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q1 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab2-Q2-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q2-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q2 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q2-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q2 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q2-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q2 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab2-Q3-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q3-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q3 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="engagement-q3-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 2 Q3 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="mdl-tabs__panel" id="tab2-panel">
+                                    Content 2
+                                </div>
+                                <div class="mdl-tabs__panel" id="tab3-panel">
+                                    Content 3
+                                </div>
+                                <div class="mdl-tabs__panel" id="tab4-panel">
+                                    Content 4
                                 </div>
                             </div>
                         </div>
                     </div>
-                </section>
-                <section class="mdl-layout__tab-panel" id="scroll-tab-3">
-                    <div class="page-content">
-                        <div class="mdl-tabs vertical-mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
-                            <div class="mdl-grid mdl-grid--no-spacing">
-                                <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-phone">
-                                    <div class="mdl-tabs__tab-bar">
-                                        <a href="#tab3-Q1-panel" class="mdl-tabs__tab is-active">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                What are the most effective ways for us to improve the productivity of our sales force?
-                                            </div>
-                                        </a>
-                                        <a href="#tab3-Q2-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                Why has productivity dropped so dramatically in one specific location this quarter?
-                                            </div>
-                                        </a>
-                                        <a href="#tab3-Q3-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                What are the key process differences between our most productive plants and others?
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="mdl-cell mdl-cell--9-col">
-                                    <div class="mdl-tabs__panel is-active" id="tab3-Q1-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q1-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q1 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q1-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q1 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab3-Q2-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q2-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q2 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q2-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q2 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q2-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q2 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab3-Q3-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q3-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q3 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q3-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q3 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="productivity-q3-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 3 Q3 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <section class="mdl-layout__tab-panel" id="scroll-tab-4">
-                    <div class="page-content">
-                        <div class="mdl-tabs vertical-mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
-                            <div class="mdl-grid mdl-grid--no-spacing">
-                                <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-phone">
-                                    <div class="mdl-tabs__tab-bar">
-                                        <a href="#tab4-Q1-panel" class="mdl-tabs__tab is-active">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                What factors drive employee retention? How do we reduce turnover rates?
-                                            </div>
-                                        </a>
-                                        <a href="#tab4-Q2-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                How do the drivers of employee retention vary across different segments of our workforce(e.g., age, gender, country)?
-                                            </div>
-                                        </a>
-                                        <a href="#tab4-Q3-panel" class="mdl-tabs__tab">
-                                            <!--<span class="hollow-circle"></span>-->
-                                            <div>
-                                                Who is at a risk of leaving?
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="mdl-cell mdl-cell--9-col">
-                                    <div class="mdl-tabs__panel is-active" id="tab4-Q1-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q1-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q1 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q1-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q1 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q1-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q1 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q1-chart4">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q1 Chart 4</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab4-Q2-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q2-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q2 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q2-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q2 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q2-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q2 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mdl-tabs__panel" id="tab4-Q3-panel">
-                                        <div class="android-card-container mdl-grid">
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q3-chart1">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q3 Chart 1</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q3-chart2">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q3 Chart 2</h2>
-                                                </div>
-                                            </div>
-                                            <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp" id="attrition-q3-chart3">
-                                                <div class="mdl-card__title">
-                                                    <h2 class="mdl-card__title-text">TAB 4 Q3 Chart 3</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <footer class="mdl-mini-footer">
-                    <div class="mdl-mini-footer__left-section">
-                        <div class="mdl-logo">© 2017 i-Cube Analytics & Data Services - All rights reserved.</div>
-                        <!--<ul class="mdl-mini-footer__link-list">-->
-                        <!--<li><a href="#">Help</a></li>-->
-                        <!--<li><a href="#">Privacy & Terms</a></li>-->
-                        <!--</ul>-->
-                    </div>
-                </footer>
+
+                </div>
             </main>
-
         </div>
-
         <script src="js/material.min.js"></script>
         <script src="js/mdl-selectfield.min.js"></script>
+        <script src="js/d3.min.js"></script>
+        <script src="js/crossfilter.min.js"></script>
+        <script src="js/dc.min.js"></script>
 
-        <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>-->
-        <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"></script>-->
-        <!--<script type="text/javascript" src="http://dc-js.github.io/dc.js/js/dc.js"></script>-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.1/dc.js"></script>
-        <!--<script src="js/dc.js"></script>-->
         <script src="js/owen.js"></script>
     </body>
 </html>
