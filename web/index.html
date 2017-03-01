@@ -75,10 +75,10 @@ and open the template in the editor.
                     <img class="android-logo-image" src="images/OWEN_Logo.png" alt="OWEN Logo">
                 </span>
                 <nav class="mdl-navigation">
-                    <a class="mdl-navigation__link" href="">Link</a>
-                    <a class="mdl-navigation__link" href="">Link</a>
-                    <a class="mdl-navigation__link" href="">Link</a>
-                    <a class="mdl-navigation__link" href="">Link</a>
+                    <a class="mdl-navigation__link" href="">Hiring</a>
+                    <a class="mdl-navigation__link" href="">Onboarding & Engagement</a>
+                    <a class="mdl-navigation__link" href="">Attrition</a>
+                    <a class="mdl-navigation__link" href="">Logout</a>
                 </nav>
             </div>
             <main class="mdl-layout__content">
@@ -88,22 +88,22 @@ and open the template in the editor.
                         <div class="mdl-grid mdl-grid--no-spacing">
                             <div class="mdl-cell mdl-cell--2-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
                                 <div class="mdl-tabs__tab-bar">
-                                    <a href="#tab1-panel" class="mdl-tabs__tab is-active">
+                                    <a href="#tab1-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
                                             Demographic profile
                                         </div>
                                     </a>
-                                    <a href="#tab2-panel" class="mdl-tabs__tab">
+                                    <a href="#tab2-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
                                             Experience profile
                                         </div>
                                     </a>
-                                    <a href="#tab3-panel" class="mdl-tabs__tab">
+                                    <a href="#tab3-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
                                             Hiring funnel
                                         </div>
                                     </a>
-                                    <a href="#tab4-panel" class="mdl-tabs__tab">
+                                    <a href="#tab4-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
                                             Source of hire
                                         </div>
@@ -200,10 +200,82 @@ and open the template in the editor.
                                     </div>
                                 </div>
                                 <div class="mdl-tabs__panel" id="tab3-panel">
-                                    Content 3
+                                    <div class="android-card-container">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q3_chart1">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">State</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q3_chart2">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Role</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q3_chart3">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Source</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q3_chart4">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Time Period</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q3_chart5">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Turnaround Time</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q3_chart6">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Conversion Ratio</h2>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="mdl-tabs__panel" id="tab4-panel">
-                                    Content 4
+                                    <div class="android-card-container">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q4_chart1">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">State</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q4_chart2">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Role</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q4_chart3">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Source</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q4_chart4">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Time Period</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q4_chart5">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Candidate Count</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q4_chart6">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Total Conversion</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q4_chart7">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Average TAT</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q4_chart8">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Average Previous Compensation</h2>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
