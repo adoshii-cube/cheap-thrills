@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    
+
     plotHiringQ1Charts();
     $('body').find('a[href$="tab1-panel"]').removeClass('vertical-mdl-tabs-disabled');
     $('body').find('a[href$="tab1-panel"]').addClass('is-active');
@@ -12,6 +12,9 @@ $(document).ready(function () {
 
     plotHiringQ4Charts();
     $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
+
+//    plotHiringQ5Charts();
+    $('body').find('a[href$="tab5-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     $(".mdl-tabs__tab").on("click", function () {
         //REMOVE ACTIVE CLASS FOR ALL PANELS
@@ -1375,4 +1378,11 @@ function plotHiringQ4Charts() {
         });
         chart8.render();
     });
+}
+
+function plotHiringQ5Charts() {
+    var chart1 = dc.selectMenu("#hiring_q5_chart1");
+    var chart2 = dc.selectMenu("#hiring_q5_chart2");
+    var chart3 = dc.selectMenu("#hiring_q5_chart3");
+    var chart4 = dc.barChart("#hiring_q5_chart4");
 }

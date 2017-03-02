@@ -811,6 +811,13 @@ select {
     outline: none;
 }
 
+.page-content {
+    width: auto;
+    margin: auto;
+    min-height: 100vh;
+    /* max-width: 978px; */
+}
+
 /*
 .image > img{
     width: 190px;
