@@ -1,0 +1,895 @@
+m1,m2,m3,m4,m5,m6,m7,type,value
+Assam,Administration,Career Page,01-12-16,Steven Robinson,YES,687000,candidate_count,1
+Assam,Administration,Career Page,01-12-16,Angela Peters,YES,210000,candidate_count,1
+Assam,Administration,Career Page,01-12-16,Johnny Russell,NO,826000,candidate_count,1
+Assam,Administration,Direct,01-10-16,Norma Carter,NO,859000,candidate_count,1
+Assam,Administration,Direct,01-11-16,Carolyn Garza,NO,968000,candidate_count,1
+Assam,Administration,Direct,01-11-16,Kathryn Alvarez,YES,363000,candidate_count,1
+Assam,BD,Career Page,01-10-16,Jimmy Harper,YES,964000,candidate_count,1
+Assam,BD,Career Page,01-10-16,Deborah Lawrence,NO,318000,candidate_count,1
+Assam,BD,Career Page,01-10-16,Gary Simpson,NO,306000,candidate_count,1
+Assam,BD,Career Page,01-11-16,Jason Harrison,NO,799000,candidate_count,1
+Assam,BD,Career Page,01-11-16,Sara Daniels,YES,364000,candidate_count,1
+Assam,BD,Career Page,01-11-16,Cheryl Thompson,NO,233000,candidate_count,1
+Assam,BD,Career Page,01-12-16,Louis Boyd,NO,831000,candidate_count,1
+Assam,BD,Career Page,01-12-16,Harry Peters,YES,751000,candidate_count,1
+Assam,BD,Career Page,01-12-16,Andrea Thomas,YES,654000,candidate_count,1
+Assam,BD,Career Page,01-12-16,Carol Owens,NO,812000,candidate_count,1
+Assam,BD,Career Page,01-12-16,Robert Vasquez,YES,564000,candidate_count,1
+Assam,BD,Direct,01-10-16,Gerald George,YES,424000,candidate_count,1
+Assam,BD,Direct,01-10-16,Bobby Price,YES,221000,candidate_count,1
+Assam,BD,Direct,01-10-16,Virginia Garcia,YES,411000,candidate_count,1
+Assam,BD,Direct,01-10-16,Joshua Lee,NO,392000,candidate_count,1
+Assam,BD,Direct,01-10-16,Timothy Ramirez,YES,276000,candidate_count,1
+Assam,BD,Direct,01-10-16,Terry Greene,NO,928000,candidate_count,1
+Assam,BD,Direct,01-10-16,Jason Howell,NO,789000,candidate_count,1
+Assam,BD,Direct,01-10-16,Stephen Parker,NO,420000,candidate_count,1
+Assam,BD,Direct,01-10-16,Pamela Perry,YES,872000,candidate_count,1
+Assam,BD,Direct,01-10-16,Kenneth Lynch,NO,591000,candidate_count,1
+Assam,BD,Direct,01-11-16,Chris Graham,YES,381000,candidate_count,1
+Assam,BD,Direct,01-11-16,Julia Woods,NO,546000,candidate_count,1
+Assam,BD,Direct,01-11-16,Arthur Mcdonald,NO,874000,candidate_count,1
+Assam,BD,Direct,01-11-16,Marie Elliott,NO,421000,candidate_count,1
+Assam,BD,Direct,01-11-16,Jeffrey Lynch,NO,635000,candidate_count,1
+Assam,BD,Direct,01-11-16,Dorothy Murphy,YES,882000,candidate_count,1
+Assam,BD,Direct,01-11-16,James Lane,YES,380000,candidate_count,1
+Assam,BD,Direct,01-11-16,James Boyd,NO,885000,candidate_count,1
+Assam,BD,Direct,01-11-16,Beverly Elliott,NO,698000,candidate_count,1
+Assam,BD,Direct,01-11-16,Beverly Rodriguez,NO,272000,candidate_count,1
+Assam,BD,Direct,01-11-16,Mary Sanders,YES,760000,candidate_count,1
+Assam,BD,Direct,01-11-16,Antonio Wallace,NO,975000,candidate_count,1
+Assam,BD,Direct,01-11-16,Marie Torres,NO,363000,candidate_count,1
+Assam,BD,Direct,01-12-16,Terry Stevens,NO,424000,candidate_count,1
+Assam,BD,Direct,01-12-16,Keith Bell,YES,637000,candidate_count,1
+Assam,BD,Direct,01-12-16,Roy Hunt,NO,523000,candidate_count,1
+Assam,BD,Direct,01-12-16,Wanda Fowler,YES,401000,candidate_count,1
+Assam,BD,Direct,01-12-16,Chris Gray,NO,734000,candidate_count,1
+Assam,BD,Direct,01-12-16,Catherine Austin,NO,454000,candidate_count,1
+Assam,BD,Direct,01-12-16,Karen Lee,YES,797000,candidate_count,1
+Assam,BD,Direct,01-12-16,Daniel Russell,YES,918000,candidate_count,1
+Assam,BD,Direct,01-12-16,Brandon Morgan,NO,623000,candidate_count,1
+Assam,BD,Direct,01-12-16,David Foster,YES,381000,candidate_count,1
+Assam,BD,Direct,01-12-16,Lois Adams,NO,527000,candidate_count,1
+Assam,BD,Direct,01-12-16,Stephanie Kim,NO,559000,candidate_count,1
+Assam,BD,Direct,01-12-16,Diane Jenkins,NO,792000,candidate_count,1
+Assam,BD,Direct,01-12-16,Nicholas Nguyen,YES,716000,candidate_count,1
+Assam,BD,Direct,01-12-16,George Hicks,YES,596000,candidate_count,1
+Assam,BD,Direct,01-12-16,David Carr,YES,837000,candidate_count,1
+Assam,BD,Direct,01-12-16,Beverly Fields,YES,316000,candidate_count,1
+Assam,BD,Direct,01-12-16,Tina Alvarez,NO,442000,candidate_count,1
+Assam,BD,Direct,01-12-16,Carolyn Long,NO,452000,candidate_count,1
+Assam,BD,Direct,01-12-16,Lisa Young,YES,247000,candidate_count,1
+Assam,BD,Direct,01-12-16,Bruce Lane,YES,995000,candidate_count,1
+Assam,BD,Direct,01-12-16,Edward Oliver,NO,496000,candidate_count,1
+Assam,BD,Vendor,01-10-16,Wayne James,NO,987000,candidate_count,1
+Assam,BD,Vendor,01-10-16,Irene Turner,YES,642000,candidate_count,1
+Assam,Corporate,Vendor,01-11-16,Tina Griffin,YES,671000,candidate_count,1
+Assam,Credit,Direct,01-12-16,Lawrence Burns,NO,746000,candidate_count,1
+Assam,CSO,Career Page,01-10-16,Timothy Perry,NO,935000,candidate_count,1
+Assam,CSO,Career Page,01-10-16,Kenneth Alexander,NO,368000,candidate_count,1
+Assam,CSO,Career Page,01-11-16,Kimberly Peters,NO,935000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Doris Robinson,NO,981000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Karen Bailey,YES,274000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Douglas Burns,NO,570000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Ruby Taylor,NO,262000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Jane Mccoy,NO,448000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Fred Morgan,YES,773000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Roger Richardson,NO,951000,candidate_count,1
+Assam,CSO,Career Page,01-12-16,Karen Williams,NO,995000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Harold Spencer,NO,691000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Janet Kim,YES,356000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Shirley Weaver,NO,894000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Ronald Wright,YES,746000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Jesse Armstrong,NO,233000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Rachel Lane,NO,928000,candidate_count,1
+Assam,CSO,Direct,01-10-16,Nicholas Stewart,NO,819000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Ronald Rodriguez,YES,862000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Steven Hawkins,YES,649000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Margaret Williamson,YES,891000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Christine Ramirez,YES,368000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Norma Weaver,YES,562000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Kimberly Murphy,NO,202000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Doris Porter,YES,728000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Joshua Warren,YES,264000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Benjamin Medina,YES,815000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Jack Lopez,NO,984000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Arthur Fields,YES,325000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Shirley Ortiz,YES,756000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Jack Hansen,NO,982000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Ashley Gibson,YES,882000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Jean Foster,NO,833000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Roy Hayes,NO,396000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Ronald Morris,NO,894000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Louise King,NO,871000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Elizabeth Graham,NO,547000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Paul Rodriguez,YES,594000,candidate_count,1
+Assam,CSO,Direct,01-11-16,George Crawford,NO,876000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Deborah Peters,NO,992000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Christopher Cooper,YES,566000,candidate_count,1
+Assam,CSO,Direct,01-11-16,James Torres,YES,660000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Juan Graham,YES,969000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Larry Schmidt,NO,481000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Jose Simpson,NO,645000,candidate_count,1
+Assam,CSO,Direct,01-11-16,Justin Perry,YES,746000,candidate_count,1
+Assam,CSO,Direct,01-12-16,Walter Bowman,NO,790000,candidate_count,1
+Assam,CSO,Direct,01-12-16,Donald Castillo,YES,696000,candidate_count,1
+Assam,CSO,Direct,01-12-16,Ashley Johnson,NO,314000,candidate_count,1
+Assam,CSO,Direct,01-12-16,David Hart,NO,681000,candidate_count,1
+Assam,CSO,Direct,01-12-16,Thomas Carpenter,YES,687000,candidate_count,1
+Assam,CSO,Direct,01-12-16,Paul Howard,NO,949000,candidate_count,1
+Assam,CSO,Direct,01-12-16,Adam Baker,NO,272000,candidate_count,1
+Assam,Marketing,Vendor,01-10-16,Patrick Crawford,YES,829000,candidate_count,1
+Assam,Others,Job Portal,01-12-16,Gregory Ellis,YES,822000,candidate_count,1
+Assam,RM,Career Page,01-10-16,Jacqueline Lane,YES,228000,candidate_count,1
+Assam,RM,Career Page,01-10-16,Bobby Roberts,YES,531000,candidate_count,1
+Assam,RM,Career Page,01-10-16,Timothy Perry,YES,663000,candidate_count,1
+Assam,RM,Career Page,01-10-16,Adam Stevens,YES,363000,candidate_count,1
+Assam,RM,Career Page,01-10-16,Anna Rice,NO,726000,candidate_count,1
+Assam,RM,Career Page,01-11-16,Jose Lynch,YES,281000,candidate_count,1
+Assam,RM,Career Page,01-11-16,Roger Murray,NO,801000,candidate_count,1
+Assam,RM,Career Page,01-11-16,Willie Larson,NO,578000,candidate_count,1
+Assam,RM,Career Page,01-11-16,Douglas Chapman,NO,705000,candidate_count,1
+Assam,RM,Career Page,01-11-16,Norma Kelly,NO,292000,candidate_count,1
+Assam,RM,Career Page,01-12-16,James Spencer,YES,362000,candidate_count,1
+Assam,RM,Career Page,01-12-16,Linda Simpson,YES,330000,candidate_count,1
+Assam,RM,Career Page,01-12-16,Benjamin Elliott,YES,635000,candidate_count,1
+Assam,RM,Career Page,01-12-16,Edward Russell,YES,868000,candidate_count,1
+Assam,RM,Career Page,01-12-16,Sean Harvey,YES,361000,candidate_count,1
+Assam,RM,Direct,01-10-16,Roger Myers,NO,455000,candidate_count,1
+Assam,RM,Direct,01-10-16,Henry Miller,YES,801000,candidate_count,1
+Assam,RM,Direct,01-10-16,Randy Kennedy,YES,277000,candidate_count,1
+Assam,RM,Direct,01-11-16,Teresa Spencer,NO,845000,candidate_count,1
+Assam,RM,Direct,01-11-16,Katherine Willis,NO,251000,candidate_count,1
+Assam,RM,Direct,01-12-16,Stephen Castillo,NO,702000,candidate_count,1
+Assam,RM,Direct,01-12-16,Brenda Dunn,YES,979000,candidate_count,1
+Assam,RM,Referral,01-12-16,Catherine Taylor,NO,240000,candidate_count,1
+Assam,RM,Vendor,01-10-16,Albert Perry,NO,421000,candidate_count,1
+Assam,RM,Vendor,01-10-16,Rachel Turner,YES,520000,candidate_count,1
+Assam,RM,Vendor,01-10-16,Frances Morales,NO,985000,candidate_count,1
+Assam,RM,Vendor,01-12-16,Paul Bradley,YES,991000,candidate_count,1
+Assam,RM,Vendor,01-12-16,Cynthia King,YES,431000,candidate_count,1
+Assam,RM,Vendor,01-12-16,Donna Chavez,NO,666000,candidate_count,1
+Assam,RM,Vendor,01-12-16,Michael Jenkins,YES,412000,candidate_count,1
+Assam,RM,Vendor,01-12-16,Shawn Knight,YES,622000,candidate_count,1
+Assam,Support,Direct,01-11-16,Scott Phillips,YES,994000,candidate_count,1
+Delhi,Administration,Career Page,01-12-16,Eugene Reed,YES,309000,candidate_count,1
+Delhi,BD,Career Page,01-10-16,Sandra Jones,NO,754000,candidate_count,1
+Delhi,BD,Career Page,01-10-16,Lillian Mendoza,YES,617000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Sean Roberts,YES,289000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Kathryn Wagner,YES,826000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Gerald Fernandez,NO,739000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Mildred Hughes,NO,823000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Lois Austin,YES,769000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Wayne Moreno,YES,509000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Phillip Bennett,YES,452000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Bruce Sanchez,YES,733000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Douglas Alvarez,YES,746000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Anna Stanley,NO,212000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Terry Ellis,NO,836000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Craig Welch,YES,713000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Robert Fisher,YES,886000,candidate_count,1
+Delhi,BD,Career Page,01-11-16,Ashley Cruz,NO,484000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Aaron Graham,NO,365000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Carol Stewart,YES,804000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Jose Freeman,YES,468000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Janice White,YES,223000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Wayne Vasquez,NO,229000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Johnny Washington,NO,777000,candidate_count,1
+Delhi,BD,Career Page,01-12-16,Stephanie Medina,YES,432000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Carolyn Cunningham,YES,965000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Ronald George,NO,249000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Sara Allen,YES,494000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Heather Reed,YES,590000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Christine Montgomery,NO,319000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Kathy Mcdonald,NO,429000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Timothy Sanders,YES,747000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Sara Oliver,YES,759000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Susan Bowman,YES,686000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Ronald Clark,YES,353000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Frances Perez,YES,841000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Kathryn Bennett,YES,940000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Phillip Moreno,YES,957000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Jose Chavez,NO,411000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Bruce Howard,YES,608000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Debra Collins,YES,286000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Shawn Bowman,YES,313000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Maria Morris,NO,959000,candidate_count,1
+Delhi,BD,Direct,01-10-16,Joyce Larson,YES,751000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Bobby Warren,NO,656000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Shawn Duncan,NO,782000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Sandra Fields,YES,479000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Carlos Butler,YES,704000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Raymond Day,YES,533000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Ryan Reynolds,NO,621000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Paul Flores,YES,938000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Sarah Hudson,YES,598000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Betty Patterson,YES,934000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Karen Meyer,YES,984000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Chris Lawrence,NO,808000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Brenda Williamson,YES,860000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Frances Fernandez,YES,644000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Gregory Riley,NO,218000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Ryan Hill,NO,298000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Jason Romero,YES,583000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Justin Tucker,YES,590000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Walter Weaver,NO,656000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Frances Gonzales,NO,485000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Roger Garcia,NO,876000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Jacqueline Thompson,YES,899000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Craig Rogers,YES,801000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Frank Lane,YES,247000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Harry Burns,NO,226000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Katherine Hamilton,NO,686000,candidate_count,1
+Delhi,BD,Direct,01-11-16,James Rivera,NO,957000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Beverly Oliver,YES,929000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Ralph Mendoza,YES,523000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Paula Dunn,NO,795000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Lisa Montgomery,YES,285000,candidate_count,1
+Delhi,BD,Direct,01-11-16,Brian Daniels,YES,682000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Lisa Foster,NO,399000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Frances Thompson,YES,561000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Billy Crawford,NO,604000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Marie Peterson,NO,843000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Kelly Brown,NO,943000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Joyce Burton,YES,354000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Martha Greene,NO,559000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Earl Olson,NO,393000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Carlos Roberts,NO,810000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Aaron Powell,YES,807000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Ryan Washington,YES,485000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Paula Moore,NO,674000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Diane Stephens,NO,890000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Lisa George,NO,883000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Ryan Sullivan,NO,978000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Philip Greene,NO,909000,candidate_count,1
+Delhi,BD,Direct,01-12-16,Joyce Stewart,NO,544000,candidate_count,1
+Delhi,BD,Job Portal,01-11-16,Douglas Perez,NO,924000,candidate_count,1
+Delhi,BD,Vendor,01-10-16,Mark Fowler,NO,927000,candidate_count,1
+Delhi,BD,Vendor,01-10-16,Ronald Henry,YES,893000,candidate_count,1
+Delhi,BD,Vendor,01-11-16,Brandon Mccoy,YES,383000,candidate_count,1
+Delhi,BD,Vendor,01-11-16,Evelyn Nelson,YES,991000,candidate_count,1
+Delhi,BD,Vendor,01-11-16,Matthew Hansen,YES,762000,candidate_count,1
+Delhi,BD,Vendor,01-11-16,Antonio Hansen,YES,903000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Cynthia Mason,NO,215000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Virginia Sanchez,NO,480000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Kathy Olson,NO,363000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Joshua Cruz,YES,628000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Jesse Gordon,NO,651000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Diana Morgan,NO,858000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Laura Garcia,YES,994000,candidate_count,1
+Delhi,BD,Vendor,01-12-16,Rose Garcia,YES,525000,candidate_count,1
+Delhi,Corporate,Career Page,01-10-16,Walter Gardner,YES,766000,candidate_count,1
+Delhi,Corporate,Career Page,01-10-16,Larry Mccoy,YES,630000,candidate_count,1
+Delhi,Corporate,Career Page,01-11-16,Nancy Simpson,YES,1000000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Andrea Simmons,YES,773000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Eugene Bailey,NO,826000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Lisa Harper,NO,811000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Jane Mendoza,NO,536000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Joseph Mendoza,NO,951000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Cynthia Shaw,YES,644000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Roy Chapman,NO,395000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Dennis Washington,NO,466000,candidate_count,1
+Delhi,Corporate,Career Page,01-12-16,Jose James,YES,661000,candidate_count,1
+Delhi,Corporate,Direct,01-10-16,Marilyn Martin,YES,809000,candidate_count,1
+Delhi,Corporate,Direct,01-10-16,Jennifer White,NO,227000,candidate_count,1
+Delhi,Corporate,Direct,01-11-16,Christine Cook,NO,856000,candidate_count,1
+Delhi,Corporate,Vendor,01-11-16,Christine Stewart,YES,496000,candidate_count,1
+Delhi,Credit,Career Page,01-10-16,Rachel Sims,NO,755000,candidate_count,1
+Delhi,Credit,Career Page,01-12-16,William Palmer,NO,957000,candidate_count,1
+Delhi,Credit,Direct,01-10-16,Judy White,NO,324000,candidate_count,1
+Delhi,Credit,Direct,01-11-16,Lois Ford,NO,907000,candidate_count,1
+Delhi,Credit,Direct,01-12-16,Roger Howard,YES,551000,candidate_count,1
+Delhi,Credit,Direct,01-12-16,Brandon Hall,YES,918000,candidate_count,1
+Delhi,Credit,Direct,01-12-16,Jose Fernandez,YES,508000,candidate_count,1
+Delhi,Credit,Direct,01-12-16,Thomas Ross,NO,800000,candidate_count,1
+Delhi,Credit,Direct,01-12-16,Paul Young,YES,246000,candidate_count,1
+Delhi,Credit,Direct,01-12-16,Frank Fields,YES,362000,candidate_count,1
+Delhi,Credit,Referral,01-12-16,Patrick Young,YES,745000,candidate_count,1
+Delhi,Credit,Vendor,01-11-16,Christopher Bryant,YES,402000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Heather Edwards,YES,728000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Beverly Powell,YES,253000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Doris Castillo,YES,653000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Mark Peters,NO,593000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Annie Green,NO,368000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Earl Hill,NO,257000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Earl Franklin,YES,822000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Steven Howard,NO,747000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Sara Day,NO,521000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Beverly Washington,YES,888000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Beverly Hamilton,NO,751000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Phyllis Stevens,YES,865000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Sharon Brown,NO,582000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Shawn Watkins,NO,521000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Peter Campbell,NO,524000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Catherine Ramos,NO,281000,candidate_count,1
+Delhi,CSO,Career Page,01-10-16,Louis Bradley,YES,595000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Annie Gonzales,NO,724000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Eugene Jenkins,NO,306000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Tammy Austin,NO,446000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Christopher Dixon,NO,441000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Lori Richardson,NO,987000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Barbara Simpson,NO,751000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Alan Williams,NO,800000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Ryan Crawford,YES,835000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Russell Dixon,NO,739000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Doris Morrison,NO,320000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Kenneth Williams,YES,986000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Jimmy Scott,NO,564000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Ann Bryant,NO,876000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Sarah Wallace,NO,823000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Jean Olson,YES,472000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Ashley Frazier,NO,467000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Gary Clark,YES,593000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Nicole Bailey,YES,216000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Ralph Dean,YES,832000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Thomas Graham,NO,472000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Virginia Dixon,NO,436000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Steven Torres,YES,791000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Melissa Ramos,YES,674000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,David Stewart,YES,312000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Carol Reynolds,NO,791000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Laura Thompson,NO,313000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Angela Moreno,YES,425000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Betty Carroll,NO,713000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Martin Nguyen,YES,490000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Emily Sanchez,NO,740000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Barbara West,YES,264000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Scott Simmons,YES,843000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Wayne Kelley,NO,274000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Henry Sanders,YES,248000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Michael Coleman,YES,581000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Sharon Diaz,NO,231000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Jessica Barnes,YES,598000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Judith Kelley,NO,636000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Judith Scott,NO,430000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Ruby Black,NO,517000,candidate_count,1
+Delhi,CSO,Career Page,01-11-16,Gary Rose,NO,601000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Virginia Brown,NO,927000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Bruce Kelly,NO,547000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Pamela Weaver,YES,543000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Rebecca Myers,YES,954000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Heather Meyer,YES,535000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Willie Long,YES,401000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Ronald Robertson,YES,462000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Julie Riley,NO,605000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Dennis Morrison,NO,776000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Ruby Matthews,YES,421000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Patrick Lynch,NO,499000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,James Murray,YES,465000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Frances Wood,NO,911000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Phillip Price,NO,477000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Theresa Torres,YES,247000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Anne Garza,YES,422000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Albert Chavez,YES,744000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,John Arnold,YES,669000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Rebecca Robinson,NO,279000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Eric Rodriguez,YES,248000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Joshua Gray,NO,819000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Phillip Kelley,NO,565000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Harold Jackson,YES,557000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Angela Henry,YES,960000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Brian Dixon,YES,220000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Ronald Patterson,YES,692000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Joyce Gonzalez,NO,241000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Christopher Taylor,NO,324000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Helen Mitchell,YES,392000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Sandra Montgomery,YES,532000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Ryan Simmons,YES,785000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Beverly Scott,YES,209000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Beverly Castillo,NO,647000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Nicholas Meyer,YES,991000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Amy Lynch,NO,363000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,James Brown,YES,698000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Amanda Medina,YES,691000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Sara Holmes,YES,791000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Louis Ferguson,NO,714000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Anne Wallace,NO,862000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Peter Shaw,NO,843000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Elizabeth Watson,NO,832000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Nicole Carroll,NO,558000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Kathryn Cook,NO,467000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Martha Banks,YES,673000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Lillian Palmer,NO,615000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Karen Carter,YES,971000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,James Reyes,NO,855000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Anna Brooks,NO,334000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Louis Wells,NO,944000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Barbara Torres,NO,598000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Peter Chapman,NO,589000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Theresa Morales,NO,543000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Tammy Hunt,YES,722000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Jeffrey Berry,NO,757000,candidate_count,1
+Delhi,CSO,Career Page,01-12-16,Shirley Howell,YES,241000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Alan Watson,YES,855000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,William Reyes,NO,613000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Chris Nichols,YES,984000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Diana Romero,NO,830000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Heather Kelley,NO,935000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Kathy Gomez,NO,926000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Teresa Dean,NO,937000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Daniel Flores,YES,545000,candidate_count,1
+Delhi,CSO,Direct,01-10-16,Judy Daniels,YES,547000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Diana Medina,NO,476000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Judith Austin,YES,680000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Alan Riley,YES,618000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Irene Edwards,YES,414000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Ashley Fuller,NO,504000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Juan Gibson,YES,572000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Beverly Gonzales,YES,473000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Lillian Owens,NO,619000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Harry Stone,YES,388000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Mary Cole,YES,877000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Timothy Fuller,NO,580000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Gerald Wallace,NO,526000,candidate_count,1
+Delhi,CSO,Direct,01-11-16,Harry Patterson,NO,703000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Joe Johnston,YES,661000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Aaron Reid,YES,883000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Susan Simpson,NO,636000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Roger Gibson,NO,875000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,James Jacobs,YES,958000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Frank Black,YES,452000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,John Sanders,YES,840000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Ralph Ryan,NO,409000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Ronald Elliott,YES,491000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Sara Garrett,NO,918000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Samuel Lopez,YES,476000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Sara Hunter,NO,494000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Russell Hansen,YES,222000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Jimmy Butler,NO,427000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Harold Cox,NO,889000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Andrea Rice,YES,249000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Frances Reed,NO,420000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Denise Austin,YES,421000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Jason Washington,NO,461000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Sharon Carroll,NO,294000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,David Collins,NO,387000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Russell Sims,NO,802000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Charles Hayes,YES,287000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Julie Sanders,YES,308000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Benjamin Mills,YES,395000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Stephanie Olson,YES,461000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Annie Austin,NO,675000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Irene West,YES,971000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Maria Gutierrez,NO,888000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Paula Powell,NO,370000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Robin Ramirez,NO,778000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Brandon Brooks,NO,391000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Fred Bennett,NO,334000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Jennifer Peters,YES,736000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Virginia Alexander,NO,861000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Jane Bell,YES,670000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Frances Barnes,YES,477000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Richard Roberts,NO,325000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Roger Washington,NO,889000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Deborah Watson,NO,449000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Angela Foster,NO,679000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Mark Cunningham,NO,809000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Joseph Thomas,NO,581000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Bobby Mills,YES,467000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Craig Griffin,NO,611000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Mildred Sanchez,NO,922000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Jimmy Harper,NO,727000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Wayne Fox,YES,520000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Kelly Spencer,YES,974000,candidate_count,1
+Delhi,CSO,Direct,01-12-16,Philip Webb,NO,445000,candidate_count,1
+Delhi,CSO,Referral,01-10-16,Jessica Williamson,YES,418000,candidate_count,1
+Delhi,CSO,Referral,01-10-16,Margaret Gray,YES,532000,candidate_count,1
+Delhi,CSO,Referral,01-10-16,Dennis Olson,NO,995000,candidate_count,1
+Delhi,CSO,Referral,01-10-16,Brandon Griffin,YES,374000,candidate_count,1
+Delhi,CSO,Referral,01-10-16,Ralph Franklin,YES,310000,candidate_count,1
+Delhi,CSO,Referral,01-10-16,Philip Parker,NO,892000,candidate_count,1
+Delhi,CSO,Referral,01-11-16,Anna Lopez,NO,713000,candidate_count,1
+Delhi,CSO,Referral,01-11-16,Roy Olson,YES,383000,candidate_count,1
+Delhi,CSO,Referral,01-12-16,Robin Foster,YES,251000,candidate_count,1
+Delhi,CSO,Vendor,01-10-16,Johnny Morris,NO,424000,candidate_count,1
+Delhi,CSO,Vendor,01-10-16,Stephanie Lynch,NO,360000,candidate_count,1
+Delhi,CSO,Vendor,01-10-16,Brian Burke,YES,610000,candidate_count,1
+Delhi,CSO,Vendor,01-10-16,Antonio Green,NO,363000,candidate_count,1
+Delhi,CSO,Vendor,01-10-16,Melissa Baker,NO,355000,candidate_count,1
+Delhi,CSO,Vendor,01-11-16,Jimmy Fields,YES,435000,candidate_count,1
+Delhi,CSO,Vendor,01-11-16,Peter Jones,NO,787000,candidate_count,1
+Delhi,CSO,Vendor,01-11-16,Martin Walker,NO,541000,candidate_count,1
+Delhi,CSO,Vendor,01-11-16,Linda Martinez,YES,818000,candidate_count,1
+Delhi,CSO,Vendor,01-11-16,Ruth Stevens,YES,870000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Norma Nguyen,YES,563000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Jeffrey Griffin,NO,374000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Jennifer Ellis,NO,343000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Carol Mcdonald,YES,692000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Philip Davis,NO,338000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Barbara Hanson,YES,780000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Norma Armstrong,NO,668000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Brenda Oliver,YES,970000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Ruby Rodriguez,YES,932000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Ryan Fuller,YES,321000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Julia Wagner,YES,409000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Russell Ramirez,YES,345000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Sean Crawford,NO,231000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Cheryl Cook,NO,915000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Diane King,YES,429000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Ralph Sanders,YES,647000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Michelle Gilbert,NO,946000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Philip Jordan,NO,871000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Christina Fisher,NO,317000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Carolyn Olson,NO,390000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Carl Sanchez,NO,468000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Bobby Peters,YES,351000,candidate_count,1
+Delhi,CSO,Vendor,01-12-16,Samuel Cunningham,YES,443000,candidate_count,1
+Delhi,Finance,Career Page,01-10-16,Louise Rose,NO,247000,candidate_count,1
+Delhi,Finance,Career Page,01-11-16,Emily Cole,YES,668000,candidate_count,1
+Delhi,Finance,Direct,01-10-16,Henry Price,YES,989000,candidate_count,1
+Delhi,Finance,Direct,01-10-16,Edward Hamilton,YES,335000,candidate_count,1
+Delhi,Finance,Direct,01-12-16,Jane Lee,NO,958000,candidate_count,1
+Delhi,Finance,Job Portal,01-11-16,Ann Anderson,NO,905000,candidate_count,1
+Delhi,Finance,Vendor,01-10-16,Ann Murray,NO,575000,candidate_count,1
+Delhi,IT,Direct,01-10-16,Jason Reyes,YES,984000,candidate_count,1
+Delhi,Marketing,Direct,01-10-16,Dorothy Howard,NO,396000,candidate_count,1
+Delhi,Others,Career Page,01-10-16,Diane Andrews,NO,426000,candidate_count,1
+Delhi,Others,Direct,01-11-16,William Murray,YES,340000,candidate_count,1
+Delhi,Others,Referral,01-11-16,Ronald Bradley,NO,348000,candidate_count,1
+Delhi,Others,Vendor,01-11-16,Jessica Thomas,YES,857000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Anna Morgan,YES,958000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Sara Griffin,NO,720000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Maria Hart,NO,632000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Mark Morgan,NO,636000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Heather Allen,NO,453000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,James Perez,NO,976000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Susan Gibson,NO,377000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,David Knight,YES,421000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Annie Palmer,YES,503000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Brenda Burton,NO,675000,candidate_count,1
+Delhi,RM,Career Page,01-10-16,Jose Henderson,YES,447000,candidate_count,1
+Delhi,RM,Career Page,01-11-16,Lillian Hanson,YES,590000,candidate_count,1
+Delhi,RM,Career Page,01-11-16,Jerry Lee,YES,251000,candidate_count,1
+Delhi,RM,Career Page,01-11-16,Richard Harris,NO,714000,candidate_count,1
+Delhi,RM,Career Page,01-11-16,Sarah George,NO,749000,candidate_count,1
+Delhi,RM,Career Page,01-11-16,Judy Duncan,NO,394000,candidate_count,1
+Delhi,RM,Career Page,01-11-16,Sandra Jenkins,NO,668000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Kenneth Wilson,NO,437000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Bonnie Brooks,NO,816000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Louis Ellis,NO,474000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Paul Crawford,NO,436000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Jessica Ray,NO,866000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Anthony Burton,NO,898000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Nicholas Jordan,NO,821000,candidate_count,1
+Delhi,RM,Career Page,01-12-16,Katherine Fisher,NO,515000,candidate_count,1
+Delhi,RM,Direct,01-10-16,Theresa Bell,NO,217000,candidate_count,1
+Delhi,RM,Direct,01-10-16,Bobby Fuller,YES,302000,candidate_count,1
+Delhi,RM,Direct,01-10-16,Kathryn Mcdonald,YES,589000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Gary Ray,YES,649000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Terry Jordan,NO,604000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Gregory Mendoza,YES,516000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Lois Price,NO,405000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Kathy George,YES,314000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Teresa Fields,YES,518000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Cynthia Walker,YES,628000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Gary Fernandez,YES,825000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Robin Dixon,YES,899000,candidate_count,1
+Delhi,RM,Direct,01-11-16,Nancy Walker,YES,242000,candidate_count,1
+Delhi,RM,Direct,01-12-16,Jerry Bell,NO,553000,candidate_count,1
+Delhi,RM,Direct,01-12-16,Elizabeth Thompson,YES,413000,candidate_count,1
+Delhi,RM,Direct,01-12-16,Matthew Morris,NO,333000,candidate_count,1
+Delhi,RM,Direct,01-12-16,Rebecca Price,YES,390000,candidate_count,1
+Delhi,RM,Direct,01-12-16,Joshua Bowman,NO,841000,candidate_count,1
+Delhi,RM,Direct,01-12-16,Howard Banks,YES,609000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Terry Davis,NO,751000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Brian Flores,NO,873000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Bonnie Edwards,YES,223000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Cynthia Henderson,NO,984000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Kathleen Porter,YES,419000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Karen Powell,NO,608000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Jason Boyd,NO,450000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Jennifer Gomez,YES,696000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Sharon Bradley,NO,994000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Adam Williams,YES,728000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Diane Phillips,YES,700000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Clarence Shaw,YES,959000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Carolyn Washington,NO,964000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Jennifer Weaver,YES,909000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Angela Carpenter,NO,958000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Paul Willis,YES,980000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Sandra Nichols,NO,511000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Alice Simpson,NO,333000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Phillip Henry,NO,459000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Norma Rodriguez,NO,572000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Linda Lane,YES,518000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Phyllis Payne,YES,603000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Henry Garcia,NO,928000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Dorothy Berry,NO,684000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Amanda Gonzales,NO,720000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Melissa Ward,NO,522000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Kathy Berry,YES,857000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Roy Hunt,YES,355000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Marie Cooper,NO,623000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Katherine Nelson,NO,966000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Anna Mitchell,YES,895000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Jesse Moore,YES,693000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Brandon Fuller,YES,243000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Deborah Myers,NO,550000,candidate_count,1
+Delhi,RM,Vendor,01-10-16,Dorothy Cruz,YES,934000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Sharon Mendoza,NO,806000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Emily Woods,NO,410000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Donald Weaver,YES,854000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Craig Butler,YES,552000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Sandra Garrett,NO,880000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Carolyn Larson,NO,204000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Joshua Crawford,NO,618000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Clarence Miller,YES,542000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Angela Grant,YES,667000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Evelyn Marshall,NO,703000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Cheryl Morrison,YES,405000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Roy Lee,NO,372000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Eric Wheeler,NO,950000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Henry Howard,NO,967000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Harry Peters,NO,281000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Nicole Marshall,YES,990000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Frank Kelley,NO,210000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Sarah Lane,YES,890000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Mary Hicks,YES,446000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Wayne Oliver,YES,330000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Carl Gilbert,NO,909000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Lawrence Grant,YES,395000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Michael Carroll,YES,899000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Martin Reed,NO,962000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Roy Rivera,NO,238000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Jerry Meyer,NO,578000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Chris Black,NO,873000,candidate_count,1
+Delhi,RM,Vendor,01-11-16,Julie Gray,YES,293000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Thomas Hart,NO,893000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Anna Wood,YES,848000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Diane Daniels,NO,390000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Sharon Gonzales,YES,994000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Pamela Sims,NO,657000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Nicole Ross,NO,297000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Nicholas Bishop,NO,707000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,John Evans,YES,867000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Betty Holmes,NO,402000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Denise Jones,NO,296000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Lillian Knight,NO,388000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Catherine Willis,YES,536000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Diane Ellis,YES,200000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Sean Perez,YES,292000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Russell Andrews,YES,487000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Cheryl Garrett,YES,337000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Joe Stephens,YES,242000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Donna Alexander,NO,518000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Mildred Mcdonald,YES,312000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Mary Woods,YES,911000,candidate_count,1
+Delhi,RM,Vendor,01-12-16,Joan Turner,YES,857000,candidate_count,1
+Delhi,Support,Career Page,01-12-16,Randy James,YES,413000,candidate_count,1
+Delhi,Support,Direct,01-11-16,Brandon Gonzalez,YES,361000,candidate_count,1
+Delhi,Support,Direct,01-11-16,Annie Wilson,NO,848000,candidate_count,1
+Delhi,Support,Direct,01-12-16,Katherine Walker,YES,598000,candidate_count,1
+Delhi,Support,Direct,01-12-16,Earl Reynolds,YES,561000,candidate_count,1
+Jharkhand,Administration,Career Page,01-12-16,Bonnie Harris,NO,759000,candidate_count,1
+Jharkhand,Administration,Career Page,01-12-16,Antonio Mason,YES,768000,candidate_count,1
+Jharkhand,Administration,Career Page,01-12-16,Jean Flores,YES,726000,candidate_count,1
+Jharkhand,Administration,Career Page,01-12-16,Theresa Kelly,NO,628000,candidate_count,1
+Jharkhand,Administration,Direct,01-11-16,Dennis Fields,YES,469000,candidate_count,1
+Jharkhand,Administration,Direct,01-11-16,Catherine Long,NO,557000,candidate_count,1
+Jharkhand,BD,Career Page,01-10-16,Shirley Meyer,YES,433000,candidate_count,1
+Jharkhand,BD,Career Page,01-10-16,Beverly Moreno,NO,862000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Eric Collins,YES,617000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Jonathan Meyer,YES,415000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Kathy Ray,NO,327000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Joyce Andrews,NO,944000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Tina Morrison,YES,458000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Jack Austin,NO,872000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Cynthia Matthews,YES,837000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Gregory Larson,YES,656000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Dennis Mendoza,YES,509000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Kevin Carroll,YES,394000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Evelyn Lee,YES,888000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Louis Mason,NO,389000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Steve Peters,YES,938000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Angela Palmer,YES,771000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Rachel Kennedy,YES,676000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Helen Stewart,YES,771000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Gregory Ferguson,YES,483000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Jennifer Nichols,YES,249000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Jacqueline Baker,YES,874000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Anthony Lane,NO,372000,candidate_count,1
+Jharkhand,BD,Career Page,01-11-16,Judy Sullivan,YES,253000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Willie Robinson,NO,712000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Benjamin Little,NO,204000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Virginia Wagner,NO,866000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Michael Washington,YES,650000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Samuel Romero,NO,949000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Denise Sanchez,YES,893000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Michael Gilbert,NO,890000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Adam Scott,YES,342000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Beverly Hernandez,NO,959000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Sean Flores,NO,951000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Nicole Spencer,YES,941000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Patrick Simpson,YES,359000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Lori Cox,YES,273000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Albert Coleman,NO,948000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Gary Bryant,YES,774000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Henry Chapman,NO,719000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Jonathan Arnold,NO,360000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Beverly Reyes,YES,660000,candidate_count,1
+Jharkhand,BD,Career Page,01-12-16,Victor Wheeler,YES,200000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Teresa Brooks,YES,715000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Amy Reed,YES,862000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Carolyn Black,NO,876000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Robin Johnston,YES,948000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Ashley Butler,NO,605000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Carlos Murray,YES,821000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Norma Williams,NO,902000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Joyce Griffin,YES,726000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Anne Greene,YES,526000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Anne Collins,YES,954000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Steve Cox,NO,403000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Brian Duncan,NO,502000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Cynthia Foster,YES,999000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Billy Jenkins,YES,330000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Anthony Hall,NO,873000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Theresa Davis,YES,968000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Barbara Wood,NO,353000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Roy Hunt,YES,643000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Julia Lewis,NO,227000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Russell Walker,YES,496000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,David Hunt,YES,941000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Steven Howell,YES,494000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Nicholas Simmons,NO,273000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Jeffrey Gutierrez,YES,935000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Patricia Lynch,YES,241000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Mark Kelly,NO,726000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Raymond Rodriguez,NO,720000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Timothy Day,NO,798000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Eugene Reid,NO,536000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Adam Oliver,NO,841000,candidate_count,1
+Jharkhand,BD,Direct,01-10-16,Thomas Weaver,YES,829000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Carl Garrett,YES,280000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Carl Foster,NO,894000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Denise Gray,YES,719000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Emily Mitchell,NO,931000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Johnny Reed,YES,671000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Kimberly Baker,NO,488000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Philip Lewis,YES,647000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Anthony Dunn,NO,858000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Patrick Henry,NO,857000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Irene Hansen,NO,932000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Phillip Ray,NO,692000,candidate_count,1
+Jharkhand,BD,Direct,01-11-16,Evelyn Woods,YES,762000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Kevin Reynolds,NO,881000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Steven Sullivan,YES,385000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Bonnie Wells,YES,660000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Bobby Stevens,NO,571000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Amanda White,YES,853000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Alan Allen,YES,618000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Tammy Martin,YES,918000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,George Montgomery,NO,408000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Lois Spencer,YES,273000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Nicole Shaw,NO,795000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Ralph Watkins,NO,599000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Wayne Smith,NO,750000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Douglas Powell,YES,830000,candidate_count,1
+Jharkhand,BD,Direct,01-12-16,Benjamin Young,NO,336000,candidate_count,1
+Jharkhand,BD,Vendor,01-10-16,Paula Sanders,NO,507000,candidate_count,1
+Jharkhand,BD,Vendor,01-12-16,Debra Freeman,NO,989000,candidate_count,1
+Jharkhand,Corporate,Career Page,01-10-16,Margaret Johnston,NO,536000,candidate_count,1
+Jharkhand,Corporate,Career Page,01-12-16,Linda Reid,YES,240000,candidate_count,1
+Jharkhand,Corporate,Career Page,01-12-16,Jeffrey Diaz,NO,550000,candidate_count,1
+Jharkhand,Corporate,Career Page,01-12-16,Kelly Ryan,NO,791000,candidate_count,1
+Jharkhand,Corporate,Career Page,01-12-16,Jean Johnson,NO,357000,candidate_count,1
+Jharkhand,Corporate,Direct,01-11-16,Albert Ferguson,YES,935000,candidate_count,1
+Jharkhand,Corporate,Direct,01-11-16,Dorothy Johnston,NO,259000,candidate_count,1
+Jharkhand,Corporate,Direct,01-11-16,Jean Dunn,YES,656000,candidate_count,1
+Jharkhand,Corporate,Vendor,01-10-16,Walter Harris,NO,493000,candidate_count,1
+Jharkhand,Corporate,Vendor,01-11-16,Louis Snyder,NO,882000,candidate_count,1
+Jharkhand,Credit,Career Page,01-10-16,Brian Long,NO,271000,candidate_count,1
+Jharkhand,Credit,Career Page,01-12-16,Tammy Mason,YES,664000,candidate_count,1
+Jharkhand,Credit,Direct,01-10-16,Donna Webb,YES,698000,candidate_count,1
+Jharkhand,Credit,Direct,01-12-16,Steve Burke,YES,914000,candidate_count,1
+Jharkhand,CSO,Career Page,01-10-16,Pamela Owens,NO,804000,candidate_count,1
+Jharkhand,CSO,Career Page,01-10-16,Nancy Baker,NO,484000,candidate_count,1
+Jharkhand,CSO,Career Page,01-10-16,Donna Simpson,YES,467000,candidate_count,1
+Jharkhand,CSO,Career Page,01-10-16,Mary Harvey,NO,937000,candidate_count,1
+Jharkhand,CSO,Career Page,01-10-16,Christine Kennedy,NO,399000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Gregory Hunter,NO,383000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Scott Dixon,YES,999000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Kathleen Garcia,YES,799000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Julie Marshall,NO,484000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Gerald Lawson,YES,262000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Nancy Riley,YES,889000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Cynthia Morrison,YES,683000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Rachel Allen,NO,219000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Gerald Wilson,NO,466000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Barbara Dean,YES,393000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Jessica Meyer,NO,663000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Wayne Spencer,NO,460000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Todd Morrison,NO,716000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Susan Knight,YES,635000,candidate_count,1
+Jharkhand,CSO,Career Page,01-11-16,Anthony Murray,NO,215000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Scott Gray,YES,617000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Steve Kelly,NO,721000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Richard Kim,YES,753000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Anna Kelley,YES,338000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Lori Mason,NO,436000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Brandon Rogers,NO,374000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Thomas Sanchez,NO,753000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Jennifer Murphy,NO,209000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Bruce Nelson,NO,476000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Wanda Clark,NO,408000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Stephanie Torres,NO,988000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Tina Stephens,NO,282000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Jennifer Wilson,NO,212000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Roy Romero,YES,489000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Christina Rogers,NO,580000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Todd Owens,NO,418000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Todd Morrison,NO,825000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Jane Watkins,NO,869000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Jessica Burns,YES,792000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Joshua Day,YES,341000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Steven Torres,YES,362000,candidate_count,1
+Jharkhand,CSO,Career Page,01-12-16,Robert Graham,YES,999000,candidate_count,1
+Jharkhand,CSO,Direct,01-10-16,Beverly Olson,NO,345000,candidate_count,1
+Jharkhand,CSO,Direct,01-10-16,Joe Carroll,YES,493000,candidate_count,1
+Jharkhand,CSO,Direct,01-10-16,Bruce Ward,YES,946000,candidate_count,1
+Jharkhand,CSO,Direct,01-10-16,Tina Hansen,NO,497000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Todd Pierce,NO,323000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Sara Rice,NO,667000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Gloria Kim,NO,613000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,George Garza,YES,219000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Debra Lane,YES,681000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Melissa Knight,YES,238000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Jose Richards,NO,316000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Sara Schmidt,NO,317000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Bruce Elliott,NO,719000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Richard Burke,YES,283000,candidate_count,1
+Jharkhand,CSO,Direct,01-11-16,Deborah Robertson,NO,253000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Steve Wheeler,YES,866000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Howard Medina,YES,868000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Nancy Martinez,NO,881000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Diane Fields,NO,497000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Kenneth Daniels,YES,579000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Melissa Martinez,YES,482000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Howard Hanson,YES,616000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Harold Barnes,YES,681000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Clarence Woods,YES,870000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Christopher Grant,NO,922000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Alice Owens,NO,723000,candidate_count,1
+Jharkhand,CSO,Direct,01-12-16,Karen Bell,YES,912000,candidate_count,1
+Jharkhand,CSO,Referral,01-10-16,Jerry Harvey,NO,653000,candidate_count,1
+Jharkhand,CSO,Referral,01-12-16,Clarence Reid,YES,572000,candidate_count,1
+Jharkhand,CSO,Vendor,01-10-16,Juan Butler,NO,917000,candidate_count,1
+Jharkhand,CSO,Vendor,01-10-16,Debra Dixon,NO,313000,candidate_count,1
+Jharkhand,CSO,Vendor,01-12-16,Rachel Carpenter,NO,621000,candidate_count,1
+Jharkhand,Finance,Direct,01-12-16,Linda Lynch,NO,633000,candidate_count,1
+Jharkhand,Finance,Vendor,01-12-16,Phillip Stanley,YES,333000,candidate_count,1
+Jharkhand,HR,Direct,01-10-16,Bobby Scott,NO,630000,candidate_count,1
+Jharkhand,IT,Career Page,01-12-16,Justin Brown,NO,299000,candidate_count,1
+Jharkhand,IT,Career Page,01-12-16,Doris Murphy,NO,601000,candidate_count,1
+Jharkhand,IT,Direct,01-10-16,Joyce Taylor,YES,346000,candidate_count,1
+Jharkhand,IT,Direct,01-10-16,Brian Gutierrez,NO,286000,candidate_count,1
+Jharkhand,Marketing,Vendor,01-11-16,Howard Gardner,NO,483000,candidate_count,1
+Jharkhand,Others,Direct,01-10-16,Jose Arnold,NO,881000,candidate_count,1
+Jharkhand,Others,Vendor,01-11-16,Margaret Carter,NO,967000,candidate_count,1
+Jharkhand,RM,Career Page,01-10-16,Terry Young,YES,413000,candidate_count,1
+Jharkhand,RM,Career Page,01-11-16,Donald Cooper,YES,230000,candidate_count,1
+Jharkhand,RM,Career Page,01-11-16,Michelle Burns,NO,379000,candidate_count,1
+Jharkhand,RM,Career Page,01-11-16,Louis Henry,YES,724000,candidate_count,1
+Jharkhand,RM,Career Page,01-11-16,Robin Hall,NO,737000,candidate_count,1
+Jharkhand,RM,Career Page,01-12-16,Gary Stone,NO,620000,candidate_count,1
+Jharkhand,RM,Career Page,01-12-16,Richard Payne,NO,362000,candidate_count,1
+Jharkhand,RM,Career Page,01-12-16,Karen Foster,NO,973000,candidate_count,1
+Jharkhand,RM,Career Page,01-12-16,James Rodriguez,YES,608000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Ruth Harper,NO,886000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Ann Banks,NO,358000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Marilyn Clark,NO,322000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Anthony Richards,YES,846000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Katherine Mccoy,YES,475000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Joe Lane,NO,877000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Ronald Ramos,NO,520000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Sarah Cole,YES,703000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Jack Scott,NO,709000,candidate_count,1
+Jharkhand,RM,Direct,01-10-16,Gerald Torres,NO,659000,candidate_count,1
+Jharkhand,RM,Direct,01-11-16,Rachel Anderson,NO,511000,candidate_count,1
+Jharkhand,RM,Direct,01-12-16,Frances Fields,YES,661000,candidate_count,1
+Jharkhand,RM,Direct,01-12-16,Michael Wheeler,NO,300000,candidate_count,1
+Jharkhand,RM,Direct,01-12-16,Brenda Bailey,NO,313000,candidate_count,1
+Jharkhand,RM,Vendor,01-10-16,Judith Thompson,NO,690000,candidate_count,1
+Jharkhand,RM,Vendor,01-11-16,Barbara Anderson,NO,659000,candidate_count,1
+Jharkhand,RM,Vendor,01-11-16,Harry Armstrong,NO,801000,candidate_count,1
+Jharkhand,RM,Vendor,01-12-16,Charles Black,NO,452000,candidate_count,1
+Jharkhand,RM,Vendor,01-12-16,Rachel Hicks,YES,524000,candidate_count,1
