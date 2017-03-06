@@ -462,8 +462,8 @@ function plotAttritionQ3Charts() {
     var chart2 = dc.selectMenu("#attrition_q3_chart2");
     var chart3 = dc.selectMenu("#attrition_q3_chart3");
     var chart4 = dc.barChart("#attrition_q3_chart4");
-//    var chart5 = dc.barChart("#attrition_q3_chart5");
-//    var chart6 = dc.barChart("#attrition_q3_chart6");
+    var chart5 = dc.barChart("#attrition_q3_chart5");
+    var chart6 = dc.pieChart("#attrition_q3_chart6");
     var chart7 = dc.dataTable("#attrition_q3_chart7");
 
     d3.csv("attrition_q3.csv", function (error, data) {
@@ -539,9 +539,51 @@ function plotAttritionQ3Charts() {
         );
 
         var metricName5 = cf.dimension(function (d) {
+            return d.m3;
+        });
+        var metricNameGroup5 = metricName5.group().reduce(
+                function (p, v) {
+                    if (isHigh(v)) {
+                        p += +v.value;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isHigh(v)) {
+                        p -= +v.value;
+                    }
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+
+        var metricName6 = cf.dimension(function (d) {
+            return d.m6;
+        });
+        var metricNameGroup6 = metricName6.group().reduce(
+                function (p, v) {
+                    if (isHigh(v)) {
+                        p += +v.value;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isHigh(v)) {
+                        p -= +v.value;
+                    }
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+
+        var metricName7 = cf.dimension(function (d) {
             return d.m8;
         });
-        var metricNameGroup5 = function (d) {
+        var metricNameGroup7 = function (d) {
             return d.m5;
         };
 
@@ -550,16 +592,19 @@ function plotAttritionQ3Charts() {
                 .group(metricNameGroup1)
                 .controlsUseVisibility(true);
         chart1.render();
+
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
                 .controlsUseVisibility(true);
         chart2.render();
+
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
                 .controlsUseVisibility(true);
         chart3.render();
+
         var minDate = metricName4.bottom(1)[0].m4;
         var maxDate = metricName4.top(1)[0].m4;
         chart4
@@ -613,10 +658,38 @@ function plotAttritionQ3Charts() {
         });
         chart4.render();
 
-
-        chart7
+        chart5
+                .width(450)
+                .height(200)
+                .x(d3.scale.ordinal().domain(cf))
+                .xUnits(dc.units.ordinal)
+                .brushOn(false)
+                .yAxisLabel("This is the Y Axis!")
                 .dimension(metricName5)
                 .group(metricNameGroup5)
+                .on('renderlet', function (chart) {
+                    chart.selectAll('rect').on("click", function (d) {
+                        console.log("click!", d);
+                    });
+                });
+        chart5.render();
+
+        chart6
+                .dimension(metricName6)
+                .group(metricNameGroup6)
+                .externalLabels(10)
+                .externalRadiusPadding(25)
+                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
+                .label(function (d) {
+                    return d.key + ": " + d3.round((d.value / d3.sum(metricNameGroup6.all(), function (d) {
+                        return d.value;
+                    })) * 100, 1) + "%";
+                });
+        chart6.render();
+
+        chart7
+                .dimension(metricName7)
+                .group(metricNameGroup7)
                 .showGroups(false)
                 .size(100)
                 .columns([
@@ -692,4 +765,8 @@ function plotAttritionQ3Charts() {
 
         chart7.render();
     });
+}
+
+function isHigh(v) {
+    return v.m5 === "High";
 }
