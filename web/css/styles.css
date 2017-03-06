@@ -805,6 +805,11 @@ div .mdl-textfield__label:after {
     margin-bottom: 1%;
 }
 
+.reset{
+    float: right;
+    font-weight: 700;
+}
+
 #hiring_q5_chart5 .dc-table-head,
 #attrition_q3_chart7 .dc-table-head{
     text-align: left;

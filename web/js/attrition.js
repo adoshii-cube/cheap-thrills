@@ -17,7 +17,11 @@ $(document).ready(function () {
         var x = $('body').find(".mdl-tabs__tab.is-active").attr('href');
         $('body').find(x).addClass("is-active");
         dc.renderAll();
+    });
 
+    $(".mdl-chart__reset").on("click", function () {
+        dc.filterAll();
+        dc.redrawAll();
     });
 });
 

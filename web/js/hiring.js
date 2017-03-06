@@ -25,6 +25,11 @@ $(document).ready(function () {
         dc.renderAll();
 
     });
+
+    $(".mdl-chart__reset").on("click", function () {
+        dc.filterAll();
+        dc.redrawAll();
+    });
 });
 
 function isCandidateCount(v) {
