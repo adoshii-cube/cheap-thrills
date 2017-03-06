@@ -462,7 +462,9 @@ function plotAttritionQ3Charts() {
     var chart2 = dc.selectMenu("#attrition_q3_chart2");
     var chart3 = dc.selectMenu("#attrition_q3_chart3");
     var chart4 = dc.barChart("#attrition_q3_chart4");
-    var chart5 = dc.barChart("#attrition_q3_chart5");
+//    var chart5 = dc.barChart("#attrition_q3_chart5");
+//    var chart6 = dc.barChart("#attrition_q3_chart6");
+    var chart7 = dc.dataTable("#attrition_q3_chart7");
 
     d3.csv("attrition_q3.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -537,21 +539,11 @@ function plotAttritionQ3Charts() {
         );
 
         var metricName5 = cf.dimension(function (d) {
-            return d.m5;
+            return d.m8;
         });
-        var metricNameGroup5 = metricName5.group().reduce(
-                function (p, v) {
-                    p += +v.value;
-                    return p;
-                },
-                function (p, v) {
-                    p -= +v.value;
-                    return p;
-                },
-                function () {
-                    return 0;
-                }
-        );
+        var metricNameGroup5 = function (d) {
+            return d.m5;
+        };
 
         chart1
                 .dimension(metricName1)
@@ -620,5 +612,84 @@ function plotAttritionQ3Charts() {
                     });
         });
         chart4.render();
+
+
+        chart7
+                .dimension(metricName5)
+                .group(metricNameGroup5)
+                .showGroups(false)
+                .size(100)
+                .columns([
+//                    Writing column name directly means the database column name is the one that will be displayed onscreen
+//                    'm6',
+                    {
+                        label: 'Emp Id',
+                        format: function (d) {
+                            return d.m8;
+                        }
+                    },
+                    {
+                        label: 'Name',
+                        format: function (d) {
+                            return d.m9;
+                        }
+                    },
+                    {
+                        label: 'Manager Id',
+                        format: function (d) {
+                            return d.m10;
+                        }
+                    },
+                    {
+                        label: 'Primary Driver',
+                        format: function (d) {
+                            return d.m6;
+                        }
+                    },
+                    {
+                        label: 'Secondary Driver',
+                        format: function (d) {
+                            return d.m7;
+                        }
+                    },
+                    {
+                        label: 'Risk Level',
+                        format: function (d) {
+                            return d.m5;
+                        }
+                    }
+                ]);
+        chart7.on("renderlet", function (chart) {
+
+//            CONDITIONAL FORMAT FOR High/Medium/Low
+            $("#attrition_q3_chart7 td").each(function (index, Element) {
+                switch (Element.textContent) {
+                    case "Low":
+                        $(Element).css("color", "#4caf50");
+                        break;
+                    case "Medium":
+                        $(Element).css("color", "#0000ff");
+                        break;
+                    case "High":
+                        $(Element).css("color", "#f44336");
+                        break;
+                }
+            });
+
+//            CONDITIONAL FORMAT TO CHECK IF NUMBER, RIGHT ALIGN, ELSE, LEFT ALIGN
+            var reg = new RegExp('^[0-9]+$');
+            $("#attrition_q3_chart7 td").each(function (index, Element) {
+                if (Element.textContent.match(reg) !== null) {
+                    $(Element).css("text-align", "right");
+                } else {
+                    $(Element).css("text-align", "left");
+                }
+            });
+//            $("#hiring_q5_chart5 .dc-table-row").on("click", function () {
+//                PopupCenter('/owen-prototype-jsp/popup.html', 'example', '900', '280');
+//            });
+        });
+
+        chart7.render();
     });
 }

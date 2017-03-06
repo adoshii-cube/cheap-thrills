@@ -798,13 +798,15 @@ div .mdl-textfield__label:after {
     color: #000000;
 }
 
-#hiring_q5_chart5{
+#hiring_q5_chart5,
+#attrition_q3_chart7{
     width: 98%;
     margin: 0 auto;
     margin-bottom: 1%;
 }
 
-#hiring_q5_chart5 .dc-table-head{
+#hiring_q5_chart5 .dc-table-head,
+#attrition_q3_chart7 .dc-table-head{
     text-align: left;
 }
 
