@@ -819,6 +819,17 @@ div .mdl-textfield__label:after {
     cursor: pointer;
 }
 
+.mdl-chart__cost{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    height: 140px;
+    color: #9E9E9E;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+}
+
 select {
     font-family: inherit;
     background-color: transparent;
