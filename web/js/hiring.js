@@ -27,8 +27,9 @@ $(document).ready(function () {
     });
 
     $(".mdl-chart__reset").on("click", function () {
-        dc.filterAll();
-        dc.redrawAll();
+        var buttonId = $(this).attr("id");
+        dc.filterAll(buttonId);
+        dc.redrawAll(buttonId);
     });
 });
 
@@ -53,15 +54,15 @@ function isCompensationSum(v) {
 
 function plotHiringQ1Charts() {
 
-    var chart1 = dc.selectMenu("#hiring_q1_chart1");
-    var chart2 = dc.selectMenu("#hiring_q1_chart2");
-    var chart3 = dc.selectMenu("#hiring_q1_chart3");
-    var chart4 = dc.barChart("#hiring_q1_chart4");
-    var chart5 = dc.barChart("#hiring_q1_chart5");
-    var chart6 = dc.pieChart("#hiring_q1_chart6");
-    var chart7 = dc.pieChart("#hiring_q1_chart7");
-    var chart8 = dc.pieChart("#hiring_q1_chart8");
-    var chart9 = dc.pieChart("#hiring_q1_chart9");
+    var chart1 = dc.selectMenu("#hiring_q1_chart1", "q1");
+    var chart2 = dc.selectMenu("#hiring_q1_chart2", "q1");
+    var chart3 = dc.selectMenu("#hiring_q1_chart3", "q1");
+    var chart4 = dc.barChart("#hiring_q1_chart4", "q1");
+    var chart5 = dc.barChart("#hiring_q1_chart5", "q1");
+    var chart6 = dc.pieChart("#hiring_q1_chart6", "q1");
+    var chart7 = dc.pieChart("#hiring_q1_chart7", "q1");
+    var chart8 = dc.pieChart("#hiring_q1_chart8", "q1");
+    var chart9 = dc.pieChart("#hiring_q1_chart9", "q1");
 
     d3.csv("hiring_q1.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -373,13 +374,13 @@ function plotHiringQ1Charts() {
 }
 
 function plotHiringQ2Charts() {
-    var chart1 = dc.selectMenu("#hiring_q2_chart1");
-    var chart2 = dc.selectMenu("#hiring_q2_chart2");
-    var chart3 = dc.selectMenu("#hiring_q2_chart3");
-    var chart4 = dc.barChart("#hiring_q2_chart4");
-    var chart5 = dc.barChart("#hiring_q2_chart5");
-    var chart6 = dc.barChart("#hiring_q2_chart6");
-    var chart7 = dc.pieChart("#hiring_q2_chart7");
+    var chart1 = dc.selectMenu("#hiring_q2_chart1", "q2");
+    var chart2 = dc.selectMenu("#hiring_q2_chart2", "q2");
+    var chart3 = dc.selectMenu("#hiring_q2_chart3", "q2");
+    var chart4 = dc.barChart("#hiring_q2_chart4", "q2");
+    var chart5 = dc.barChart("#hiring_q2_chart5", "q2");
+    var chart6 = dc.barChart("#hiring_q2_chart6", "q2");
+    var chart7 = dc.pieChart("#hiring_q2_chart7", "q2");
 
     d3.csv("hiring_q2.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -692,12 +693,12 @@ function plotHiringQ2Charts() {
 }
 
 function plotHiringQ3Charts() {
-    var chart1 = dc.selectMenu("#hiring_q3_chart1");
-    var chart2 = dc.selectMenu("#hiring_q3_chart2");
-    var chart3 = dc.selectMenu("#hiring_q3_chart3");
-    var chart4 = dc.barChart("#hiring_q3_chart4");
-    var chart5 = dc.rowChart("#hiring_q3_chart5");
-    var chart6 = dc.rowChart("#hiring_q3_chart6");
+    var chart1 = dc.selectMenu("#hiring_q3_chart1", "q3");
+    var chart2 = dc.selectMenu("#hiring_q3_chart2", "q3");
+    var chart3 = dc.selectMenu("#hiring_q3_chart3", "q3");
+    var chart4 = dc.barChart("#hiring_q3_chart4", "q3");
+    var chart5 = dc.rowChart("#hiring_q3_chart5", "q3");
+    var chart6 = dc.rowChart("#hiring_q3_chart6", "q3");
 
     d3.csv("hiring_q3.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -945,14 +946,14 @@ function plotHiringQ3Charts() {
 }
 
 function plotHiringQ4Charts() {
-    var chart1 = dc.selectMenu("#hiring_q4_chart1");
-    var chart2 = dc.selectMenu("#hiring_q4_chart2");
-    var chart3 = dc.selectMenu("#hiring_q4_chart3");
-    var chart4 = dc.barChart("#hiring_q4_chart4");
-    var chart5 = dc.pieChart("#hiring_q4_chart5");
-    var chart6 = dc.barChart("#hiring_q4_chart6");
-    var chart7 = dc.barChart("#hiring_q4_chart7");
-    var chart8 = dc.barChart("#hiring_q4_chart8");
+    var chart1 = dc.selectMenu("#hiring_q4_chart1", "q4");
+    var chart2 = dc.selectMenu("#hiring_q4_chart2", "q4");
+    var chart3 = dc.selectMenu("#hiring_q4_chart3", "q4");
+    var chart4 = dc.barChart("#hiring_q4_chart4", "q4");
+    var chart5 = dc.pieChart("#hiring_q4_chart5", "q4");
+    var chart6 = dc.barChart("#hiring_q4_chart6", "q4");
+    var chart7 = dc.barChart("#hiring_q4_chart7", "q4");
+    var chart8 = dc.barChart("#hiring_q4_chart8", "q4");
 
     d3.csv("hiring_q4.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -1386,11 +1387,11 @@ function plotHiringQ4Charts() {
 }
 
 function plotHiringQ5Charts() {
-    var chart1 = dc.selectMenu("#hiring_q5_chart1");
-    var chart2 = dc.selectMenu("#hiring_q5_chart2");
-    var chart3 = dc.selectMenu("#hiring_q5_chart3");
-    var chart4 = dc.barChart("#hiring_q5_chart4");
-    var chart5 = dc.dataTable("#hiring_q5_chart5");
+    var chart1 = dc.selectMenu("#hiring_q5_chart1", "q5");
+    var chart2 = dc.selectMenu("#hiring_q5_chart2", "q5");
+    var chart3 = dc.selectMenu("#hiring_q5_chart3", "q5");
+    var chart4 = dc.barChart("#hiring_q5_chart4", "q5");
+    var chart5 = dc.dataTable("#hiring_q5_chart5", "q5");
 
     d3.csv("hiring_q5.csv", function (error, data) {
         var cf = crossfilter(data);

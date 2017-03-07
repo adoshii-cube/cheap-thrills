@@ -20,21 +20,22 @@ $(document).ready(function () {
     });
 
     $(".mdl-chart__reset").on("click", function () {
-        dc.filterAll();
-        dc.redrawAll();
+        var buttonId = $(this).attr("id");
+        dc.filterAll(buttonId);
+        dc.redrawAll(buttonId);
     });
 });
 
 function plotAttritionQ1Charts() {
 
-    var chart1 = dc.selectMenu("#attrition_q1_chart1");
-    var chart2 = dc.selectMenu("#attrition_q1_chart2");
-    var chart3 = dc.selectMenu("#attrition_q1_chart3");
-    var chart4 = dc.barChart("#attrition_q1_chart4");
-    var chart5 = dc.pieChart("#attrition_q1_chart5");
-    var chart6 = dc.barChart("#attrition_q1_chart6");
-    var chart7 = dc.pieChart("#attrition_q1_chart7");
-    var chart8 = dc.numberDisplay("#attrition_q1_chart8");
+    var chart1 = dc.selectMenu("#attrition_q1_chart1", "q1");
+    var chart2 = dc.selectMenu("#attrition_q1_chart2", "q1");
+    var chart3 = dc.selectMenu("#attrition_q1_chart3", "q1");
+    var chart4 = dc.barChart("#attrition_q1_chart4", "q1");
+    var chart5 = dc.pieChart("#attrition_q1_chart5", "q1");
+    var chart6 = dc.barChart("#attrition_q1_chart6", "q1");
+    var chart7 = dc.pieChart("#attrition_q1_chart7", "q1");
+    var chart8 = dc.numberDisplay("#attrition_q1_chart8", "q1");
 
     d3.csv("attrition_q1.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -313,10 +314,10 @@ function plotAttritionQ1Charts() {
 }
 
 function plotAttritionQ2Charts() {
-    var chart1 = dc.selectMenu("#attrition_q2_chart1");
-    var chart2 = dc.selectMenu("#attrition_q2_chart2");
-    var chart3 = dc.selectMenu("#attrition_q2_chart3");
-    var chart4 = dc.barChart("#attrition_q2_chart4");
+    var chart1 = dc.selectMenu("#attrition_q2_chart1", "q2");
+    var chart2 = dc.selectMenu("#attrition_q2_chart2", "q2");
+    var chart3 = dc.selectMenu("#attrition_q2_chart3", "q2");
+    var chart4 = dc.barChart("#attrition_q2_chart4", "q2");
 
     d3.csv("attrition_q2.csv", function (error, data) {
         var cf = crossfilter(data);
@@ -462,13 +463,13 @@ function plotAttritionQ2Charts() {
 }
 
 function plotAttritionQ3Charts() {
-    var chart1 = dc.selectMenu("#attrition_q3_chart1");
-    var chart2 = dc.selectMenu("#attrition_q3_chart2");
-    var chart3 = dc.selectMenu("#attrition_q3_chart3");
-    var chart4 = dc.barChart("#attrition_q3_chart4");
-    var chart5 = dc.barChart("#attrition_q3_chart5");
-    var chart6 = dc.pieChart("#attrition_q3_chart6");
-    var chart7 = dc.dataTable("#attrition_q3_chart7");
+    var chart1 = dc.selectMenu("#attrition_q3_chart1", "q3");
+    var chart2 = dc.selectMenu("#attrition_q3_chart2", "q3");
+    var chart3 = dc.selectMenu("#attrition_q3_chart3", "q3");
+    var chart4 = dc.barChart("#attrition_q3_chart4", "q3");
+    var chart5 = dc.barChart("#attrition_q3_chart5", "q3");
+    var chart6 = dc.pieChart("#attrition_q3_chart6", "q3");
+    var chart7 = dc.dataTable("#attrition_q3_chart7", "q3");
 
     d3.csv("attrition_q3.csv", function (error, data) {
         var cf = crossfilter(data);
