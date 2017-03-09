@@ -10,6 +10,9 @@ $(document).ready(function () {
     plotAttritionQ3Charts();
     $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
+//    plotAttritionQ3Charts();
+    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
+
     $(".mdl-tabs__tab").on("click", function () {
         //REMOVE ACTIVE CLASS FOR ALL PANELS
         $("body").find(".mdl-tabs__panel").removeClass("is-active");
