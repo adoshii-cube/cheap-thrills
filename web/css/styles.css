@@ -819,6 +819,15 @@ div .mdl-textfield__label:after {
     cursor: pointer;
 }
 
+#attrition_q4_chart1{
+    margin-left: 16px;
+}
+
+#attrition_q4_chart1 label{
+    width: 9em;
+    float: right;
+}
+
 .mdl-chart__cost{
     display: -ms-flexbox;
     display: -webkit-flex;

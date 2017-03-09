@@ -48,7 +48,7 @@ and open the template in the editor.
     <body>
         <!-- Always shows a header, even in smaller screens. -->
         <div class="mdl-layout mdl-js-layout">
-            <header class="mdl-layout__header">
+            <header class="mdl-layout__header mdl-layout__header--scroll">
                 <div class="mdl-layout__header-row">
                     <!-- Title -->
                     <span class="android-title mdl-layout-title">
@@ -262,7 +262,20 @@ and open the template in the editor.
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Survival Curves</h2>
                                             </div>
-                                            <div id="attrition_q4_chart1"></div>
+                                            <div id="attrition_q4_chart1">
+                                                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
+                                                    <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="1" checked>
+                                                    <span class="mdl-radio__label">Business Unit</span>
+                                                </label>
+                                                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
+                                                    <input type="radio" id="option-2" class="mdl-radio__button" name="options" value="2">
+                                                    <span class="mdl-radio__label">Tenure</span>
+                                                </label>
+                                                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-3">
+                                                    <input type="radio" id="option-3" class="mdl-radio__button" name="options" value="3">
+                                                    <span class="mdl-radio__label">Gender</span>
+                                                </label>
+                                            </div>
                                             <div id="attrition_q4_chart2"></div>
                                         </div>
                                     </div>
