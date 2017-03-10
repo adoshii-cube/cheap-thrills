@@ -1,729 +1,501 @@
-m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,value
-Daman-Bhimpore,Staff,Manufacturing,04-08-2014,Medium,Team cohesion is low,Team mentorship is poor,301025,KANCHAN GOPAL TANDEL,,1
-Daman-Bhimpore,Staff,Manufacturing,19-07-2013,High,Away from Home Town,Other Reason,301028,CHHAGAN RUSTAMRAO KAMBLE,,1
-Daman-Bhimpore,Staff,Manufacturing,31-07-2015,Low,Low risk of leaving,Low risk of leaving,302022,SYED YOUNUS PATEL,,1
-Daman-Kadaiya,Executive,Manufacturing,08-09-2013,Low,Low risk of leaving,Low risk of leaving,303048,ASHOK MAKAN TANDEL,809384,1
-Daman-Bhimpore,Senior Executive,Manufacturing,30-12-2013,Low,Low risk of leaving,Low risk of leaving,303060,VIPUL CHIMANLAL PATEL,809384,1
-Daman-Kadaiya,Senior Executive,Manufacturing,05-04-2015,Low,Low risk of leaving,Low risk of leaving,303090,MACHINDRA DEORAM NERPAGAR,809384,1
-Daman-Bhimpore,Staff,Manufacturing,02-07-2014,Low,Low risk of leaving,Low risk of leaving,303195,YATIN CHHAGANLAL PATEL,,1
-Shendra-SEZ,Senior Manager,Manufacturing,13-01-2016,Low,Low risk of leaving,Low risk of leaving,800360,SHANKAR RAMRAO KARPE,815492,1
-Shendra-SEZ,Senior Manager,Manufacturing,04-05-2015,Low,Low risk of leaving,Low risk of leaving,800781,NAGARAJA HADADI RANGANATHA,800673,1
-Daman-Bhimpore,General Manager - Manufacturing,Corporate Office,20-09-2013,Low,Low risk of leaving,Low risk of leaving,801054,SHIRISH DIWAKAR DESHPANDE,807621,1
-Daman-Bhimpore,Manager,Manufacturing,20-01-2014,Low,Low risk of leaving,Low risk of leaving,804821,PRAVEEN KRISHNAN KRISHNAN,801054,1
-Daman-Bhimpore,Senior Executive,Manufacturing,18-07-2014,Low,Low risk of leaving,Low risk of leaving,805574,SHAILESH SHAM WAGH,809384,1
-Daman-Bhimpore,Executive,Manufacturing,27-03-2015,Low,Low risk of leaving,Low risk of leaving,805642,DUSHMANTHA KUMAR BEHERA,810421,1
-Shendra-SEZ,Senior Officer,Manufacturing,02-08-2013,Low,Low risk of leaving,Low risk of leaving,805662,ANEES YOUNUS MOHAMMAD,813205,1
-Shendra-SEZ,Assistant Manager,Manufacturing,03-07-2014,Low,Low risk of leaving,Low risk of leaving,805966,GIRISH EKNATHRAO BHOSALE,800360,1
-Daman-Bhimpore,Assistant Manager,Manufacturing,18-01-2015,Low,Low risk of leaving,Low risk of leaving,807450,PANKAJ NINU NARKHEDE,801054,1
-Daman-Bhimpore,Executive,Manufacturing,14-04-2016,Medium,Team cohesion is low,Team mentorship is poor,807453,NILESH NIRMALKUMAR JAIN,810421,1
-Daman-Bhimpore,Manager - Engineering Services,Manufacturing,13-01-2014,Low,Low risk of leaving,Low risk of leaving,807531,SANJAY JAYANTILAL MODI,801054,1
-Daman-Bhimpore,Junior Executive,Manufacturing,21-10-2015,Low,Low risk of leaving,Low risk of leaving,807641,AMOL A BACHCHUUWAR,810421,1
-Daman-Bhimpore,Executive,Manufacturing,06-02-2015,Low,Low risk of leaving,Low risk of leaving,807662,VIRAL KUMAR PATEL,810421,1
-Shendra-SEZ,Executive,Manufacturing,05-03-2015,Low,Low risk of leaving,Low risk of leaving,807775,NILESH RAMESH YELAM,816972,1
-Daman-Bhimpore,Senior Officer,Manufacturing,01-08-2013,Low,Low risk of leaving,Low risk of leaving,808132,PRITAM KUMAR MEHTA,810421,1
-Daman-Bhimpore,Senior Officer,Manufacturing,08-10-2013,Low,Low risk of leaving,Low risk of leaving,808594,MUKESH GULABBHAI PATEL,809384,1
-Daman-Bhimpore,Executive,Manufacturing,23-03-2014,Low,Low risk of leaving,Low risk of leaving,808716,PRAVEEN AJAY KAR,809384,1
-Daman-Bhimpore,Staff,Manufacturing,23-07-2014,Low,Low risk of leaving,Low risk of leaving,808763,ASHOK U PATIL,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,01-05-2014,Low,Low risk of leaving,Low risk of leaving,808927,SANTOSH KUMAR PATEL,816270,1
-Shendra-SEZ,Sr.Officer,Manufacturing,01-08-2013,Low,Low risk of leaving,Low risk of leaving,808945,SANJAY MADHUKARRAO JOSHI,800360,1
-Shendra-SEZ,Senior Officer,Manufacturing,24-01-2014,Low,Low risk of leaving,Low risk of leaving,808946,RAMASHRAYA RAMKRIPAL GUPTA,800360,1
-Shendra-SEZ,Junior Executive,Manufacturing,14-02-2014,Low,Low risk of leaving,Low risk of leaving,808948,KIRAN BAJIRAO PAWASE,809531,1
-Shendra-SEZ,Assistant,Manufacturing,26-12-2015,Low,Low risk of leaving,Low risk of leaving,809149,SHRIKANT YAMAPPA MULEY,821583,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,07-11-2014,Low,Low risk of leaving,Low risk of leaving,809173,NIRAJ GULABBHAI PATEL,,1
-Shendra-SEZ,Officer,Manufacturing,20-02-2016,Low,Low risk of leaving,Low risk of leaving,809186,SHAILU HABIBSAB SHAIKH,800360,1
-Shendra-SEZ,Junior Executive,Manufacturing,09-05-2014,Medium,Manager specific reason,Team cohesion is low,809188,VISHAL VISHWANATH PAWALE,809531,1
-Shendra-SEZ,Assistant Manager - HR,Manufacturing,31-12-2013,Medium,Other Reason,Other Reason,809244,SAQUIBUDDIN MASLEHUDDIN SIDDIQUI,815492,1
-Daman-Bhimpore,Manager,Manufacturing,03-08-2015,High,Team cohesion is low,Team mentorship is poor,809256,BHAGAVAN BABURAO PATIL,810421,1
-Shendra-SEZ,Supervisor,Manufacturing,13-08-2013,Low,Low risk of leaving,Low risk of leaving,809324,NILANGEKAR YOGESH WAMAN,,1
-Shendra-SEZ,Senior Officer,Manufacturing,06-11-2014,Low,Low risk of leaving,Low risk of leaving,809386,HEMANT BAPUJI PATIL,800781,1
-B15-Waluj,Executive,Manufacturing,29-06-2016,Low,Low risk of leaving,Low risk of leaving,809530,ABHIJEET DILIPRAO LOKHANDE,809531,1
-Shendra-SEZ,Senior Executive,Manufacturing,03-01-2014,Low,Low risk of leaving,Low risk of leaving,809531,MAHARUDRA LAHANUBA GARJE,815492,1
-Shendra-SEZ,Junior Executive,Manufacturing,29-10-2013,Low,Low risk of leaving,Low risk of leaving,809534,VAIJNATH SHYAMRAO GHADGE,813205,1
-Shendra-SEZ,Manager - Production,Manufacturing,26-05-2014,High,Performance is  low,Team cohesion is low,809536,MANISH HOUSILAL MEWADE,815492,1
-Daman-Bhimpore,Senior Officer,Manufacturing,25-01-2015,Low,Low risk of leaving,Low risk of leaving,809709,KETAN ARVINDBHAI PATEL,4668,1
-Daman-Kadaiya,Officer,Manufacturing,09-06-2014,High,Performance is  low,Team mentorship is poor,809710,KARTIK CHANDRA SAHU,4668,1
-Shendra-SEZ,Senior Assistant II,Manufacturing,09-09-2014,Low,Low risk of leaving,Low risk of leaving,809716,RAVIN KADUBA CHAUDHARI,,1
-Shendra-SEZ,Senior Officer,Manufacturing,05-01-2016,High,Team mentorship is poor,Other Reason,809773,ARVIND ASHOK THAKUR,816436,1
-Daman-Kadaiya,Executive,Manufacturing,05-06-2014,Medium,Team cohesion is low,Team mentorship is poor,809803,JITENDRA RAMESH PATIL,807450,1
-Chikalthana,Assistant,Manufacturing,01-11-2015,Low,Low risk of leaving,Low risk of leaving,809843,DEEPK KISANRAO WAGH,820291,1
-Shendra-SEZ,Senior Officer,Manufacturing,15-07-2013,Low,Low risk of leaving,Low risk of leaving,809926,VIJAY NARHARI SHINDE,812522,1
-Daman-Kadaiya,Executive,Manufacturing,08-03-2014,Low,Low risk of leaving,Low risk of leaving,810158,SOMIRON AICH,809384,1
-Daman-Kadaiya,Supervisor,Manufacturing,21-12-2014,Medium,Performance is  low,Other Reason,810233,KIRAN MANGALDAS MAHALE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,19-08-2014,Low,Low risk of leaving,Low risk of leaving,810321,DEEPAK KUMAR MAHAPATRA,810421,1
-Daman-Kadaiya,Assistant Manager,Manufacturing,06-05-2014,Medium,Manager specific reason,Team cohesion is low,810322,POORVESH PANCHOLI,809384,1
-Shendra-SEZ,Senior Manager,Manufacturing,07-08-2013,Low,Low risk of leaving,Low risk of leaving,810381,MILIND VISHVANATH BHOKARIKAR,814156,1
-Daman-Kadaiya,Junior Executive,Manufacturing,29-09-2013,Low,Low risk of leaving,Low risk of leaving,810417,NITIN KHARE,809384,1
-Daman-Kadaiya,Asst. General Manager,Manufacturing,03-08-2015,Low,Low risk of leaving,Low risk of leaving,810421,VENUGOPAL VENUGOPAL REDDY,801054,1
-Daman-Kadaiya,Junior Executive,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,810605,PUSHPENDRA DINESHKUMAR SAHU,809384,1
-Daman-Bhimpore,Senior Executive - Production,Manufacturing,19-04-2016,Low,Low risk of leaving,Low risk of leaving,810701,SHAKIL AHMAD,810421,1
-Shendra-SEZ,Senior Officer,Manufacturing,28-08-2014,Low,Low risk of leaving,Low risk of leaving,810750,GOPAL BHASKARRAO KULKARNI,816972,1
-Daman-Bhimpore,Staff,Manufacturing,07-10-2015,Low,Low risk of leaving,Low risk of leaving,810767,MOHAN BHAI B PATEL,821297,1
-Daman-Kadaiya,Senior Officer,Manufacturing,13-10-2014,Low,Low risk of leaving,Low risk of leaving,810792,SUBODH KUMAR YADAV,816270,1
-Shendra-SEZ,Staff Trainee,Manufacturing,25-03-2014,Low,Low risk of leaving,Low risk of leaving,811046,GHANSHYAM SAMPAT BORASE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-12-2013,Low,Low risk of leaving,Low risk of leaving,811130,RAVINDRA SHIVAJI MORE,813205,1
-Shendra-SEZ,Staff Trainee,Manufacturing,10-08-2013,Low,Low risk of leaving,Low risk of leaving,811459,VIJAY MADHUKARRAO CHOUDHARI,,1
-Daman-Kadaiya,Staff,Manufacturing,11-04-2015,Medium,Average previous tenure is low,Team cohesion is low,811478,AVINASH SHANKARRAO KULKARNI,,1
-Daman-Bhimpore,Staff,Manufacturing,27-07-2014,Low,Low risk of leaving,Low risk of leaving,811851,HIRUBHAI BHAVANSING BAROT,,1
-Daman-Bhimpore,Staff,Manufacturing,09-03-2014,Low,Low risk of leaving,Low risk of leaving,811945,PRALHAD KISHOR CHAVAN,,1
-Daman-Bhimpore,Staff,Manufacturing,26-06-2015,Low,Low risk of leaving,Low risk of leaving,811947,NILES ASHOK MALI,,1
-Daman-Kadaiya,Junior Executive,Manufacturing,27-02-2014,Low,Low risk of leaving,Low risk of leaving,812006,PRASHANT BHASKAR DONDE,809384,1
-Daman-Bhimpore,Staff,Manufacturing,10-03-2015,Medium,Performance is  low,Team mentorship is poor,812071,ANAND JANRAO BANSOD,,1
-Daman-Bhimpore,Junior Executive,Manufacturing,30-11-2015,Low,Low risk of leaving,Low risk of leaving,812146,BHAVESH RANCHHODBHAI MAHYAVANSHI,4668,1
-Daman-Bhimpore,Executive,Manufacturing,25-03-2014,Low,Low risk of leaving,Low risk of leaving,812153,MILIND VISHVANATH JAGTAP,804821,1
-Shendra-SEZ,Junior Executive,Manufacturing,06-08-2015,Low,Low risk of leaving,Low risk of leaving,812240,BUCHI REDDY KONDAL REDDY BOMMINENI,812522,1
-Shendra-SEZ,Senior Officer,Manufacturing,08-10-2013,Low,Low risk of leaving,Low risk of leaving,812243,PRAVIN NAMDEO VAYBHAT,813205,1
-Shendra-SEZ,Junior Executive,Manufacturing,22-10-2014,Low,Low risk of leaving,Low risk of leaving,812250,VINOD TUKARAM PATIL,809536,1
-Daman-Bhimpore,Staff,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,812323,HIRALAL SUKALAL MORE,,1
-Daman-Bhimpore,Staff,Manufacturing,31-07-2014,Medium,Team cohesion is low,Team mentorship is poor,812326,YOGESH RAVINDRA AVHAD,,1
-Daman-Bhimpore,Staff,Manufacturing,07-11-2014,Low,Low risk of leaving,Low risk of leaving,812367,PAVBA BHARAT WAGH,,1
-Daman-Kadaiya,Staff,Manufacturing,18-08-2013,Medium,Team cohesion is low,Team mentorship is poor,812372,PANCHANAN GOBINDA CHAND PADHY,,1
-Daman-Kadaiya,Staff,Manufacturing,16-10-2014,Low,Low risk of leaving,Low risk of leaving,812384,KIRAN VIKRAM SHELAR,,1
-Daman-Kadaiya,Staff,Manufacturing,01-02-2015,Low,Low risk of leaving,Low risk of leaving,812386,YOGESH VIJAY SONWANE,,1
-Daman-Bhimpore,Staff,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,812401,AMOL SHANKARRAO CHAUDHARI,,1
-Daman-Bhimpore,Executive,Manufacturing,16-09-2014,Low,Low risk of leaving,Low risk of leaving,812402,SANTOSH KUMAR SINGH,809384,1
-Daman-Bhimpore,Executive - QA,Manufacturing,26-05-2014,Low,Low risk of leaving,Low risk of leaving,812515,BAIBHAV KUMAR TIWARI,809384,1
-Daman-Kadaiya,Junior Executive,Manufacturing,10-10-2013,Medium,Manager specific reason,Marital status is Single,812526,HANNAN TAMIM SHAIKH,809384,1
-Shendra-SEZ,Senior Officer,Manufacturing,16-11-2013,High,Average previous tenure is low,Team cohesion is low,812663,PRAVIN SUDHIR SIRDESHPANDE,813205,1
-Daman-Bhimpore,Senior Officer,Manufacturing,29-10-2013,Low,Low risk of leaving,Low risk of leaving,812702,AMOL NARAYAN AMRUTKAR,810421,1
-Shendra-SEZ,Senior Executive,Manufacturing,16-11-2013,High,Manager specific reason,Marital status is Single,812837,AVADHESH DHANLAL PATIDAR,813205,1
-Daman-Bhimpore,Senior Officer,Manufacturing,30-12-2013,Low,Low risk of leaving,Low risk of leaving,813009,ASHOK KUMAR YADAV,816270,1
-Daman-Bhimpore,Executive,Manufacturing,18-03-2014,Low,Low risk of leaving,Low risk of leaving,813137,AMIT UTTAMBHAI PATEL,807531,1
-Shendra-SEZ,Assistant Manager,Manufacturing,23-08-2014,Low,Low risk of leaving,Low risk of leaving,813205,PANKAJ MURLIMANOHAR SHARMA,814156,1
-Daman-Kadaiya,Supervisor,Manufacturing,29-10-2013,Medium,Team cohesion is low,Team mentorship is poor,813238,HITESHKUMAR CHHIBUBHAI PATEL,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,03-08-2015,Low,Low risk of leaving,Low risk of leaving,813522,VISHWANATH PRATAP PAWAR,,1
-Shendra-SEZ,Assistant,Manufacturing,25-09-2015,Low,Low risk of leaving,Low risk of leaving,813526,DHARMENDRA BAIDYANATH PRASAD KUMAR,,1
-Shendra-SEZ,Senior Officer,Manufacturing,26-09-2013,Low,Low risk of leaving,Low risk of leaving,813596,AJAY ARUN SHITOLE,809536,1
-Shendra-SEZ,Executive,Manufacturing,21-02-2015,Low,Low risk of leaving,Low risk of leaving,813640,VIJAY NARAYAN MHASKE,818127,1
-Daman-Kadaiya,Junior Executive,Manufacturing,18-03-2014,Low,Low risk of leaving,Low risk of leaving,813699,PANKAJ CHAITRAM RATHORE,809384,1
-Shendra-SEZ,Junior Executive,Manufacturing,19-09-2013,Low,Low risk of leaving,Low risk of leaving,813820,ANUJ KAILASH PUROHIT,809536,1
-Daman-Bhimpore,Deputy General Manager,Manufacturing,02-11-2014,Low,Low risk of leaving,Low risk of leaving,813865,SANJAY JOSHI,810172,1
-Daman-Kadaiya,Executive,Manufacturing,23-08-2015,Low,Low risk of leaving,Low risk of leaving,813944,NITIN SURESH SHARMA,809384,1
-Shendra-SEZ,Staff Trainee - Production,Manufacturing,06-12-2013,Low,Low risk of leaving,Low risk of leaving,814001,SURESH KASHIRAO NAVHALE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-07-2015,Low,Low risk of leaving,Low risk of leaving,814003,AMOL ARUN YEOLE,809536,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-05-2015,Low,Low risk of leaving,Low risk of leaving,814036,SATISH RAMDAS JADHAV,809536,1
-Shendra-SEZ,Technician – Production,Manufacturing,15-11-2014,Low,Low risk of leaving,Low risk of leaving,814038,BHIKA BANSILAL JADHAV,,1
-Shendra-SEZ,Senior Officer,Manufacturing,31-12-2013,Low,Low risk of leaving,Low risk of leaving,814114,ANIL KUMAR,809536,1
-Shendra-SEZ,Staff Trainee,Manufacturing,02-03-2015,Low,Low risk of leaving,Low risk of leaving,814154,MAYUR PRABHAKAR PATIL,,1
-Shendra-SEZ,Associate Vice President,Manufacturing,06-02-2015,Low,Low risk of leaving,Low risk of leaving,814156,KUSHALPAL TYAGI,801334,1
-Shendra-SEZ,Staff Trainee,Manufacturing,21-09-2015,Low,Low risk of leaving,Low risk of leaving,814158,VIJAY NIMBAJI BHADANE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,30-09-2013,Low,Low risk of leaving,Low risk of leaving,814159,ATUL RAMAKANT DESHPANDE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,30-11-2015,Medium,Marital status is Single,Other Reason,814162,ANIL BABAN PATHARE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,01-08-2013,High,Team cohesion is low,Team mentorship is poor,814163,NAMDEO MAROTRAO DESHMUKH,,1
-Shendra-SEZ,Senior Assistant,Manufacturing,05-03-2015,Low,Low risk of leaving,Low risk of leaving,814176,BHUSHAN GAJANAN KABADKAR,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,21-08-2015,Low,Low risk of leaving,Low risk of leaving,814177,SACHIN NAMDEORAO TALE,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,28-06-2015,Low,Low risk of leaving,Low risk of leaving,814178,DIPAK GAMBHIR PAWAR,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,814181,VIJAY PRAKASH INGLE,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,814183,DHANRAJ LAXMAN BHIL,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,28-04-2014,Low,Low risk of leaving,Low risk of leaving,814188,RAVI PRATAP MISHRA,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,814189,SUNIL KUMAR POLAI,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,27-04-2015,Low,Low risk of leaving,Low risk of leaving,814193,AZAD RAHIM PINJARI,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,07-10-2015,Low,Low risk of leaving,Low risk of leaving,814195,ARUN PRASHANT KAMBLE,821021,1
-Daman-Kadaiya,STAFF,Manufacturing,31-01-2014,Low,Low risk of leaving,Low risk of leaving,814404,JATIN BABUBHAI PATEL,,1
-Daman-Bhimpore,Supervisor,Manufacturing,11-12-2014,Low,Low risk of leaving,Low risk of leaving,814405,AVADHESHKUMAR JAYANTRIPRASAD TIWARI,,1
-Daman-Bhimpore,Junior Executive,Manufacturing,21-02-2016,Medium,Team cohesion is low,Team mentorship is poor,814408,NEHAL KANTILAL PATEL,809384,1
-Daman-Bhimpore,Executive,Manufacturing,02-01-2014,Low,Low risk of leaving,Low risk of leaving,814444,KIRTIKUMAR KRISHNACHANDRA THAKUR,809384,1
-Shendra-SEZ,Staff Trainee,Manufacturing,29-05-2015,Medium,Performance is  low,Team cohesion is low,814499,SACHIN JAGANNATH TIWADE,,1
-Shendra-SEZ,Executive,Manufacturing,13-01-2016,Low,Low risk of leaving,Low risk of leaving,814500,MAYUR BHIKANRAO CHIMANPURE,809536,1
-Shendra-SEZ,Assistant Manager,Manufacturing,30-11-2013,Low,Low risk of leaving,Low risk of leaving,814542,GAURAV BHAGIRATH PRASAD BHARGAVA,812522,1
-Shendra-SEZ,Junior Assistant,Manufacturing,30-01-2016,Low,Low risk of leaving,Low risk of leaving,814544,SOMNATH BAPURAO SHINDE,,1
-Shendra-SEZ,Supervisor,Manufacturing,29-08-2014,Low,Low risk of leaving,Low risk of leaving,814546,NARENDRA VIJAYKUMAR SUJLEGAONKAR,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,21-01-2015,Low,Low risk of leaving,Low risk of leaving,814628,MOHAMMED IRSHAD MOHHAMMED JAVID SHAIKH,,1
-Shendra-SEZ,Assistant Manager,Manufacturing,19-12-2015,Low,Low risk of leaving,Low risk of leaving,814647,MALIK GULABSAHAB SHAIKH,809536,1
-Daman-Bhimpore,Supervisor,Manufacturing,02-11-2014,Low,Low risk of leaving,Low risk of leaving,814706,SHAKTI SOURAV BISWAL,,1
-Daman-Bhimpore,Executive,Manufacturing,05-03-2015,Low,Low risk of leaving,Low risk of leaving,814708,HEMANT SUBHASH PATIL,807450,1
-Shendra-SEZ,Supervisor,Manufacturing,09-10-2013,Low,Low risk of leaving,Low risk of leaving,814738,SANDEEP ANAND SHINDE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,26-12-2013,Low,Low risk of leaving,Low risk of leaving,814759,SARTAJ MUMTAJ KHAN,813205,1
-Shendra-SEZ,Senior Officer,Manufacturing,02-01-2014,Low,Low risk of leaving,Low risk of leaving,814763,LALIT KUMAR SINGH,813205,1
-Shendra-SEZ,Assistant,Manufacturing,22-11-2014,Low,Low risk of leaving,Low risk of leaving,814808,MUKESH HEMRAJ KIRANGE,,1
-Shendra-SEZ,Assistant Manager,Manufacturing,01-03-2015,Low,Low risk of leaving,Low risk of leaving,814896,RAVINDRA SHIVNARAYA LAHANE,815492,1
-Shendra-SEZ,Junior Executive,Manufacturing,26-11-2014,Low,Low risk of leaving,Low risk of leaving,814932,SANDEEP SAHEBRAO PATIL,816972,1
-Shendra-SEZ,Senior Officer,Manufacturing,10-01-2015,Low,Low risk of leaving,Low risk of leaving,814933,ASHWINI VIJAYKUMAR LOKARE,813205,1
-Shendra-SEZ,Senior Officer,Manufacturing,16-11-2013,Medium,Team cohesion is low,Team mentorship is poor,814934,ANKITA RAJEEV TIWARI,,1
-Shendra-SEZ,Executive,Manufacturing,08-10-2014,Medium,Team cohesion is low,Team mentorship is poor,814959,KIRAN LAXMANRAO DESHMUKH,816079,1
-Shendra-SEZ,Junior Assistant,Manufacturing,18-12-2015,Low,Low risk of leaving,Low risk of leaving,814970,SHRIKANT KESHAVRAO LAD,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,06-05-2016,Low,Low risk of leaving,Low risk of leaving,815083,MANOHAR ASHOK SONAWANE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,26-03-2015,Medium,Average previous tenure is low,Team cohesion is low,815084,RAJPALSINH PREMSINH THAKOR,810421,1
-Daman-Bhimpore,Junior Executive,Manufacturing,27-04-2014,Low,Low risk of leaving,Low risk of leaving,815087,ARPIT VIJENDRA CHOUREY,809384,1
-Shendra-SEZ,Staff Trainee,Manufacturing,01-08-2013,Low,Low risk of leaving,Low risk of leaving,815092,MILIND DATTU KADAM,,1
-Shendra-SEZ,Sr. Officer,Manufacturing,14-11-2014,Low,Low risk of leaving,Low risk of leaving,815146,NEHA SUBHASH TYAGI,812522,1
-Daman-Bhimpore,Junior Executive,Manufacturing,14-06-2015,Low,Low risk of leaving,Low risk of leaving,815166,ARVIND BIRENDRA PANDEY,810421,1
-Shendra-SEZ,Assistant,Manufacturing,03-06-2014,Medium,Average previous tenure is low,Other Reason,815223,SHRIKRUSHNA JAGNNATH PAWAR,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,03-03-2014,Medium,Team cohesion is low,Team mentorship is poor,815235,SUSOVAN SINHA MAHAPATRA,809384,1
-Shendra-SEZ,Supervisor,Manufacturing,30-06-2016,Low,Low risk of leaving,Low risk of leaving,815315,GANESH VAIJINATH GHODKE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,29-09-2015,Low,Low risk of leaving,Low risk of leaving,815318,AMOL RAMESH MURKAR,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,14-11-2014,Low,Low risk of leaving,Low risk of leaving,815337,HIRENKUMAR NAGINBHAI PATEL,,1
-Shendra-SEZ,Technician,Manufacturing,04-04-2016,Low,Low risk of leaving,Low risk of leaving,815343,RAJKUMAR BABURAO KONGLE,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,815344,VENKATESH KRISHNARAO VEDULLA,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,25-12-2014,Low,Low risk of leaving,Low risk of leaving,815362,DARPANKUMAR DUKHRAN PATEL,,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,18-08-2013,Low,Low risk of leaving,Low risk of leaving,815377,SOPAN DHANRAJ PATIL,,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,21-02-2014,Low,Low risk of leaving,Low risk of leaving,815385,DHAVAL HASMUKHBHAI PATEL,,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,01-02-2015,Low,Low risk of leaving,Low risk of leaving,815388,SANTOSHKUMAR KANHAIYALAL GUPTA,,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,03-03-2014,Low,Low risk of leaving,Low risk of leaving,815390,NILESH NAVINBHAI PATEL,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,01-07-2015,Low,Low risk of leaving,Low risk of leaving,815438,DNYANESHWAR MADHUKAR GORE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,31-07-2015,Low,Low risk of leaving,Low risk of leaving,815439,MAHENDRASINGH YUVRAJSINGH HAJARI,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,15-07-2013,Low,Low risk of leaving,Low risk of leaving,815523,SANTOSH SAHEBRAO AHER,,1
-Shendra-SEZ,Senior Officer,Manufacturing,16-11-2013,Low,Low risk of leaving,Low risk of leaving,815524,LEENA NARENDRA JAIN,,1
-Shendra-SEZ,Junior Executive,Manufacturing,06-10-2014,Medium,Team cohesion is low,Team mentorship is poor,815545,KIRAN BHAUSAHEB JADHAV,,1
-Shendra-SEZ,Technician,Manufacturing,24-03-2016,Low,Low risk of leaving,Low risk of leaving,815622,RAJKUMAR BHAGWANRAO JADHAV,,1
-Shendra-SEZ,Junior Assistant,Manufacturing,15-11-2014,Low,Low risk of leaving,Low risk of leaving,815626,BALU SHAINATH CHAVAN,,1
-Shendra-SEZ,Officer,Manufacturing,30-06-2013,Low,Low risk of leaving,Low risk of leaving,815660,PARASRAM NIVRUTTI SONAWANE,813205,1
-Shendra-SEZ,Junior Executive,Manufacturing,18-09-2013,Low,Low risk of leaving,Low risk of leaving,815709,RAHUL RAVINDRA KOLAPKAR,812522,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,01-07-2013,Low,Low risk of leaving,Low risk of leaving,815804,PRATAP VIJAY CHAUHAN,,1
-Shendra-SEZ,Assistant Manager,Manufacturing,26-10-2013,Low,Low risk of leaving,Low risk of leaving,815825,SAURABH SHRIPAD JOSHI,815492,1
-Daman-Bhimpore,Junior Executive,Manufacturing,26-07-2014,Low,Low risk of leaving,Low risk of leaving,815839,DHANRAJ PATIDAR,809384,1
-Daman-Bhimpore,Senior Officer,Manufacturing,08-04-2014,Low,Low risk of leaving,Low risk of leaving,815865,NIKHIL GOPINATH KARPE,810421,1
-Shendra-SEZ,Jr Executive,Manufacturing,28-12-2015,Low,Low risk of leaving,Low risk of leaving,815902,AKASH KRUSHNARAO PADE,812522,1
-Shendra-SEZ,Junior Executive,Manufacturing,28-08-2014,Low,Low risk of leaving,Low risk of leaving,815903,DNYANESHWAR ASHOKRAO DESHMUKH,813205,1
-Shendra-SEZ,Senior Officer,Manufacturing,17-05-2014,Low,Low risk of leaving,Low risk of leaving,815909,NITINKUMAR HARISH PATIL,809536,1
-Shendra-SEZ,Assistant Manager,Manufacturing,15-04-2016,Low,Low risk of leaving,Low risk of leaving,815910,PRAVIN BHAURAO ROKADE,800673,1
-Shendra-SEZ,Staff Trainee,Manufacturing,06-06-2014,Low,Low risk of leaving,Low risk of leaving,815914,SACHIN VASANTRAO TURUKMANE,,1
-Shendra-SEZ,Assistant,Manufacturing,21-03-2014,Low,Low risk of leaving,Low risk of leaving,815921,SANDIP GOVINDA KAKDE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,31-08-2013,Low,Low risk of leaving,Low risk of leaving,815925,SUNIL SANDU BIRSANE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,04-06-2014,Low,Low risk of leaving,Low risk of leaving,815967,PRAMODKUMAR OGARRAM KUMAWAT,809384,1
-Daman-Kadaiya,Junior Executive,Manufacturing,14-10-2014,Low,Low risk of leaving,Low risk of leaving,815968,JITENDRA ANNA JADHAV,809384,1
-Shendra-SEZ,Technician,Manufacturing,30-06-2013,Low,Low risk of leaving,Low risk of leaving,816149,THOMASH SOMPALNET IMAANUEL,,1
-Shendra-SEZ,Junior Executive,Manufacturing,17-07-2015,Low,Low risk of leaving,Low risk of leaving,816150,BRIJENDRA BIRENDRA CHOUHAN,817028,1
-Shendra-SEZ,Junior Executive,Manufacturing,09-05-2015,Low,Low risk of leaving,Low risk of leaving,816187,ANIKET ARUNRAO GADWE,812522,1
-Shendra-SEZ,Staff Trainee,Manufacturing,30-06-2013,Low,Low risk of leaving,Low risk of leaving,816193,BHAGWAT SAHEBRAO SHINDE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,09-05-2015,High,Average previous tenure is low,Team cohesion is low,816210,ARPIT SAXENA,819855,1
-Daman-Kadaiya,Senior Manager,Manufacturing,28-03-2014,Low,Low risk of leaving,Low risk of leaving,816270,DIVYESH CHAMPAKLAL SHAH,801054,1
-Shendra-SEZ,Sr. Officer,Manufacturing,28-01-2016,High,Performance is  low,Team mentorship is poor,816303,VIVEK BABURAO BOCHARE,809536,1
-Shendra-SEZ,Senior Assistant,Manufacturing,31-08-2013,Low,Low risk of leaving,Low risk of leaving,816304,VINAYKUMAR RAMTEERTH SHARMA,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,19-11-2014,Low,Low risk of leaving,Low risk of leaving,816305,RONAKKUMAR JAYESHBHAI THAKKAR,809384,1
-Daman-Kadaiya,Senior Officer,Manufacturing,12-01-2014,Low,Low risk of leaving,Low risk of leaving,816345,SRINIBAS TUMULU SUBUDHI,816270,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,30-11-2014,Low,Low risk of leaving,Low risk of leaving,816351,PUSHPENDRA SINGH SENGAR,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,816352,DINESHKUMAR MANILAL PATEL,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,08-08-2015,High,Average previous tenure is low,Team cohesion is low,816353,SANJAKUMAR BADAPILI PATRA,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,01-08-2013,High,Average previous tenure is low,Team cohesion is low,816356,MANISH PARSHURAM MAHYAVANSHI,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,816358,VIJAY RAMESH MOHOD,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,18-08-2014,High,Away from Home Town,Marital status is Single,816379,CHANDRAKANT PARMAR,809384,1
-Shendra-SEZ,Manager,Manufacturing,16-05-2015,Medium,Other Reason,Other Reason,816436,HIREN JANAKKUMAR ACHARYA,815492,1
-Shendra-SEZ,Executive,Manufacturing,25-02-2015,High,Away from Home Town,Other Reason,816441,DARSHAN GODHA,813205,1
-Shendra-SEZ,Executive,Manufacturing,06-05-2016,High,Away from Home Town,Other Reason,816444,NILESH JAGANNATH BHUTADA,802261,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,816470,GOVINDA CHANDRA PRADHAN,,1
-Daman-Kadaiya,Assistant Manager,Manufacturing,01-04-2014,Low,Low risk of leaving,Low risk of leaving,816493,BISHNU NARAYANA DAS,809384,1
-Shendra-SEZ,SENIOR ASSISTANT,Manufacturing,30-06-2013,Low,Low risk of leaving,Low risk of leaving,816500,ANAND UTTAMRAO DEORE,,1
-Shendra-SEZ,Executive,Manufacturing,10-12-2015,Low,Low risk of leaving,Low risk of leaving,816501,PANKAJ PRAKASHRAO GADGUL,800360,1
-Shendra-SEZ,ASSISTANT,Manufacturing,16-07-2013,Medium,Team cohesion is low,Team mentorship is poor,816503,GANESH SURESH MARATHE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,30-10-2013,Low,Low risk of leaving,Low risk of leaving,816505,YOGESH VITTHALARAO LOLGE,813205,1
-Shendra-SEZ,Assistant,Manufacturing,24-04-2015,Low,Low risk of leaving,Low risk of leaving,816508,MANGESH DNYNESHWAR DEORE,,1
-Shendra-SEZ,Junior Assistant,Manufacturing,04-02-2015,Low,Low risk of leaving,Low risk of leaving,816509,BHUSHAN GORAKH JADHAV,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,13-07-2014,Low,Low risk of leaving,Low risk of leaving,816541,NIPUN BABUBHAI PATEL,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,17-06-2016,Low,Low risk of leaving,Low risk of leaving,816550,MANOJ MANUBHAI PATEL,821297,1
-Daman-Kadaiya,Supervisor,Manufacturing,11-04-2015,Low,Low risk of leaving,Low risk of leaving,816628,TEJASHKUMAR RAMESHBHAI PATEL,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,816629,AVINASH MAHADEO URKUDE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,31-10-2015,Low,Low risk of leaving,Low risk of leaving,816687,SATYANARAYAN PRABHULAL VISHWAKARMA,809384,1
-Shendra-SEZ,Senior Officer,Manufacturing,17-05-2014,Low,Low risk of leaving,Low risk of leaving,816688,ANKUR HARIMOHAN SHARMA,816436,1
-Shendra-SEZ,Officer,Manufacturing,02-04-2014,Low,Low risk of leaving,Low risk of leaving,816689,JYOTI BIKRAM SATPATHY,809536,1
-Shendra-SEZ,Senior Officer,Manufacturing,24-12-2013,Low,Low risk of leaving,Low risk of leaving,816695,AMIT MAHESH CHANDRA,812837,1
-Daman-Bhimpore,Supervisor,Manufacturing,04-01-2014,High,Performance is  low,Average previous tenure is low,816741,YOGENDRA RAMESHRAO CHAUDHARY,,1
-Shendra-SEZ,Assistant,Manufacturing,30-11-2013,Low,Low risk of leaving,Low risk of leaving,816747,FASIHULLAH WAJIHULLAH MOHAMMED,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,20-11-2013,Low,Low risk of leaving,Low risk of leaving,816781,JIGNESH GHOHABHAI DESAI,807531,1
-Shendra-SEZ,Staff Trainee,Manufacturing,28-01-2016,Low,Low risk of leaving,Low risk of leaving,816785,PRAMOD DEVRAO NAVGHARE,817363,1
-Shendra-SEZ,Staff Trainee,Manufacturing,08-12-2014,Low,Low risk of leaving,Low risk of leaving,816786,VINOD ARUN NIKAM,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,13-01-2014,High,Team cohesion is low,Team mentorship is poor,816787,NITIN RAOSAHEB GHUNGRAD,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,31-07-2015,Low,Low risk of leaving,Low risk of leaving,816789,RAHULKUMAR CHANDRAKANTBHAI PATEL,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,16-04-2015,Low,Low risk of leaving,Low risk of leaving,816791,MAHENDRA ASHOK SAINDANE,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,816793,DILEP SONIA DAKUA,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,31-08-2015,Medium,Other Reason,Other Reason,816794,SANTOSHKUMAR DHANESWAR PANIGRAHY,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,21-03-2015,Low,Low risk of leaving,Low risk of leaving,816795,NILANCHALA BISWANATHA MAHARANA,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,08-08-2015,Low,Low risk of leaving,Low risk of leaving,816796,ABANIKUMAR SURJYAMANI NAYAK,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,01-07-2013,Low,Low risk of leaving,Low risk of leaving,816797,RONAK PRAVINBHAI PATEL,,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,31-08-2015,Low,Low risk of leaving,Low risk of leaving,816818,JAYMIN ASHOKBHAI PATEL,,1
-Daman-Kadaiya,Trainee Workman,Manufacturing,31-07-2014,Medium,Average previous tenure is low,Team cohesion is low,816819,SAMADHAN JAGANNATH PATIL,,1
-Shendra-SEZ,Junior Assistant,Manufacturing,12-03-2015,Low,Low risk of leaving,Low risk of leaving,816822,NIVRUTTI SARJERAO DEVRE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,30-06-2013,Medium,Team cohesion is low,Team mentorship is poor,816826,VISHWABHUSHAN RAMESH GAIKWAD,810381,1
-Daman-Bhimpore,Trainee Workman,Manufacturing,11-03-2015,Low,Low risk of leaving,Low risk of leaving,816827,LAXMIKANT GULABRAO PATIL,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,31-12-2013,Low,Low risk of leaving,Low risk of leaving,816854,MUKHTAR SHABBIR SAYYED,,1
-Shendra,Senior Research Associate,Research & Development,04-04-2016,Medium,Average previous tenure is low,Marital status is Single,816860,PRADEEP KUMAR MURARI,810606,1
-Shendra-SEZ,Junior Assistant,Manufacturing,21-08-2013,Low,Low risk of leaving,Low risk of leaving,816863,DURYODHAN SURESH KAWARE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,19-05-2014,Low,Low risk of leaving,Low risk of leaving,816864,VRUTA CHHOTUBHAI PATEL,812522,1
-Shendra-SEZ,Assistant,Manufacturing,27-06-2015,Low,Low risk of leaving,Low risk of leaving,816865,RITHEESH ES,,1
-Shendra-SEZ,Assistant,Manufacturing,14-08-2014,Low,Low risk of leaving,Low risk of leaving,816866,KUNDLIK VITTHALRAO CHAVARE,,1
-Shendra-SEZ,Executive,Manufacturing,18-11-2015,Low,Low risk of leaving,Low risk of leaving,816878,KALP JARWAL,812837,1
-Shendra-SEZ,Assistant,Manufacturing,13-05-2016,Medium,Team cohesion is low,Team mentorship is poor,816881,KIRAN SHALIGRAM PAWAR,,1
-Daman-Bhimpore,Executive,Manufacturing,20-10-2014,Low,Low risk of leaving,Low risk of leaving,816919,PURVANGKUMAR CHATURBHAI PANSURIYA,809384,1
-Daman-Bhimpore,Supervisor,Manufacturing,17-12-2013,Medium,Team cohesion is low,Team mentorship is poor,816920,AJAYKUMAR BHARATKUMAR VANZA,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,01-01-2014,Low,Low risk of leaving,Low risk of leaving,816966,TUSHAR DILIP DEOKAR,810421,1
-Daman-Bhimpore,Executive,Manufacturing,09-07-2014,Low,Low risk of leaving,Low risk of leaving,816967,NITIN PRAVEEN JAISWAL,809384,1
-Daman-Bhimpore,Technician,Manufacturing,30-07-2013,Medium,Team cohesion is low,Team mentorship is poor,816974,JITENDRIYA JASOBANTA PRADHAN,,1
-Shendra-SEZ,Senior Manager,Manufacturing,18-06-2016,Low,Low risk of leaving,Low risk of leaving,817028,ATUL AMBADAS KSHIRSAGAR,814156,1
-Shendra-SEZ,Junior Executive,Manufacturing,27-01-2015,Low,Low risk of leaving,Low risk of leaving,817036,SANJAY KUMAR PATIDAR,814542,1
-Shendra-SEZ,Senior Officer,Manufacturing,17-05-2014,Low,Low risk of leaving,Low risk of leaving,817076,SAMEER KABIR PATHAN,815825,1
-Shendra-SEZ,Staff Trainee,Manufacturing,31-08-2013,Low,Low risk of leaving,Low risk of leaving,817077,SANTOSH BADRINATH GORE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,07-04-2016,Low,Low risk of leaving,Low risk of leaving,817078,PATANANA MANIKANTHA,,1
-Daman-Bhimpore,Executive,Manufacturing,28-02-2014,Low,Low risk of leaving,Low risk of leaving,817141,JAYESH RAMESH DOUND,810421,1
-Daman-Bhimpore,Executive,Manufacturing,10-04-2014,Low,Low risk of leaving,Low risk of leaving,817218,DEEPAK JAIN,809384,1
-Daman-Kadaiya,Senior Officer,Manufacturing,24-04-2014,Low,Low risk of leaving,Low risk of leaving,817219,SOUMYA SWAROOP,809384,1
-Shendra-SEZ,Officer,Manufacturing,25-03-2014,Low,Low risk of leaving,Low risk of leaving,817222,VIDYARTHY PARAMVIR TIWARY,812837,1
-Shendra-SEZ,Assistant Manager,Manufacturing,07-04-2016,Low,Low risk of leaving,Low risk of leaving,817235,OMPRAKASH BHAGAWANRAO BODKE,817622,1
-Shendra-SEZ,Officer,Manufacturing,28-12-2013,Low,Low risk of leaving,Low risk of leaving,817236,SUVARNA HEMANT PATIL,812837,1
-Shendra-SEZ,Jr Executive,Manufacturing,09-04-2014,Low,Low risk of leaving,Low risk of leaving,817239,DATTATRAYA HARI CHAVARE,805965,1
-Shendra-SEZ,Executive,Manufacturing,23-02-2015,Low,Low risk of leaving,Low risk of leaving,817243,MD IRSHAD ALAM,817622,1
-Shendra-SEZ,Senior Executive,Manufacturing,23-07-2015,High,Average previous tenure is low,Marital status is Single,817281,ANIL SAHEBRAO SHEJAWAL,809536,1
-Daman-Bhimpore,Senior Officer,Manufacturing,12-05-2015,Low,Low risk of leaving,Low risk of leaving,817282,PRASANNA KUMAR BARIK,810421,1
-Daman-Bhimpore,Deputy General Manager,Manufacturing,08-12-2014,Low,Low risk of leaving,Low risk of leaving,817283,HARISH VYAS,809384,1
-Shendra-SEZ,Staff Trainee,Manufacturing,07-05-2016,Low,Low risk of leaving,Low risk of leaving,817293,SURAJ PRAKASH DANDGAVHAL,,1
-Daman-Bhimpore,Supervisor,Manufacturing,12-05-2015,Medium,Manager specific reason,Team cohesion is low,817318,BHAVIK MANUBHAI SHAH,,1
-Shendra-SEZ,Senior Officer,Manufacturing,02-10-2015,Low,Low risk of leaving,Low risk of leaving,817321,AMOL VISHNUPANT GOSAVI,817622,1
-Daman-Kadaiya,Jr. Executive,Manufacturing,11-05-2015,Low,Low risk of leaving,Low risk of leaving,817328,AMULYA RANJAN MOHANTY,809384,1
-Shendra-SEZ,Assistant General Manager,Manufacturing,12-04-2016,Low,Low risk of leaving,Low risk of leaving,817363,SANTOSH DAMODAR MUTTEPAWAR,818804,1
-Shendra-SEZ,Executive,Manufacturing,29-01-2015,Low,Low risk of leaving,Low risk of leaving,817368,NANDKISHOR BHAUSAHEB KALAMKAR,812522,1
-Shendra-SEZ,Senior Officer,Manufacturing,02-06-2014,Low,Low risk of leaving,Low risk of leaving,817369,AJAY SANGAPPA ANSARWADE,809536,1
-Shendra-SEZ,Executive,Manufacturing,23-08-2014,Low,Low risk of leaving,Low risk of leaving,817371,JALINDAR DATTATRYA DEMUNDE,816079,1
-Daman-Kadaiya,Junior Executive,Manufacturing,20-02-2014,Medium,Average previous tenure is low,Team cohesion is low,817474,CHANDRA PRAKASH GAUTAM,809384,1
-Shendra-SEZ,Senior Executive,Manufacturing,29-05-2015,Low,Low risk of leaving,Low risk of leaving,817488,KISHOR KUMAR DESHMUKH,817622,1
-Shendra-SEZ,Jr. Executive,Manufacturing,13-01-2015,Low,Low risk of leaving,Low risk of leaving,817489,MEHUL NARSINHBHAI PARMAR,816436,1
-Shendra-SEZ,Senior Officer,Manufacturing,29-08-2014,Low,Low risk of leaving,Low risk of leaving,817535,KARANKUMAR MUKESHBHAI PATEL,800360,1
-Shendra-SEZ,Senior Assistant,Manufacturing,06-05-2014,Low,Low risk of leaving,Low risk of leaving,817536,NITIN LAXMANRAO BHAGYAWANT,,1
-Daman-Kadaiya,Officer,Manufacturing,01-12-2013,Low,Low risk of leaving,Low risk of leaving,817539,VINAYKUMAR BALVANTRAI PATEL,809384,1
-Daman-Bhimpore,Senior Officer,Manufacturing,30-12-2013,Medium,Team cohesion is low,Marital status is Single,817540,TEJAS DHIRAJLAL PATEL,809384,1
-Daman-Kadaiya,Senior Officer,Manufacturing,29-10-2013,Low,Low risk of leaving,Low risk of leaving,817541,BHUPENDRA POPATRAO PAWAR,809384,1
-Daman-Bhimpore,Senior Officer,Manufacturing,12-01-2014,Low,Low risk of leaving,Low risk of leaving,817542,AMIT RAMESHBHAI PATEL,809384,1
-Daman-Kadaiya,Senior Officer,Manufacturing,10-11-2013,Low,Low risk of leaving,Low risk of leaving,817543,BRIJESH SINGH KUSHAWAHA,816270,1
-Daman-Bhimpore,Junior Executive,Manufacturing,10-12-2013,Low,Low risk of leaving,Low risk of leaving,817544,PRATIN MUKESHKUMAR DIGASWALA,810421,1
-Shendra-SEZ,Senior Manager,Manufacturing,02-04-2016,Low,Low risk of leaving,Low risk of leaving,817629,SACHIN RAMCHANDRA OGALE,816772,1
-Shendra-SEZ,Senior Officer,Manufacturing,14-07-2015,Low,Low risk of leaving,Low risk of leaving,817630,SATISH BHAGWAN JOSHI,812837,1
-Shendra-SEZ,Senior Executive,Manufacturing,28-10-2015,Low,Low risk of leaving,Low risk of leaving,817690,PRAMOD KUMAR GAUR,817622,1
-Daman-Bhimpore,Officer,Manufacturing,06-03-2014,Low,Low risk of leaving,Low risk of leaving,817691,NARENDRA VAIJANATH KARPE,817283,1
-Shendra-SEZ,Junior Executive,Manufacturing,26-11-2014,Low,Low risk of leaving,Low risk of leaving,817737,DINESH DNYANESHWAR PATIL,818391,1
-Shendra-SEZ,Assistant,Manufacturing,30-07-2015,Low,Low risk of leaving,Low risk of leaving,817740,MANOJ MADHUKAR MASKE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-12-2014,Low,Low risk of leaving,Low risk of leaving,817741,DATTATRAY RANGNATH BANKAR,818133,1
-Shendra-SEZ,Supervisor,Manufacturing,21-09-2015,Low,Low risk of leaving,Low risk of leaving,817742,ARVIND KUMAR GAUTAM,,1
-Shendra-SEZ,Senior Assistant,Manufacturing,30-11-2013,Low,Low risk of leaving,Low risk of leaving,817743,DHANANJAY NAGESHRAO KULKARNI,,1
-Shendra-SEZ,Executive,Manufacturing,11-05-2015,Medium,Average previous tenure is low,Team cohesion is low,817790,VIKAS SUBHASH PAWAR,809531,1
-Shendra-SEZ,Senior Executive,Manufacturing,27-10-2015,Low,Low risk of leaving,Low risk of leaving,817791,PRASHANT SHANKAR VAGHODE,800360,1
-Shendra-SEZ,Staff Trainee,Manufacturing,30-11-2015,Low,Low risk of leaving,Low risk of leaving,817794,AFRINBANO SHAIKH,,1
-Shendra-SEZ,Sr.Officer,Manufacturing,24-06-2015,Low,Low risk of leaving,Low risk of leaving,817797,AMAR PATIL,816436,1
-Shendra-SEZ,Junior Executive,Manufacturing,01-07-2015,Low,Low risk of leaving,Low risk of leaving,817798,SAGAR CHOUDHARI,816436,1
-Shendra-SEZ,Junior Executive,Manufacturing,11-05-2015,Low,Low risk of leaving,Low risk of leaving,817799,AMOL PANDE,818487,1
-Shendra-SEZ,Senior Officer,Manufacturing,15-05-2015,Low,Low risk of leaving,Low risk of leaving,817831,ANIL DALEKAR,817690,1
-Shendra-SEZ,Senior Executive,Manufacturing,23-05-2016,Low,Low risk of leaving,Low risk of leaving,817832,JEEVAN MEENA,5445,1
-Shendra-SEZ,Supervisor,Manufacturing,04-04-2015,Low,Low risk of leaving,Low risk of leaving,817833,NARSING VASANT GURAV,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,15-03-2016,Low,Low risk of leaving,Low risk of leaving,817839,DEBENDRA KUMAR BAL,807450,1
-Daman-Bhimpore,Senior Officer,Manufacturing,05-02-2014,Low,Low risk of leaving,Low risk of leaving,817865,SWAPNIL NAMDEO BUGE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,27-07-2014,Low,Low risk of leaving,Low risk of leaving,817866,AMIT TIWARI,809256,1
-Daman-Bhimpore,Executive,Manufacturing,25-09-2015,Low,Low risk of leaving,Low risk of leaving,817867,PRATIK ASHWINKUMAR PANDYA,807450,1
-Daman-Bhimpore,Technician,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,817869,JATESHWAR PRAVHAKAR PRADHAN,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,817870,JANARDANA PADMACHARAN RANA,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,04-03-2016,Low,Low risk of leaving,Low risk of leaving,817872,SURENDRA RAMLAL RAM,821021,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,817876,PRAVIN UDESING BAGALE,,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,04-03-2016,Low,Low risk of leaving,Low risk of leaving,817877,AJEET BADAN YADAV,821021,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,04-03-2016,Low,Low risk of leaving,Low risk of leaving,817878,PRADEEP ISHWAR MENDULI,821021,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,817879,LOCHAN SUKANA BHOI,,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,31-07-2014,Medium,Average previous tenure is low,Team cohesion is low,817881,DHIRAJ BALCHANDRA PATIL,,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,817883,CHANDRA RAJBHAR RAMESH,,1
-Shendra-SEZ,Assistant,Manufacturing,29-09-2014,Medium,Average previous tenure is low,Manager specific reason,817886,MAHENDRA JHAPATE,,1
-Shendra-SEZ,Senior Executive,Manufacturing,14-07-2016,Low,Low risk of leaving,Low risk of leaving,817887,WASIMKHAN VAJIRKHAN PATHAN,817922,1
-Shendra-SEZ,Sr.Officer,Manufacturing,03-02-2015,Low,Low risk of leaving,Low risk of leaving,817913,PRAVIN VILAS DAUNDKAR,800360,1
-Shendra-SEZ,Junior Executive,Manufacturing,31-10-2015,Low,Low risk of leaving,Low risk of leaving,817920,GANESH NIVRUTTIRAO LONIKAR,818066,1
-Shendra-SEZ,Assistant  Manager,Manufacturing,14-01-2016,Medium,Average previous tenure is low,Team cohesion is low,817922,SANDIP MHASE,818049,1
-Shendra-SEZ,Junior Executive,Manufacturing,25-03-2015,Low,Low risk of leaving,Low risk of leaving,817924,SURABHI SACHAN,812522,1
-Daman-Bhimpore,Senior Officer,Manufacturing,17-08-2015,Low,Low risk of leaving,Low risk of leaving,817926,SHAILESH SONTAKE,807450,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,817927,AJIT SANKARSANA PANDA,,1
-Daman-Bhimpore,Officer,Manufacturing,13-01-2014,High,Manager specific reason,Team mentorship is poor,817932,SUBUR ARSHAD MOHAMMAD,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,26-05-2014,Low,Low risk of leaving,Low risk of leaving,817933,BINAY KUMAR JHA,807450,1
-Shendra-SEZ,Senior Officer,Manufacturing,02-04-2015,Medium,Performance is  low,Manager specific reason,818016,AMOL JADHAV,809536,1
-Shendra-SEZ,Executive,Manufacturing,19-02-2016,Low,Low risk of leaving,Low risk of leaving,818017,PRAVIN KARAD,817622,1
-Daman-Kadaiya,Executive,Manufacturing,21-02-2014,Low,Low risk of leaving,Low risk of leaving,818024,PINALKUMAR MAGANBHAI PRAJAPATI,817985,1
-Shendra-SEZ,Senior Executive,Manufacturing,09-02-2015,Low,Low risk of leaving,Low risk of leaving,818050,BHARAT PAWAR,816436,1
-Shendra-SEZ,Manager,Manufacturing,16-07-2015,Low,Low risk of leaving,Low risk of leaving,818051,NILESHKUMAR BHAILAL SONI,800673,1
-Daman-Bhimpore,Jr. Executive,Manufacturing,19-03-2015,Low,Low risk of leaving,Low risk of leaving,818052,AMIT MAHENDRABHAI PATEL,817943,1
-Daman-Bhimpore,Vice President,Manufacturing,05-02-2014,Low,Low risk of leaving,Low risk of leaving,818064,RAJKAMAL DEVRAJ KOHLI,,1
-Shendra-SEZ,Manager,Manufacturing,15-05-2015,Low,Low risk of leaving,Low risk of leaving,818066,GOPICHAND CHAPHEKANADE,818065,1
-Shendra-SEZ,Senior Executive,Manufacturing,26-09-2014,Low,Low risk of leaving,Low risk of leaving,818102,BHAVESH RAMJIBHAI PATEL,818853,1
-Daman-Bhimpore,Executive,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,818132,MAHESH HIMATBHAI KATHIRIYA,810421,1
-Daman-Kadaiya,Executive,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,818152,HEMANG SANJAYBHAI BHAGAT,817985,1
-Daman-Kadaiya,Senior Officer,Manufacturing,10-12-2014,Low,Low risk of leaving,Low risk of leaving,818153,DARSHAN UTTAMBHAI PRAJAPATI,817985,1
-Daman-Kadaiya,Assistant Manager,Manufacturing,03-10-2015,Low,Low risk of leaving,Low risk of leaving,818159,SURESH SHARMA,818214,1
-Shendra-SEZ,Assistant Manager,Manufacturing,07-09-2015,Low,Low risk of leaving,Low risk of leaving,818195,BIPIN KUMAR,817917,1
-Shendra-SEZ,Junior Executive,Manufacturing,12-11-2014,Low,Low risk of leaving,Low risk of leaving,818199,LOVE DISORIA,818487,1
-Shendra-SEZ,Senior Officer,Manufacturing,17-07-2014,Low,Low risk of leaving,Low risk of leaving,818200,AVANISH TRIPATHI,818853,1
-Shendra-SEZ,Senior Officer,Manufacturing,29-06-2015,Low,Low risk of leaving,Low risk of leaving,818249,SUNNY DAMODAR GHORPADE,818066,1
-Shendra-SEZ,Senior Officer,Manufacturing,05-09-2015,Low,Low risk of leaving,Low risk of leaving,818252,SHRIRAM SHANKARRAO DAHALE,818065,1
-Shendra-SEZ,Junior Executive,Manufacturing,09-07-2014,Medium,Other Reason,Other Reason,818253,DEEPAK DUBEY,818065,1
-Daman-Kadaiya,Executive,Manufacturing,27-06-2015,Medium,Team cohesion is low,Team mentorship is poor,818300,UDAY BAHADUR SINGH,817985,1
-Daman-Bhimpore,Senior Executive,Manufacturing,30-01-2014,Low,Low risk of leaving,Low risk of leaving,818302,MAHENDRA SHIVAJI TAWADE,,1
-Daman-Bhimpore,Senior Executive,Manufacturing,02-05-2016,Low,Low risk of leaving,Low risk of leaving,818304,TUSHAR VASANT ASHTAPUTRE,807450,1
-Daman-Kadaiya,Junior Executive,Manufacturing,02-03-2015,Low,Low risk of leaving,Low risk of leaving,818307,PRATYUSHA KUMAR TRIPATHY,817943,1
-Shendra-SEZ,Senior Executive,Manufacturing,20-02-2014,Low,Low risk of leaving,Low risk of leaving,818309,PRAVEEN KHATEDIYA,,1
-Shendra-SEZ,Junior Executive,Manufacturing,02-08-2015,Low,Low risk of leaving,Low risk of leaving,818312,SHIRISH NIGADE,817629,1
-Shendra-SEZ,Junior Executive,Manufacturing,30-04-2014,Low,Low risk of leaving,Low risk of leaving,818313,MURLIDHAR SHELKE,809536,1
-Shendra-SEZ,Staff Trainee,Manufacturing,09-01-2016,Low,Low risk of leaving,Low risk of leaving,818314,DINESH CHAVARE,817363,1
-Shendra-SEZ,Assistant,Manufacturing,09-08-2014,Low,Low risk of leaving,Low risk of leaving,818315,SANDIP GIRASE,,1
-Shendra-SEZ,Senior Executive,Manufacturing,30-04-2015,Low,Low risk of leaving,Low risk of leaving,818316,VVSMURTHY KANDUKURI,818133,1
-Shendra-SEZ,EXECUTIVE,Manufacturing,30-05-2016,Low,Low risk of leaving,Low risk of leaving,818327,BRAJBHAN SINGH RAJPUT,5445,1
-Daman-Bhimpore,Senior Officer,Manufacturing,01-04-2015,Low,Low risk of leaving,Low risk of leaving,818382,DHANURDDHAR DAS,810421,1
-Shendra-SEZ,Executive,Manufacturing,29-11-2014,Low,Low risk of leaving,Low risk of leaving,818389,ABHISHEK BHALCHANDRA GORE,5445,1
-Shendra-SEZ,Sr. Executive,Manufacturing,25-07-2015,Low,Low risk of leaving,Low risk of leaving,818391,NAMDEV PATIL,818852,1
-Shendra-SEZ,Officer,Manufacturing,03-01-2014,High,Manager specific reason,Team cohesion is low,818392,KAUSTUBH RAMESH AHIR,,1
-Shendra-SEZ,Executive,Manufacturing,30-07-2015,Low,Low risk of leaving,Low risk of leaving,818395,BHUSHAN BHADANE,818065,1
-Shendra-SEZ,Senior Officer,Manufacturing,17-12-2014,Low,Low risk of leaving,Low risk of leaving,818396,SHAHAJI BHUJBAL,809536,1
-Shendra-SEZ,Junior Executive,Manufacturing,15-06-2015,Low,Low risk of leaving,Low risk of leaving,818426,SAGAR JAIN,818133,1
-Shendra-SEZ,Executive,Manufacturing,17-07-2014,High,Team cohesion is low,Team mentorship is poor,818427,VIPUL JAYANTILAL JAIN,817629,1
-Shendra-SEZ,Senior  Assistant,Manufacturing,21-02-2015,Low,Low risk of leaving,Low risk of leaving,818428,MANGESH DHAMNE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,03-11-2014,Low,Low risk of leaving,Low risk of leaving,818433,VISHAL PRAKASH PATEL,809256,1
-Daman-Kadaiya,Trainee Technician,Manufacturing,30-04-2014,Low,Low risk of leaving,Low risk of leaving,818434,GOPAL VINODBHAI VAJA,,1
-EOU Tab-Waluj,Manager,Manufacturing,29-02-2016,Medium,Other Reason,Other Reason,818437,CHETAN JAGDALE,818065,1
-Shendra-SEZ,Executive,Manufacturing,29-12-2015,Medium,Team mentorship is poor,Other Reason,818469,PRAMOD CHANABASAYYA HIREMATH,817922,1
-Shendra-SEZ,Executive,Manufacturing,09-07-2015,Low,Low risk of leaving,Low risk of leaving,818472,SANDEEP RATNAKARRAO KULKARNI,817690,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-08-2015,Low,Low risk of leaving,Low risk of leaving,818474,SUSHMA SINGH,817922,1
-Daman-Bhimpore,Executive,Manufacturing,10-11-2014,Low,Low risk of leaving,Low risk of leaving,818479,ANISHA VAIBHAV GUJARATHI,807450,1
-Daman-Bhimpore,Senior Officer,Manufacturing,27-03-2014,Low,Low risk of leaving,Low risk of leaving,818481,KRUNAL MUKESHKUMAR GANDHI,,1
-Shendra-SEZ,Senior Manager,Manufacturing,11-07-2014,Medium,Team cohesion is low,Team mentorship is poor,818487,SHRIANANT VISHNUDAS SAVANT,818049,1
-Shendra-SEZ,Senior Executive,Manufacturing,03-03-2015,Low,Low risk of leaving,Low risk of leaving,818524,SANJAYA PANIGRAHY,818487,1
-Shendra-SEZ,Senior Officer,Manufacturing,05-09-2015,High,Team cohesion is low,Team mentorship is poor,818526,RAHUL PATIL,818129,1
-Shendra-SEZ,Senior Executive,Manufacturing,20-03-2015,Low,Low risk of leaving,Low risk of leaving,818536,PANDURANG WAGH,818133,1
-Shendra-SEZ,Supervisor,Manufacturing,22-08-2015,Low,Low risk of leaving,Low risk of leaving,818539,GANESH GARULE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,03-10-2015,Medium,Team cohesion is low,Team mentorship is poor,818540,DEEPAK KALE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,19-12-2015,Low,Low risk of leaving,Low risk of leaving,818542,SANDEEP KHARSE,,1
-Daman-Bhimpore,Technician,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,818543,MAHESH SHIVSARAN PRAJAPATI,,1
-Daman-Kadaiya,Executive,Manufacturing,08-10-2015,Low,Low risk of leaving,Low risk of leaving,818545,SANTOSH RAJARAM TAVARE,817943,1
-Daman-Bhimpore,Senior Officer,Manufacturing,05-09-2014,Medium,Team cohesion is low,Team mentorship is poor,818546,VINAY MANGAL,807450,1
-Daman-Bhimpore,Junior Executive,Manufacturing,20-08-2015,High,Average previous tenure is low,Team cohesion is low,818547,SANJEEV KUMAR DHAR,817939,1
-Daman-Bhimpore,Senior Officer,Manufacturing,05-12-2014,Low,Low risk of leaving,Low risk of leaving,818579,VIKAS PRAVINBHAI DHANKECHA,809256,1
-Daman-Bhimpore,Senior Officer,Manufacturing,15-01-2015,Low,Low risk of leaving,Low risk of leaving,818580,BHAVIN JAYANTILAL GOTHI,807450,1
-Daman-Bhimpore,Senior Executive,Manufacturing,26-05-2014,Low,Low risk of leaving,Low risk of leaving,818588,MANISH KUMAR SINGH,818065,1
-Shendra-SEZ,Senior Assistant,Manufacturing,15-09-2015,Low,Low risk of leaving,Low risk of leaving,818589,PRASHANT PRAKASHRAO VYAWHARE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,18-04-2016,High,Average previous tenure is low,Manager specific reason,818590,SWAPNIL VIJAY KORDE,818437,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-06-2014,Low,Low risk of leaving,Low risk of leaving,818591,AMOL MAGANLAL BASAIYE,816436,1
-Shendra-SEZ,Senior Officer,Manufacturing,30-10-2015,Low,Low risk of leaving,Low risk of leaving,818595,RAJESH AMMESETTI,818133,1
-Chikalthana,Senior VP - Manufacturing,Manufacturing,05-09-2015,Low,Low risk of leaving,Low risk of leaving,818599,GOVIND SHANKER PANDEY,819144,1
-Shendra-SEZ,Junior Executive,Manufacturing,02-09-2015,Low,Low risk of leaving,Low risk of leaving,818624,SHRUTI RAWAT,5445,1
-Daman-Bhimpore,Senior Officer,Manufacturing,06-05-2015,Low,Low risk of leaving,Low risk of leaving,818669,VISHAL VASANT KALAL,809256,1
-Daman-Bhimpore,Junior Executive,Manufacturing,24-08-2015,Low,Low risk of leaving,Low risk of leaving,818670,ASHUTOSH SHUKLA,807450,1
-Daman-Bhimpore,Senior Officer,Manufacturing,08-04-2015,Low,Low risk of leaving,Low risk of leaving,818671,PANKAJ SHRIRAM ALAI,817943,1
-Daman-Kadaiya,Officer,Manufacturing,08-01-2015,Low,Low risk of leaving,Low risk of leaving,818672,VILAS THANSING RAJPUT,817943,1
-Daman-Kadaiya,Senior Officer,Manufacturing,20-02-2016,Low,Low risk of leaving,Low risk of leaving,818673,BHAVIK KAMLESHBHAI TAMBOLI,807369,1
-Daman-Bhimpore,Senior Officer,Manufacturing,06-07-2014,Medium,Away from Home Town,Marital status is Single,818675,PRADEEP POPAT FUGE,807450,1
-Daman-Bhimpore,Technician,Manufacturing,11-05-2015,Low,Low risk of leaving,Low risk of leaving,818676,RANJIT KUMAR DNAGA,,1
-Daman-Kadaiya,Officer,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,818677,SUNIL KUMAR PAL,817943,1
-Daman-Bhimpore,Senior Officer,Manufacturing,03-11-2015,Medium,Performance is  low,Away from Home Town,818704,AJITKUMAR DINANATH YADAV,809256,1
-Daman-Bhimpore,Senior Officer,Manufacturing,25-12-2015,Low,Low risk of leaving,Low risk of leaving,818709,ASIF ALAM,809256,1
-Daman-Bhimpore,Technician,Manufacturing,18-06-2014,Low,Low risk of leaving,Low risk of leaving,818710,HARISH MURLIDHAR KOTHI,,1
-Daman-Bhimpore,Assistant Manager,Manufacturing,10-10-2014,Low,Low risk of leaving,Low risk of leaving,818711,RAJENDRA PRASAD BYSANI,810172,1
-Daman-Bhimpore,Technician,Manufacturing,09-04-2015,Low,Low risk of leaving,Low risk of leaving,818712,RAJENDRA HAWLDAR,,1
-Daman-Bhimpore,Technician,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,818713,RAVINRA THAKOR,,1
-Daman-Kadaiya,Executive,Manufacturing,05-04-2015,Low,Low risk of leaving,Low risk of leaving,818716,SAGAR DATTU PATIL,817943,1
-Daman-Kadaiya,Junior Executive,Manufacturing,21-03-2015,Low,Low risk of leaving,Low risk of leaving,818717,SUNIL SURESH SUSAR,817943,1
-Shendra-SEZ,Senior Executive,Manufacturing,15-12-2014,Low,Low risk of leaving,Low risk of leaving,818720,AVINASH NIMBAJI SALUNKE,814213,1
-Daman-Bhimpore,Officer,Manufacturing,31-07-2014,Medium,Performance is  low,Away from Home Town,818752,GAJENDRA CHANDELKAR,809256,1
-Daman-Kadaiya,Senior Officer,Manufacturing,02-06-2015,Low,Low risk of leaving,Low risk of leaving,818753,AAKASH RAJENDRABHAI SHAH,817943,1
-Shendra-SEZ,Assistant Manager,Manufacturing,16-07-2016,Low,Low risk of leaving,Low risk of leaving,818755,SUNIL BHAMBHANI,818065,1
-Shendra-SEZ,Assistant,Manufacturing,07-07-2014,Low,Low risk of leaving,Low risk of leaving,818757,AMRENDAR KAUR,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,10-10-2014,Low,Low risk of leaving,Low risk of leaving,818797,UPENDRA SINGH SENGAR,817622,1
-Daman-Bhimpore,Senior Officer,Manufacturing,26-03-2015,Low,Low risk of leaving,Low risk of leaving,818798,VISHAL ARUN LACHAKE,810421,1
-Shendra-SEZ,Vice President,Manufacturing,07-07-2015,Medium,Age of person is  low,Team cohesion is low,818804,VRKS SRINIVASRAO BODDETI,818599,1
-Daman-Bhimpore,Senior Officer,Manufacturing,08-09-2015,High,Manager specific reason,Team cohesion is low,818808,AMARSINHA SAMBHAJIRAO DESHMUKH,817622,1
-Shendra-SEZ,Senior Officer,Manufacturing,28-05-2016,Low,Low risk of leaving,Low risk of leaving,818834,SADASHIV THOKAL,800673,1
-Shendra-SEZ,Assistant Manager,Manufacturing,06-02-2015,Medium,Team cohesion is low,Team mentorship is poor,818836,BHUPENDRASINH PARMAR,800673,1
-Daman-Bhimpore,Technician,Manufacturing,01-11-2014,Medium,Team cohesion is low,Team mentorship is poor,818856,DHARMESH LAVJIBHAI PATEL,,1
-Daman-Bhimpore,Technician,Manufacturing,31-07-2014,Medium,Performance is  low,Team cohesion is low,818858,RAMNANDAN GAUTAM,,1
-Daman-Bhimpore,Technician,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,818859,SITASHARAN RAJKISHOR GARG,,1
-Daman-Kadaiya,Assistant Manager,Manufacturing,23-02-2015,Low,Low risk of leaving,Low risk of leaving,818878,JITENDRA RAGHUNATH MOHITE,817985,1
-Daman-Kadaiya,Senior Officer,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,818879,SHASHIKANT PANDEY,817985,1
-Chikalthana,Senior Executive,Manufacturing,11-04-2015,Low,Low risk of leaving,Low risk of leaving,818883,SUBHA PRAKASH TRIPATHY,817985,1
-Shendra-SEZ,Assistant Manager,Manufacturing,06-07-2015,Low,Low risk of leaving,Low risk of leaving,818936,SHARAD TRIVEDI,815492,1
-Daman-Bhimpore,Executive,Manufacturing,15-05-2015,Low,Low risk of leaving,Low risk of leaving,818937,SOMANATH BIPINI SAHU,817943,1
-Daman-Bhimpore,Senior Officer,Manufacturing,08-03-2016,Low,Low risk of leaving,Low risk of leaving,818939,DEEPALEE RAMANBHAI PATEL,817943,1
-Daman-Bhimpore,Technician,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,818943,BHAVESH ANANDBHAI BIRARI,,1
-Shendra-SEZ,Senior Officer,Manufacturing,28-11-2015,Medium,Manager specific reason,Team mentorship is poor,818967,KISHOR RAVINDRA DESHMUKH,818065,1
-Shendra-SEZ,Systems Engineer,Manufacturing,17-11-2014,Low,Low risk of leaving,Low risk of leaving,818968,SANDEEP PANDITA,3274,1
-Daman-Kadaiya,Senior Officer,Manufacturing,31-07-2015,Medium,Away from Home Town,Other Reason,818971,SUBHASH BATHULA,817985,1
-Daman-Kadaiya,Technician,Manufacturing,08-09-2014,Low,Low risk of leaving,Low risk of leaving,818973,SOMNATH PAUL,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,21-09-2015,Low,Low risk of leaving,Low risk of leaving,818975,SHARAD NANASAHEB WANI,817622,1
-Daman-Bhimpore,Executive,Manufacturing,13-11-2015,Low,Low risk of leaving,Low risk of leaving,818976,BIKASH KUMAR SENAPATI,818544,1
-Daman-Kadaiya,Senior Officer,Manufacturing,05-04-2015,Low,Low risk of leaving,Low risk of leaving,818980,UTTAM SINGH DANGI,817985,1
-Daman-Kadaiya,Officer,Manufacturing,20-04-2015,Low,Low risk of leaving,Low risk of leaving,818981,SHRINIVAS GANPATRAO GAIKWAD,810421,1
-Shendra-SEZ,Junior Assistant,Manufacturing,14-02-2015,Low,Low risk of leaving,Low risk of leaving,819007,VASUDEV POTWALE,,1
-Daman-Bhimpore,Officer,Manufacturing,19-01-2015,Low,Low risk of leaving,Low risk of leaving,819009,PRAVIN KUMAR CHATURVEDI,818544,1
-Daman-Kadaiya,Officer,Manufacturing,05-04-2015,Low,Low risk of leaving,Low risk of leaving,819010,JITENDRA MURLIDHAR MAHAJAN,810421,1
-Shendra-SEZ,SENIOR OFFICER,Manufacturing,28-05-2015,Low,Low risk of leaving,Low risk of leaving,819014,ROHAN SHARADRAO TAKALKAR,818065,1
-Shendra-SEZ,Junior Executive,Manufacturing,07-08-2015,Low,Low risk of leaving,Low risk of leaving,819015,HARIKRISHNA CHIRUMAMILLA,818065,1
-Shendra-SEZ,Junior Executive,Manufacturing,24-11-2015,Low,Low risk of leaving,Low risk of leaving,819017,APOORVI NIGAM,818853,1
-Shendra-SEZ,Senior Officer,Manufacturing,12-09-2015,High,Vulnerable Head Quarter,Team mentorship is poor,819023,MAYURI BAVISKAR,818065,1
-Shendra-SEZ,Junior Assistant,Manufacturing,01-10-2015,Low,Low risk of leaving,Low risk of leaving,819026,SIDDHARAM GANAPATI KUNALE,,1
-Shendra-SEZ,Senior Executive,Manufacturing,05-10-2015,Low,Low risk of leaving,Low risk of leaving,819027,ARAVIND BETHA,818065,1
-Shendra-SEZ,Junior Assistant,Manufacturing,05-07-2014,Low,Low risk of leaving,Low risk of leaving,819031,SANDEEP KADAM,,1
-Shendra-SEZ,Junior Executive,Manufacturing,05-09-2015,Low,Low risk of leaving,Low risk of leaving,819038,SHALINI ARVIND TIWARI,818065,1
-Shendra-SEZ,Senior Manager,Manufacturing,30-04-2015,Medium,Average previous tenure is low,Team cohesion is low,819039,MOHAMMEDYOUSUF ABDULKAREEM SHAIKH,818599,1
-Daman-Bhimpore,Technician,Manufacturing,31-07-2014,High,Manager specific reason,Team cohesion is low,819065,SIBARAM SAHU,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,04-09-2015,Low,Low risk of leaving,Low risk of leaving,819066,PRAVIN JIJABARAO DESALE,817985,1
-Shendra-SEZ,Senior Officer,Manufacturing,21-04-2015,Low,Low risk of leaving,Low risk of leaving,819074,GANESH SHIVAJI PANCHAL,817690,1
-Shendra-SEZ,Officer,Manufacturing,30-11-2015,Low,Low risk of leaving,Low risk of leaving,819075,AJIT DIGAMBARRAO VAIDYA,800673,1
-Shendra-SEZ,Junior Executive,Manufacturing,01-12-2015,Low,Low risk of leaving,Low risk of leaving,819076,SAGAR SATISHCHANDRA SHARMA,818065,1
-Shendra-SEZ,Assistant Manager - Systems,Manufacturing,23-12-2015,Low,Low risk of leaving,Low risk of leaving,819077,RUCHIT GARHWAL,3274,1
-Shendra-SEZ,Assistant,Manufacturing,27-10-2015,Low,Low risk of leaving,Low risk of leaving,819079,PARMOD KUMAR,,1
-Daman-Bhimpore,Technician,Manufacturing,07-11-2014,Low,Low risk of leaving,Low risk of leaving,819134,OMESH JAYRAMBHAI GAMIT,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,05-04-2015,Low,Low risk of leaving,Low risk of leaving,819135,DEVENDRA SINGH,810421,1
-Daman-Bhimpore,Technician,Manufacturing,07-11-2014,Low,Low risk of leaving,Low risk of leaving,819136,SANJAYBHAI BENDUBHAI KUNVAR,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,06-03-2016,Low,Low risk of leaving,Low risk of leaving,819137,HIMANSU ARUNBHAI MARGE,807369,1
-Shendra-SEZ,Officer,Manufacturing,05-11-2014,Low,Low risk of leaving,Low risk of leaving,819138,KOMAL KHAMBEKAR,818065,1
-Shendra-SEZ,Assistant Manager,Manufacturing,02-09-2015,Low,Low risk of leaving,Low risk of leaving,819139,SWANAND S KELKAR,818065,1
-Shendra-SEZ,Senior Officer,Manufacturing,30-05-2015,Medium,Marital status is Single,Other Reason,819140,AMIT KSHIRSAGAR,800360,1
-Daman-Bhimpore,Junior Executive,Manufacturing,09-06-2015,High,Team cohesion is low,Team mentorship is poor,819142,NITIN LAXMAN SALVE,817622,1
-Daman-Bhimpore,Executive,Manufacturing,10-08-2015,Low,Low risk of leaving,Low risk of leaving,819159,KAMAL AMRIKSINGH NEELA,813865,1
-Daman-Bhimpore,Senior Officer,Manufacturing,18-05-2015,Low,Low risk of leaving,Low risk of leaving,819161,TEJASKUMAR DIVYAKANT SHAH,818544,1
-Daman-Kadaiya,Technician,Manufacturing,01-02-2015,Low,Low risk of leaving,Low risk of leaving,819162,ARUNKUMAR PRASAD,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,31-07-2015,Low,Low risk of leaving,Low risk of leaving,819167,CHANDRAKANT SHANKAR INGALE,817985,1
-Daman-Kadaiya,Senior Officer,Manufacturing,15-01-2015,Medium,Average previous tenure is low,Team cohesion is low,819168,JANARDAN KUMAR MISHRA,810421,1
-Daman-Kadaiya,Manager,Manufacturing,31-07-2014,Low,Low risk of leaving,Low risk of leaving,819173,WASEEM QUADRI,817985,1
-Shendra-SEZ,Junior Executive,Manufacturing,24-09-2015,Low,Low risk of leaving,Low risk of leaving,819207,AKSHAY CHANDRASEN KAMOD,817028,1
-Shendra-SEZ,Senior Officer,Manufacturing,23-02-2015,Low,Low risk of leaving,Low risk of leaving,819209,ASHLESHA SUNIL DAWKHAR,818129,1
-Daman-Kadaiya,Executive,Manufacturing,25-07-2014,Low,Low risk of leaving,Low risk of leaving,819219,CHANDRAKANT TULSHIRAM KARANJEKAR,818127,1
-Daman-Bhimpore,Officer,Manufacturing,30-11-2014,High,Manager specific reason,Team cohesion is low,819220,ANAND NARESH TIWARI,813865,1
-Shendra-SEZ,Senior Officer,Manufacturing,24-12-2014,Low,Low risk of leaving,Low risk of leaving,819221,SHIVRAJ SHANKAR BARDALE,817690,1
-Shendra-SEZ,Senior Officer,Manufacturing,27-10-2015,High,Vulnerable Head Quarter,Manager specific reason,819222,KOMAL JOSEPH NAGURE,818133,1
-Shendra-SEZ,Senior Executive,Manufacturing,20-08-2014,High,Team cohesion is low,Team mentorship is poor,819224,RAMESH KUMAR YADAV,818853,1
-Shendra-SEZ,Officer,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,819225,DATTATRAY LAXMAN GAVHALE,818853,1
-Shendra-SEZ,Senior Officer,Manufacturing,21-05-2016,High,Team cohesion is low,Team mentorship is poor,819235,RANI TIDKE,809536,1
-Shendra-SEZ,Senior Manager,Manufacturing,02-04-2016,Medium,Team cohesion is low,Team mentorship is poor,819237,RAMESH NA NAGELLA,817922,1
-Daman-Kadaiya,ASSISTANT MANAGER,Manufacturing,26-04-2016,Low,Low risk of leaving,Low risk of leaving,819266,ARUN GULABRAO KUSHARE,810421,1
-Daman-Bhimpore,Senior Officer,Manufacturing,31-07-2014,Medium,Team cohesion is low,Team mentorship is poor,819272,PRATYUSHA SINHA,818544,1
-Daman-Bhimpore,Officer,Manufacturing,13-09-2015,Medium,Team cohesion is low,Team mentorship is poor,819273,MUKESH CHHOTU SHIMPI,817622,1
-Daman-Bhimpore,Officer,Manufacturing,13-10-2015,Low,Low risk of leaving,Low risk of leaving,819274,RITESHKUMAR JAYANTILAL TANDEL,817622,1
-Shendra-SEZ,Assistant Manager,Manufacturing,30-01-2016,Low,Low risk of leaving,Low risk of leaving,819276,VVSS B KAMARAJU,818853,1
-Shendra-SEZ,Senior Executive,Manufacturing,28-12-2015,Low,Low risk of leaving,Low risk of leaving,819277,AJEET KASHYAP,800781,1
-Daman-Kadaiya,Senior Officer,Manufacturing,24-09-2015,High,Average previous tenure is low,Manager specific reason,819291,SRINATH BOMMALAKUNTA,817985,1
-Shendra-SEZ,Senior Officer,Manufacturing,04-06-2015,Low,Low risk of leaving,Low risk of leaving,819294,MAHESH CHANDRAKANT SARODE,818065,1
-Shendra-SEZ,Senior Officer,Manufacturing,15-01-2016,Low,Low risk of leaving,Low risk of leaving,819355,PRIYANKA SHANKARSINGH BAYAS,818065,1
-Shendra-SEZ,Senior Officer,Manufacturing,28-11-2015,Low,Low risk of leaving,Low risk of leaving,819358,KALYANI MILIND NAIK,818066,1
-Chikalthana,General Manager,Manufacturing,06-02-2016,Low,Low risk of leaving,Low risk of leaving,819371,VIJAYANAND CHAKRAPANI,818049,1
-Shendra-SEZ,Senior Officer,Manufacturing,12-10-2015,Low,Low risk of leaving,Low risk of leaving,819392,DHANAJI SHIVAJI GHORPADE,818066,1
-Shendra-SEZ,Officer,Manufacturing,04-06-2015,Low,Low risk of leaving,Low risk of leaving,819449,SAIKISHORE KANUKANTI,800360,1
-Daman-Bhimpore,Senior Officer,Manufacturing,21-10-2015,Low,Low risk of leaving,Low risk of leaving,819451,RAMAKANT ONKAR SATHE,817622,1
-Daman-Bhimpore,Technician,Manufacturing,12-10-2015,Low,Low risk of leaving,Low risk of leaving,819452,SUNILKUMAR MUSAFIR YADAV,821297,1
-Daman-Bhimpore,Junior Executive,Manufacturing,19-03-2015,Low,Low risk of leaving,Low risk of leaving,819471,PRAVEEN KUMAR SAHU,818544,1
-Shendra-SEZ,Senior Officer,Manufacturing,28-12-2015,Low,Low risk of leaving,Low risk of leaving,819476,IMRAN INNUS SAYYAD,815492,1
-Shendra-SEZ,Senior Officer,Manufacturing,12-01-2016,Low,Low risk of leaving,Low risk of leaving,819504,SIBA MANSOOR PATEL,818487,1
-Daman-Kadaiya,Supervisor,Manufacturing,31-07-2015,Low,Low risk of leaving,Low risk of leaving,819521,BLESSY REJI GEORGE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,04-03-2015,Low,Low risk of leaving,Low risk of leaving,819524,PRAMOD ASHOK KOLHAPURE,817281,1
-Shendra-SEZ,Staff Trainee,Manufacturing,16-05-2015,Low,Low risk of leaving,Low risk of leaving,819571,PARESH BHIKA DERE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,01-11-2014,Low,Low risk of leaving,Low risk of leaving,819572,PRASAD SURESH JADHAV,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,29-11-2014,Low,Low risk of leaving,Low risk of leaving,819573,KRISHNA GAIKWAD,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,29-10-2014,High,Team cohesion is low,Team mentorship is poor,819575,KRISHNA BHANUDAS GOBARE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,16-05-2015,Low,Low risk of leaving,Low risk of leaving,819614,MANOJ SAHEBRAO NANDRE,,1
-Shendra-SEZ,Staff Trainee,Manufacturing,22-11-2014,Low,Low risk of leaving,Low risk of leaving,819619,DIPAK DATTATRYA MARATHE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,14-08-2015,Low,Low risk of leaving,Low risk of leaving,819620,ROHAN DUBEY,817028,1
-Shendra-SEZ,Staff Trainee,Manufacturing,26-02-2015,Low,Low risk of leaving,Low risk of leaving,819621,NITEEN NARAYAN SHINDE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,02-11-2015,Low,Low risk of leaving,Low risk of leaving,819622,GOPAL AMBADAS TAMBAT,818852,1
-Shendra-SEZ,Staff Trainee,Manufacturing,04-01-2015,Low,Low risk of leaving,Low risk of leaving,819645,MAZHAR ZAFHAR PATHAN,,1
-Shendra-SEZ,Technician,Manufacturing,18-11-2015,Low,Low risk of leaving,Low risk of leaving,819646,DIPAK JAYRAM SUTAR,,1
-Shendra-SEZ,Deputy General Manager,Manufacturing,20-06-2015,Low,Low risk of leaving,Low risk of leaving,819656,ANIL AGARWAL,818804,1
-Daman-Bhimpore,Senior Executive,Manufacturing,12-09-2014,Low,Low risk of leaving,Low risk of leaving,819657,KUNAL SHAMRAO TURKAR,809256,1
-Daman-Bhimpore,Officer,Manufacturing,24-03-2015,Low,Low risk of leaving,Low risk of leaving,819665,SOHIL VINOD VOHRA,817622,1
-Shendra-SEZ,Senior Officer,Manufacturing,12-11-2014,Low,Low risk of leaving,Low risk of leaving,819710,JAIMIN HARESHBHAI VYAS,800360,1
-Shendra-SEZ,Staff Trainee,Manufacturing,01-11-2014,Low,Low risk of leaving,Low risk of leaving,819712,MAHESH DHAMKE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,28-03-2015,Low,Low risk of leaving,Low risk of leaving,819714,SWAPNIL MICHAEL SALVI,819668,1
-Shendra-SEZ,Officer,Manufacturing,12-02-2015,Medium,Manager specific reason,Marital status is Single,819777,PRASANTA DASH DASH,816436,1
-Daman-Bhimpore,Senior Manager,Manufacturing,04-11-2015,Low,Low risk of leaving,Low risk of leaving,819797,ANANDA NIVRUTTI PAWAR,819095,1
-Daman-Bhimpore,Junior Executive,Manufacturing,11-12-2015,Medium,Manager specific reason,Other Reason,819856,CHARUL ARVINDBHAI NAKRANI,809256,1
-Shendra-SEZ,Senior Assistant,Manufacturing,30-11-2015,Low,Low risk of leaving,Low risk of leaving,819883,MANISH KUMAR,,1
-Daman-Kadaiya,Executive,Manufacturing,10-03-2016,Low,Low risk of leaving,Low risk of leaving,819897,CHETANKUMAR VITTHALBHAI RAMOLIYA,814624,1
-Daman-Kadaiya,Officer,Manufacturing,18-10-2015,Low,Low risk of leaving,Low risk of leaving,819898,GAURAV MUKESHKUMAR JOSHI,807369,1
-Shendra-SEZ,Assistant,Manufacturing,27-11-2015,High,Average previous tenure is low,Age of person is  low,820006,PRATAP BANSIDHAR KADAM,,1
-Shendra-SEZ,Senior Executive,Manufacturing,29-04-2016,Low,Low risk of leaving,Low risk of leaving,820008,VIVEK BHARDWAJ,819401,1
-Daman-Bhimpore,Senior Officer,Manufacturing,10-05-2015,Low,Low risk of leaving,Low risk of leaving,820026,NISHANT RAJENDRA DESHMUKH,817622,1
-Daman-Bhimpore,Manager,Manufacturing,25-04-2016,Low,Low risk of leaving,Low risk of leaving,820032,SHASHIKANT RATILAL PATIL,819240,1
-Shendra-SEZ,Junior Executive,Manufacturing,31-05-2016,Low,Low risk of leaving,Low risk of leaving,820096,PRANAV PRAMOD JOSHI,819855,1
-Shendra-SEZ,Officer,Manufacturing,30-09-2014,Medium,Other Reason,Other Reason,820097,JAYANT BHIMRAO MALI,,1
-Shendra-SEZ,Senior Officer,Manufacturing,13-07-2016,Low,Low risk of leaving,Low risk of leaving,820127,DINESH NAMDEORAO KHAIRNAR,818853,1
-Shendra-SEZ,Jr Executive,Manufacturing,30-12-2015,Low,Low risk of leaving,Low risk of leaving,820128,RAMCHANDRA MOHAN KALE,816436,1
-Daman-Bhimpore,Junior Executive,Manufacturing,15-06-2016,Low,Low risk of leaving,Low risk of leaving,820137,HONEY JAIN,818544,1
-Daman-Bhimpore,Senior Officer,Manufacturing,01-08-2015,Medium,Age of person is  low,Away from Home Town,820139,PUSHPCHANDRA KHADIKAR,818544,1
-Daman-Kadaiya,Senior Officer,Manufacturing,14-05-2015,Low,Low risk of leaving,Low risk of leaving,820144,JAGDISH KHAMORIYA,817985,1
-Shendra-SEZ,Senior Officer,Manufacturing,25-08-2015,Medium,Team cohesion is low,Team mentorship is poor,820178,DEBABRATA KAR,816436,1
-Shendra-SEZ,Junior Executive,Manufacturing,07-05-2016,Low,Low risk of leaving,Low risk of leaving,820180,BIJAYA KUMAR DORA,800360,1
-Shendra-SEZ,Senior Officer,Manufacturing,31-10-2015,Low,Low risk of leaving,Low risk of leaving,820181,MANOHAR SURESH BHAMARE,818066,1
-Shendra-SEZ,Junior Executive,Manufacturing,18-06-2016,Low,Low risk of leaving,Low risk of leaving,820183,AMOL SITARAM JADHAV,818853,1
-Shendra-SEZ,Junior Executive,Manufacturing,08-06-2016,Low,Low risk of leaving,Low risk of leaving,820184,PRASHANT VIJAY DESHMUKH,816436,1
-Shendra-SEZ,Senior Officer,Manufacturing,20-06-2015,Low,Low risk of leaving,Low risk of leaving,820186,PRASAD VIJAY PATIL,800360,1
-Shendra-SEZ,Senior Officer,Manufacturing,02-11-2014,Low,Low risk of leaving,Low risk of leaving,820188,VILAS ONKAR PATIL,800360,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-04-2015,High,Marital status is Single,Other Reason,820189,GANPAT DNYANU KODAG,800360,1
-Shendra-SEZ,Senior Officer,Manufacturing,26-12-2015,Low,Low risk of leaving,Low risk of leaving,820191,SANJAYKUMAR VIJAYKUMAR KADAM,818853,1
-Daman-Bhimpore,Executive,Manufacturing,03-08-2015,Medium,Manager specific reason,Other Reason,820193,ATUL RAVINDRA NAGARKAR,809256,1
-EOU Tab-Waluj,Assistant Manager,Manufacturing,22-06-2016,Low,Low risk of leaving,Low risk of leaving,820197,JITENDRA NATHU PATIL,818599,1
-Shendra-SEZ,Manager,Manufacturing,30-06-2016,Medium,Manager specific reason,Team cohesion is low,820238,AMOL RAGHUNATH DESHPANDE,818853,1
-Shendra-SEZ,Manager,Manufacturing,20-02-2016,Low,Low risk of leaving,Low risk of leaving,820249,ABHAY KUMAR GUPTA,815492,1
-Shendra-SEZ,Staff Trainee,Manufacturing,13-01-2016,Low,Low risk of leaving,Low risk of leaving,820257,SUNIL KUNDLIK BHALEKAR,,1
-Shendra-SEZ,Executive,Manufacturing,24-11-2015,Low,Low risk of leaving,Low risk of leaving,820258,AMOL HEMANT GOKHALE,818852,1
-Shendra-SEZ,Junior Executive,Manufacturing,17-07-2015,Low,Low risk of leaving,Low risk of leaving,820259,BIJAN LAL CHAKRABARTY,819669,1
-Shendra-SEZ,Executive,Manufacturing,21-02-2015,Low,Low risk of leaving,Low risk of leaving,820274,RIZWAN MOHAMMED,819882,1
-Shendra-SEZ,Junior Executive,Manufacturing,13-05-2016,Low,Low risk of leaving,Low risk of leaving,820339,BISHAL EKKA,819882,1
-Shendra-SEZ,Manager,Manufacturing,20-05-2016,Low,Low risk of leaving,Low risk of leaving,820374,MANOJ TRIPATHI,800360,1
-Daman-Bhimpore,Supervisor,Manufacturing,12-02-2015,Medium,Team cohesion is low,Team mentorship is poor,820385,NILESH DATTATRAY KHARKAR,,1
-Daman-Bhimpore,Manager,Manufacturing,31-03-2015,High,Team mentorship is poor,Other Reason,820386,NIMESH EKNATH TAMBOLI,810172,1
-Shendra-SEZ,Executive,Manufacturing,22-02-2016,Low,Low risk of leaving,Low risk of leaving,820390,RAJESH BENBAHADUR KSHATRIYA,815492,1
-Shendra-SEZ,Staff Trainee,Manufacturing,20-07-2015,Low,Low risk of leaving,Low risk of leaving,820391,ASHWIN NAMDEO RAGHU,,1
-Shendra-SEZ,junior Assistant,Manufacturing,15-02-2016,Low,Low risk of leaving,Low risk of leaving,820408,RAMAN KUMAR SAHU,,1
-Shendra-SEZ,Assistent,Manufacturing,07-08-2015,Low,Low risk of leaving,Low risk of leaving,820409,BALU DAMODHAR KALE,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,820410,MANDIP PRADIPBHAI VORA,809256,1
-Daman-Bhimpore,Senior Officer,Manufacturing,23-04-2015,Low,Low risk of leaving,Low risk of leaving,820411,VINEET SAJJANLAL MATHUR,809256,1
-Shendra-SEZ,Staff Trainee,Manufacturing,17-06-2016,High,Performance is  low,Team cohesion is low,820420,MEER WASEEM ALI,,1
-Shendra-SEZ,Assistant,Manufacturing,05-06-2015,High,Team cohesion is low,Team mentorship is poor,820435,YUVRAJ PRABHAKAR LUTE,,1
-Shendra-SEZ,Senior Officer,Manufacturing,15-03-2016,Low,Low risk of leaving,Low risk of leaving,820436,NITIN SUBHASH PATIL,818853,1
-Shendra-SEZ,Executive,Manufacturing,04-12-2014,Low,Low risk of leaving,Low risk of leaving,820437,DHANRAJ PRATAP BHADANE,816436,1
-Shendra-SEZ,Junior Executive,Manufacturing,15-04-2016,Low,Low risk of leaving,Low risk of leaving,820477,MAHESH JAGANNATH DARADE,816079,1
-Shendra-SEZ,Executive,Manufacturing,05-05-2016,Low,Low risk of leaving,Low risk of leaving,820482,CHETAN PANDHARINATH PATIL,818853,1
-Shendra-SEZ,Assistant Manager,Manufacturing,27-11-2015,Low,Low risk of leaving,Low risk of leaving,820509,PRADEEP KUMAR DWIVEDI,810172,1
-Shendra-SEZ,Assistant Manager,Manufacturing,03-10-2015,Low,Low risk of leaving,Low risk of leaving,820523,DIPAKKUMAR CHANDRAKANT PARMAR,816079,1
-Daman-Bhimpore,Technician,Manufacturing,08-02-2016,Low,Low risk of leaving,Low risk of leaving,820533,VIJAY VISHNU THOMBARE,821297,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,22-12-2015,Low,Low risk of leaving,Low risk of leaving,820534,CHETAN DASHRATH BHOSLE,819797,1
-Daman-Bhimpore,Technician,Manufacturing,30-06-2015,High,Team cohesion is low,Team mentorship is poor,820535,PAWAN LILACHAND AHIRRAO,,1
-Daman-Bhimpore,Technician,Manufacturing,12-10-2015,Low,Low risk of leaving,Low risk of leaving,820537,RAJKUMAR SADAR CHAUDHARY,821297,1
-Daman-Bhimpore,Officer,Manufacturing,15-11-2015,High,Vulnerable Head Quarter,Other Reason,820570,HIRAK KETANKUMAR GANDHI,820032,1
-Shendra-SEZ,Assistant,Manufacturing,13-02-2016,Low,Low risk of leaving,Low risk of leaving,820592,KAMLESH BUWADE,,1
-Shendra-SEZ,Junior Assistant,Manufacturing,21-09-2015,Low,Low risk of leaving,Low risk of leaving,820593,JITENDRA SINGH,,1
-Shendra-SEZ,Junior Assistant,Manufacturing,03-03-2015,Low,Low risk of leaving,Low risk of leaving,820594,HARERAM BIRLA,,1
-Shendra-SEZ,Junior Executive,Manufacturing,04-04-2015,Low,Low risk of leaving,Low risk of leaving,820597,DUSHMANT KUMAR BEHERA,816436,1
-Shendra-SEZ,Junior Assistant,Manufacturing,29-03-2016,Low,Low risk of leaving,Low risk of leaving,820598,SAHEBRAO SHRIDHAR CHOPADE,,1
-Shendra-SEZ,Junior Executive,Manufacturing,20-01-2015,Low,Low risk of leaving,Low risk of leaving,820600,VIJAY SHARMA,816436,1
-Shendra-SEZ,Junior Assistant,Manufacturing,12-10-2015,Low,Low risk of leaving,Low risk of leaving,820611,TILAK SINGH YADAV,,1
-Shendra-SEZ,Senior Assistant,Manufacturing,18-05-2016,Low,Low risk of leaving,Low risk of leaving,820622,ASHISH PRAKASH GANGAMWAR,,1
-Shendra-SEZ,Assistant,Manufacturing,22-01-2015,Low,Low risk of leaving,Low risk of leaving,820627,RAJ KUMAR GUPTA,,1
-Shendra-SEZ,Assistant,Manufacturing,11-09-2015,High,Vulnerable Head Quarter,Other Reason,820645,DEVENDRA SINGH KHICHI,,1
-Daman-Kadaiya,Executive,Manufacturing,09-10-2015,Low,Low risk of leaving,Low risk of leaving,820653,MOHD ALAMGEER KHAN,819797,1
-Daman-Kadaiya,Junior Executive,Manufacturing,30-06-2016,Low,Low risk of leaving,Low risk of leaving,820663,MANAS RANJAN NAYAK,819797,1
-Shendra-SEZ,Junior Assistant,Manufacturing,25-05-2016,Low,Low risk of leaving,Low risk of leaving,820674,RAJENDRA PRASAD BARGAH,,1
-Shendra-SEZ,Senior Assistant,Manufacturing,12-08-2015,Low,Low risk of leaving,Low risk of leaving,820675,SANJAY BALAJI TAMKHANE,,1
-Shendra-SEZ,Assistant,Manufacturing,17-01-2015,Low,Low risk of leaving,Low risk of leaving,820676,KOMAL KUMAR PAWAR,,1
-Shendra-SEZ,Assistant,Manufacturing,01-12-2015,Low,Low risk of leaving,Low risk of leaving,820678,RAM KISHAN PAWAR,,1
-Daman-Bhimpore,Senior Officer,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,820723,SANTOSH KODALE KODALE,809256,1
-Daman-Bhimpore,Junior Executive,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,820725,ABHINANDAN VISHWAKARMA,809256,1
-Shendra-SEZ,Junior Executive,Manufacturing,27-01-2016,Low,Low risk of leaving,Low risk of leaving,820731,DEEPAK KUMAR KAR,819669,1
-Shendra-SEZ,Executive,Manufacturing,24-02-2016,Low,Low risk of leaving,Low risk of leaving,820736,SANDEEP CHUDAMAN DHAMANE,818852,1
-Daman-Bhimpore,Technician,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,820753,DILIP BAPULAL PORWAL,,1
-Daman-Bhimpore,Technician,Manufacturing,12-05-2016,Low,Low risk of leaving,Low risk of leaving,820754,ASHOK DILIP SOLANKI,821297,1
-Daman-Bhimpore,Technician,Manufacturing,02-03-2016,High,Vulnerable Head Quarter,Team cohesion is low,820755,BALKRISHNA SUBHASHCHANDRA PATEL,821297,1
-Shendra-SEZ,Officer,Manufacturing,27-07-2015,Low,Low risk of leaving,Low risk of leaving,820771,ANURAG MISHRA,818852,1
-Shendra-SEZ,Senior Executive,Manufacturing,07-05-2015,Low,Low risk of leaving,Low risk of leaving,820785,UPENDRA SINGH CHAUHAN,818852,1
-Shendra-SEZ,Junior Executive,Manufacturing,30-01-2015,Low,Low risk of leaving,Low risk of leaving,820800,GOVINDA SURESH BHATT,816436,1
-Daman-Bhimpore,Senior Executive,Manufacturing,26-04-2015,Low,Low risk of leaving,Low risk of leaving,820804,RAOSAHEB GANESH RATHOD,809256,1
-Daman-Bhimpore,Technician,Manufacturing,28-08-2015,High,Team cohesion is low,Team mentorship is poor,820806,AMRESH MAHENDRA PRASAD,821297,1
-Shendra-SEZ,Junior Executive,Manufacturing,26-05-2016,Low,Low risk of leaving,Low risk of leaving,820842,ROHIT SHRIRAM PATIL,800360,1
-Shendra-SEZ,Senior Executive,Manufacturing,09-03-2016,Low,Low risk of leaving,Low risk of leaving,820844,NARAYAN KISHANRAO KAKDE,816079,1
-Shendra-SEZ,STAFF TRAINEE,Manufacturing,20-10-2015,Low,Low risk of leaving,Low risk of leaving,820855,NIKHIL SUBHASH NAVARKAR,,1
-Shendra-SEZ,Senior Officer,Manufacturing,24-02-2016,High,Manager specific reason,Team cohesion is low,820862,SANDEEP EKNATH PATIL,818852,1
-Daman-Bhimpore,Senior Officer,Manufacturing,31-03-2015,High,Average previous tenure is low,Age of person is  low,820879,DARSHANKUMAR CHANDRAKANT DOSHI,809256,1
-Shendra-SEZ,Staff Trainee,Manufacturing,20-10-2015,High,Team cohesion is low,Team mentorship is poor,820898,BADRINARAYAN PANDHRINATH SALVE,,1
-Shendra-SEZ,Senior Assistant,Manufacturing,30-03-2015,Low,Low risk of leaving,Low risk of leaving,820923,BALRAM JUGALKISHOR SISODIYA,,1
-Daman-Bhimpore,Supervisor,Manufacturing,30-06-2015,High,Manager specific reason,Team cohesion is low,820931,PRAMODKUMAR PRABHUDAYAL SINGH,,1
-Daman-Bhimpore,Supervisor,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,820962,HARDIK SATISHBHAI RANA,,1
-Daman-Bhimpore,Technician,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,820966,AMRUTLAL KIKUBHAI PATEL,,1
-Daman-Kadaiya,Executive,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,820969,SRIKANTA PRADHAN,820386,1
-Daman-Bhimpore,Technician,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,820970,RAHULKUMAR SURSHCHANDRA PATEL,,1
-Shendra-SEZ,Senior Officer,Manufacturing,10-01-2015,Low,Low risk of leaving,Low risk of leaving,820974,SOMNATH SAMAR BANERJEE,816436,1
-Shendra-SEZ,Junior Executive,Manufacturing,25-06-2016,Low,Low risk of leaving,Low risk of leaving,820975,SANTSHARAN DWIVEDI DWIVEDI,818852,1
-Shendra-SEZ,Senior Officer,Manufacturing,09-03-2015,Medium,Team cohesion is low,Team mentorship is poor,820981,NEHA BHARAT SHAH,818066,1
-Shendra-SEZ,Executive,Manufacturing,23-02-2016,Low,Low risk of leaving,Low risk of leaving,820982,TUSHAR BAJIROA CHAUDHARI,800360,1
-Shendra-SEZ,Senior Officer,Manufacturing,19-11-2015,Low,Low risk of leaving,Low risk of leaving,820984,VISHAL ASHOK WAGHMARE,818852,1
-Shendra-SEZ,Assistant,Manufacturing,24-01-2015,Low,Low risk of leaving,Low risk of leaving,820985,YOGESH NAMDEO FUSE,,1
-Shendra-SEZ,Senior Assistant,Manufacturing,02-07-2015,Low,Low risk of leaving,Low risk of leaving,820987,SURENDRA CHHATRAPATI SAV,,1
-Shendra-SEZ,Junior Executive,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,820992,PRITAM BHAGIRATH KANSE,818852,1
-Shendra-SEZ,Senior Assistant,Manufacturing,22-09-2015,Low,Low risk of leaving,Low risk of leaving,820993,PRASANNA KUMAR MISHRA,,1
-Shendra-SEZ,Officer,Manufacturing,21-10-2015,Low,Low risk of leaving,Low risk of leaving,820994,PREETAM ANILKUMAR DHANKE,818852,1
-Daman-Bhimpore,Junior Executive,Manufacturing,27-01-2016,Low,Low risk of leaving,Low risk of leaving,821025,KULDEEP BHAGIRATH SHARMA,818544,1
-Daman-Bhimpore,Officer,Manufacturing,31-03-2015,Medium,Manager specific reason,Away from Home Town,821035,HARSHAL UDDHAV PATIL,809256,1
-Shendra-SEZ,Officer,Manufacturing,31-03-2015,Low,Low risk of leaving,Low risk of leaving,821050,AMRUTA RAMESH KULKARNI,818133,1
-Daman-Kadaiya,Junior Executive,Manufacturing,04-11-2015,Low,Low risk of leaving,Low risk of leaving,821053,MAYUR RAVINDRABHAI BHATT,821053,1
-Shendra-SEZ,Executive,Manufacturing,25-08-2015,Low,Low risk of leaving,Low risk of leaving,821170,SHAKER BABU SHAIKH,818133,1
-Shendra-SEZ,Dy. General Manager,Manufacturing,11-03-2016,Medium,Marital status is Single,Other Reason,821275,TUSHAR SHANTARAM SHIRSATH,820735,1
-Daman-Bhimpore,Senior Officer,Manufacturing,25-11-2015,Low,Low risk of leaving,Low risk of leaving,821280,GYANA RANJAN PRADHAN,809256,1
-Daman-Bhimpore,Senior Officer,Manufacturing,03-05-2016,Medium,Team cohesion is low,Team mentorship is poor,821281,RAVI VISHWAKARMA,809256,1
-Daman-Bhimpore,Senior Officer,Manufacturing,25-09-2015,Low,Low risk of leaving,Low risk of leaving,821283,PRAVIN RAMRAO KUKLARE,817943,1
-Daman-Kadaiya,Executive,Manufacturing,30-04-2015,Medium,Team cohesion is low,Team mentorship is poor,821284,ASHVINKUMAR JAIPRAKASH BHAVERKAR,817943,1
-Daman-Bhimpore,Senior Officer,Manufacturing,19-06-2016,Low,Low risk of leaving,Low risk of leaving,821285,SITARAM AHIRWAR,817939,1
-Daman-Bhimpore,Executive,Manufacturing,13-03-2016,Medium,Team cohesion is low,Team mentorship is poor,821298,RITESH TIWARI,3274,1
-Shendra-SEZ,Executive,Manufacturing,16-04-2015,Low,Low risk of leaving,Low risk of leaving,821323,RAVI PRAKASH SWAMI,819401,1
-Shendra-SEZ,Executive,Manufacturing,14-04-2016,Low,Low risk of leaving,Low risk of leaving,821345,MANOJ PRABHAKAR NARAYANKAR,818133,1
-Shendra-SEZ,Assitant Manager,Manufacturing,24-05-2016,Low,Low risk of leaving,Low risk of leaving,821347,VINOD SINGH MEHTA,819237,1
-Daman-Bhimpore,Technician,Manufacturing,24-06-2015,Low,Low risk of leaving,Low risk of leaving,821384,SATISHBHAI SUMANBHAI PATEL,,1
-Daman-Kadaiya,Senior Officer,Manufacturing,31-08-2015,Low,Low risk of leaving,Low risk of leaving,821389,SACHIN GOPAL PIMPALE,817943,1
-Daman-Bhimpore,Executive,Manufacturing,07-09-2015,Low,Low risk of leaving,Low risk of leaving,821483,MANOJ KUMAR SAXENA,817943,1
-Daman-Kadaiya,Officer,Manufacturing,28-09-2015,Medium,Age of person is  low,Team mentorship is poor,821484,SANTU JAYANTA RANA,810421,1
-Daman-Kadaiya,Senior Officer,Manufacturing,20-03-2016,Low,Low risk of leaving,Low risk of leaving,821492,RAKESH DADAJI BARDE,810421,1
-Daman-Bhimpore,Officer,Manufacturing,16-06-2016,Low,Low risk of leaving,Low risk of leaving,821501,KUSHAL ROHITKUMAR THAKER,4668,1
-Daman-Bhimpore,Supervisor,Manufacturing,18-09-2015,Medium,Manager specific reason,Team cohesion is low,821504,ARVIND ARVIND PURANIK,,1
-Daman-Bhimpore,Technician,Manufacturing,24-06-2015,Low,Low risk of leaving,Low risk of leaving,821506,DHARMENDRA BRIJPAL KUSHWAHA,,1
-Daman-Bhimpore,Technician,Manufacturing,24-06-2015,Low,Low risk of leaving,Low risk of leaving,821507,JAYSINGH ISHWER SINGH,,1
-Daman-Bhimpore,Junior Executive,Manufacturing,30-06-2015,Low,Low risk of leaving,Low risk of leaving,821536,AVADHUT VISHWAS PAWAR,817943,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,02-03-2016,Low,Low risk of leaving,Low risk of leaving,821580,VIKAS CHHOTULAL PATIL,821297,1
-Daman-Bhimpore,Technician,Manufacturing,31-08-2015,Low,Low risk of leaving,Low risk of leaving,821581,BHIKHU GAMANBHAI PATEL,,1
-Shendra-SEZ,Junior Executive,Manufacturing,31-10-2015,Low,Low risk of leaving,Low risk of leaving,821585,WASIM ISMAIL KHAN,819882,1
-Daman-Bhimpore,OFFICER,Manufacturing,25-09-2015,Low,Low risk of leaving,Low risk of leaving,821634,VIKRAM VIJAY LAD,817943,1
-Daman-Bhimpore,Assistant Manager,Manufacturing,07-07-2015,Low,Low risk of leaving,Low risk of leaving,821692,NATARAJAN R,817943,1
-Daman-Bhimpore,Technician,Manufacturing,31-10-2015,Low,Low risk of leaving,Low risk of leaving,821700,RINKU PRADHAN,809256,1
-Daman-Bhimpore,Senior Manager,Manufacturing,30-03-2016,Low,Low risk of leaving,Low risk of leaving,821724,DHAVAL UPENDRA SAMANI,810172,1
-Daman-Bhimpore,SENIOR OFFICER,Manufacturing,20-05-2016,Medium,Away from Home Town,Other Reason,821795,KAPILESHSINGH SATYAVEERSINGH RAJPUT,809256,1
-Daman-Bhimpore,Officer,Manufacturing,02-11-2015,Low,Low risk of leaving,Low risk of leaving,821809,TULSIDAS DINKAR MANMUDAY,809256,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,20-01-2016,High,Average previous tenure is low,Age of person is  low,821938,SONUSING RAMESH RAJPUT,809256,1
-Shendra-SEZ,SENIOR OFFICER,Manufacturing,12-10-2015,Low,Low risk of leaving,Low risk of leaving,821966,HITESH VITTHAL BHANGALE,817363,1
-Shendra-SEZ,Executive,Manufacturing,31-10-2015,Low,Low risk of leaving,Low risk of leaving,821972,JOYSMITA GOON,819401,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,04-03-2016,Medium,Marital status is Single,Other Reason,822048,RAHUL VISHAMBARDAYAL SHRIVASTAVA,809256,1
-Daman-Bhimpore,Technician,Manufacturing,07-07-2015,High,Vulnerable Head Quarter,Manager specific reason,822049,VIRENDRA SUPADIYABHAI PATEL,809256,1
-Daman-Bhimpore,Junior Executive,Manufacturing,07-09-2015,Medium,Manager specific reason,Other Reason,822050,DEBASISH KISHORIMOHAN MONDAL,809256,1
-Daman-Kadaiya,Technician,Manufacturing,17-05-2016,Low,Low risk of leaving,Low risk of leaving,822068,RAKESH MOHANTY,810421,1
-Daman-Kadaiya,Officer,Manufacturing,16-09-2015,Low,Low risk of leaving,Low risk of leaving,822069,RAHUL KUMAR DE,810421,1
-Shendra-SEZ,Executive,Manufacturing,13-01-2016,Low,Low risk of leaving,Low risk of leaving,822072,ALIUDDIN NEHRI SYED,821698,1
-Shendra-SEZ,Senior Executive,Manufacturing,30-10-2015,Low,Low risk of leaving,Low risk of leaving,822081,RAVINDRA KUMAR,816079,1
-Shendra-SEZ,Executive,Manufacturing,29-12-2015,Low,Low risk of leaving,Low risk of leaving,822083,SANTOSH MODI,816365,1
-Shendra-SEZ,Senior Officer,Manufacturing,29-03-2016,Medium,Other Reason,Other Reason,822087,SHRINIWAS BANKATRAO MUNDE,817363,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,28-06-2016,Low,Low risk of leaving,Low risk of leaving,822107,ANKIT KUMAR ROUT,809256,1
-Daman-Bhimpore,Technician,Manufacturing,15-03-2016,Low,Low risk of leaving,Low risk of leaving,822109,HARPAL SINGH,809256,1
-Shendra-SEZ,Staff Trainee,Manufacturing,30-06-2015,Medium,Away from Home Town,Other Reason,822142,SANKET HARIBHAU CHAVAN,819882,1
-Shendra-SEZ,Staff Trainee,Manufacturing,28-07-2015,Low,Low risk of leaving,Low risk of leaving,822168,NANDKUMAR BHARAT GOLAIT,819882,1
-Shendra-SEZ,Staff Trainee,Manufacturing,10-09-2015,Low,Low risk of leaving,Low risk of leaving,822183,MANOJ ASARAM RATHOD,819882,1
-Shendra-SEZ,Officer,Manufacturing,15-03-2016,High,Age of person is  low,Manager specific reason,822215,SUJATA RAVINDRA UBALE,818133,1
-Shendra-SEZ,Officer,Manufacturing,30-05-2016,High,Manager specific reason,Team cohesion is low,822217,MAYURI DASHARATH GAWATE,818133,1
-Shendra-SEZ,Staff Trainee,Manufacturing,30-06-2015,Medium,Manager specific reason,Team cohesion is low,822231,SHUBHAM PANDITRAO GORE,819882,1
-Daman-Bhimpore,Technician,Manufacturing,07-09-2015,Medium,Team cohesion is low,Team mentorship is poor,822235,JITENDRA AMRUT PATIL,809256,1
-Daman-Bhimpore,Senior Officer,Manufacturing,14-03-2016,Low,Low risk of leaving,Low risk of leaving,822259,BABLU SARKAR,809256,1
-Daman-Kadaiya,Senior Officer,Manufacturing,17-06-2016,Medium,Marital status is Single,Other Reason,822260,ASHISH ASHOK KUMAR,817943,1
-Shendra-SEZ,Technician,Manufacturing,24-02-2016,Low,Low risk of leaving,Low risk of leaving,822316,KISHOR KISAN DEOKAR,819882,1
-Shendra-SEZ,Senior Officer,Manufacturing,19-11-2015,Medium,Team cohesion is low,Team mentorship is poor,822354,MANESH PRAKASH GAWATE,818852,1
-Shendra-SEZ,Assistant Manager,Manufacturing,30-11-2015,Low,Low risk of leaving,Low risk of leaving,822387,ABHAY MADANRAO DANEKAR,821698,1
-Shendra-SEZ,Junior Executive,Manufacturing,10-03-2016,Low,Low risk of leaving,Low risk of leaving,822394,CHITRA PRAVIN PANDHARMISE,819237,1
-Shendra-SEZ,Junior Executive,Manufacturing,30-11-2015,Medium,Average previous tenure is low,Manager specific reason,822395,SACHIN LAXMAN GOLHAR,823073,1
-Daman-Bhimpore,Technician,Manufacturing,16-05-2016,Medium,Age of person is  low,Team cohesion is low,822445,JIGNESHKUMAR BALUBHAI DUBLA,809256,1
-Shendra-SEZ,Technician,Manufacturing,28-05-2016,Medium,Performance is  low,Other Reason,822448,SURAJ ADHIKRAO MANE,817363,1
-Shendra-SEZ,Junior Executive,Manufacturing,30-11-2015,Medium,Average previous tenure is low,Team cohesion is low,822473,RISHIKESH DILIP PANDE,822786,1
-Daman-Bhimpore,Technician,Manufacturing,30-03-2016,Low,Low risk of leaving,Low risk of leaving,822476,PANCHANAN TRILOCHAN NAYAK,809256,1
-Shendra-SEZ,Executive,Manufacturing,02-04-2016,Low,Low risk of leaving,Low risk of leaving,822588,RAHUL MOHANRAO NARODE,818852,1
-Daman-Bhimpore,Junior Executive,Manufacturing,05-02-2016,Low,Low risk of leaving,Low risk of leaving,822657,AMIT JAIN,809256,1
-Shendra-SEZ,Junior Assistant,Manufacturing,31-05-2016,Medium,Age of person is  low,Team cohesion is low,822697,JYOTIRANJAN PANDA,816079,1
-Shendra-SEZ,Assistant Manger,Manufacturing,05-02-2016,Low,Low risk of leaving,Low risk of leaving,822701,VIKAS RAJDEO YADAV,816079,1
-Daman-Kadaiya,Officer,Manufacturing,03-05-2016,Low,Low risk of leaving,Low risk of leaving,822724,VINAYKUMAR PATHAK,817943,1
-Daman-Bhimpore,Technician,Manufacturing,07-11-2015,Low,Low risk of leaving,Low risk of leaving,822726,MANOJKUMAR INDARLAL,809256,1
-Daman-Bhimpore,Senior Executive,Manufacturing,30-11-2015,High,Performance is  low,Team mentorship is poor,822795,PRADEEP MORE,821021,1
-Shendra-SEZ,Junior Executive,Manufacturing,16-06-2016,Low,Low risk of leaving,Low risk of leaving,822814,MANGESH UTTAM TRYAMBAKE,817028,1
-Shendra-SEZ,SENIOR MANAGER,Manufacturing,02-04-2016,Medium,Manager specific reason,Team cohesion is low,822815,SANTOSH SHUKLA,821863,1
-Shendra-SEZ,Staff Trainee,Manufacturing,14-10-2015,High,Other Reason,Other Reason,822866,ANUP ANANT JOSHI,819882,1
-Shendra-SEZ,Senior Assistanta,Manufacturing,06-05-2016,Medium,Manager specific reason,Team cohesion is low,822869,VIKAS KUMAR JAISWAL,820374,1
-Shendra-SEZ,Junior Executive,Manufacturing,31-12-2015,Low,Low risk of leaving,Low risk of leaving,822884,CHANDRADEEP ANURAGEE,819882,1
-Daman-Bhimpore,Technician,Manufacturing,15-03-2016,Medium,Team cohesion is low,Team mentorship is poor,822893,YOGESH CHOUHAN,821297,1
-Daman-Bhimpore,Officer,Manufacturing,05-02-2016,Low,Low risk of leaving,Low risk of leaving,822896,SATENDRA KUSHWAHA,817943,1
-Daman-Bhimpore,Technician,Manufacturing,30-03-2016,Low,Low risk of leaving,Low risk of leaving,822897,GOPAL PATEL,821297,1
-Shendra-SEZ,Assistant,Manufacturing,02-07-2016,Low,Low risk of leaving,Low risk of leaving,822928,SYYED NADIR ALI,817363,1
-Shendra-SEZ,Executive,Manufacturing,31-05-2016,Low,Low risk of leaving,Low risk of leaving,823008,SHAMIL SURENDRAN PONNARATH,819077,1
-Shendra-SEZ,Assistant,Manufacturing,21-04-2016,Low,Low risk of leaving,Low risk of leaving,823012,SABIR PASHA MOHAMMAD,821933,1
-Shendra-SEZ,SENIOR MANAGER,Manufacturing,09-02-2016,High,Team cohesion is low,Team mentorship is poor,823021,PARIMAL VENKATESH ITAGI,815492,1
-Daman-Bhimpore,Junior Executive,Manufacturing,16-05-2016,Medium,Average previous tenure is low,Team cohesion is low,823067,ANILKUMAR BAGHEL,821297,1
-Daman-Bhimpore,Technician,Manufacturing,20-01-2016,Low,Low risk of leaving,Low risk of leaving,823176,PARIMAL PATEL,821297,1
-Daman-Bhimpore,Senior Officer,Manufacturing,31-10-2015,Medium,Team cohesion is low,Team mentorship is poor,823256,DHAVAL J PATEL,820032,1
-Daman-Bhimpore,Technician,Manufacturing,16-05-2016,Low,Low risk of leaving,Low risk of leaving,823333,RAKESH PARIDA,821297,1
-Shendra-SEZ,Assistant,Manufacturing,29-04-2016,Low,Low risk of leaving,Low risk of leaving,823341,AKHILESH YADAV,820374,1
-Shendra-SEZ,Junior Executive,Manufacturing,21-04-2016,Low,Low risk of leaving,Low risk of leaving,823423,ADITYA DEV SHUKLA,818852,1
-Daman-Bhimpore,Senior Officer,Manufacturing,30-03-2016,Medium,Team mentorship is poor,Marital status is Single,823509,JAYAWANT MALI,817943,1
-Daman-Bhimpore,Senior Officer,Manufacturing,03-01-2016,Low,Low risk of leaving,Low risk of leaving,823655,MRUDANG G PATHAK,817943,1
-Daman-Bhimpore,Senior Officer,Manufacturing,22-03-2016,Low,Low risk of leaving,Low risk of leaving,823656,BHAVESH B SHARMA,821297,1
-Shendra-SEZ,Assistant,Manufacturing,28-04-2016,Low,Low risk of leaving,Low risk of leaving,823662,GOKUL KUMAR GAVANDE,820249,1
-Shendra-SEZ,Executive - IT Compliance,Manufacturing,29-04-2016,Low,Low risk of leaving,Low risk of leaving,823697,DIVYENDU DAS,819401,1
-Daman-Kadaiya,Officer,Manufacturing,24-04-2016,High,Manager specific reason,Team mentorship is poor,823795,VIJAY VASANT PAWAR,821388,1
-Daman-Bhimpore,Executive,Manufacturing,29-04-2016,Low,Low risk of leaving,Low risk of leaving,823801,DHAVAL RAMESHCHANDRA DESAI,820032,1
-Daman-Bhimpore,Technician,Manufacturing,15-04-2016,Low,Low risk of leaving,Low risk of leaving,823958,PRASHNAT PATIL,821297,1
-Daman-Bhimpore,Junior Executive,Manufacturing,31-05-2016,Medium,Manager specific reason,Team cohesion is low,823987,ANIKET SURESH YADAV,821021,1
-Daman-Bhimpore,Supervisor,Manufacturing,15-03-2016,Low,Low risk of leaving,Low risk of leaving,823990,ANKIT SHARMA,821297,1
-Shendra-SEZ,Junior Executive,Manufacturing,21-04-2016,Medium,Performance is  low,Average previous tenure is low,824155,TRIPURARI KUMAR,820249,1
-Shendra-SEZ,Senior Executive,Manufacturing,21-04-2016,Low,Low risk of leaving,Low risk of leaving,824259,VIVEK KUMAR YADAV,822815,1
-Daman-Bhimpore,Trainee Technician,Manufacturing,25-05-2016,Medium,Team cohesion is low,Team mentorship is poor,824264,VISHAL PANDITRAO INGLE,,1
-Daman-Bhimpore,Technician,Manufacturing,16-05-2016,Medium,Away from Home Town,Marital status is Single,824476,SHAAHIKANT SONAWANE,821297,1
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,Risk,Left,value
+Assam,Associate,Finance,01-08-2016,High,Team mentorship is poor,Manager specific reason,916854,Mr. Alip Kumar Ghosh,513688,1,0,1
+Delhi,Associate,Finance,01-03-2016,Medium,Age of person is  low,Away from Home Town,23968,Mr. Ram Sadhwani,995635,0,0,1
+Assam,Associate,Infrastructure,01-12-2016,Low,Low risk of attrition,Low risk of attrition,654284,Mr. Abhijit Das,274891,0,0,1
+Assam,Relationship Manager,Finance,01-01-2016,High,Away from Home Town,Manager specific reason,903812,Mr. Mitesh Shrimali,507173,1,0,1
+Assam,Relationship Manager,Finance,01-10-2016,Medium,Average previous tenure is low,Manager specific reason,140738,Mr. Gopal Raja .,576695,0,0,1
+Delhi,Sales Executive,Telecommunication,01-05-2016,Medium,Performance is  low,Away from Home Town,791133,Mr. Andhela Laxman Mallya,507812,0,0,1
+Assam,Administration Executive,Metal,01-09-2016,Medium,Performance is  low,Performance is  low,415015,Ms. Anuradha .,944138,0,0,1
+Jharkhand,Sales Executive,Retail,01-09-2016,Low,Low risk of attrition,Low risk of attrition,344228,Mr. Subhash Chand,473025,0,0,1
+Delhi,Territory Manager,Finance,01-04-2016,High,Performance is  low,Team cohesion is low,630555,Mr. Prasad Shekhar Shetty,873725,1,0,1
+Delhi,Territory Manager,Finance,01-11-2016,High,Away from Home Town,Team mentorship is poor,96848,Ms. R D Dave,302916,1,0,1
+Jharkhand,Corporate Role,Retail,01-09-2016,High,Team mentorship is poor,Team cohesion is low,374263,Mr. Kanneganti Joseph Jonathan,622218,1,0,1
+Delhi,Associate,Retail,01-04-2016,Low,Low risk of attrition,Low risk of attrition,100365,Mr. Mukhtar Siddique,670732,0,0,1
+Assam,Businees Development Executive,Telecommunication,01-04-2016,Low,Low risk of attrition,Low risk of attrition,570320,Mr. Yogesh S Sharma,176358,0,0,1
+Delhi,Territory Manager,Retail,01-07-2016,Medium,Average previous tenure is low,Away from Home Town,801501,Mr. Mritunjay Kumar Shukla,435684,0,0,1
+Assam,Administration Executive,Retail,01-09-2016,High,Manager specific reason,Away from Home Town,232639,Mr. Anil Kumar,380911,1,0,1
+Assam,Businees Development Executive,Retail,01-07-2016,Medium,Team mentorship is poor,Manager specific reason,163022,Mr. Anandan Shanthakumar,128494,0,0,1
+Assam,Businees Development Executive,Finance,01-04-2016,High,Team cohesion is low,Age of person is  low,2159,Mr. Anshuman .,482125,1,0,1
+Delhi,Businees Development Executive,Power,01-08-2016,High,Team mentorship is poor,Manager specific reason,960813,Mr. Dayananda Kumar,860394,1,0,1
+Delhi,Administration Executive,Finance,01-10-2016,Low,Low risk of attrition,Low risk of attrition,206058,Mr. Amit Sharma,931311,0,0,1
+Assam,Administration Executive,Finance,01-01-2016,High,Performance is  low,Away from Home Town,130782,Ms. Sushama Nana Walkunde,894706,1,0,1
+Jharkhand,Corporate Role,Retail,01-12-2016,Low,Low risk of attrition,Low risk of attrition,19460,Mr. Ahmed Zabir Saeed,7061,0,0,1
+Delhi,Sales Executive,Telecommunication,01-12-2016,Low,Low risk of attrition,Low risk of attrition,584891,Mr. Kunal Kumar .,98886,0,0,1
+Jharkhand,Administration Executive,Metal,01-06-2016,High,Performance is  low,Vulnerable Location,15340,Mr. Ankit Patel,371926,1,0,1
+Delhi,Relationship Manager,Retail,01-09-2016,Medium,Away from Home Town,Manager specific reason,640297,Mr. Sunil Pandey,923298,0,0,1
+Jharkhand,Corporate Role,Metal,01-09-2016,Low,Low risk of attrition,Low risk of attrition,828131,Mr. Ritesh Vikram Mahale,228974,0,0,1
+Delhi,Corporate Role,Retail,01-02-2016,Low,Low risk of attrition,Low risk of attrition,138308,Mr. Piyush Kumar Pathak,673803,0,0,1
+Delhi,Sales Executive,Metal,01-11-2016,Medium,Away from Home Town,Age of person is  low,8515,Mr. Sunil Kumar Sharma,421883,0,0,1
+Assam,Territory Manager,Metal,01-03-2016,High,Team cohesion is low,Team mentorship is poor,783057,Mr. Yogesh Kumar,453404,1,0,1
+Delhi,Territory Manager,Metal,01-06-2016,Medium,Team cohesion is low,Average previous tenure is low,12771,Mr. Yawar Asif Khan,419881,0,0,1
+Delhi,Relationship Manager,Finance,01-05-2016,Low,Low risk of attrition,Low risk of attrition,608197,Mr. S Gururaj,572901,0,0,1
+Jharkhand,Administration Executive,Retail,01-06-2016,High,Performance is  low,Away from Home Town,77722,Mr. Ratnakar Papneja,383824,1,0,1
+Jharkhand,Relationship Manager,Retail,01-12-2016,Medium,Performance is  low,Performance is  low,851983,Ms. Anindita Mitra,89782,0,0,1
+Assam,Sales Executive,Power,01-03-2016,Medium,Team mentorship is poor,Team cohesion is low,594344,Mr. Vishalbhai Bhalala,350177,0,0,1
+Delhi,Administration Executive,Finance,01-04-2016,Low,Low risk of attrition,Low risk of attrition,5900,Mr. Ketan Pawar,157550,0,0,1
+Delhi,Associate,Metal,01-01-2016,Medium,Team cohesion is low,Team cohesion is low,897847,Mr. Gurvinder Singh Dhillon,519772,0,0,1
+Delhi,Sales Executive,Finance,01-07-2016,Medium,Away from Home Town,Away from Home Town,85655,Mr. Deepak Kumar,382369,0,0,1
+Jharkhand,Relationship Manager,Telecommunication,01-03-2016,Medium,Team mentorship is poor,Performance is  low,709952,Mr. Balram Kumar Dhote,713770,0,0,1
+Assam,Businees Development Executive,Infrastructure,01-08-2016,Medium,Manager specific reason,Team mentorship is poor,57967,Mr. Puneet Gupta,968061,0,0,1
+Jharkhand,Associate,Metal,01-01-2016,Low,Low risk of attrition,Low risk of attrition,943544,Mr. Rajinder Singh,150598,0,0,1
+Delhi,Businees Development Executive,Telecommunication,01-02-2016,Medium,Away from Home Town,Manager specific reason,801762,Mr. Manoj Kumar,950295,0,0,1
+Jharkhand,Associate,Metal,01-11-2016,High,Average previous tenure is low,Average previous tenure is low,508722,Mr. Yogesh Babasaheb Kurane,595194,1,0,1
+Jharkhand,Relationship Manager,Metal,01-03-2016,Medium,Away from Home Town,Manager specific reason,112314,Mr. Gaurav Singh,51875,0,0,1
+Delhi,Businees Development Executive,Telecommunication,01-02-2016,High,Average previous tenure is low,Average previous tenure is low,744717,Mr. Amit Garg,682205,1,0,1
+Delhi,Associate,Finance,01-07-2016,Low,Low risk of attrition,Low risk of attrition,313948,Mr. Sandeep Kumar,544699,0,0,1
+Assam,Corporate Role,Finance,01-01-2016,Low,Low risk of attrition,Low risk of attrition,987228,Mr. Amrish Madhukar Sawant,617940,0,0,1
+Delhi,Businees Development Executive,Infrastructure,01-06-2016,Low,Low risk of attrition,Low risk of attrition,664879,Mr. Ramesh Shewale,955135,0,0,1
+Jharkhand,Businees Development Executive,Metal,01-02-2016,Medium,Away from Home Town,Performance is  low,793848,Mr. Sachin S Parvatgosavi,393776,0,0,1
+Delhi,Relationship Manager,Finance,01-05-2016,Low,Low risk of attrition,Low risk of attrition,77548,Mr. Ankit Sharma,475430,0,0,1
+Delhi,Businees Development Executive,Telecommunication,01-10-2016,High,Away from Home Town,Away from Home Town,434068,Mr. Anand Parameshwar,823587,1,0,1
+Jharkhand,Administration Executive,Retail,01-06-2016,High,Team cohesion is low,Team cohesion is low,210035,Mr. Vishal Parbhakar,426579,1,0,1
+Jharkhand,Sales Executive,Finance,01-12-2016,Medium,Team mentorship is poor,Manager specific reason,216810,Mr. Jay Dinesh Kanadia,268315,0,0,1
+Delhi,Businees Development Executive,Retail,01-12-2016,Low,Low risk of attrition,Low risk of attrition,776346,Mr. Amit Kumar Shukla,306936,0,0,1
+Jharkhand,Relationship Manager,Telecommunication,01-11-2016,Low,Low risk of attrition,Low risk of attrition,774427,Mr. Ajay Agrawal,449278,0,0,1
+Delhi,Territory Manager,Metal,01-02-2016,High,Away from Home Town,Manager specific reason,465922,Ms. Neha Yadav,567006,1,0,1
+Jharkhand,Businees Development Executive,Finance,01-09-2016,Low,Low risk of attrition,Low risk of attrition,240316,Mr. Santosh Vishnu Bhutekar,58761,0,0,1
+Assam,Territory Manager,Finance,01-08-2016,Medium,Age of person is  low,Away from Home Town,586002,Mr. Amit Kumar Gautam,10306,0,0,1
+Jharkhand,Relationship Manager,Retail,01-04-2016,High,Team mentorship is poor,Manager specific reason,845191,Mr. Rameshbhai Becharbhai Antiya,691006,1,0,1
+Delhi,Associate,Retail,01-08-2016,Low,Low risk of attrition,Low risk of attrition,458933,Mr. Vivek Gupta,583208,0,0,1
+Assam,Territory Manager,Finance,01-11-2016,High,Manager specific reason,Manager specific reason,603360,Mr. Vinay Sharma,476332,1,0,1
+Assam,Businees Development Executive,Power,01-06-2016,Low,Low risk of attrition,Low risk of attrition,287869,Mr. Vipul Maheshwri,605029,0,0,1
+Assam,Associate,Retail,01-06-2016,Medium,Manager specific reason,Performance is  low,334787,Mr. Raj Kumar,496989,0,0,1
+Assam,Businees Development Executive,Finance,01-12-2016,Low,Low risk of attrition,Low risk of attrition,15590,Mr. Jayanta Kar,107054,0,0,1
+Jharkhand,Associate,Retail,01-07-2016,Medium,Away from Home Town,Vulnerable Location,661342,Mr. Jitendra .,631917,0,0,1
+Jharkhand,Associate,Finance,01-06-2016,Low,Low risk of attrition,Low risk of attrition,900060,Mr. Vishal Kishor Chowdhary,784666,0,0,1
+Assam,Territory Manager,Retail,01-02-2016,Medium,Performance is  low,Away from Home Town,998798,Mr. Bhatt Hiteshkumar Rameshchandra,225762,0,0,1
+Assam,Administration Executive,Retail,01-07-2016,High,Team mentorship is poor,Performance is  low,387246,Mr. Sanjay Ghosh,382858,1,0,1
+Jharkhand,Sales Executive,Infrastructure,01-01-2016,Low,Low risk of attrition,Low risk of attrition,506067,Ms. Ranjeeta Ashish Prasad,957933,0,0,1
+Delhi,Corporate Role,Telecommunication,01-09-2016,Low,Low risk of attrition,Low risk of attrition,997931,Mr. Santoki Shailesh Valaji,104605,0,0,1
+Jharkhand,Businees Development Executive,Finance,01-09-2016,Medium,Performance is  low,Average previous tenure is low,581687,Ms. Barnali Banerjee,522838,0,0,1
+Assam,Associate,Finance,01-05-2016,Medium,Team mentorship is poor,Team mentorship is poor,26441,Mr. Somnath Dey,549377,0,0,1
+Jharkhand,Sales Executive,Metal,01-12-2016,High,Performance is  low,Manager specific reason,110222,Mr. Ashwin B S,167020,1,0,1
+Assam,Associate,Power,01-05-2016,Low,Low risk of attrition,Low risk of attrition,515469,Mr. Anup Dilipbhai Rathod,77891,0,0,1
+Delhi,Territory Manager,Retail,01-04-2016,High,Team mentorship is poor,Team cohesion is low,291544,Mr. Devaria Bhavikkumar J,842124,1,0,1
+Assam,Corporate Role,Retail,01-03-2016,Medium,Average previous tenure is low,Average previous tenure is low,743878,Mr. Sarat Chandra Khandual,988254,0,0,1
+Delhi,Sales Executive,Infrastructure,01-04-2016,Low,Low risk of attrition,Low risk of attrition,588492,Ms. Shweta Yogesh Dholakia,331669,0,0,1
+Jharkhand,Corporate Role,Finance,01-04-2016,High,Average previous tenure is low,Away from Home Town,507039,Ms. Namrata Kaushal,82447,1,0,1
+Assam,Administration Executive,Finance,01-01-2016,Medium,Team cohesion is low,Team mentorship is poor,221622,Mr. Faham Murshedkar,198198,0,0,1
+Delhi,Administration Executive,Finance,01-10-2016,High,Team mentorship is poor,Away from Home Town,865753,Mr. Sagar Hanumant Pachangane,164023,1,0,1
+Jharkhand,Territory Manager,Power,01-11-2016,High,Away from Home Town,Average previous tenure is low,222442,Mr. Aziz Ali,325217,1,0,1
+Assam,Relationship Manager,Retail,01-10-2016,High,Performance is  low,Team mentorship is poor,587195,Mr. Harshkumar Rajeshbhai Patel,549513,1,0,1
+Jharkhand,Relationship Manager,Metal,01-09-2016,High,Away from Home Town,Team mentorship is poor,194353,Mr. V Guruprasad,904116,1,0,1
+Jharkhand,Associate,Infrastructure,01-05-2016,Medium,Average previous tenure is low,Performance is  low,599830,Mr. Rajendra Sharma,949998,0,0,1
+Delhi,Sales Executive,Metal,01-02-2016,Low,Low risk of attrition,Low risk of attrition,987779,Mr. N Ajay Kumar,301658,0,0,1
+Delhi,Administration Executive,Finance,01-05-2016,Low,Low risk of attrition,Low risk of attrition,283783,Mr. Sompura Bhargav V,270143,0,0,1
+Delhi,Relationship Manager,Retail,01-07-2016,Medium,Manager specific reason,Performance is  low,806147,Mr. Mithilesh Prasad,475362,0,0,1
+Delhi,Relationship Manager,Finance,01-02-2016,Low,Low risk of attrition,Low risk of attrition,261409,Mr. Krishan Kumar Pal,55722,0,0,1
+Jharkhand,Relationship Manager,Infrastructure,01-05-2016,High,Performance is  low,Age of person is  low,92238,Mr. Surinder Kumar,495525,1,0,1
+Delhi,Sales Executive,Retail,01-07-2016,Medium,Team mentorship is poor,Team cohesion is low,836828,Mr. Ravindra D Rawat,374544,0,0,1
+Delhi,Businees Development Executive,Retail,01-08-2016,High,Performance is  low,Team mentorship is poor,831076,Ms. Trapti Shukla,481655,1,0,1
+Delhi,Sales Executive,Metal,01-07-2016,Medium,Average previous tenure is low,Team cohesion is low,580235,Ms. T Prasanna Laxmi,828165,0,0,1
+Assam,Sales Executive,Metal,01-04-2016,High,Team cohesion is low,Vulnerable Location,108623,Mr. Nilesh Suresh Jadhav,952770,1,0,1
+Delhi,Administration Executive,Metal,01-01-2016,High,Performance is  low,Team mentorship is poor,408130,Mr. Krishnamoorthy Mohanavenkatesan,66044,1,0,1
+Jharkhand,Associate,Retail,01-02-2016,High,Average previous tenure is low,Team mentorship is poor,202606,Mr. Anil H Dubey,789487,1,0,1
+Assam,Sales Executive,Retail,01-04-2016,Medium,Manager specific reason,Performance is  low,256395,Mr. Shashi Bolan Sakhare,41441,0,0,1
+Assam,Associate,Telecommunication,01-01-2016,Low,Low risk of attrition,Low risk of attrition,241863,Ms. Priya Mokal,511999,0,0,1
+Delhi,Sales Executive,Finance,01-10-2016,High,Manager specific reason,Team mentorship is poor,97847,Mr. Chandresh Khare,964207,1,0,1
+Assam,Corporate Role,Retail,01-02-2016,High,Manager specific reason,Team mentorship is poor,920273,Mr. Mathivathanan P,967694,1,0,1
+Assam,Administration Executive,Metal,01-06-2016,High,Team mentorship is poor,Average previous tenure is low,556628,Ms. Vidhya .,353335,1,0,1
+Assam,Sales Executive,Infrastructure,01-12-2016,High,Performance is  low,Team cohesion is low,342176,Mr. Manojkumar S,868946,1,0,1
+Assam,Associate,Infrastructure,01-11-2016,Low,Low risk of attrition,Low risk of attrition,137674,Mr. Devender Singh,205233,0,0,1
+Jharkhand,Relationship Manager,Telecommunication,01-05-2016,Medium,Performance is  low,Away from Home Town,938382,Mr. Dipankar Kakoty,170501,0,0,1
+Delhi,Associate,Retail,01-07-2016,High,Away from Home Town,Average previous tenure is low,31453,Ms. Lovely .,200209,1,0,1
+Assam,Associate,Power,01-08-2016,Low,Low risk of attrition,Low risk of attrition,583900,Mr. Riyaz A Sayyed,839376,0,0,1
+Delhi,Territory Manager,Retail,01-01-2016,High,Average previous tenure is low,Team cohesion is low,702609,Mr. Avinash H Nagrale,90146,1,0,1
+Jharkhand,Territory Manager,Power,01-04-2016,Low,Low risk of attrition,Low risk of attrition,725429,Ms. Prabhadevi .,129970,0,0,1
+Jharkhand,Businees Development Executive,Metal,01-03-2016,Low,Low risk of attrition,Low risk of attrition,993401,Ms. M Geetha,802008,0,0,1
+Jharkhand,Sales Executive,Power,01-03-2016,Medium,Performance is  low,Team mentorship is poor,775271,Mr. Manish D Mishra,155088,0,0,1
+Delhi,Relationship Manager,Retail,01-11-2016,High,Team cohesion is low,Team mentorship is poor,751911,Mr. R Nitin,780901,1,0,1
+Jharkhand,Associate,Metal,01-09-2016,Medium,Performance is  low,Average previous tenure is low,73035,Mr. Harsh Kumar Bhasin,530443,0,0,1
+Delhi,Relationship Manager,Telecommunication,01-10-2016,High,Manager specific reason,Age of person is  low,623591,Mr. Ranjan Ram Prasad,500693,1,0,1
+Assam,Relationship Manager,Retail,01-02-2016,Low,Low risk of attrition,Low risk of attrition,541761,Mr. Pankaj Arora,880354,0,0,1
+Jharkhand,Businees Development Executive,Retail,01-03-2016,High,Age of person is  low,Age of person is  low,787370,Mr. Umesh Subhash Rule,27750,1,0,1
+Jharkhand,Corporate Role,Retail,01-03-2016,Medium,Average previous tenure is low,Away from Home Town,723614,Mr. M Y Jagadeesh,562576,0,0,1
+Jharkhand,Sales Executive,Retail,01-02-2016,Medium,Team cohesion is low,Away from Home Town,48952,Mr. Navdeep Singh,693091,0,0,1
+Jharkhand,Territory Manager,Retail,01-08-2016,Low,Low risk of attrition,Low risk of attrition,297447,Mr. Brij Bhushan,30302,0,0,1
+Jharkhand,Administration Executive,Infrastructure,01-01-2016,Low,Low risk of attrition,Low risk of attrition,140713,Mr. Saurabh Shrivastava,990289,0,0,1
+Delhi,Sales Executive,Power,01-03-2016,Low,Low risk of attrition,Low risk of attrition,518386,Mr. K Prabhu,64032,0,0,1
+Jharkhand,Sales Executive,Power,01-09-2016,Low,Low risk of attrition,Low risk of attrition,967422,Mr. Banti Kumar Dey,382191,0,0,1
+Jharkhand,Associate,Telecommunication,01-09-2016,High,Age of person is  low,Away from Home Town,990264,Mr. Jaywant K Thakur,861011,1,0,1
+Delhi,Administration Executive,Finance,01-02-2016,High,Vulnerable Location,Manager specific reason,368691,Mr. Ashish Kumar Keshari,226046,1,0,1
+Jharkhand,Businees Development Executive,Power,01-02-2016,Medium,Away from Home Town,Team mentorship is poor,300262,Mr. A Vinay Kumar Rao,837723,0,0,1
+Delhi,Associate,Infrastructure,01-08-2016,Low,Low risk of attrition,Low risk of attrition,129870,Mr. Makara Gopal,499502,0,0,1
+Delhi,Sales Executive,Metal,01-01-2016,Medium,Team mentorship is poor,Age of person is  low,624228,Mr. Subhash B Khilare,331678,0,0,1
+Delhi,Businees Development Executive,Infrastructure,01-05-2016,Medium,Manager specific reason,Performance is  low,728954,Mr. Rishi Kumar,484358,0,0,1
+Delhi,Administration Executive,Power,01-10-2016,High,Vulnerable Location,Team mentorship is poor,457902,Mr. Dilip Bhaskar Patil,326416,1,0,1
+Assam,Territory Manager,Retail,01-06-2016,Low,Low risk of attrition,Low risk of attrition,957092,Mr. Prakash Shivaji Bedre,104002,0,0,1
+Jharkhand,Territory Manager,Retail,01-03-2016,Low,Low risk of attrition,Low risk of attrition,524524,Ms. Shweta Paigwal,728146,0,0,1
+Jharkhand,Territory Manager,Telecommunication,01-03-2016,High,Manager specific reason,Away from Home Town,726171,Mr. Ammiraju Kona,793320,1,0,1
+Delhi,Territory Manager,Retail,01-12-2016,Low,Low risk of attrition,Low risk of attrition,875505,Mr. Dattaram Ramesh Parab,145594,0,0,1
+Assam,Territory Manager,Metal,01-11-2016,Low,Low risk of attrition,Low risk of attrition,781646,Mr. Ankit .,381051,0,0,1
+Jharkhand,Corporate Role,Metal,01-03-2016,Medium,Average previous tenure is low,Manager specific reason,486225,Mr. Vinod Venkatesh,241436,0,0,1
+Jharkhand,Sales Executive,Telecommunication,01-03-2016,Low,Low risk of attrition,Low risk of attrition,678418,Mr. Mohammed Naseeruddin,347318,0,0,1
+Assam,Relationship Manager,Infrastructure,01-01-2016,High,Vulnerable Location,Age of person is  low,92914,Mr. Arnab Kar,896812,1,0,1
+Jharkhand,Administration Executive,Metal,01-07-2016,Medium,Away from Home Town,Away from Home Town,263860,Mr. Srinivasan R,487749,0,0,1
+Jharkhand,Relationship Manager,Finance,01-06-2016,Low,Low risk of attrition,Low risk of attrition,78687,Mr. Mohit Chhabra,315216,0,0,1
+Jharkhand,Sales Executive,Finance,01-12-2016,Medium,Team cohesion is low,Team cohesion is low,242708,Mr. Sunil Kumar,73645,0,0,1
+Jharkhand,Businees Development Executive,Finance,01-04-2016,Low,Low risk of attrition,Low risk of attrition,458562,Mr. Rakesh Kumar,100160,0,0,1
+Jharkhand,Sales Executive,Telecommunication,01-01-2016,High,Vulnerable Location,Average previous tenure is low,86033,Mr. Chakradhara Rao Kattamudi,889367,1,0,1
+Delhi,Associate,Metal,01-05-2016,High,Team mentorship is poor,Team mentorship is poor,169781,Mr. Samir K Shah,634309,1,0,1
+Assam,Associate,Metal,01-10-2016,Medium,Away from Home Town,Away from Home Town,537547,Ms. Nayna Purohit,248298,0,0,1
+Assam,Territory Manager,Metal,01-05-2016,Medium,Vulnerable Location,Team mentorship is poor,525839,Mr. Jaimin Girishkumar Naik,752974,0,0,1
+Jharkhand,Businees Development Executive,Infrastructure,01-09-2016,High,Average previous tenure is low,Performance is  low,845339,Mr. Ajit Prasad,464199,1,0,1
+Jharkhand,Businees Development Executive,Metal,01-10-2016,Medium,Performance is  low,Away from Home Town,49076,Mr. Adil Manojkumar Bhatt,55102,0,0,1
+Jharkhand,Associate,Telecommunication,01-04-2016,High,Away from Home Town,Average previous tenure is low,429980,Mr. Deepak I Shukla,490349,1,0,1
+Assam,Associate,Telecommunication,01-08-2016,High,Vulnerable Location,Team mentorship is poor,988209,Mr. Sameer M Jadhav,571131,1,0,1
+Delhi,Businees Development Executive,Metal,01-12-2016,Medium,Team cohesion is low,Manager specific reason,46772,Ms. Laxmi Prasher,887745,0,0,1
+Assam,Associate,Telecommunication,01-11-2016,High,Manager specific reason,Team cohesion is low,852117,Ms. Garima Ghatge,380645,1,0,1
+Delhi,Businees Development Executive,Retail,01-11-2016,Low,Low risk of attrition,Low risk of attrition,169146,Mr. Dinesh B Prajapati,810276,0,0,1
+Delhi,Territory Manager,Finance,01-11-2016,Low,Low risk of attrition,Low risk of attrition,841606,Mr. Sumit Saxena,3843,0,0,1
+Assam,Relationship Manager,Retail,01-11-2016,High,Away from Home Town,Performance is  low,712478,Mr. Sanjay Godhaji Galande,802835,1,0,1
+Delhi,Sales Executive,Infrastructure,01-02-2016,Medium,Team mentorship is poor,Away from Home Town,816601,Mr. Ambika Prasad Verma,795025,0,0,1
+Delhi,Relationship Manager,Metal,01-05-2016,Medium,Manager specific reason,Age of person is  low,908301,Mr. Anil Pareek,840515,0,0,1
+Delhi,Corporate Role,Telecommunication,01-12-2016,Medium,Performance is  low,Age of person is  low,260468,Mr. Varun Gupta,487466,0,0,1
+Assam,Sales Executive,Finance,01-12-2016,Medium,Team mentorship is poor,Average previous tenure is low,351125,Mr. Rahul Baldev Sangam,909111,0,0,1
+Delhi,Sales Executive,Retail,01-10-2016,Low,Low risk of attrition,Low risk of attrition,602979,Ms. Vaishali Sherkhane,751489,0,0,1
+Jharkhand,Relationship Manager,Retail,01-04-2016,Medium,Performance is  low,Manager specific reason,622759,Mr. Nimeshkumar B Gori,106652,0,0,1
+Delhi,Relationship Manager,Retail,01-07-2016,Low,Low risk of attrition,Low risk of attrition,354966,Mr. Rajveer Singh,805866,0,0,1
+Delhi,Administration Executive,Retail,01-02-2016,Low,Low risk of attrition,Low risk of attrition,165571,Mr. Anuj Bhasin,97900,0,0,1
+Jharkhand,Associate,Retail,01-02-2016,Low,Low risk of attrition,Low risk of attrition,757639,Mr. Padmalochan Saikia,728608,0,0,1
+Delhi,Businees Development Executive,Retail,01-09-2016,High,Manager specific reason,Team mentorship is poor,622940,Mr. Laxmikanth Musle,418204,1,0,1
+Assam,Sales Executive,Metal,01-05-2016,High,Age of person is  low,Away from Home Town,256902,Mr. Sumit Sharma,995947,1,0,1
+Assam,Sales Executive,Infrastructure,01-03-2016,Medium,Manager specific reason,Team cohesion is low,528433,Mr. Shibashis Bhattacharjee,261723,0,0,1
+Jharkhand,Associate,Finance,01-02-2016,High,Age of person is  low,Team cohesion is low,910661,Ms. Shalu V Takrani,520185,1,0,1
+Jharkhand,Sales Executive,Retail,01-08-2016,Medium,Team cohesion is low,Performance is  low,624335,Ms. Chetna Ashok Lokhande,401178,0,0,1
+Jharkhand,Territory Manager,Finance,01-10-2016,High,Team cohesion is low,Manager specific reason,751289,Mr. Gautam Garg,461607,1,0,1
+Assam,Associate,Retail,01-11-2016,High,Manager specific reason,Manager specific reason,829229,Mr. Ajay Kumar,351225,1,0,1
+Jharkhand,Corporate Role,Retail,01-09-2016,Medium,Average previous tenure is low,Performance is  low,956949,Mr. Rovil Sharma,18131,0,0,1
+Delhi,Territory Manager,Finance,01-02-2016,High,Average previous tenure is low,Manager specific reason,693196,Mr. Akhilesh Kumar Gautam,586037,1,0,1
+Delhi,Associate,Metal,01-02-2016,Low,Low risk of attrition,Low risk of attrition,412008,Mr. Dharam Pal Karagwal,919503,0,0,1
+Delhi,Associate,Finance,01-07-2016,Medium,Away from Home Town,Performance is  low,490089,Mr. Vishvjeet Singh,309817,0,0,1
+Jharkhand,Corporate Role,Metal,01-06-2016,High,Performance is  low,Performance is  low,130018,Mr. Ranjan Kundu,147724,1,0,1
+Delhi,Relationship Manager,Metal,01-11-2016,Medium,Away from Home Town,Team mentorship is poor,579841,Mr. J V Adarsh,963423,0,0,1
+Delhi,Relationship Manager,Retail,01-04-2016,Low,Low risk of attrition,Low risk of attrition,546034,Mr. Ganesh Trivedi,325076,0,0,1
+Delhi,Administration Executive,Infrastructure,01-01-2016,High,Vulnerable Location,Team mentorship is poor,34720,Mr. Satish Kumar,82134,1,0,1
+Delhi,Associate,Infrastructure,01-10-2016,High,Vulnerable Location,Performance is  low,888704,Mr. Gaurav Girdhar,403924,1,0,1
+Assam,Territory Manager,Retail,01-07-2016,High,Age of person is  low,Age of person is  low,32340,Mr. Aravind Kumar Kannaian,102092,1,0,1
+Jharkhand,Businees Development Executive,Metal,01-03-2016,Low,Low risk of attrition,Low risk of attrition,801026,Mr. Maulik A Parekh,985023,0,0,1
+Assam,Sales Executive,Finance,01-01-2016,Low,Low risk of attrition,Low risk of attrition,712558,Mr. Ankit Nayyar,80486,0,0,1
+Assam,Relationship Manager,Retail,01-12-2016,Medium,Performance is  low,Manager specific reason,51953,Mr. Abhishek Bajpai,57618,0,0,1
+Assam,Relationship Manager,Finance,01-04-2016,High,Performance is  low,Away from Home Town,437178,Mr. Ajay Sharma,925059,1,0,1
+Assam,Associate,Retail,01-04-2016,Low,Low risk of attrition,Low risk of attrition,144122,Ms. Minakshi Sharma,187440,0,0,1
+Assam,Sales Executive,Retail,01-09-2016,Medium,Vulnerable Location,Manager specific reason,867036,Mr. Shivang Nailesh Joshi,598551,0,0,1
+Assam,Administration Executive,Infrastructure,01-09-2016,High,Vulnerable Location,Performance is  low,702415,Mr. Thamalam Roop Kiran Reddy,385574,1,0,1
+Delhi,Sales Executive,Retail,01-07-2016,Medium,Team mentorship is poor,Team cohesion is low,714888,Mr. Amit Kumar Dubey,600344,0,0,1
+Assam,Associate,Power,01-04-2016,Low,Low risk of attrition,Low risk of attrition,780050,Mr. Nilesh Arvind Gandhe,177357,0,0,1
+Jharkhand,Sales Executive,Power,01-07-2016,Low,Low risk of attrition,Low risk of attrition,621156,Ms. Shikha Sharma,205216,0,0,1
+Jharkhand,Territory Manager,Power,01-07-2016,Low,Low risk of attrition,Low risk of attrition,165511,Mr. Mohd Ayaz K Saiyed,5744,0,0,1
+Assam,Businees Development Executive,Infrastructure,01-12-2016,High,Team mentorship is poor,Average previous tenure is low,925936,Mr. Vishal J Vyas,208737,1,0,1
+Delhi,Associate,Retail,01-01-2016,Medium,Performance is  low,Team mentorship is poor,916667,Mr. Arjun Balkrushnabhai Gondaliya,49,0,0,1
+Delhi,Businees Development Executive,Power,01-04-2016,Medium,Average previous tenure is low,Average previous tenure is low,501315,Ms. Shweta Nornol,74463,0,0,1
+Delhi,Relationship Manager,Retail,01-04-2016,High,Away from Home Town,Age of person is  low,659843,Ms. Swati Agarwal,871042,1,0,1
+Delhi,Territory Manager,Finance,01-01-2016,Medium,Performance is  low,Vulnerable Location,181394,Mr. Sreekumar R Nair,658596,0,0,1
+Jharkhand,Associate,Retail,01-08-2016,Medium,Away from Home Town,Average previous tenure is low,785157,Mr. Rahul Dandotia,495061,0,0,1
+Delhi,Corporate Role,Power,01-01-2016,Low,Low risk of attrition,Low risk of attrition,465828,Mr. Vibhish Bharat Balan,705177,0,0,1
+Assam,Corporate Role,Telecommunication,01-06-2016,Low,Low risk of attrition,Low risk of attrition,733196,Mr. Uday Singh,953571,0,0,1
+Assam,Administration Executive,Metal,01-03-2016,Medium,Team cohesion is low,Manager specific reason,394863,Mr. Krishna Chetri,409023,0,0,1
+Assam,Sales Executive,Metal,01-01-2016,Low,Low risk of attrition,Low risk of attrition,321610,Mr. Jone Francis V,405832,0,0,1
+Assam,Businees Development Executive,Telecommunication,01-03-2016,Medium,Team cohesion is low,Average previous tenure is low,10137,Mr. Nayan Pandit,204874,0,0,1
+Jharkhand,Businees Development Executive,Telecommunication,01-08-2016,Medium,Age of person is  low,Average previous tenure is low,199088,Mr. Vishal K Panwala,81598,0,0,1
+Delhi,Relationship Manager,Finance,01-12-2016,Medium,Average previous tenure is low,Team mentorship is poor,931653,Ms. Manisha Ashwin Bodiwala,223688,0,0,1
+Delhi,Relationship Manager,Finance,01-05-2016,High,Vulnerable Location,Away from Home Town,859431,Ms. Kusuma M,863782,1,0,1
+Assam,Territory Manager,Power,01-09-2016,Medium,Average previous tenure is low,Manager specific reason,396770,Mr. Ajay Verma,233165,0,0,1
+Delhi,Administration Executive,Power,01-08-2016,High,Performance is  low,Team mentorship is poor,91293,Mr. Anshuman Rai,874033,1,0,1
+Jharkhand,Sales Executive,Metal,01-02-2016,Medium,Vulnerable Location,Team mentorship is poor,705052,Mr. Munin Baruah,11187,0,0,1
+Assam,Associate,Retail,01-12-2016,Low,Low risk of attrition,Low risk of attrition,255995,Mr. Shriganesh P Patil,835154,0,0,1
+Assam,Sales Executive,Metal,01-04-2016,Medium,Average previous tenure is low,Away from Home Town,409281,Mr. Dharmesh S Rathod,433359,0,0,1
+Assam,Relationship Manager,Retail,01-04-2016,Medium,Team cohesion is low,Team mentorship is poor,419469,Mr. Deepak Vitthal Sawant,311639,0,0,1
+Delhi,Businees Development Executive,Telecommunication,01-09-2016,Low,Low risk of attrition,Low risk of attrition,909994,Mr. Abhijit Ghosh,791506,0,0,1
+Assam,Businees Development Executive,Finance,01-07-2016,High,Performance is  low,Manager specific reason,985035,Mr. Ajit A Sakpal,735390,1,0,1
+Assam,Associate,Finance,01-07-2016,Low,Low risk of attrition,Low risk of attrition,169848,Ms. Isha Sharma,178677,0,0,1
+Assam,Corporate Role,Retail,01-05-2016,Medium,Vulnerable Location,Team cohesion is low,105640,Mr. Anand Manilal Jaiswar,310775,0,0,1
+Delhi,Relationship Manager,Retail,01-03-2016,Low,Low risk of attrition,Low risk of attrition,503849,Mr. Rohit M Erabatti,911570,0,0,1
+Jharkhand,Sales Executive,Retail,01-04-2016,Medium,Team mentorship is poor,Team cohesion is low,683695,Mr. Naeem Abdullatif Malik,26995,0,0,1
+Jharkhand,Associate,Metal,01-12-2016,Medium,Performance is  low,Manager specific reason,521356,Mr. Duvannadhan Nadar,520374,0,0,1
+Jharkhand,Associate,Finance,01-02-2016,High,Performance is  low,Vulnerable Location,58998,Mr. S Dubey,146110,1,0,1
+Jharkhand,Corporate Role,Power,01-11-2016,Low,Low risk of attrition,Low risk of attrition,409319,Mr. Venkateswarlu Vempati,358758,0,0,1
+Jharkhand,Sales Executive,Finance,01-04-2016,Low,Low risk of attrition,Low risk of attrition,33852,Mr. G A Biswal,976826,0,0,1
+Delhi,Administration Executive,Metal,01-08-2016,High,Away from Home Town,Team cohesion is low,781370,Mr. Lokesh Sharma,943122,1,0,1
+Assam,Businees Development Executive,Retail,01-08-2016,Medium,Manager specific reason,Average previous tenure is low,853851,Mr. Vivek Singh,858148,0,0,1
+Assam,Territory Manager,Retail,01-12-2016,High,Team mentorship is poor,Away from Home Town,184901,Mr. Neyaz Ahmad Khan,25248,1,0,1
+Delhi,Territory Manager,Power,01-12-2016,Low,Low risk of attrition,Low risk of attrition,550189,Mr. Rakesh Dhansukhbhai Patel,348702,0,0,1
+Assam,Relationship Manager,Retail,01-03-2016,High,Manager specific reason,Vulnerable Location,432636,Mr. Rajesh Dhingra,708990,1,0,1
+Delhi,Businees Development Executive,Telecommunication,01-03-2016,Medium,Age of person is  low,Team mentorship is poor,733917,Mr. Sumit Kumar Sonkar,184499,0,0,1
+Assam,Relationship Manager,Metal,01-08-2016,Low,Low risk of attrition,Low risk of attrition,145714,Mr. Nepal Singh,244764,0,0,1
+Assam,Relationship Manager,Power,01-02-2016,High,Performance is  low,Away from Home Town,643856,Mr. Kundan Singh Bisht,366805,1,0,1
+Delhi,Territory Manager,Finance,01-05-2016,Medium,Manager specific reason,Away from Home Town,364862,Mr. Sheikh Iqbal M,112786,0,0,1
+Jharkhand,Businees Development Executive,Infrastructure,01-05-2016,High,Average previous tenure is low,Away from Home Town,591822,Mr. Vyas Chirag Amrutlal,432107,1,0,1
+Delhi,Administration Executive,Power,01-12-2016,High,Performance is  low,Manager specific reason,95947,Mr. Bhooma Mohanraj,421445,1,0,1
+Delhi,Territory Manager,Retail,01-09-2016,Medium,Team cohesion is low,Manager specific reason,94427,Mr. Kausik Chakraborty,665251,0,0,1
+Jharkhand,Associate,Retail,01-03-2016,Medium,Age of person is  low,Team cohesion is low,218745,Ms. Manisha Ketan Patel,82483,0,0,1
+Delhi,Businees Development Executive,Finance,01-05-2016,Medium,Manager specific reason,Team cohesion is low,899468,Mr. Himmat Singh,761486,0,0,1
+Delhi,Territory Manager,Finance,01-03-2016,Low,Low risk of attrition,Low risk of attrition,63684,Mr. Kapil Jain,970664,0,0,1
+Assam,Associate,Finance,01-01-2016,Low,Low risk of attrition,Low risk of attrition,60195,Mr. Sumit Paul,920075,0,0,1
+Assam,Corporate Role,Retail,01-06-2016,High,Team cohesion is low,Team mentorship is poor,327414,Mr. Gurunath A,987482,1,0,1
+Assam,Associate,Power,01-12-2016,High,Manager specific reason,Team cohesion is low,886166,Ms. Sapna Arora,501149,1,0,1
+Delhi,Corporate Role,Metal,01-01-2016,Low,Low risk of attrition,Low risk of attrition,169578,Mr. Srikanta Maji,252862,0,0,1
+Delhi,Administration Executive,Infrastructure,01-06-2016,Low,Low risk of attrition,Low risk of attrition,145690,Mr. Vaibhav Atulbhai Devi,774964,0,0,1
+Delhi,Sales Executive,Finance,01-12-2016,Medium,Average previous tenure is low,Performance is  low,193449,Mr. Ganesh Shankar Govalkar,671428,0,0,1
+Assam,Corporate Role,Retail,01-01-2016,Medium,Away from Home Town,Average previous tenure is low,362124,Mr. Alankit Sharma,126848,0,0,1
+Delhi,Territory Manager,Infrastructure,01-08-2016,Low,Low risk of attrition,Low risk of attrition,951998,Mr. Niranjan Kaushik,261690,0,0,1
+Assam,Associate,Metal,01-02-2016,Medium,Team cohesion is low,Team mentorship is poor,527983,Mr. Anish Bhasin,615643,0,0,1
+Delhi,Relationship Manager,Finance,01-04-2016,Medium,Manager specific reason,Vulnerable Location,604191,Mrs. Debashrita Nandy,791315,0,0,1
+Delhi,Territory Manager,Metal,01-02-2016,Low,Low risk of attrition,Low risk of attrition,893851,Mr. Veeru Singh,155187,0,0,1
+Jharkhand,Relationship Manager,Retail,01-08-2016,High,Team mentorship is poor,Away from Home Town,994699,Mr. Manish Yadvendra Jha,734575,1,0,1
+Jharkhand,Sales Executive,Retail,01-06-2016,Medium,Performance is  low,Manager specific reason,628308,Mr. Gaurav Aggarwal,680145,0,0,1
+Delhi,Territory Manager,Retail,01-07-2016,High,Team mentorship is poor,Team cohesion is low,340385,Mr. Siddharth Manohar Salvi,720498,1,0,1
+Jharkhand,Sales Executive,Finance,01-03-2016,High,Performance is  low,Manager specific reason,909542,Ms. Ranju . .,602511,1,0,1
+Assam,Businees Development Executive,Infrastructure,01-09-2016,Medium,Away from Home Town,Team cohesion is low,972084,Mr. Desai Jaykumar Padmakant,134418,0,0,1
+Jharkhand,Sales Executive,Finance,01-09-2016,High,Performance is  low,Performance is  low,219741,Mr. M Rajaneesh,370578,1,0,1
+Assam,Relationship Manager,Retail,01-07-2016,Low,Low risk of attrition,Low risk of attrition,389464,Mr. Sevakram Agarwal,882570,0,0,1
+Jharkhand,Businees Development Executive,Finance,01-05-2016,Medium,Manager specific reason,Team mentorship is poor,765895,Mr. Anil Dattatraya Gore,40923,0,0,1
+Jharkhand,Sales Executive,Infrastructure,01-12-2016,Low,Low risk of attrition,Low risk of attrition,256458,Mr. Sanjib Sen,502612,0,0,1
+Jharkhand,Associate,Finance,01-06-2016,Low,Low risk of attrition,Low risk of attrition,217142,Mr. Sourav Roy,179916,0,0,1
+Delhi,Relationship Manager,Retail,01-03-2016,Low,Low risk of attrition,Low risk of attrition,700182,Mr. Prasant Kumar Rath,814066,0,0,1
+Jharkhand,Associate,Metal,01-01-2016,Low,Low risk of attrition,Low risk of attrition,634335,Mr. Jinesh G Khokhra,593434,0,0,1
+Delhi,Sales Executive,Finance,01-05-2016,High,Team mentorship is poor,Manager specific reason,205199,Mr. Vikas Handa,991183,1,0,1
+Assam,Sales Executive,Retail,01-06-2016,Medium,Team cohesion is low,Manager specific reason,646332,Mr. Surya Sankar Chaki,474510,0,0,1
+Delhi,Sales Executive,Retail,01-12-2016,High,Manager specific reason,Team mentorship is poor,238253,Mr. Dibyendu Dutta,115429,1,0,1
+Delhi,Businees Development Executive,Finance,01-01-2016,Medium,Team mentorship is poor,Team mentorship is poor,604959,Mr. Anjal Kumar Deka,704090,0,0,1
+Assam,Businees Development Executive,Metal,01-02-2016,Low,Low risk of attrition,Low risk of attrition,799722,Mr. Satyendrakumar Harishyam Singh,85354,0,0,1
+Jharkhand,Territory Manager,Telecommunication,01-11-2016,Low,Low risk of attrition,Low risk of attrition,375929,Ms. Jyoti Agarwal,417970,0,0,1
+Delhi,Relationship Manager,Metal,01-01-2016,Low,Low risk of attrition,Low risk of attrition,161129,Mr. Arunangsu Ghosh,311630,0,0,1
+Jharkhand,Corporate Role,Finance,01-05-2016,Low,Low risk of attrition,Low risk of attrition,673059,Mr. Deep Narayan Roy,503136,0,0,1
+Delhi,Territory Manager,Infrastructure,01-06-2016,Medium,Performance is  low,Team cohesion is low,745797,Mr. Rakesh Sharma M,446544,0,0,1
+Jharkhand,Territory Manager,Infrastructure,01-01-2016,Low,Low risk of attrition,Low risk of attrition,170454,Mr. Prabhat Ranjan,225636,0,0,1
+Jharkhand,Sales Executive,Finance,01-05-2016,Low,Low risk of attrition,Low risk of attrition,96304,Mr. Mohd Zameerudddin Ansari,158124,0,0,1
+Assam,Businees Development Executive,Telecommunication,01-04-2016,High,Away from Home Town,Team mentorship is poor,409746,Ms. Rutul N Kadiya,25762,1,0,1
+Assam,Businees Development Executive,Metal,01-04-2016,High,Team cohesion is low,Performance is  low,1702,Mr. Sandeep Kumar Chauhan,460317,1,0,1
+Assam,Corporate Role,Finance,01-02-2016,Low,Low risk of attrition,Low risk of attrition,100810,Mr. Annarapu Sandeep Reddy,315772,0,0,1
+Jharkhand,Administration Executive,Metal,01-12-2016,High,Team mentorship is poor,Performance is  low,153149,Mr. Arunavopal Choudhury,59622,1,0,1
+Jharkhand,Associate,Metal,01-11-2016,High,Vulnerable Location,Team mentorship is poor,752078,Mr. Mohit Sikka,778520,1,0,1
+Delhi,Sales Executive,Metal,01-09-2016,Medium,Team mentorship is poor,Age of person is  low,556839,Mr. Amar L Chavan,126686,0,0,1
+Jharkhand,Associate,Retail,01-09-2016,Medium,Manager specific reason,Performance is  low,603837,Mr. Vijay Khara,825493,0,0,1
+Jharkhand,Relationship Manager,Metal,01-10-2016,High,Team cohesion is low,Team mentorship is poor,934235,Mr. Pardeep Bhutale,792004,1,0,1
+Delhi,Corporate Role,Power,01-06-2016,High,Team mentorship is poor,Average previous tenure is low,378904,Mr. Manish Kumar,272670,1,0,1
+Jharkhand,Sales Executive,Retail,01-01-2016,High,Average previous tenure is low,Manager specific reason,828347,Ms. Charu Vats,599061,1,0,1
+Jharkhand,Administration Executive,Retail,01-07-2016,Low,Low risk of attrition,Low risk of attrition,87120,Mr. Vikram .,440097,0,0,1
+Assam,Corporate Role,Finance,01-08-2016,Low,Low risk of attrition,Low risk of attrition,710631,Mr. Jeshim Rahman,488979,0,0,1
+Delhi,Associate,Telecommunication,01-10-2016,Low,Low risk of attrition,Low risk of attrition,512475,Mr. Nikhil Ramesh Kholakia,235472,0,0,1
+Delhi,Territory Manager,Metal,01-12-2016,Medium,Team mentorship is poor,Average previous tenure is low,36621,Mr. Shakti Singh,286651,0,0,1
+Jharkhand,Associate,Finance,01-11-2016,High,Performance is  low,Performance is  low,42978,Mr. Tarik Mukeshbhai Shah,911868,1,0,1
+Assam,Corporate Role,Metal,01-05-2016,High,Team mentorship is poor,Average previous tenure is low,950335,Ms. Pompy Gogoi,56790,1,0,1
+Assam,Sales Executive,Retail,01-06-2016,Medium,Team mentorship is poor,Performance is  low,50503,Ms. Priyanka Deepak Jethva,154010,0,0,1
+Jharkhand,Sales Executive,Retail,01-09-2016,Medium,Age of person is  low,Team cohesion is low,347023,Mr. Ranjit Singh,103674,0,0,1
+Delhi,Corporate Role,Infrastructure,01-10-2016,Low,Low risk of attrition,Low risk of attrition,902046,Mr. Deepak Omprakash Verma,815502,0,0,1
+Assam,Sales Executive,Metal,01-11-2016,High,Performance is  low,Vulnerable Location,158001,Mr. Harvinder Singh,88799,1,0,1
+Assam,Territory Manager,Retail,01-01-2016,High,Performance is  low,Average previous tenure is low,459591,Mr. Surendra Subhash Nimbalkar,560368,1,0,1
+Assam,Businees Development Executive,Telecommunication,01-10-2016,Low,Low risk of attrition,Low risk of attrition,702763,Mr. Dinesh Kumar Indora,667289,0,0,1
+Jharkhand,Businees Development Executive,Metal,01-11-2016,High,Manager specific reason,Team mentorship is poor,576825,Mr. Gurjit Sawinder Singh,673128,1,0,1
+Assam,Associate,Retail,01-12-2016,High,Vulnerable Location,Age of person is  low,313524,Mr. Sreejith A,703618,1,0,1
+Delhi,Associate,Metal,01-09-2016,Medium,Team mentorship is poor,Manager specific reason,981954,Ms. Saguna R Sakariya,585933,0,0,1
+Delhi,Businees Development Executive,Retail,01-01-2016,Medium,Team cohesion is low,Manager specific reason,642791,Mr. Saket Saini,619581,0,0,1
+Delhi,Businees Development Executive,Retail,01-03-2016,High,Performance is  low,Manager specific reason,215622,Mr. Navin Vilas Pawar,599029,1,0,1
+Assam,Administration Executive,Finance,01-03-2016,High,Away from Home Town,Team mentorship is poor,389364,Mr. Vijay D Kadam,650038,1,0,1
+Delhi,Sales Executive,Infrastructure,01-03-2016,Medium,Vulnerable Location,Manager specific reason,77494,Mr. Amit Kumar,844340,0,0,1
+Jharkhand,Relationship Manager,Metal,01-12-2016,Low,Low risk of attrition,Low risk of attrition,382833,Mr. Amol Pruthviraj Lingayat,451310,0,0,1
+Assam,Sales Executive,Telecommunication,01-04-2016,Medium,Team mentorship is poor,Away from Home Town,395194,Mr. Inderjeet Singh I Janjuha,360001,0,0,1
+Delhi,Territory Manager,Telecommunication,01-03-2016,High,Away from Home Town,Average previous tenure is low,694415,Mr. Prabhakar Prasad,698582,1,0,1
+Assam,Businees Development Executive,Finance,01-02-2016,Low,Low risk of attrition,Low risk of attrition,538204,Mr. Kiran Dilip Sonar,353550,0,0,1
+Jharkhand,Corporate Role,Retail,01-09-2016,Medium,Team cohesion is low,Average previous tenure is low,447686,Mr. Kalpesh G Bhavsar,459218,0,0,1
+Assam,Sales Executive,Retail,01-07-2016,Low,Low risk of attrition,Low risk of attrition,86501,Mr. Manohar .,28522,0,0,1
+Jharkhand,Associate,Retail,01-08-2016,High,Age of person is  low,Performance is  low,478673,Mr. Ashutosh Jha,439955,1,0,1
+Assam,Sales Executive,Metal,01-11-2016,Low,Low risk of attrition,Low risk of attrition,363985,Mr. Vinit Jitendrabhai Patel,640379,0,0,1
+Jharkhand,Territory Manager,Telecommunication,01-09-2016,High,Vulnerable Location,Age of person is  low,62264,Mr. Dheeraj Tejpal,634829,1,0,1
+Jharkhand,Businees Development Executive,Metal,01-12-2016,High,Average previous tenure is low,Team mentorship is poor,51100,Mr. Ataliya Jaspalsinh,895002,1,0,1
+Assam,Administration Executive,Retail,01-03-2016,High,Team mentorship is poor,Team mentorship is poor,715849,Mr. Nikhil M Parab,690101,1,0,1
+Delhi,Corporate Role,Finance,01-05-2016,Medium,Vulnerable Location,Average previous tenure is low,815544,Mr. Gaurav Srivastava,814586,0,0,1
+Delhi,Businees Development Executive,Telecommunication,01-01-2016,Medium,Performance is  low,Away from Home Town,703101,Mr. Bhaveshkumar Babulal Varade,453425,0,0,1
+Jharkhand,Corporate Role,Finance,01-08-2016,High,Away from Home Town,Away from Home Town,176375,Ms. Navya Rohra,996387,1,0,1
+Assam,Sales Executive,Retail,01-05-2016,Low,Low risk of attrition,Low risk of attrition,284036,Mr. Parekh Ankit M,76454,0,0,1
+Jharkhand,Territory Manager,Retail,01-07-2016,High,Team cohesion is low,Manager specific reason,797369,Mr. Rajiv Kumar Rai,551101,1,0,1
+Jharkhand,Associate,Telecommunication,01-01-2016,Low,Low risk of attrition,Low risk of attrition,854764,Ms. Ankita Ajit Deshmukh,566999,0,0,1
+Assam,Associate,Metal,01-05-2016,Low,Low risk of attrition,Low risk of attrition,724764,Mr. Rajinder Singh Negi,709911,0,0,1
+Delhi,Relationship Manager,Retail,01-05-2016,Low,Low risk of attrition,Low risk of attrition,660634,Mr. Manas Majumder,384809,0,0,1
+Assam,Relationship Manager,Power,01-08-2016,Low,Low risk of attrition,Low risk of attrition,131545,Mr. Dhorada Vivek Bhupatbhai,247062,0,0,1
+Assam,Administration Executive,Metal,01-04-2016,Low,Low risk of attrition,Low risk of attrition,596798,Ms. Kakali Ganguly,165581,0,0,1
+Delhi,Administration Executive,Finance,01-03-2016,High,Average previous tenure is low,Away from Home Town,775412,Mr. Nitin K Giri,931393,1,0,1
+Assam,Sales Executive,Retail,01-10-2016,Medium,Manager specific reason,Team mentorship is poor,409067,Mr. Ram Parsad,229141,0,0,1
+Assam,Sales Executive,Telecommunication,01-11-2016,Low,Low risk of attrition,Low risk of attrition,529312,Mr. Prakashreddy Bandaru,427149,0,0,1
+Assam,Businees Development Executive,Retail,01-04-2016,High,Team mentorship is poor,Team mentorship is poor,134333,Mr. Chander Parkash,172179,1,0,1
+Assam,Businees Development Executive,Infrastructure,01-12-2016,Low,Low risk of attrition,Low risk of attrition,499316,Mr. Sanjay Mali,269593,0,0,1
+Assam,Relationship Manager,Metal,01-10-2016,Medium,Vulnerable Location,Average previous tenure is low,381247,Mr. Deepak G Soni,687735,0,0,1
+Delhi,Territory Manager,Infrastructure,01-04-2016,High,Team cohesion is low,Away from Home Town,458692,Mr. Debajit Kr Ghosh,893951,1,0,1
+Assam,Territory Manager,Finance,01-08-2016,Low,Low risk of attrition,Low risk of attrition,506838,Mr. Dhananjay Patel,48250,0,0,1
+Delhi,Associate,Metal,01-06-2016,High,Average previous tenure is low,Performance is  low,750414,Mr. Nitin Mehta,460016,1,0,1
+Jharkhand,Businees Development Executive,Telecommunication,01-02-2016,High,Away from Home Town,Average previous tenure is low,105302,Mr. Jitendra Vedi,750907,1,0,1
+Delhi,Sales Executive,Metal,01-01-2016,Medium,Performance is  low,Manager specific reason,663240,Mr. Akhade Atish Nandkumar,699431,0,0,1
+Jharkhand,Associate,Telecommunication,01-06-2016,Low,Low risk of attrition,Low risk of attrition,443024,Mr. Jayprakash Chauhan,672623,0,0,1
+Delhi,Sales Executive,Infrastructure,01-09-2016,Low,Low risk of attrition,Low risk of attrition,332400,Mr. Shrikant R Rana,687068,0,0,1
+Assam,Administration Executive,Finance,01-06-2016,Low,Low risk of attrition,Low risk of attrition,386047,Ms. Ritika .,752527,0,0,1
+Jharkhand,Territory Manager,Retail,01-12-2016,Low,Low risk of attrition,Low risk of attrition,656980,Mr. Kalpesh Arvindbhai Modh,877675,0,0,1
+Assam,Sales Executive,Finance,01-03-2016,Medium,Performance is  low,Performance is  low,734171,Ms. Minaxi N Maheta,533435,0,0,1
+Jharkhand,Relationship Manager,Telecommunication,01-01-2016,Low,Low risk of attrition,Low risk of attrition,618872,Mr. Ritesh Seth,50665,0,0,1
+Delhi,Sales Executive,Retail,01-12-2016,High,Team cohesion is low,Vulnerable Location,454069,Mr. Ketankumar Jayantilal Panchal,298325,1,0,1
+Assam,Associate,Metal,01-12-2016,Medium,Away from Home Town,Average previous tenure is low,719495,Mr. Miki Nawab Suri,721852,0,0,1
+Jharkhand,Sales Executive,Retail,01-01-2016,Low,Low risk of attrition,Low risk of attrition,927294,Ms. Suvidha Kesarkar,989789,0,0,1
+Assam,Relationship Manager,Finance,01-09-2016,High,Team mentorship is poor,Average previous tenure is low,790455,Ms. Tejinder Pal Kaur,874462,1,0,1
+Jharkhand,Administration Executive,Finance,01-03-2016,Low,Low risk of attrition,Low risk of attrition,706368,Mr. Vineet Kumar Pathak,541019,0,0,1
+Assam,Territory Manager,Retail,01-05-2016,Medium,Performance is  low,Age of person is  low,113828,Mr. Prakash Kapse,350550,0,0,1
+Jharkhand,Territory Manager,Finance,01-06-2016,Medium,Away from Home Town,Away from Home Town,492564,Mr. Sagar Mahipat More,537940,0,0,1
+Delhi,Territory Manager,Finance,01-10-2016,Low,Low risk of attrition,Low risk of attrition,896948,Mr. E Venu,683917,0,0,1
+Jharkhand,Corporate Role,Retail,01-01-2016,Medium,Average previous tenure is low,Manager specific reason,22330,Mr. Rajib Halder,982219,0,0,1
+Delhi,Relationship Manager,Infrastructure,01-01-2016,Low,Low risk of attrition,Low risk of attrition,976531,Mr. Dhavan Raval,274203,0,0,1
+Assam,Administration Executive,Infrastructure,01-03-2016,Medium,Average previous tenure is low,Manager specific reason,109285,Mr. Yogesh Narhari Chakre,177787,0,0,1
+Jharkhand,Associate,Telecommunication,01-01-2016,High,Performance is  low,Team cohesion is low,116630,Mr. Swapnil Govind Gugale,975393,1,0,1
+Assam,Sales Executive,Metal,01-04-2016,High,Away from Home Town,Average previous tenure is low,460212,Ms. Jyoti Vishwas Lende,110299,1,0,1
+Assam,Sales Executive,Retail,01-03-2016,Medium,Team mentorship is poor,Team mentorship is poor,471749,Mr. Sudip Roy,448846,0,0,1
+Jharkhand,Associate,Telecommunication,01-04-2016,High,Performance is  low,Age of person is  low,836200,Ms. Soniya Suresh Khona,488494,1,0,1
+Delhi,Businees Development Executive,Metal,01-06-2016,Low,Low risk of attrition,Low risk of attrition,202163,Mr. Rahul Rohit Khanna,696532,0,0,1
+Delhi,Businees Development Executive,Power,01-10-2016,High,Team cohesion is low,Team mentorship is poor,4844,Ms. G Barnabas Rosemary,843525,1,0,1
+Assam,Territory Manager,Retail,01-12-2016,High,Manager specific reason,Away from Home Town,461682,Mr. Sai Kumar Kamchetti,474783,1,0,1
+Delhi,Territory Manager,Retail,01-08-2016,Medium,Away from Home Town,Team cohesion is low,855020,Ms. Aarti M Gupta,180920,0,0,1
+Assam,Administration Executive,Power,01-02-2016,Medium,Average previous tenure is low,Manager specific reason,74519,Mr. Krishna Kumar Sharma,446589,0,0,1
+Delhi,Corporate Role,Finance,01-10-2016,High,Average previous tenure is low,Average previous tenure is low,447935,Mr. Shivashankar H S,103694,1,0,1
+Assam,Territory Manager,Metal,01-07-2016,High,Performance is  low,Team mentorship is poor,905729,Mr. Arvinder Singh,384560,1,0,1
+Jharkhand,Territory Manager,Metal,01-08-2016,High,Team cohesion is low,Manager specific reason,546369,Mr. Boopalakrishnan K,472061,1,0,1
+Delhi,Associate,Metal,01-02-2016,High,Manager specific reason,Age of person is  low,419269,Mr. Rajan Dhand,863725,1,0,1
+Jharkhand,Corporate Role,Finance,01-01-2016,Low,Low risk of attrition,Low risk of attrition,124578,Mr. Pramod Kumar Yadav,833691,0,0,1
+Jharkhand,Territory Manager,Telecommunication,01-10-2016,Low,Low risk of attrition,Low risk of attrition,673837,Mr. Kushal Ingle,348989,0,0,1
+Jharkhand,Associate,Telecommunication,01-03-2016,High,Average previous tenure is low,Performance is  low,898027,Mr. Naveen Kumar Bathula,985392,1,0,1
+Jharkhand,Relationship Manager,Retail,01-04-2016,Low,Low risk of attrition,Low risk of attrition,468964,Mr. Biplab Jana,262221,0,0,1
+Assam,Businees Development Executive,Metal,01-09-2016,Low,Low risk of attrition,Low risk of attrition,673489,Mr. Anoop Sobti,53127,0,0,1
+Assam,Relationship Manager,Infrastructure,01-11-2016,Low,Low risk of attrition,Low risk of attrition,377719,Ms. Geetimalika Handique Bordoloi,32998,0,0,1
+Jharkhand,Associate,Retail,01-11-2016,High,Manager specific reason,Away from Home Town,716910,Mr. Atikur Rahman,683525,1,0,1
+Assam,Businees Development Executive,Metal,01-05-2016,Medium,Away from Home Town,Performance is  low,518184,Mr. Gaurav Popatlal Rathod,149454,0,0,1
+Assam,Relationship Manager,Retail,01-03-2016,High,Manager specific reason,Team cohesion is low,388305,Mr. Tapan Sen,242399,1,0,1
+Jharkhand,Associate,Finance,01-06-2016,Low,Low risk of attrition,Low risk of attrition,561384,Mr. Avadhut Sharad Gurav,571686,0,0,1
+Jharkhand,Sales Executive,Power,01-01-2016,Low,Low risk of attrition,Low risk of attrition,132529,Ms. Beauty Singh,474227,0,0,1
+Jharkhand,Sales Executive,Telecommunication,01-08-2016,Low,Low risk of attrition,Low risk of attrition,820845,Ms. Seema Sharma,114659,0,0,1
+Jharkhand,Businees Development Executive,Metal,01-09-2016,Low,Low risk of attrition,Low risk of attrition,621978,Mr. Navin Singh,654779,0,0,1
+Delhi,Relationship Manager,Finance,01-08-2016,Low,Low risk of attrition,Low risk of attrition,440498,Mr. Yogesh Keshav Rane,733945,0,0,1
+Delhi,Relationship Manager,Power,01-05-2016,Low,Low risk of attrition,Low risk of attrition,580066,Mr. Pushpendra Singh Parihar,664270,0,0,1
+Assam,Businees Development Executive,Finance,01-08-2016,High,Team mentorship is poor,Away from Home Town,919217,Mr. Waman Madhavrao Tallu,673858,1,0,1
+Assam,Corporate Role,Metal,01-03-2016,Low,Low risk of attrition,Low risk of attrition,59720,Mr. Prasad Ravindra Date,153476,0,0,1
+Delhi,Administration Executive,Telecommunication,01-11-2016,High,Manager specific reason,Manager specific reason,256974,Mr. Patel Anilkumar Rajnikant,906406,1,0,1
+Delhi,Administration Executive,Finance,01-01-2016,Medium,Away from Home Town,Performance is  low,91353,Mr. Jaydeep Thakur,778964,0,0,1
+Assam,Associate,Metal,01-11-2016,High,Average previous tenure is low,Manager specific reason,255326,Mr. Abhishek Salte,715570,1,0,1
+Delhi,Sales Executive,Retail,01-12-2016,High,Away from Home Town,Away from Home Town,412531,Mr. Abhijit Naresh Padave,546618,1,0,1
+Delhi,Associate,Finance,01-04-2016,Low,Low risk of attrition,Low risk of attrition,832843,Ms. Sumana Das,957520,0,0,1
+Delhi,Associate,Retail,01-01-2016,Low,Low risk of attrition,Low risk of attrition,746148,Mr. Hasmukhkumar Laxmandas Sadhu,701752,0,0,1
+Delhi,Relationship Manager,Retail,01-02-2016,Medium,Team mentorship is poor,Vulnerable Location,423458,Mr. Ajay Menon,197873,0,0,1
+Delhi,Administration Executive,Infrastructure,01-11-2016,High,Age of person is  low,Team mentorship is poor,972546,Mr. Amit Kumar Singh,890795,1,0,1
+Jharkhand,Associate,Retail,01-04-2016,Medium,Manager specific reason,Team mentorship is poor,558789,Mr. Giriraj Parwal,958108,0,0,1
+Assam,Businees Development Executive,Retail,01-02-2016,Low,Low risk of attrition,Low risk of attrition,542871,Mr. Sanjiv Kumar,106130,0,0,1
+Delhi,Relationship Manager,Retail,01-07-2016,Medium,Performance is  low,Vulnerable Location,51077,Mr. P Manikanta Gupta,659203,0,0,1
+Delhi,Territory Manager,Retail,01-04-2016,Low,Low risk of attrition,Low risk of attrition,377217,Mr. Kamal Deep,439274,0,0,1
+Delhi,Associate,Retail,01-08-2016,High,Performance is  low,Team mentorship is poor,923475,Mr. Raushan Ranjan Kumar,725938,1,0,1
+Assam,Corporate Role,Metal,01-07-2016,High,Manager specific reason,Team mentorship is poor,214343,Mr. Bhavik Narendrakumar Naik,130113,1,0,1
+Delhi,Relationship Manager,Retail,01-02-2016,High,Performance is  low,Performance is  low,369315,Mr. Luxmi Kant Tiwari,138031,1,0,1
+Jharkhand,Administration Executive,Finance,01-01-2016,Medium,Performance is  low,Manager specific reason,896248,Mr. Shailesh Shekhawat,714808,0,0,1
+Delhi,Associate,Retail,01-05-2016,Medium,Performance is  low,Manager specific reason,350925,Mr. Ashvini Kumar Pandey,48241,0,0,1
+Jharkhand,Territory Manager,Finance,01-02-2016,High,Manager specific reason,Vulnerable Location,151915,Mr. Santosh Kumar Jha,88267,1,0,1
+Jharkhand,Territory Manager,Finance,01-05-2016,High,Vulnerable Location,Away from Home Town,50590,Mr. Ashish Jain,956125,1,0,1
+Assam,Corporate Role,Finance,01-09-2016,Medium,Average previous tenure is low,Average previous tenure is low,827504,Ms. Sumangali .,37041,0,0,1
+Delhi,Sales Executive,Finance,01-09-2016,High,Manager specific reason,Away from Home Town,389568,Ms. Anu Khanna,557557,1,0,1
+Assam,Relationship Manager,Power,01-09-2016,High,Performance is  low,Team mentorship is poor,362819,Mr. Naveen Mittal,590271,1,0,1
+Jharkhand,Relationship Manager,Retail,01-01-2016,Medium,Team mentorship is poor,Average previous tenure is low,740592,Mr. Udhayakumar Sandhiyagu,29968,0,0,1
+Jharkhand,Associate,Finance,01-09-2016,Medium,Team mentorship is poor,Away from Home Town,517281,Ms. Arpita Bhattacharjee,359296,0,0,1
+Jharkhand,Relationship Manager,Finance,01-10-2016,Medium,Manager specific reason,Average previous tenure is low,89011,Ms. Pinki B Paunikar,313169,0,0,1
+Delhi,Associate,Telecommunication,01-10-2016,Medium,Away from Home Town,Team mentorship is poor,676967,Mr. Akhil Sachdeva,727987,0,0,1
+Assam,Sales Executive,Finance,01-10-2016,Medium,Performance is  low,Away from Home Town,918442,Mr. Dilprit Singh,571903,0,0,1
+Jharkhand,Relationship Manager,Metal,01-05-2016,High,Performance is  low,Team mentorship is poor,423300,Mr. Aman J Prajapati,194908,1,0,1
+Delhi,Associate,Finance,01-12-2016,Medium,Performance is  low,Average previous tenure is low,888712,Mr. G Praveen,499398,0,0,1
+Assam,Territory Manager,Infrastructure,01-03-2016,Low,Low risk of attrition,Low risk of attrition,738195,Mr. Shah Yagnesh Rohitkumar,977248,0,0,1
+Assam,Relationship Manager,Infrastructure,01-09-2016,Medium,Team mentorship is poor,Away from Home Town,317736,Ms. Navjyot Kaur,180731,0,0,1
+Assam,Sales Executive,Finance,01-01-2016,High,Vulnerable Location,Team mentorship is poor,260062,Mr. Vyas Nilkanth Keshubhai,162024,1,0,1
+Jharkhand,Relationship Manager,Metal,01-08-2016,Medium,Away from Home Town,Average previous tenure is low,875880,Ms. Rekha S Goswami,580919,0,0,1
+Assam,Sales Executive,Telecommunication,01-12-2016,High,Average previous tenure is low,Away from Home Town,337931,Ms. Preeti Goel,108415,1,0,1
+Delhi,Relationship Manager,Metal,01-12-2016,High,Average previous tenure is low,Away from Home Town,358093,Mr. Jigar Dipakbhai Patel,576366,1,0,1
+Assam,Relationship Manager,Telecommunication,01-06-2016,Medium,Away from Home Town,Team mentorship is poor,296410,Mr. Ashutosh Kumar Patel,552070,0,0,1
+Jharkhand,Relationship Manager,Finance,01-08-2016,Low,Low risk of attrition,Low risk of attrition,358155,Mr. Govind M Patel,594832,0,0,1
+Assam,Businees Development Executive,Metal,01-05-2016,Medium,Performance is  low,Team cohesion is low,652372,Mr. Sunil Shankar Nupnarayan,217207,0,0,1
+Delhi,Territory Manager,Metal,01-04-2016,Low,Low risk of attrition,Low risk of attrition,940203,Mr. Budh Prakash,25880,0,0,1
+Assam,Sales Executive,Finance,01-10-2016,Low,Low risk of attrition,Low risk of attrition,967634,Mr. Karan Gondwal,166157,0,0,1
+Assam,Corporate Role,Power,01-11-2016,Low,Low risk of attrition,Low risk of attrition,83808,Mr. Saroj Kumar Pal,509103,0,0,1
+Delhi,Administration Executive,Infrastructure,01-03-2016,High,Manager specific reason,Team mentorship is poor,87189,Mr. Vishal Utsavkumar Bhatt,945827,1,0,1
+Delhi,Businees Development Executive,Metal,01-09-2016,Medium,Team cohesion is low,Manager specific reason,571918,Mr. Indivar Bawa,797246,0,0,1
+Delhi,Sales Executive,Retail,01-06-2016,High,Team cohesion is low,Manager specific reason,532882,Mr. Amit Ramanand Pal,379554,1,0,1
+Jharkhand,Businees Development Executive,Telecommunication,01-02-2016,Low,Low risk of attrition,Low risk of attrition,847716,Mr. Heramb Mahesh Joshi,160857,0,0,1
+Assam,Administration Executive,Retail,01-04-2016,Medium,Manager specific reason,Team mentorship is poor,257047,Mr. Mukul Monga,533970,0,0,1
+Jharkhand,Territory Manager,Telecommunication,01-07-2016,Medium,Average previous tenure is low,Manager specific reason,713216,Mr. Avijit Sinha,724877,0,0,1
+Delhi,Associate,Finance,01-08-2016,High,Performance is  low,Performance is  low,712318,Mr. Showvick Kumar Seal,772634,1,0,1
+Delhi,Associate,Finance,01-09-2016,Low,Low risk of attrition,Low risk of attrition,619991,Mr. Sukhbir .,51782,0,0,1
+Delhi,Businees Development Executive,Finance,01-02-2016,Medium,Average previous tenure is low,Team mentorship is poor,820833,Mr. Kishan Kumar N,291725,0,0,1
+Delhi,Associate,Infrastructure,01-03-2016,Medium,Average previous tenure is low,Vulnerable Location,833108,Mr. Virender .,545955,0,0,1
+Assam,Administration Executive,Finance,01-02-2016,Low,Low risk of attrition,Low risk of attrition,840126,Mr. Rajubhai Bhikhabhai Desai,429792,0,0,1
+Jharkhand,Administration Executive,Metal,01-06-2016,Low,Low risk of attrition,Low risk of attrition,875904,Mr. Diwakar Singh,533644,0,0,1
+Delhi,Associate,Finance,01-10-2016,Low,Low risk of attrition,Low risk of attrition,116558,Mr. Awnish Kumar Jha,732745,0,0,1
+Jharkhand,Administration Executive,Metal,01-12-2016,High,Age of person is  low,Team cohesion is low,578507,Mr. Lakhvinder Singh,521466,1,0,1
+Delhi,Relationship Manager,Finance,01-04-2016,Low,Low risk of attrition,Low risk of attrition,122445,Mr. Vishal Dhana Solanki,39440,0,0,1
+Delhi,Relationship Manager,Retail,01-02-2016,High,Team mentorship is poor,Away from Home Town,48948,Mrs. Swati Rajeev Gokhle,631633,1,0,1
+Jharkhand,Associate,Power,01-06-2016,High,Team mentorship is poor,Manager specific reason,299375,Mr. Deepak Goyal,631732,1,0,1
+Delhi,Associate,Metal,01-03-2016,Low,Low risk of attrition,Low risk of attrition,202267,Mr. Avi Bhattacherjya,933728,0,0,1
+Delhi,Businees Development Executive,Finance,01-01-2016,Medium,Away from Home Town,Away from Home Town,868708,Mr. Mukul Chaturvedi,490260,0,0,1
+Delhi,Businees Development Executive,Finance,01-05-2016,Medium,Average previous tenure is low,Average previous tenure is low,360380,Mr. Tervadiya Maheshkumar Manubhai,372804,0,0,1
+Delhi,Sales Executive,Infrastructure,01-01-2016,Low,Low risk of attrition,Low risk of attrition,582855,Mr. Sukhdev Singh,623685,0,0,1
+Delhi,Associate,Infrastructure,01-01-2016,Medium,Team cohesion is low,Away from Home Town,726886,Ms. Deepa R,26435,0,0,1
+Assam,Associate,Retail,01-08-2016,Low,Low risk of attrition,Low risk of attrition,587713,Mr. Jatinder Singh,12111,0,0,1
+Delhi,Associate,Retail,01-06-2016,Medium,Average previous tenure is low,Away from Home Town,165508,Mr. Ashok Kumar Tiwari,802161,0,0,1
+Delhi,Associate,Retail,01-09-2016,High,Team cohesion is low,Performance is  low,524356,Mr. Laju C T,940622,1,0,1
+Assam,Sales Executive,Finance,01-01-2016,Low,Low risk of attrition,Low risk of attrition,585814,Mr. Sakil Sharma,816988,0,0,1
+Assam,Sales Executive,Telecommunication,01-05-2016,High,Team mentorship is poor,Performance is  low,968088,Mr. Parveen Kumar Goyal,581461,1,0,1
+Delhi,Businees Development Executive,Power,01-06-2016,Low,Low risk of attrition,Low risk of attrition,466064,Mr. Sandeep .,621938,0,0,1
+Delhi,Sales Executive,Metal,01-06-2016,Medium,Team mentorship is poor,Away from Home Town,982578,Ms. Kakoli Guha,414296,0,0,1
+Jharkhand,Corporate Role,Finance,01-03-2016,Medium,Age of person is  low,Age of person is  low,46873,Ms. Manisha Gondane,191835,0,0,1
+Delhi,Relationship Manager,Power,01-05-2016,Medium,Average previous tenure is low,Team mentorship is poor,533961,Mr. Ajay Hooda,160994,0,0,1
+Delhi,Relationship Manager,Power,01-01-2016,Low,Low risk of attrition,Low risk of attrition,239247,Mr. Moni Mondal,390479,0,0,1
+Jharkhand,Territory Manager,Metal,01-07-2016,Medium,Team cohesion is low,Average previous tenure is low,17410,Mr. Mohammed Ashwaq,255615,0,0,1
+Delhi,Relationship Manager,Power,01-07-2016,High,Team cohesion is low,Team mentorship is poor,952211,Mr. K Suryarao,143903,1,0,1
+Assam,Businees Development Executive,Telecommunication,01-01-2016,High,Performance is  low,Average previous tenure is low,745116,Mr. Manish Sarma,238679,1,0,1
+Delhi,Territory Manager,Retail,01-11-2016,High,Manager specific reason,Age of person is  low,871004,Mr. Pawan Bhatia,768904,1,0,1
+Delhi,Sales Executive,Power,01-07-2016,Low,Low risk of attrition,Low risk of attrition,545128,Mr. Abhishek Shah,937820,0,0,1
+Jharkhand,Corporate Role,Retail,01-03-2016,Low,Low risk of attrition,Low risk of attrition,399731,Mr. Gautam Chandubhai Thakar,551490,0,0,1
+Jharkhand,Administration Executive,Retail,01-03-2016,Medium,Team mentorship is poor,Team mentorship is poor,912990,Mr. Naseerooddeen .,942721,0,0,1
+Delhi,Corporate Role,Infrastructure,01-02-2016,Low,Low risk of attrition,Low risk of attrition,144980,Mr. Sanjeev Kumar,152814,0,0,1
+Jharkhand,Sales Executive,Metal,01-10-2016,Medium,Team cohesion is low,Manager specific reason,664390,Mr. Virendra Kumar,918363,0,0,1
+Delhi,Territory Manager,Finance,01-07-2016,Medium,Team mentorship is poor,Away from Home Town,565447,Ms. Jayalaxmi S Junnuru,888323,0,0,1
+Jharkhand,Sales Executive,Power,01-05-2016,High,Team mentorship is poor,Average previous tenure is low,798775,Mr. Deepak Pandurang Birje,54798,1,0,1
+Assam,Relationship Manager,Infrastructure,01-06-2016,Low,Low risk of attrition,Low risk of attrition,259502,Mr. Melvyn Peter,909850,0,0,1
+Jharkhand,Administration Executive,Retail,01-05-2016,Medium,Vulnerable Location,Team mentorship is poor,823710,Mr. Manoj Danej,261839,0,0,1
+Assam,Relationship Manager,Metal,01-01-2016,Low,Low risk of attrition,Low risk of attrition,814407,Mr. Deepak Singh,75092,0,0,1
+Delhi,Corporate Role,Telecommunication,01-07-2016,Low,Low risk of attrition,Low risk of attrition,431821,Mr. Joginder Singh Bhanwala,566646,0,0,1
+Assam,Corporate Role,Finance,01-03-2016,High,Team mentorship is poor,Team cohesion is low,102038,Mr. Avula Sasidhar Reddy,994790,1,0,1
+Delhi,Sales Executive,Finance,01-09-2016,High,Age of person is  low,Performance is  low,937710,Mr. Jasbir Singh,693065,1,0,1
+Jharkhand,Relationship Manager,Metal,01-01-2016,Medium,Manager specific reason,Team cohesion is low,653249,Mr. Gagan Bajpai,36556,0,0,1
+Jharkhand,Corporate Role,Metal,01-08-2016,High,Team mentorship is poor,Average previous tenure is low,321945,Mr. Vivek Parashar,314434,1,0,1
+Delhi,Relationship Manager,Power,01-10-2016,Low,Low risk of attrition,Low risk of attrition,89740,Ms. Sonal Modi,13813,0,0,1
+Assam,Relationship Manager,Power,01-05-2016,Low,Low risk of attrition,Low risk of attrition,909753,Mr. Pramol Vasantrao Warang,664598,0,0,1
+Delhi,Relationship Manager,Retail,01-11-2016,Medium,Team mentorship is poor,Average previous tenure is low,97248,Ms. Simpi Gupta,842096,0,0,1
+Delhi,Associate,Finance,01-11-2016,Low,Low risk of attrition,Low risk of attrition,658139,Mr. Syed Mizanur Rahman,6673,0,0,1
+Delhi,Associate,Retail,01-11-2016,Medium,Manager specific reason,Performance is  low,55240,Mr. Ram Bahadur Sagar,541220,0,0,1
+Jharkhand,Associate,Retail,01-09-2016,Medium,Away from Home Town,Away from Home Town,286433,Mr. Ankit Deepak Shah,131830,0,0,1
+Assam,Corporate Role,Power,01-02-2016,High,Away from Home Town,Away from Home Town,273177,Mr. Shashank Jaiswal,159567,1,0,1
+Jharkhand,Sales Executive,Telecommunication,01-02-2016,Medium,Average previous tenure is low,Team mentorship is poor,407395,Mr. Sajjan Malik,616966,0,0,1
+Delhi,Territory Manager,Power,01-04-2016,Low,Low risk of attrition,Low risk of attrition,201561,Mr. Naresh Premjani,174269,0,0,1
+Jharkhand,Administration Executive,Metal,01-07-2016,High,Average previous tenure is low,Manager specific reason,664854,Mr. Anilbabu Koka,35276,1,0,1
+Delhi,Associate,Telecommunication,01-11-2016,Medium,Team cohesion is low,Average previous tenure is low,497180,Mr. Sharif Ahmed,229568,0,0,1
+Jharkhand,Sales Executive,Retail,01-05-2016,High,Vulnerable Location,Team mentorship is poor,559179,Ms. Bhartiben K Patel,352247,1,0,1
+Assam,Administration Executive,Metal,01-10-2016,Medium,Away from Home Town,Manager specific reason,493178,Ms. Poonam Devi,282291,0,0,1
+Delhi,Businees Development Executive,Retail,01-02-2016,Medium,Manager specific reason,Performance is  low,569058,Mr. Arghya Bose,340858,0,0,1
+Delhi,Sales Executive,Finance,01-07-2016,High,Performance is  low,Team mentorship is poor,749093,Ms. Chitla Vanaja,942849,1,0,1
+Jharkhand,Territory Manager,Power,01-10-2016,Medium,Away from Home Town,Average previous tenure is low,817889,Mr. Joy Paul,1367,0,0,1
+Jharkhand,Sales Executive,Metal,01-05-2016,Low,Low risk of attrition,Low risk of attrition,387719,Mr. Pravinsinh J Mori,39101,0,0,1
+Jharkhand,Territory Manager,Finance,01-10-2016,Medium,Team cohesion is low,Team mentorship is poor,77001,Mr. Atul Dagar,470525,0,0,1
+Jharkhand,Sales Executive,Retail,01-01-2016,Medium,Team mentorship is poor,Away from Home Town,522260,Ms. Gazala Javed Khan,321632,0,0,1
+Delhi,Associate,Finance,01-06-2016,Low,Low risk of attrition,Low risk of attrition,271448,Mr. Vyas Hemant Dattatrey,52057,0,0,1
+Jharkhand,Territory Manager,Finance,01-11-2016,High,Average previous tenure is low,Age of person is  low,856383,Mr. Sharad Madhukar Damle,367755,1,0,1
+Assam,Corporate Role,Metal,01-08-2016,High,Age of person is  low,Age of person is  low,893200,Mrs. Kavita Mishra,425777,1,0,1
+Delhi,Relationship Manager,Retail,01-06-2016,Medium,Away from Home Town,Manager specific reason,406387,Mr. Mukesh Das,136709,0,0,1
+Jharkhand,Sales Executive,Telecommunication,01-12-2016,Low,Low risk of attrition,Low risk of attrition,363768,Mr. Nilesh Vijaynath Pandey,429062,0,0,1
+Delhi,Associate,Power,01-11-2016,Low,Low risk of attrition,Low risk of attrition,68034,Mr. Prakritish Bezbaruah,255214,0,0,1
+Jharkhand,Sales Executive,Infrastructure,01-03-2016,Medium,Away from Home Town,Team mentorship is poor,424862,Ms. Urmila Sharma,896132,0,0,1
+Jharkhand,Territory Manager,Metal,01-10-2016,Low,Low risk of attrition,Low risk of attrition,708054,Mr. P N Sawant,305250,0,0,1
+Assam,Relationship Manager,Metal,01-05-2016,High,Team mentorship is poor,Average previous tenure is low,961845,Mr. Pratik Pawar,72250,1,0,1
+Jharkhand,Relationship Manager,Telecommunication,01-12-2016,Medium,Team mentorship is poor,Performance is  low,382056,Mr. Satya Prakash Mishra,845319,0,0,1
+Delhi,Territory Manager,Retail,01-01-2016,Low,Low risk of attrition,Low risk of attrition,724145,Ms. Randeep Kaur,359398,0,0,1
+Delhi,Associate,Power,01-06-2016,Medium,Away from Home Town,Away from Home Town,630130,Mr. Sunil Shiv Kandari,522984,0,0,1
+Assam,Associate,Infrastructure,01-03-2016,Medium,Team cohesion is low,Team mentorship is poor,10225,Ms. Manpreet Kaur Kundi,107096,0,0,1
+Assam,Businees Development Executive,Power,01-04-2016,Low,Low risk of attrition,Low risk of attrition,698633,Mr. Piyush Agrawal,461725,0,0,1
+Assam,Administration Executive,Metal,01-06-2016,High,Away from Home Town,Performance is  low,769561,Mr. Dhirendra Pratap Singh,327875,1,0,1

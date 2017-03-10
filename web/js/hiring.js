@@ -68,7 +68,7 @@ function plotHiringQ1Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
         });
 
         var metricName1 = cf.dimension(function (d) {
@@ -249,10 +249,10 @@ function plotHiringQ1Charts() {
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
                                 )
                         )
-                .xUnits(d3.time.months)
-                .xAxis()
-                .ticks(d3.time.month, 1)
-                .tickFormat(d3.time.format("%b '%y"));
+                .xUnits(d3.time.months);
+//                .xAxis()
+//                .ticks(d3.time.month, 1)
+//                .tickFormat(d3.time.format("%b '%y"));
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -386,7 +386,7 @@ function plotHiringQ2Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
         });
 
         var metricName1 = cf.dimension(function (d) {
@@ -704,7 +704,7 @@ function plotHiringQ3Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
         });
 
         var tatMetricName1 = cf.dimension(function (d) {
@@ -959,7 +959,7 @@ function plotHiringQ4Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
         });
 
         var sohMetricName1 = cf.dimension(function (d) {
@@ -1397,7 +1397,7 @@ function plotHiringQ5Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
         });
 
         var metricName1 = cf.dimension(function (d) {

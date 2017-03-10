@@ -1,372 +1,1485 @@
 m1,m2,m3,m4,type,value
-Assam,Corporate,Vendor,01-11-16,candidate_count,1
-Assam,CSO,Direct,01-10-16,candidate_count,7
-Assam,CSO,Direct,01-11-16,candidate_count,28
-Assam,CSO,Direct,01-12-16,candidate_count,7
-Assam,CSO,Career Page,01-10-16,candidate_count,2
-Assam,CSO,Career Page,01-11-16,candidate_count,1
-Assam,CSO,Career Page,01-12-16,candidate_count,8
-Assam,RM,Vendor,01-10-16,candidate_count,3
-Assam,RM,Vendor,01-12-16,candidate_count,5
-Assam,RM,Direct,01-10-16,candidate_count,3
-Assam,RM,Direct,01-11-16,candidate_count,2
-Assam,RM,Direct,01-12-16,candidate_count,2
-Assam,RM,Career Page,01-10-16,candidate_count,5
-Assam,RM,Career Page,01-11-16,candidate_count,5
-Assam,RM,Career Page,01-12-16,candidate_count,5
-Assam,RM,Referral,01-12-16,candidate_count,1
-Assam,BD,Vendor,01-10-16,candidate_count,2
-Assam,BD,Direct,01-10-16,candidate_count,10
-Assam,BD,Direct,01-11-16,candidate_count,13
-Assam,BD,Direct,01-12-16,candidate_count,22
-Assam,BD,Career Page,01-10-16,candidate_count,3
-Assam,BD,Career Page,01-11-16,candidate_count,3
-Assam,BD,Career Page,01-12-16,candidate_count,5
-Assam,Administration,Direct,01-10-16,candidate_count,1
-Assam,Administration,Direct,01-11-16,candidate_count,2
-Assam,Administration,Career Page,01-12-16,candidate_count,3
-Assam,Support,Direct,01-11-16,candidate_count,1
-Assam,Credit,Direct,01-12-16,candidate_count,1
-Assam,Others,Job Portal,01-12-16,candidate_count,1
-Assam,Marketing,Vendor,01-10-16,candidate_count,1
-Delhi,Corporate,Vendor,01-11-16,candidate_count,1
-Delhi,Corporate,Direct,01-10-16,candidate_count,2
-Delhi,Corporate,Direct,01-11-16,candidate_count,1
-Delhi,Corporate,Career Page,01-10-16,candidate_count,2
-Delhi,Corporate,Career Page,01-11-16,candidate_count,1
-Delhi,Corporate,Career Page,01-12-16,candidate_count,9
-Delhi,IT,Direct,01-10-16,candidate_count,1
-Delhi,CSO,Vendor,01-10-16,candidate_count,5
-Delhi,CSO,Vendor,01-11-16,candidate_count,5
-Delhi,CSO,Vendor,01-12-16,candidate_count,23
-Delhi,CSO,Direct,01-10-16,candidate_count,9
-Delhi,CSO,Direct,01-11-16,candidate_count,13
-Delhi,CSO,Direct,01-12-16,candidate_count,50
-Delhi,CSO,Career Page,01-10-16,candidate_count,17
-Delhi,CSO,Career Page,01-11-16,candidate_count,41
-Delhi,CSO,Career Page,01-12-16,candidate_count,56
-Delhi,CSO,Referral,01-10-16,candidate_count,6
-Delhi,CSO,Referral,01-11-16,candidate_count,2
-Delhi,CSO,Referral,01-12-16,candidate_count,1
-Delhi,RM,Vendor,01-10-16,candidate_count,35
-Delhi,RM,Vendor,01-11-16,candidate_count,28
-Delhi,RM,Vendor,01-12-16,candidate_count,21
-Delhi,RM,Direct,01-10-16,candidate_count,3
-Delhi,RM,Direct,01-11-16,candidate_count,10
-Delhi,RM,Direct,01-12-16,candidate_count,6
-Delhi,RM,Career Page,01-10-16,candidate_count,11
-Delhi,RM,Career Page,01-11-16,candidate_count,6
-Delhi,RM,Career Page,01-12-16,candidate_count,8
-Delhi,BD,Vendor,01-10-16,candidate_count,2
-Delhi,BD,Vendor,01-11-16,candidate_count,4
-Delhi,BD,Vendor,01-12-16,candidate_count,8
-Delhi,BD,Direct,01-10-16,candidate_count,19
-Delhi,BD,Direct,01-11-16,candidate_count,31
-Delhi,BD,Direct,01-12-16,candidate_count,17
-Delhi,BD,Career Page,01-10-16,candidate_count,2
-Delhi,BD,Career Page,01-11-16,candidate_count,14
-Delhi,BD,Career Page,01-12-16,candidate_count,7
-Delhi,BD,Job Portal,01-11-16,candidate_count,1
-Delhi,Administration,Career Page,01-12-16,candidate_count,1
-Delhi,Finance,Vendor,01-10-16,candidate_count,1
-Delhi,Finance,Direct,01-10-16,candidate_count,2
-Delhi,Finance,Direct,01-12-16,candidate_count,1
-Delhi,Finance,Career Page,01-10-16,candidate_count,1
-Delhi,Finance,Career Page,01-11-16,candidate_count,1
-Delhi,Finance,Job Portal,01-11-16,candidate_count,1
-Delhi,Support,Direct,01-11-16,candidate_count,2
-Delhi,Support,Direct,01-12-16,candidate_count,2
-Delhi,Support,Career Page,01-12-16,candidate_count,1
-Delhi,Credit,Vendor,01-11-16,candidate_count,1
-Delhi,Credit,Direct,01-10-16,candidate_count,1
-Delhi,Credit,Direct,01-11-16,candidate_count,1
-Delhi,Credit,Direct,01-12-16,candidate_count,6
-Delhi,Credit,Career Page,01-10-16,candidate_count,1
-Delhi,Credit,Career Page,01-12-16,candidate_count,1
-Delhi,Credit,Referral,01-12-16,candidate_count,1
-Delhi,Others,Vendor,01-11-16,candidate_count,1
-Delhi,Others,Direct,01-11-16,candidate_count,1
-Delhi,Others,Career Page,01-10-16,candidate_count,1
-Delhi,Others,Referral,01-11-16,candidate_count,1
-Delhi,Marketing,Direct,01-10-16,candidate_count,1
-Jharkhand,HR,Direct,01-10-16,candidate_count,1
-Jharkhand,Corporate,Vendor,01-10-16,candidate_count,1
-Jharkhand,Corporate,Vendor,01-11-16,candidate_count,1
-Jharkhand,Corporate,Direct,01-11-16,candidate_count,3
-Jharkhand,Corporate,Career Page,01-10-16,candidate_count,1
-Jharkhand,Corporate,Career Page,01-12-16,candidate_count,4
-Jharkhand,IT,Direct,01-10-16,candidate_count,2
-Jharkhand,IT,Career Page,01-12-16,candidate_count,2
-Jharkhand,CSO,Vendor,01-10-16,candidate_count,2
-Jharkhand,CSO,Vendor,01-12-16,candidate_count,1
-Jharkhand,CSO,Direct,01-10-16,candidate_count,4
-Jharkhand,CSO,Direct,01-11-16,candidate_count,11
-Jharkhand,CSO,Direct,01-12-16,candidate_count,12
-Jharkhand,CSO,Career Page,01-10-16,candidate_count,5
-Jharkhand,CSO,Career Page,01-11-16,candidate_count,15
-Jharkhand,CSO,Career Page,01-12-16,candidate_count,22
-Jharkhand,CSO,Referral,01-10-16,candidate_count,1
-Jharkhand,CSO,Referral,01-12-16,candidate_count,1
-Jharkhand,RM,Vendor,01-10-16,candidate_count,1
-Jharkhand,RM,Vendor,01-11-16,candidate_count,2
-Jharkhand,RM,Vendor,01-12-16,candidate_count,2
-Jharkhand,RM,Direct,01-10-16,candidate_count,10
-Jharkhand,RM,Direct,01-11-16,candidate_count,1
-Jharkhand,RM,Direct,01-12-16,candidate_count,3
-Jharkhand,RM,Career Page,01-10-16,candidate_count,1
-Jharkhand,RM,Career Page,01-11-16,candidate_count,4
-Jharkhand,RM,Career Page,01-12-16,candidate_count,4
-Jharkhand,BD,Vendor,01-10-16,candidate_count,1
-Jharkhand,BD,Vendor,01-12-16,candidate_count,1
-Jharkhand,BD,Direct,01-10-16,candidate_count,31
-Jharkhand,BD,Direct,01-11-16,candidate_count,12
-Jharkhand,BD,Direct,01-12-16,candidate_count,14
-Jharkhand,BD,Career Page,01-10-16,candidate_count,2
-Jharkhand,BD,Career Page,01-11-16,candidate_count,21
-Jharkhand,BD,Career Page,01-12-16,candidate_count,19
-Jharkhand,Administration,Direct,01-11-16,candidate_count,2
-Jharkhand,Administration,Career Page,01-12-16,candidate_count,4
-Jharkhand,Finance,Vendor,01-12-16,candidate_count,1
-Jharkhand,Finance,Direct,01-12-16,candidate_count,1
-Jharkhand,Credit,Direct,01-10-16,candidate_count,1
-Jharkhand,Credit,Direct,01-12-16,candidate_count,1
-Jharkhand,Credit,Career Page,01-10-16,candidate_count,1
-Jharkhand,Credit,Career Page,01-12-16,candidate_count,1
-Jharkhand,Others,Vendor,01-11-16,candidate_count,1
-Jharkhand,Others,Direct,01-10-16,candidate_count,1
-Jharkhand,Marketing,Vendor,01-11-16,candidate_count,1
-Assam,CSO,Direct,01-10-16,conversion_ratio_num,4
-Assam,CSO,Direct,01-11-16,conversion_ratio_num,17
-Assam,RM,Direct,01-10-16,conversion_ratio_num,2
-Assam,RM,Direct,01-11-16,conversion_ratio_num,2
-Assam,BD,Vendor,01-10-16,conversion_ratio_num,2
-Assam,BD,Direct,01-10-16,conversion_ratio_num,8
-Assam,BD,Direct,01-11-16,conversion_ratio_num,10
-Assam,BD,Direct,01-12-16,conversion_ratio_num,4
-Assam,Administration,Direct,01-10-16,conversion_ratio_num,1
-Delhi,CSO,Direct,01-10-16,conversion_ratio_num,5
-Delhi,CSO,Direct,01-11-16,conversion_ratio_num,1
-Delhi,CSO,Direct,01-12-16,conversion_ratio_num,2
-Delhi,CSO,Career Page,01-10-16,conversion_ratio_num,1
-Delhi,CSO,Career Page,01-11-16,conversion_ratio_num,2
-Delhi,RM,Vendor,01-10-16,conversion_ratio_num,1
-Delhi,RM,Direct,01-11-16,conversion_ratio_num,4
-Delhi,BD,Direct,01-10-16,conversion_ratio_num,5
-Delhi,BD,Direct,01-11-16,conversion_ratio_num,19
-Delhi,BD,Direct,01-12-16,conversion_ratio_num,9
-Delhi,BD,Career Page,01-11-16,conversion_ratio_num,1
-Delhi,Finance,Direct,01-10-16,conversion_ratio_num,1
-Delhi,Support,Direct,01-11-16,conversion_ratio_num,1
-Jharkhand,HR,Direct,01-10-16,conversion_ratio_num,1
-Jharkhand,Corporate,Direct,01-11-16,conversion_ratio_num,1
-Jharkhand,IT,Direct,01-10-16,conversion_ratio_num,1
-Jharkhand,CSO,Direct,01-11-16,conversion_ratio_num,1
-Jharkhand,CSO,Direct,01-12-16,conversion_ratio_num,3
-Jharkhand,RM,Direct,01-10-16,conversion_ratio_num,1
-Jharkhand,BD,Direct,01-10-16,conversion_ratio_num,22
-Jharkhand,BD,Direct,01-11-16,conversion_ratio_num,11
-Jharkhand,BD,Direct,01-12-16,conversion_ratio_num,9
-Jharkhand,Credit,Direct,01-10-16,conversion_ratio_num,1
-Jharkhand,Others,Direct,01-10-16,conversion_ratio_num,1
-Assam,CSO,Direct,01-10-16,tat_sum,182
-Assam,CSO,Direct,01-11-16,tat_sum,547
-Assam,RM,Direct,01-10-16,tat_sum,81
-Assam,RM,Direct,01-11-16,tat_sum,73
-Assam,BD,Vendor,01-10-16,tat_sum,59
-Assam,BD,Direct,01-10-16,tat_sum,311
-Assam,BD,Direct,01-11-16,tat_sum,196
-Assam,BD,Direct,01-12-16,tat_sum,49
-Assam,Administration,Direct,01-10-16,tat_sum,17
-Delhi,CSO,Direct,01-10-16,tat_sum,195
-Delhi,CSO,Direct,01-11-16,tat_sum,33
-Delhi,CSO,Direct,01-12-16,tat_sum,50
-Delhi,CSO,Career Page,01-10-16,tat_sum,49
-Delhi,CSO,Career Page,01-11-16,tat_sum,59
-Delhi,RM,Vendor,01-10-16,tat_sum,83
-Delhi,RM,Direct,01-11-16,tat_sum,125
-Delhi,BD,Direct,01-10-16,tat_sum,140
-Delhi,BD,Direct,01-11-16,tat_sum,303
-Delhi,BD,Direct,01-12-16,tat_sum,211
-Delhi,BD,Career Page,01-11-16,tat_sum,8
-Delhi,Finance,Direct,01-10-16,tat_sum,68
-Delhi,Support,Direct,01-11-16,tat_sum,12
-Jharkhand,HR,Direct,01-10-16,tat_sum,84
-Jharkhand,Corporate,Direct,01-11-16,tat_sum,14
-Jharkhand,IT,Direct,01-10-16,tat_sum,58
-Jharkhand,CSO,Direct,01-11-16,tat_sum,41
-Jharkhand,CSO,Direct,01-12-16,tat_sum,40
-Jharkhand,RM,Direct,01-10-16,tat_sum,51
-Jharkhand,BD,Direct,01-10-16,tat_sum,349
-Jharkhand,BD,Direct,01-11-16,tat_sum,124
-Jharkhand,BD,Direct,01-12-16,tat_sum,167
-Jharkhand,Credit,Direct,01-10-16,tat_sum,39
-Jharkhand,Others,Direct,01-10-16,tat_sum,48
-Assam,Corporate,Vendor,01-11-16,compensation_sum,16
-Assam,CSO,Direct,01-10-16,compensation_sum,2
-Assam,CSO,Direct,01-11-16,compensation_sum,3
-Assam,CSO,Direct,01-12-16,compensation_sum,0
-Assam,CSO,Career Page,01-10-16,compensation_sum,1
-Assam,CSO,Career Page,01-11-16,compensation_sum,0
-Assam,CSO,Career Page,01-12-16,compensation_sum,7
-Assam,RM,Vendor,01-10-16,compensation_sum,380004
-Assam,RM,Vendor,01-12-16,compensation_sum,642004
-Assam,RM,Direct,01-10-16,compensation_sum,500000
-Assam,RM,Direct,01-11-16,compensation_sum,0
-Assam,RM,Direct,01-12-16,compensation_sum,0
-Assam,RM,Career Page,01-10-16,compensation_sum,2
-Assam,RM,Career Page,01-11-16,compensation_sum,4
-Assam,RM,Career Page,01-12-16,compensation_sum,643009
-Assam,RM,Referral,01-12-16,compensation_sum,210000
-Assam,BD,Vendor,01-10-16,compensation_sum,0
-Assam,BD,Direct,01-10-16,compensation_sum,0
-Assam,BD,Direct,01-11-16,compensation_sum,0
-Assam,BD,Direct,01-12-16,compensation_sum,0
-Assam,BD,Career Page,01-10-16,compensation_sum,0
-Assam,BD,Career Page,01-11-16,compensation_sum,0
-Assam,BD,Career Page,01-12-16,compensation_sum,208775
-Assam,Administration,Direct,01-10-16,compensation_sum,0
-Assam,Administration,Direct,01-11-16,compensation_sum,15
-Assam,Administration,Career Page,01-12-16,compensation_sum,870013
-Assam,Support,Direct,01-11-16,compensation_sum,0
-Assam,Credit,Direct,01-12-16,compensation_sum,0
-Assam,Others,Job Portal,01-12-16,compensation_sum,0
-Assam,Marketing,Vendor,01-10-16,compensation_sum,700000
-Delhi,Corporate,Vendor,01-11-16,compensation_sum,19
-Delhi,Corporate,Direct,01-10-16,compensation_sum,10
-Delhi,Corporate,Direct,01-11-16,compensation_sum,0
-Delhi,Corporate,Career Page,01-10-16,compensation_sum,275004
-Delhi,Corporate,Career Page,01-11-16,compensation_sum,6
-Delhi,Corporate,Career Page,01-12-16,compensation_sum,170028
-Delhi,IT,Direct,01-10-16,compensation_sum,0
-Delhi,CSO,Vendor,01-10-16,compensation_sum,800013
-Delhi,CSO,Vendor,01-11-16,compensation_sum,18
-Delhi,CSO,Vendor,01-12-16,compensation_sum,2783047
-Delhi,CSO,Direct,01-10-16,compensation_sum,550000
-Delhi,CSO,Direct,01-11-16,compensation_sum,580000
-Delhi,CSO,Direct,01-12-16,compensation_sum,300004
-Delhi,CSO,Career Page,01-10-16,compensation_sum,995018
-Delhi,CSO,Career Page,01-11-16,compensation_sum,1213922
-Delhi,CSO,Career Page,01-12-16,compensation_sum,1945220
-Delhi,CSO,Referral,01-10-16,compensation_sum,714294
-Delhi,CSO,Referral,01-11-16,compensation_sum,588000
-Delhi,CSO,Referral,01-12-16,compensation_sum,338000
-Delhi,RM,Vendor,01-10-16,compensation_sum,1500099
-Delhi,RM,Vendor,01-11-16,compensation_sum,4676130
-Delhi,RM,Vendor,01-12-16,compensation_sum,2285464
-Delhi,RM,Direct,01-10-16,compensation_sum,5
-Delhi,RM,Direct,01-11-16,compensation_sum,1850007
-Delhi,RM,Direct,01-12-16,compensation_sum,20
-Delhi,RM,Career Page,01-10-16,compensation_sum,1442013
-Delhi,RM,Career Page,01-11-16,compensation_sum,930019
-Delhi,RM,Career Page,01-12-16,compensation_sum,840028
-Delhi,BD,Vendor,01-10-16,compensation_sum,12
-Delhi,BD,Vendor,01-11-16,compensation_sum,11
-Delhi,BD,Vendor,01-12-16,compensation_sum,207
-Delhi,BD,Direct,01-10-16,compensation_sum,1
-Delhi,BD,Direct,01-11-16,compensation_sum,1456012
-Delhi,BD,Direct,01-12-16,compensation_sum,144002
-Delhi,BD,Career Page,01-10-16,compensation_sum,3100003
-Delhi,BD,Career Page,01-11-16,compensation_sum,590012
-Delhi,BD,Career Page,01-12-16,compensation_sum,230005
-Delhi,BD,Job Portal,01-11-16,compensation_sum,0
-Delhi,Administration,Career Page,01-12-16,compensation_sum,0
-Delhi,Finance,Vendor,01-10-16,compensation_sum,17
-Delhi,Finance,Direct,01-10-16,compensation_sum,0
-Delhi,Finance,Direct,01-12-16,compensation_sum,941
-Delhi,Finance,Career Page,01-10-16,compensation_sum,0
-Delhi,Finance,Career Page,01-11-16,compensation_sum,0
-Delhi,Finance,Job Portal,01-11-16,compensation_sum,0
-Delhi,Support,Direct,01-11-16,compensation_sum,320000
-Delhi,Support,Direct,01-12-16,compensation_sum,0
-Delhi,Support,Career Page,01-12-16,compensation_sum,0
-Delhi,Credit,Vendor,01-11-16,compensation_sum,6
-Delhi,Credit,Direct,01-10-16,compensation_sum,0
-Delhi,Credit,Direct,01-11-16,compensation_sum,0
-Delhi,Credit,Direct,01-12-16,compensation_sum,939532
-Delhi,Credit,Career Page,01-10-16,compensation_sum,2
-Delhi,Credit,Career Page,01-12-16,compensation_sum,0
-Delhi,Credit,Referral,01-12-16,compensation_sum,240000
-Delhi,Others,Vendor,01-11-16,compensation_sum,8
-Delhi,Others,Direct,01-11-16,compensation_sum,0
-Delhi,Others,Career Page,01-10-16,compensation_sum,5
-Delhi,Others,Referral,01-11-16,compensation_sum,4
-Delhi,Marketing,Direct,01-10-16,compensation_sum,0
-Jharkhand,HR,Direct,01-10-16,compensation_sum,0
-Jharkhand,Corporate,Vendor,01-10-16,compensation_sum,15
-Jharkhand,Corporate,Vendor,01-11-16,compensation_sum,0
-Jharkhand,Corporate,Direct,01-11-16,compensation_sum,0
-Jharkhand,Corporate,Career Page,01-10-16,compensation_sum,0
-Jharkhand,Corporate,Career Page,01-12-16,compensation_sum,15
-Jharkhand,IT,Direct,01-10-16,compensation_sum,6
-Jharkhand,IT,Career Page,01-12-16,compensation_sum,5
-Jharkhand,CSO,Vendor,01-10-16,compensation_sum,350006
-Jharkhand,CSO,Vendor,01-12-16,compensation_sum,4
-Jharkhand,CSO,Direct,01-10-16,compensation_sum,4
-Jharkhand,CSO,Direct,01-11-16,compensation_sum,750004
-Jharkhand,CSO,Direct,01-12-16,compensation_sum,3
-Jharkhand,CSO,Career Page,01-10-16,compensation_sum,13
-Jharkhand,CSO,Career Page,01-11-16,compensation_sum,10
-Jharkhand,CSO,Career Page,01-12-16,compensation_sum,730009
-Jharkhand,CSO,Referral,01-10-16,compensation_sum,0
-Jharkhand,CSO,Referral,01-12-16,compensation_sum,2
-Jharkhand,RM,Vendor,01-10-16,compensation_sum,5
-Jharkhand,RM,Vendor,01-11-16,compensation_sum,9
-Jharkhand,RM,Vendor,01-12-16,compensation_sum,600005
-Jharkhand,RM,Direct,01-10-16,compensation_sum,730014
-Jharkhand,RM,Direct,01-11-16,compensation_sum,0
-Jharkhand,RM,Direct,01-12-16,compensation_sum,450000
-Jharkhand,RM,Career Page,01-10-16,compensation_sum,230000
-Jharkhand,RM,Career Page,01-11-16,compensation_sum,108006
-Jharkhand,RM,Career Page,01-12-16,compensation_sum,360000
-Jharkhand,BD,Vendor,01-10-16,compensation_sum,0
-Jharkhand,BD,Vendor,01-12-16,compensation_sum,0
-Jharkhand,BD,Direct,01-10-16,compensation_sum,13
-Jharkhand,BD,Direct,01-11-16,compensation_sum,0
-Jharkhand,BD,Direct,01-12-16,compensation_sum,0
-Jharkhand,BD,Career Page,01-10-16,compensation_sum,0
-Jharkhand,BD,Career Page,01-11-16,compensation_sum,156005
-Jharkhand,BD,Career Page,01-12-16,compensation_sum,490008
-Jharkhand,Administration,Direct,01-11-16,compensation_sum,0
-Jharkhand,Administration,Career Page,01-12-16,compensation_sum,550023
-Jharkhand,Finance,Vendor,01-12-16,compensation_sum,14
-Jharkhand,Finance,Direct,01-12-16,compensation_sum,0
-Jharkhand,Credit,Direct,01-10-16,compensation_sum,0
-Jharkhand,Credit,Direct,01-12-16,compensation_sum,0
-Jharkhand,Credit,Career Page,01-10-16,compensation_sum,260000
-Jharkhand,Credit,Career Page,01-12-16,compensation_sum,0
-Jharkhand,Others,Vendor,01-11-16,compensation_sum,10
-Jharkhand,Others,Direct,01-10-16,compensation_sum,0
-Jharkhand,Marketing,Vendor,01-11-16,compensation_sum,6
-Assam,CSO,Direct,01-10-16,tat_count,4
-Assam,CSO,Direct,01-11-16,tat_count,17
-Assam,RM,Direct,01-10-16,tat_count,2
-Assam,RM,Direct,01-11-16,tat_count,2
-Assam,BD,Vendor,01-10-16,tat_count,2
-Assam,BD,Direct,01-10-16,tat_count,8
-Assam,BD,Direct,01-11-16,tat_count,10
-Assam,BD,Direct,01-12-16,tat_count,4
-Assam,Administration,Direct,01-10-16,tat_count,1
-Delhi,CSO,Direct,01-10-16,tat_count,5
-Delhi,CSO,Direct,01-11-16,tat_count,1
-Delhi,CSO,Direct,01-12-16,tat_count,2
-Delhi,CSO,Career Page,01-10-16,tat_count,1
-Delhi,CSO,Career Page,01-11-16,tat_count,2
-Delhi,RM,Vendor,01-10-16,tat_count,1
-Delhi,RM,Direct,01-11-16,tat_count,4
-Delhi,BD,Direct,01-10-16,tat_count,5
-Delhi,BD,Direct,01-11-16,tat_count,19
-Delhi,BD,Direct,01-12-16,tat_count,9
-Delhi,BD,Career Page,01-11-16,tat_count,1
-Delhi,Finance,Direct,01-10-16,tat_count,1
-Delhi,Support,Direct,01-11-16,tat_count,1
-Jharkhand,HR,Direct,01-10-16,tat_count,1
-Jharkhand,Corporate,Direct,01-11-16,tat_count,1
-Jharkhand,IT,Direct,01-10-16,tat_count,1
-Jharkhand,CSO,Direct,01-11-16,tat_count,1
-Jharkhand,CSO,Direct,01-12-16,tat_count,3
-Jharkhand,RM,Direct,01-10-16,tat_count,1
-Jharkhand,BD,Direct,01-10-16,tat_count,22
-Jharkhand,BD,Direct,01-11-16,tat_count,11
-Jharkhand,BD,Direct,01-12-16,tat_count,9
-Jharkhand,Credit,Direct,01-10-16,tat_count,1
-Jharkhand,Others,Direct,01-10-16,tat_count,1
+Assam,Businees Development Executive,Vendor,01-11-2016,candidate_count,1
+Assam,Associate,Direct,01-10-2016,candidate_count,7
+Assam,Associate,Direct,01-11-2016,candidate_count,28
+Assam,Associate,Direct,01-12-2016,candidate_count,7
+Assam,Associate,Career Page,01-10-2016,candidate_count,2
+Assam,Associate,Career Page,01-11-2016,candidate_count,1
+Assam,Associate,Career Page,01-12-2016,candidate_count,8
+Assam,Relationship Manager,Vendor,01-10-2016,candidate_count,3
+Assam,Relationship Manager,Vendor,01-12-2016,candidate_count,5
+Assam,Relationship Manager,Direct,01-10-2016,candidate_count,3
+Assam,Relationship Manager,Direct,01-11-2016,candidate_count,2
+Assam,Relationship Manager,Direct,01-12-2016,candidate_count,2
+Assam,Relationship Manager,Career Page,01-10-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-11-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-12-2016,candidate_count,5
+Assam,Relationship Manager,Referral,01-12-2016,candidate_count,1
+Assam,Territory Manager,Vendor,01-10-2016,candidate_count,2
+Assam,Territory Manager,Direct,01-10-2016,candidate_count,10
+Assam,Territory Manager,Direct,01-11-2016,candidate_count,13
+Assam,Territory Manager,Direct,01-12-2016,candidate_count,22
+Assam,Territory Manager,Career Page,01-10-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-11-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-12-2016,candidate_count,5
+Assam,Corporate Role,Direct,01-10-2016,candidate_count,1
+Assam,Corporate Role,Direct,01-11-2016,candidate_count,2
+Assam,Corporate Role,Career Page,01-12-2016,candidate_count,3
+Assam,Businees Development Executive,Direct,01-11-2016,candidate_count,1
+Assam,Sales Executive,Direct,01-12-2016,candidate_count,1
+Assam,Administration Executive,Job Portal,01-12-2016,candidate_count,1
+Assam,Administration Executive,Vendor,01-10-2016,candidate_count,1
+Delhi,Businees Development Executive,Vendor,01-11-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-10-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-11-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-10-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-11-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-12-2016,candidate_count,9
+Delhi,Sales Executive,Direct,01-10-2016,candidate_count,1
+Delhi,Associate,Vendor,01-10-2016,candidate_count,5
+Delhi,Associate,Vendor,01-11-2016,candidate_count,5
+Delhi,Associate,Vendor,01-12-2016,candidate_count,23
+Delhi,Associate,Direct,01-10-2016,candidate_count,9
+Delhi,Associate,Direct,01-11-2016,candidate_count,13
+Delhi,Associate,Direct,01-12-2016,candidate_count,50
+Delhi,Associate,Career Page,01-10-2016,candidate_count,17
+Delhi,Associate,Career Page,01-11-2016,candidate_count,41
+Delhi,Associate,Career Page,01-12-2016,candidate_count,56
+Delhi,Associate,Referral,01-10-2016,candidate_count,6
+Delhi,Associate,Referral,01-11-2016,candidate_count,2
+Delhi,Associate,Referral,01-12-2016,candidate_count,1
+Delhi,Relationship Manager,Vendor,01-10-2016,candidate_count,35
+Delhi,Relationship Manager,Vendor,01-11-2016,candidate_count,28
+Delhi,Relationship Manager,Vendor,01-12-2016,candidate_count,21
+Delhi,Relationship Manager,Direct,01-10-2016,candidate_count,3
+Delhi,Relationship Manager,Direct,01-11-2016,candidate_count,10
+Delhi,Relationship Manager,Direct,01-12-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-10-2016,candidate_count,11
+Delhi,Relationship Manager,Career Page,01-11-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-12-2016,candidate_count,8
+Delhi,Territory Manager,Vendor,01-10-2016,candidate_count,2
+Delhi,Territory Manager,Vendor,01-11-2016,candidate_count,4
+Delhi,Territory Manager,Vendor,01-12-2016,candidate_count,8
+Delhi,Territory Manager,Direct,01-10-2016,candidate_count,19
+Delhi,Territory Manager,Direct,01-11-2016,candidate_count,31
+Delhi,Territory Manager,Direct,01-12-2016,candidate_count,17
+Delhi,Territory Manager,Career Page,01-10-2016,candidate_count,2
+Delhi,Territory Manager,Career Page,01-11-2016,candidate_count,14
+Delhi,Territory Manager,Career Page,01-12-2016,candidate_count,7
+Delhi,Territory Manager,Job Portal,01-11-2016,candidate_count,1
+Delhi,Corporate Role,Career Page,01-12-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-10-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-10-2016,candidate_count,2
+Delhi,Sales Executive,Direct,01-12-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-10-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-11-2016,candidate_count,1
+Delhi,Sales Executive,Job Portal,01-11-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-11-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-12-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-12-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-11-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-10-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-11-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-12-2016,candidate_count,6
+Delhi,Sales Executive,Career Page,01-10-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-12-2016,candidate_count,1
+Delhi,Sales Executive,Referral,01-12-2016,candidate_count,1
+Delhi,Administration Executive,Vendor,01-11-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-11-2016,candidate_count,1
+Delhi,Administration Executive,Career Page,01-10-2016,candidate_count,1
+Delhi,Administration Executive,Referral,01-11-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-10-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-10-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-10-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-11-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Direct,01-11-2016,candidate_count,3
+Jharkhand,Businees Development Executive,Career Page,01-10-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Career Page,01-12-2016,candidate_count,4
+Jharkhand,Sales Executive,Direct,01-10-2016,candidate_count,2
+Jharkhand,Sales Executive,Career Page,01-12-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-10-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-12-2016,candidate_count,1
+Jharkhand,Associate,Direct,01-10-2016,candidate_count,4
+Jharkhand,Associate,Direct,01-11-2016,candidate_count,11
+Jharkhand,Associate,Direct,01-12-2016,candidate_count,12
+Jharkhand,Associate,Career Page,01-10-2016,candidate_count,5
+Jharkhand,Associate,Career Page,01-11-2016,candidate_count,15
+Jharkhand,Associate,Career Page,01-12-2016,candidate_count,22
+Jharkhand,Associate,Referral,01-10-2016,candidate_count,1
+Jharkhand,Associate,Referral,01-12-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-10-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-11-2016,candidate_count,2
+Jharkhand,Relationship Manager,Vendor,01-12-2016,candidate_count,2
+Jharkhand,Relationship Manager,Direct,01-10-2016,candidate_count,10
+Jharkhand,Relationship Manager,Direct,01-11-2016,candidate_count,1
+Jharkhand,Relationship Manager,Direct,01-12-2016,candidate_count,3
+Jharkhand,Relationship Manager,Career Page,01-10-2016,candidate_count,1
+Jharkhand,Relationship Manager,Career Page,01-11-2016,candidate_count,4
+Jharkhand,Relationship Manager,Career Page,01-12-2016,candidate_count,4
+Jharkhand,Territory Manager,Vendor,01-10-2016,candidate_count,1
+Jharkhand,Territory Manager,Vendor,01-12-2016,candidate_count,1
+Jharkhand,Territory Manager,Direct,01-10-2016,candidate_count,31
+Jharkhand,Territory Manager,Direct,01-11-2016,candidate_count,12
+Jharkhand,Territory Manager,Direct,01-12-2016,candidate_count,14
+Jharkhand,Territory Manager,Career Page,01-10-2016,candidate_count,2
+Jharkhand,Territory Manager,Career Page,01-11-2016,candidate_count,21
+Jharkhand,Territory Manager,Career Page,01-12-2016,candidate_count,19
+Jharkhand,Corporate Role,Direct,01-11-2016,candidate_count,2
+Jharkhand,Corporate Role,Career Page,01-12-2016,candidate_count,4
+Jharkhand,Sales Executive,Vendor,01-12-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-12-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-10-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-12-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-10-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-12-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-11-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-10-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-11-2016,candidate_count,1
+Assam,Associate,Direct,01-10-2016,conversion_ratio_num,4
+Assam,Associate,Direct,01-11-2016,conversion_ratio_num,17
+Assam,Relationship Manager,Direct,01-10-2016,conversion_ratio_num,2
+Assam,Relationship Manager,Direct,01-11-2016,conversion_ratio_num,2
+Assam,Territory Manager,Vendor,01-10-2016,conversion_ratio_num,2
+Assam,Territory Manager,Direct,01-10-2016,conversion_ratio_num,8
+Assam,Territory Manager,Direct,01-11-2016,conversion_ratio_num,10
+Assam,Territory Manager,Direct,01-12-2016,conversion_ratio_num,4
+Assam,Corporate Role,Direct,01-10-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-10-2016,conversion_ratio_num,5
+Delhi,Associate,Direct,01-11-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-12-2016,conversion_ratio_num,2
+Delhi,Associate,Career Page,01-10-2016,conversion_ratio_num,1
+Delhi,Associate,Career Page,01-11-2016,conversion_ratio_num,2
+Delhi,Relationship Manager,Vendor,01-10-2016,conversion_ratio_num,1
+Delhi,Relationship Manager,Direct,01-11-2016,conversion_ratio_num,4
+Delhi,Territory Manager,Direct,01-10-2016,conversion_ratio_num,5
+Delhi,Territory Manager,Direct,01-11-2016,conversion_ratio_num,19
+Delhi,Territory Manager,Direct,01-12-2016,conversion_ratio_num,9
+Delhi,Territory Manager,Career Page,01-11-2016,conversion_ratio_num,1
+Delhi,Sales Executive,Direct,01-10-2016,conversion_ratio_num,1
+Delhi,Businees Development Executive,Direct,01-11-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-10-2016,conversion_ratio_num,1
+Jharkhand,Businees Development Executive,Direct,01-11-2016,conversion_ratio_num,1
+Jharkhand,Sales Executive,Direct,01-10-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-11-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-12-2016,conversion_ratio_num,3
+Jharkhand,Relationship Manager,Direct,01-10-2016,conversion_ratio_num,1
+Jharkhand,Territory Manager,Direct,01-10-2016,conversion_ratio_num,22
+Jharkhand,Territory Manager,Direct,01-11-2016,conversion_ratio_num,11
+Jharkhand,Territory Manager,Direct,01-12-2016,conversion_ratio_num,9
+Jharkhand,Sales Executive,Direct,01-10-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-10-2016,conversion_ratio_num,1
+Assam,Associate,Direct,01-10-2016,tat_sum,182
+Assam,Associate,Direct,01-11-2016,tat_sum,547
+Assam,Relationship Manager,Direct,01-10-2016,tat_sum,81
+Assam,Relationship Manager,Direct,01-11-2016,tat_sum,73
+Assam,Territory Manager,Vendor,01-10-2016,tat_sum,59
+Assam,Territory Manager,Direct,01-10-2016,tat_sum,311
+Assam,Territory Manager,Direct,01-11-2016,tat_sum,196
+Assam,Territory Manager,Direct,01-12-2016,tat_sum,49
+Assam,Corporate Role,Direct,01-10-2016,tat_sum,17
+Delhi,Associate,Direct,01-10-2016,tat_sum,195
+Delhi,Associate,Direct,01-11-2016,tat_sum,33
+Delhi,Associate,Direct,01-12-2016,tat_sum,50
+Delhi,Associate,Career Page,01-10-2016,tat_sum,49
+Delhi,Associate,Career Page,01-11-2016,tat_sum,59
+Delhi,Relationship Manager,Vendor,01-10-2016,tat_sum,83
+Delhi,Relationship Manager,Direct,01-11-2016,tat_sum,125
+Delhi,Territory Manager,Direct,01-10-2016,tat_sum,140
+Delhi,Territory Manager,Direct,01-11-2016,tat_sum,303
+Delhi,Territory Manager,Direct,01-12-2016,tat_sum,211
+Delhi,Territory Manager,Career Page,01-11-2016,tat_sum,8
+Delhi,Sales Executive,Direct,01-10-2016,tat_sum,68
+Delhi,Businees Development Executive,Direct,01-11-2016,tat_sum,12
+Jharkhand,Administration Executive,Direct,01-10-2016,tat_sum,84
+Jharkhand,Businees Development Executive,Direct,01-11-2016,tat_sum,14
+Jharkhand,Sales Executive,Direct,01-10-2016,tat_sum,58
+Jharkhand,Associate,Direct,01-11-2016,tat_sum,41
+Jharkhand,Associate,Direct,01-12-2016,tat_sum,40
+Jharkhand,Relationship Manager,Direct,01-10-2016,tat_sum,51
+Jharkhand,Territory Manager,Direct,01-10-2016,tat_sum,349
+Jharkhand,Territory Manager,Direct,01-11-2016,tat_sum,124
+Jharkhand,Territory Manager,Direct,01-12-2016,tat_sum,167
+Jharkhand,Sales Executive,Direct,01-10-2016,tat_sum,39
+Jharkhand,Administration Executive,Direct,01-10-2016,tat_sum,48
+Assam,Businees Development Executive,Vendor,01-11-2016,compensation_sum,16
+Assam,Associate,Direct,01-10-2016,compensation_sum,2
+Assam,Associate,Direct,01-11-2016,compensation_sum,3
+Assam,Associate,Direct,01-12-2016,compensation_sum,0
+Assam,Associate,Career Page,01-10-2016,compensation_sum,1
+Assam,Associate,Career Page,01-11-2016,compensation_sum,0
+Assam,Associate,Career Page,01-12-2016,compensation_sum,7
+Assam,Relationship Manager,Vendor,01-10-2016,compensation_sum,380004
+Assam,Relationship Manager,Vendor,01-12-2016,compensation_sum,642004
+Assam,Relationship Manager,Direct,01-10-2016,compensation_sum,500000
+Assam,Relationship Manager,Direct,01-11-2016,compensation_sum,0
+Assam,Relationship Manager,Direct,01-12-2016,compensation_sum,0
+Assam,Relationship Manager,Career Page,01-10-2016,compensation_sum,2
+Assam,Relationship Manager,Career Page,01-11-2016,compensation_sum,4
+Assam,Relationship Manager,Career Page,01-12-2016,compensation_sum,643009
+Assam,Relationship Manager,Referral,01-12-2016,compensation_sum,210000
+Assam,Territory Manager,Vendor,01-10-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-10-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-11-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-12-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-10-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-11-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-12-2016,compensation_sum,208775
+Assam,Corporate Role,Direct,01-10-2016,compensation_sum,0
+Assam,Corporate Role,Direct,01-11-2016,compensation_sum,15
+Assam,Corporate Role,Career Page,01-12-2016,compensation_sum,870013
+Assam,Businees Development Executive,Direct,01-11-2016,compensation_sum,0
+Assam,Sales Executive,Direct,01-12-2016,compensation_sum,0
+Assam,Administration Executive,Job Portal,01-12-2016,compensation_sum,0
+Assam,Administration Executive,Vendor,01-10-2016,compensation_sum,700000
+Delhi,Businees Development Executive,Vendor,01-11-2016,compensation_sum,19
+Delhi,Businees Development Executive,Direct,01-10-2016,compensation_sum,10
+Delhi,Businees Development Executive,Direct,01-11-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-10-2016,compensation_sum,275004
+Delhi,Businees Development Executive,Career Page,01-11-2016,compensation_sum,6
+Delhi,Businees Development Executive,Career Page,01-12-2016,compensation_sum,170028
+Delhi,Sales Executive,Direct,01-10-2016,compensation_sum,0
+Delhi,Associate,Vendor,01-10-2016,compensation_sum,800013
+Delhi,Associate,Vendor,01-11-2016,compensation_sum,18
+Delhi,Associate,Vendor,01-12-2016,compensation_sum,2783047
+Delhi,Associate,Direct,01-10-2016,compensation_sum,550000
+Delhi,Associate,Direct,01-11-2016,compensation_sum,580000
+Delhi,Associate,Direct,01-12-2016,compensation_sum,300004
+Delhi,Associate,Career Page,01-10-2016,compensation_sum,995018
+Delhi,Associate,Career Page,01-11-2016,compensation_sum,1213922
+Delhi,Associate,Career Page,01-12-2016,compensation_sum,1945220
+Delhi,Associate,Referral,01-10-2016,compensation_sum,714294
+Delhi,Associate,Referral,01-11-2016,compensation_sum,588000
+Delhi,Associate,Referral,01-12-2016,compensation_sum,338000
+Delhi,Relationship Manager,Vendor,01-10-2016,compensation_sum,1500099
+Delhi,Relationship Manager,Vendor,01-11-2016,compensation_sum,4676130
+Delhi,Relationship Manager,Vendor,01-12-2016,compensation_sum,2285464
+Delhi,Relationship Manager,Direct,01-10-2016,compensation_sum,5
+Delhi,Relationship Manager,Direct,01-11-2016,compensation_sum,1850007
+Delhi,Relationship Manager,Direct,01-12-2016,compensation_sum,20
+Delhi,Relationship Manager,Career Page,01-10-2016,compensation_sum,1442013
+Delhi,Relationship Manager,Career Page,01-11-2016,compensation_sum,930019
+Delhi,Relationship Manager,Career Page,01-12-2016,compensation_sum,840028
+Delhi,Territory Manager,Vendor,01-10-2016,compensation_sum,12
+Delhi,Territory Manager,Vendor,01-11-2016,compensation_sum,11
+Delhi,Territory Manager,Vendor,01-12-2016,compensation_sum,207
+Delhi,Territory Manager,Direct,01-10-2016,compensation_sum,1
+Delhi,Territory Manager,Direct,01-11-2016,compensation_sum,1456012
+Delhi,Territory Manager,Direct,01-12-2016,compensation_sum,144002
+Delhi,Territory Manager,Career Page,01-10-2016,compensation_sum,3100003
+Delhi,Territory Manager,Career Page,01-11-2016,compensation_sum,590012
+Delhi,Territory Manager,Career Page,01-12-2016,compensation_sum,230005
+Delhi,Territory Manager,Job Portal,01-11-2016,compensation_sum,0
+Delhi,Corporate Role,Career Page,01-12-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-10-2016,compensation_sum,17
+Delhi,Sales Executive,Direct,01-10-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-12-2016,compensation_sum,941
+Delhi,Sales Executive,Career Page,01-10-2016,compensation_sum,0
+Delhi,Sales Executive,Career Page,01-11-2016,compensation_sum,0
+Delhi,Sales Executive,Job Portal,01-11-2016,compensation_sum,0
+Delhi,Businees Development Executive,Direct,01-11-2016,compensation_sum,320000
+Delhi,Businees Development Executive,Direct,01-12-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-12-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-11-2016,compensation_sum,6
+Delhi,Sales Executive,Direct,01-10-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-11-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-12-2016,compensation_sum,939532
+Delhi,Sales Executive,Career Page,01-10-2016,compensation_sum,2
+Delhi,Sales Executive,Career Page,01-12-2016,compensation_sum,0
+Delhi,Sales Executive,Referral,01-12-2016,compensation_sum,240000
+Delhi,Administration Executive,Vendor,01-11-2016,compensation_sum,8
+Delhi,Administration Executive,Direct,01-11-2016,compensation_sum,0
+Delhi,Administration Executive,Career Page,01-10-2016,compensation_sum,5
+Delhi,Administration Executive,Referral,01-11-2016,compensation_sum,4
+Delhi,Administration Executive,Direct,01-10-2016,compensation_sum,0
+Jharkhand,Administration Executive,Direct,01-10-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Vendor,01-10-2016,compensation_sum,15
+Jharkhand,Businees Development Executive,Vendor,01-11-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Direct,01-11-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-10-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-12-2016,compensation_sum,15
+Jharkhand,Sales Executive,Direct,01-10-2016,compensation_sum,6
+Jharkhand,Sales Executive,Career Page,01-12-2016,compensation_sum,5
+Jharkhand,Associate,Vendor,01-10-2016,compensation_sum,350006
+Jharkhand,Associate,Vendor,01-12-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-10-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-11-2016,compensation_sum,750004
+Jharkhand,Associate,Direct,01-12-2016,compensation_sum,3
+Jharkhand,Associate,Career Page,01-10-2016,compensation_sum,13
+Jharkhand,Associate,Career Page,01-11-2016,compensation_sum,10
+Jharkhand,Associate,Career Page,01-12-2016,compensation_sum,730009
+Jharkhand,Associate,Referral,01-10-2016,compensation_sum,0
+Jharkhand,Associate,Referral,01-12-2016,compensation_sum,2
+Jharkhand,Relationship Manager,Vendor,01-10-2016,compensation_sum,5
+Jharkhand,Relationship Manager,Vendor,01-11-2016,compensation_sum,9
+Jharkhand,Relationship Manager,Vendor,01-12-2016,compensation_sum,600005
+Jharkhand,Relationship Manager,Direct,01-10-2016,compensation_sum,730014
+Jharkhand,Relationship Manager,Direct,01-11-2016,compensation_sum,0
+Jharkhand,Relationship Manager,Direct,01-12-2016,compensation_sum,450000
+Jharkhand,Relationship Manager,Career Page,01-10-2016,compensation_sum,230000
+Jharkhand,Relationship Manager,Career Page,01-11-2016,compensation_sum,108006
+Jharkhand,Relationship Manager,Career Page,01-12-2016,compensation_sum,360000
+Jharkhand,Territory Manager,Vendor,01-10-2016,compensation_sum,0
+Jharkhand,Territory Manager,Vendor,01-12-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-10-2016,compensation_sum,13
+Jharkhand,Territory Manager,Direct,01-11-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-12-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-10-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-11-2016,compensation_sum,156005
+Jharkhand,Territory Manager,Career Page,01-12-2016,compensation_sum,490008
+Jharkhand,Corporate Role,Direct,01-11-2016,compensation_sum,0
+Jharkhand,Corporate Role,Career Page,01-12-2016,compensation_sum,550023
+Jharkhand,Sales Executive,Vendor,01-12-2016,compensation_sum,14
+Jharkhand,Sales Executive,Direct,01-12-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-10-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-12-2016,compensation_sum,0
+Jharkhand,Sales Executive,Career Page,01-10-2016,compensation_sum,260000
+Jharkhand,Sales Executive,Career Page,01-12-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-11-2016,compensation_sum,10
+Jharkhand,Administration Executive,Direct,01-10-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-11-2016,compensation_sum,6
+Assam,Associate,Direct,01-10-2016,tat_count,4
+Assam,Associate,Direct,01-11-2016,tat_count,17
+Assam,Relationship Manager,Direct,01-10-2016,tat_count,2
+Assam,Relationship Manager,Direct,01-11-2016,tat_count,2
+Assam,Territory Manager,Vendor,01-10-2016,tat_count,2
+Assam,Territory Manager,Direct,01-10-2016,tat_count,8
+Assam,Territory Manager,Direct,01-11-2016,tat_count,10
+Assam,Territory Manager,Direct,01-12-2016,tat_count,4
+Assam,Corporate Role,Direct,01-10-2016,tat_count,1
+Delhi,Associate,Direct,01-10-2016,tat_count,5
+Delhi,Associate,Direct,01-11-2016,tat_count,1
+Delhi,Associate,Direct,01-12-2016,tat_count,2
+Delhi,Associate,Career Page,01-10-2016,tat_count,1
+Delhi,Associate,Career Page,01-11-2016,tat_count,2
+Delhi,Relationship Manager,Vendor,01-10-2016,tat_count,1
+Delhi,Relationship Manager,Direct,01-11-2016,tat_count,4
+Delhi,Territory Manager,Direct,01-10-2016,tat_count,5
+Delhi,Territory Manager,Direct,01-11-2016,tat_count,19
+Delhi,Territory Manager,Direct,01-12-2016,tat_count,9
+Delhi,Territory Manager,Career Page,01-11-2016,tat_count,1
+Delhi,Sales Executive,Direct,01-10-2016,tat_count,1
+Delhi,Businees Development Executive,Direct,01-11-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-10-2016,tat_count,1
+Jharkhand,Businees Development Executive,Direct,01-11-2016,tat_count,1
+Jharkhand,Sales Executive,Direct,01-10-2016,tat_count,1
+Jharkhand,Associate,Direct,01-11-2016,tat_count,1
+Jharkhand,Associate,Direct,01-12-2016,tat_count,3
+Jharkhand,Relationship Manager,Direct,01-10-2016,tat_count,1
+Jharkhand,Territory Manager,Direct,01-10-2016,tat_count,22
+Jharkhand,Territory Manager,Direct,01-11-2016,tat_count,11
+Jharkhand,Territory Manager,Direct,01-12-2016,tat_count,9
+Jharkhand,Sales Executive,Direct,01-10-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-10-2016,tat_count,1
+Assam,Businees Development Executive,Vendor,01-08-2016,candidate_count,1
+Assam,Associate,Direct,01-07-2016,candidate_count,7
+Assam,Associate,Direct,01-08-2016,candidate_count,28
+Assam,Associate,Direct,01-09-2016,candidate_count,7
+Assam,Associate,Career Page,01-07-2016,candidate_count,2
+Assam,Associate,Career Page,01-08-2016,candidate_count,1
+Assam,Associate,Career Page,01-09-2016,candidate_count,8
+Assam,Relationship Manager,Vendor,01-07-2016,candidate_count,3
+Assam,Relationship Manager,Vendor,01-09-2016,candidate_count,5
+Assam,Relationship Manager,Direct,01-07-2016,candidate_count,3
+Assam,Relationship Manager,Direct,01-08-2016,candidate_count,2
+Assam,Relationship Manager,Direct,01-09-2016,candidate_count,2
+Assam,Relationship Manager,Career Page,01-07-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-08-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-09-2016,candidate_count,5
+Assam,Relationship Manager,Referral,01-09-2016,candidate_count,1
+Assam,Territory Manager,Vendor,01-07-2016,candidate_count,2
+Assam,Territory Manager,Direct,01-07-2016,candidate_count,10
+Assam,Territory Manager,Direct,01-08-2016,candidate_count,13
+Assam,Territory Manager,Direct,01-09-2016,candidate_count,22
+Assam,Territory Manager,Career Page,01-07-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-08-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-09-2016,candidate_count,5
+Assam,Corporate Role,Direct,01-07-2016,candidate_count,1
+Assam,Corporate Role,Direct,01-08-2016,candidate_count,2
+Assam,Corporate Role,Career Page,01-09-2016,candidate_count,3
+Assam,Businees Development Executive,Direct,01-08-2016,candidate_count,1
+Assam,Sales Executive,Direct,01-09-2016,candidate_count,1
+Assam,Administration Executive,Job Portal,01-09-2016,candidate_count,1
+Assam,Administration Executive,Vendor,01-07-2016,candidate_count,1
+Delhi,Businees Development Executive,Vendor,01-08-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-07-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-08-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-07-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-08-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-09-2016,candidate_count,9
+Delhi,Sales Executive,Direct,01-07-2016,candidate_count,1
+Delhi,Associate,Vendor,01-07-2016,candidate_count,5
+Delhi,Associate,Vendor,01-08-2016,candidate_count,5
+Delhi,Associate,Vendor,01-09-2016,candidate_count,23
+Delhi,Associate,Direct,01-07-2016,candidate_count,9
+Delhi,Associate,Direct,01-08-2016,candidate_count,13
+Delhi,Associate,Direct,01-09-2016,candidate_count,50
+Delhi,Associate,Career Page,01-07-2016,candidate_count,17
+Delhi,Associate,Career Page,01-08-2016,candidate_count,41
+Delhi,Associate,Career Page,01-09-2016,candidate_count,56
+Delhi,Associate,Referral,01-07-2016,candidate_count,6
+Delhi,Associate,Referral,01-08-2016,candidate_count,2
+Delhi,Associate,Referral,01-09-2016,candidate_count,1
+Delhi,Relationship Manager,Vendor,01-07-2016,candidate_count,35
+Delhi,Relationship Manager,Vendor,01-08-2016,candidate_count,28
+Delhi,Relationship Manager,Vendor,01-09-2016,candidate_count,21
+Delhi,Relationship Manager,Direct,01-07-2016,candidate_count,3
+Delhi,Relationship Manager,Direct,01-08-2016,candidate_count,10
+Delhi,Relationship Manager,Direct,01-09-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-07-2016,candidate_count,11
+Delhi,Relationship Manager,Career Page,01-08-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-09-2016,candidate_count,8
+Delhi,Territory Manager,Vendor,01-07-2016,candidate_count,2
+Delhi,Territory Manager,Vendor,01-08-2016,candidate_count,4
+Delhi,Territory Manager,Vendor,01-09-2016,candidate_count,8
+Delhi,Territory Manager,Direct,01-07-2016,candidate_count,19
+Delhi,Territory Manager,Direct,01-08-2016,candidate_count,31
+Delhi,Territory Manager,Direct,01-09-2016,candidate_count,17
+Delhi,Territory Manager,Career Page,01-07-2016,candidate_count,2
+Delhi,Territory Manager,Career Page,01-08-2016,candidate_count,14
+Delhi,Territory Manager,Career Page,01-09-2016,candidate_count,7
+Delhi,Territory Manager,Job Portal,01-08-2016,candidate_count,1
+Delhi,Corporate Role,Career Page,01-09-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-07-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-07-2016,candidate_count,2
+Delhi,Sales Executive,Direct,01-09-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-07-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-08-2016,candidate_count,1
+Delhi,Sales Executive,Job Portal,01-08-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-08-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-09-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-09-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-08-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-07-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-08-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-09-2016,candidate_count,6
+Delhi,Sales Executive,Career Page,01-07-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-09-2016,candidate_count,1
+Delhi,Sales Executive,Referral,01-09-2016,candidate_count,1
+Delhi,Administration Executive,Vendor,01-08-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-08-2016,candidate_count,1
+Delhi,Administration Executive,Career Page,01-07-2016,candidate_count,1
+Delhi,Administration Executive,Referral,01-08-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-07-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-07-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-07-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-08-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Direct,01-08-2016,candidate_count,3
+Jharkhand,Businees Development Executive,Career Page,01-07-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Career Page,01-09-2016,candidate_count,4
+Jharkhand,Sales Executive,Direct,01-07-2016,candidate_count,2
+Jharkhand,Sales Executive,Career Page,01-09-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-07-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-09-2016,candidate_count,1
+Jharkhand,Associate,Direct,01-07-2016,candidate_count,4
+Jharkhand,Associate,Direct,01-08-2016,candidate_count,11
+Jharkhand,Associate,Direct,01-09-2016,candidate_count,12
+Jharkhand,Associate,Career Page,01-07-2016,candidate_count,5
+Jharkhand,Associate,Career Page,01-08-2016,candidate_count,15
+Jharkhand,Associate,Career Page,01-09-2016,candidate_count,22
+Jharkhand,Associate,Referral,01-07-2016,candidate_count,1
+Jharkhand,Associate,Referral,01-09-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-07-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-08-2016,candidate_count,2
+Jharkhand,Relationship Manager,Vendor,01-09-2016,candidate_count,2
+Jharkhand,Relationship Manager,Direct,01-07-2016,candidate_count,10
+Jharkhand,Relationship Manager,Direct,01-08-2016,candidate_count,1
+Jharkhand,Relationship Manager,Direct,01-09-2016,candidate_count,3
+Jharkhand,Relationship Manager,Career Page,01-07-2016,candidate_count,1
+Jharkhand,Relationship Manager,Career Page,01-08-2016,candidate_count,4
+Jharkhand,Relationship Manager,Career Page,01-09-2016,candidate_count,4
+Jharkhand,Territory Manager,Vendor,01-07-2016,candidate_count,1
+Jharkhand,Territory Manager,Vendor,01-09-2016,candidate_count,1
+Jharkhand,Territory Manager,Direct,01-07-2016,candidate_count,31
+Jharkhand,Territory Manager,Direct,01-08-2016,candidate_count,12
+Jharkhand,Territory Manager,Direct,01-09-2016,candidate_count,14
+Jharkhand,Territory Manager,Career Page,01-07-2016,candidate_count,2
+Jharkhand,Territory Manager,Career Page,01-08-2016,candidate_count,21
+Jharkhand,Territory Manager,Career Page,01-09-2016,candidate_count,19
+Jharkhand,Corporate Role,Direct,01-08-2016,candidate_count,2
+Jharkhand,Corporate Role,Career Page,01-09-2016,candidate_count,4
+Jharkhand,Sales Executive,Vendor,01-09-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-09-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-07-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-09-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-07-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-09-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-08-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-07-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-08-2016,candidate_count,1
+Assam,Associate,Direct,01-07-2016,conversion_ratio_num,4
+Assam,Associate,Direct,01-08-2016,conversion_ratio_num,17
+Assam,Relationship Manager,Direct,01-07-2016,conversion_ratio_num,2
+Assam,Relationship Manager,Direct,01-08-2016,conversion_ratio_num,2
+Assam,Territory Manager,Vendor,01-07-2016,conversion_ratio_num,2
+Assam,Territory Manager,Direct,01-07-2016,conversion_ratio_num,8
+Assam,Territory Manager,Direct,01-08-2016,conversion_ratio_num,10
+Assam,Territory Manager,Direct,01-09-2016,conversion_ratio_num,4
+Assam,Corporate Role,Direct,01-07-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-07-2016,conversion_ratio_num,5
+Delhi,Associate,Direct,01-08-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-09-2016,conversion_ratio_num,2
+Delhi,Associate,Career Page,01-07-2016,conversion_ratio_num,1
+Delhi,Associate,Career Page,01-08-2016,conversion_ratio_num,2
+Delhi,Relationship Manager,Vendor,01-07-2016,conversion_ratio_num,1
+Delhi,Relationship Manager,Direct,01-08-2016,conversion_ratio_num,4
+Delhi,Territory Manager,Direct,01-07-2016,conversion_ratio_num,5
+Delhi,Territory Manager,Direct,01-08-2016,conversion_ratio_num,19
+Delhi,Territory Manager,Direct,01-09-2016,conversion_ratio_num,9
+Delhi,Territory Manager,Career Page,01-08-2016,conversion_ratio_num,1
+Delhi,Sales Executive,Direct,01-07-2016,conversion_ratio_num,1
+Delhi,Businees Development Executive,Direct,01-08-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-07-2016,conversion_ratio_num,1
+Jharkhand,Businees Development Executive,Direct,01-08-2016,conversion_ratio_num,1
+Jharkhand,Sales Executive,Direct,01-07-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-08-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-09-2016,conversion_ratio_num,3
+Jharkhand,Relationship Manager,Direct,01-07-2016,conversion_ratio_num,1
+Jharkhand,Territory Manager,Direct,01-07-2016,conversion_ratio_num,22
+Jharkhand,Territory Manager,Direct,01-08-2016,conversion_ratio_num,11
+Jharkhand,Territory Manager,Direct,01-09-2016,conversion_ratio_num,9
+Jharkhand,Sales Executive,Direct,01-07-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-07-2016,conversion_ratio_num,1
+Assam,Associate,Direct,01-07-2016,tat_sum,182
+Assam,Associate,Direct,01-08-2016,tat_sum,547
+Assam,Relationship Manager,Direct,01-07-2016,tat_sum,81
+Assam,Relationship Manager,Direct,01-08-2016,tat_sum,73
+Assam,Territory Manager,Vendor,01-07-2016,tat_sum,59
+Assam,Territory Manager,Direct,01-07-2016,tat_sum,311
+Assam,Territory Manager,Direct,01-08-2016,tat_sum,196
+Assam,Territory Manager,Direct,01-09-2016,tat_sum,49
+Assam,Corporate Role,Direct,01-07-2016,tat_sum,17
+Delhi,Associate,Direct,01-07-2016,tat_sum,195
+Delhi,Associate,Direct,01-08-2016,tat_sum,33
+Delhi,Associate,Direct,01-09-2016,tat_sum,50
+Delhi,Associate,Career Page,01-07-2016,tat_sum,49
+Delhi,Associate,Career Page,01-08-2016,tat_sum,59
+Delhi,Relationship Manager,Vendor,01-07-2016,tat_sum,83
+Delhi,Relationship Manager,Direct,01-08-2016,tat_sum,125
+Delhi,Territory Manager,Direct,01-07-2016,tat_sum,140
+Delhi,Territory Manager,Direct,01-08-2016,tat_sum,303
+Delhi,Territory Manager,Direct,01-09-2016,tat_sum,211
+Delhi,Territory Manager,Career Page,01-08-2016,tat_sum,8
+Delhi,Sales Executive,Direct,01-07-2016,tat_sum,68
+Delhi,Businees Development Executive,Direct,01-08-2016,tat_sum,12
+Jharkhand,Administration Executive,Direct,01-07-2016,tat_sum,84
+Jharkhand,Businees Development Executive,Direct,01-08-2016,tat_sum,14
+Jharkhand,Sales Executive,Direct,01-07-2016,tat_sum,58
+Jharkhand,Associate,Direct,01-08-2016,tat_sum,41
+Jharkhand,Associate,Direct,01-09-2016,tat_sum,40
+Jharkhand,Relationship Manager,Direct,01-07-2016,tat_sum,51
+Jharkhand,Territory Manager,Direct,01-07-2016,tat_sum,349
+Jharkhand,Territory Manager,Direct,01-08-2016,tat_sum,124
+Jharkhand,Territory Manager,Direct,01-09-2016,tat_sum,167
+Jharkhand,Sales Executive,Direct,01-07-2016,tat_sum,39
+Jharkhand,Administration Executive,Direct,01-07-2016,tat_sum,48
+Assam,Businees Development Executive,Vendor,01-08-2016,compensation_sum,16
+Assam,Associate,Direct,01-07-2016,compensation_sum,2
+Assam,Associate,Direct,01-08-2016,compensation_sum,3
+Assam,Associate,Direct,01-09-2016,compensation_sum,0
+Assam,Associate,Career Page,01-07-2016,compensation_sum,1
+Assam,Associate,Career Page,01-08-2016,compensation_sum,0
+Assam,Associate,Career Page,01-09-2016,compensation_sum,7
+Assam,Relationship Manager,Vendor,01-07-2016,compensation_sum,380004
+Assam,Relationship Manager,Vendor,01-09-2016,compensation_sum,642004
+Assam,Relationship Manager,Direct,01-07-2016,compensation_sum,500000
+Assam,Relationship Manager,Direct,01-08-2016,compensation_sum,0
+Assam,Relationship Manager,Direct,01-09-2016,compensation_sum,0
+Assam,Relationship Manager,Career Page,01-07-2016,compensation_sum,2
+Assam,Relationship Manager,Career Page,01-08-2016,compensation_sum,4
+Assam,Relationship Manager,Career Page,01-09-2016,compensation_sum,643009
+Assam,Relationship Manager,Referral,01-09-2016,compensation_sum,210000
+Assam,Territory Manager,Vendor,01-07-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-07-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-08-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-09-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-07-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-08-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-09-2016,compensation_sum,208775
+Assam,Corporate Role,Direct,01-07-2016,compensation_sum,0
+Assam,Corporate Role,Direct,01-08-2016,compensation_sum,15
+Assam,Corporate Role,Career Page,01-09-2016,compensation_sum,870013
+Assam,Businees Development Executive,Direct,01-08-2016,compensation_sum,0
+Assam,Sales Executive,Direct,01-09-2016,compensation_sum,0
+Assam,Administration Executive,Job Portal,01-09-2016,compensation_sum,0
+Assam,Administration Executive,Vendor,01-07-2016,compensation_sum,700000
+Delhi,Businees Development Executive,Vendor,01-08-2016,compensation_sum,19
+Delhi,Businees Development Executive,Direct,01-07-2016,compensation_sum,10
+Delhi,Businees Development Executive,Direct,01-08-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-07-2016,compensation_sum,275004
+Delhi,Businees Development Executive,Career Page,01-08-2016,compensation_sum,6
+Delhi,Businees Development Executive,Career Page,01-09-2016,compensation_sum,170028
+Delhi,Sales Executive,Direct,01-07-2016,compensation_sum,0
+Delhi,Associate,Vendor,01-07-2016,compensation_sum,800013
+Delhi,Associate,Vendor,01-08-2016,compensation_sum,18
+Delhi,Associate,Vendor,01-09-2016,compensation_sum,2783047
+Delhi,Associate,Direct,01-07-2016,compensation_sum,550000
+Delhi,Associate,Direct,01-08-2016,compensation_sum,580000
+Delhi,Associate,Direct,01-09-2016,compensation_sum,300004
+Delhi,Associate,Career Page,01-07-2016,compensation_sum,995018
+Delhi,Associate,Career Page,01-08-2016,compensation_sum,1213922
+Delhi,Associate,Career Page,01-09-2016,compensation_sum,1945220
+Delhi,Associate,Referral,01-07-2016,compensation_sum,714294
+Delhi,Associate,Referral,01-08-2016,compensation_sum,588000
+Delhi,Associate,Referral,01-09-2016,compensation_sum,338000
+Delhi,Relationship Manager,Vendor,01-07-2016,compensation_sum,1500099
+Delhi,Relationship Manager,Vendor,01-08-2016,compensation_sum,4676130
+Delhi,Relationship Manager,Vendor,01-09-2016,compensation_sum,2285464
+Delhi,Relationship Manager,Direct,01-07-2016,compensation_sum,5
+Delhi,Relationship Manager,Direct,01-08-2016,compensation_sum,1850007
+Delhi,Relationship Manager,Direct,01-09-2016,compensation_sum,20
+Delhi,Relationship Manager,Career Page,01-07-2016,compensation_sum,1442013
+Delhi,Relationship Manager,Career Page,01-08-2016,compensation_sum,930019
+Delhi,Relationship Manager,Career Page,01-09-2016,compensation_sum,840028
+Delhi,Territory Manager,Vendor,01-07-2016,compensation_sum,12
+Delhi,Territory Manager,Vendor,01-08-2016,compensation_sum,11
+Delhi,Territory Manager,Vendor,01-09-2016,compensation_sum,207
+Delhi,Territory Manager,Direct,01-07-2016,compensation_sum,1
+Delhi,Territory Manager,Direct,01-08-2016,compensation_sum,1456012
+Delhi,Territory Manager,Direct,01-09-2016,compensation_sum,144002
+Delhi,Territory Manager,Career Page,01-07-2016,compensation_sum,3100003
+Delhi,Territory Manager,Career Page,01-08-2016,compensation_sum,590012
+Delhi,Territory Manager,Career Page,01-09-2016,compensation_sum,230005
+Delhi,Territory Manager,Job Portal,01-08-2016,compensation_sum,0
+Delhi,Corporate Role,Career Page,01-09-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-07-2016,compensation_sum,17
+Delhi,Sales Executive,Direct,01-07-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-09-2016,compensation_sum,941
+Delhi,Sales Executive,Career Page,01-07-2016,compensation_sum,0
+Delhi,Sales Executive,Career Page,01-08-2016,compensation_sum,0
+Delhi,Sales Executive,Job Portal,01-08-2016,compensation_sum,0
+Delhi,Businees Development Executive,Direct,01-08-2016,compensation_sum,320000
+Delhi,Businees Development Executive,Direct,01-09-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-09-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-08-2016,compensation_sum,6
+Delhi,Sales Executive,Direct,01-07-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-08-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-09-2016,compensation_sum,939532
+Delhi,Sales Executive,Career Page,01-07-2016,compensation_sum,2
+Delhi,Sales Executive,Career Page,01-09-2016,compensation_sum,0
+Delhi,Sales Executive,Referral,01-09-2016,compensation_sum,240000
+Delhi,Administration Executive,Vendor,01-08-2016,compensation_sum,8
+Delhi,Administration Executive,Direct,01-08-2016,compensation_sum,0
+Delhi,Administration Executive,Career Page,01-07-2016,compensation_sum,5
+Delhi,Administration Executive,Referral,01-08-2016,compensation_sum,4
+Delhi,Administration Executive,Direct,01-07-2016,compensation_sum,0
+Jharkhand,Administration Executive,Direct,01-07-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Vendor,01-07-2016,compensation_sum,15
+Jharkhand,Businees Development Executive,Vendor,01-08-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Direct,01-08-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-07-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-09-2016,compensation_sum,15
+Jharkhand,Sales Executive,Direct,01-07-2016,compensation_sum,6
+Jharkhand,Sales Executive,Career Page,01-09-2016,compensation_sum,5
+Jharkhand,Associate,Vendor,01-07-2016,compensation_sum,350006
+Jharkhand,Associate,Vendor,01-09-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-07-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-08-2016,compensation_sum,750004
+Jharkhand,Associate,Direct,01-09-2016,compensation_sum,3
+Jharkhand,Associate,Career Page,01-07-2016,compensation_sum,13
+Jharkhand,Associate,Career Page,01-08-2016,compensation_sum,10
+Jharkhand,Associate,Career Page,01-09-2016,compensation_sum,730009
+Jharkhand,Associate,Referral,01-07-2016,compensation_sum,0
+Jharkhand,Associate,Referral,01-09-2016,compensation_sum,2
+Jharkhand,Relationship Manager,Vendor,01-07-2016,compensation_sum,5
+Jharkhand,Relationship Manager,Vendor,01-08-2016,compensation_sum,9
+Jharkhand,Relationship Manager,Vendor,01-09-2016,compensation_sum,600005
+Jharkhand,Relationship Manager,Direct,01-07-2016,compensation_sum,730014
+Jharkhand,Relationship Manager,Direct,01-08-2016,compensation_sum,0
+Jharkhand,Relationship Manager,Direct,01-09-2016,compensation_sum,450000
+Jharkhand,Relationship Manager,Career Page,01-07-2016,compensation_sum,230000
+Jharkhand,Relationship Manager,Career Page,01-08-2016,compensation_sum,108006
+Jharkhand,Relationship Manager,Career Page,01-09-2016,compensation_sum,360000
+Jharkhand,Territory Manager,Vendor,01-07-2016,compensation_sum,0
+Jharkhand,Territory Manager,Vendor,01-09-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-07-2016,compensation_sum,13
+Jharkhand,Territory Manager,Direct,01-08-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-09-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-07-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-08-2016,compensation_sum,156005
+Jharkhand,Territory Manager,Career Page,01-09-2016,compensation_sum,490008
+Jharkhand,Corporate Role,Direct,01-08-2016,compensation_sum,0
+Jharkhand,Corporate Role,Career Page,01-09-2016,compensation_sum,550023
+Jharkhand,Sales Executive,Vendor,01-09-2016,compensation_sum,14
+Jharkhand,Sales Executive,Direct,01-09-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-07-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-09-2016,compensation_sum,0
+Jharkhand,Sales Executive,Career Page,01-07-2016,compensation_sum,260000
+Jharkhand,Sales Executive,Career Page,01-09-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-08-2016,compensation_sum,10
+Jharkhand,Administration Executive,Direct,01-07-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-08-2016,compensation_sum,6
+Assam,Associate,Direct,01-07-2016,tat_count,4
+Assam,Associate,Direct,01-08-2016,tat_count,17
+Assam,Relationship Manager,Direct,01-07-2016,tat_count,2
+Assam,Relationship Manager,Direct,01-08-2016,tat_count,2
+Assam,Territory Manager,Vendor,01-07-2016,tat_count,2
+Assam,Territory Manager,Direct,01-07-2016,tat_count,8
+Assam,Territory Manager,Direct,01-08-2016,tat_count,10
+Assam,Territory Manager,Direct,01-09-2016,tat_count,4
+Assam,Corporate Role,Direct,01-07-2016,tat_count,1
+Delhi,Associate,Direct,01-07-2016,tat_count,5
+Delhi,Associate,Direct,01-08-2016,tat_count,1
+Delhi,Associate,Direct,01-09-2016,tat_count,2
+Delhi,Associate,Career Page,01-07-2016,tat_count,1
+Delhi,Associate,Career Page,01-08-2016,tat_count,2
+Delhi,Relationship Manager,Vendor,01-07-2016,tat_count,1
+Delhi,Relationship Manager,Direct,01-08-2016,tat_count,4
+Delhi,Territory Manager,Direct,01-07-2016,tat_count,5
+Delhi,Territory Manager,Direct,01-08-2016,tat_count,19
+Delhi,Territory Manager,Direct,01-09-2016,tat_count,9
+Delhi,Territory Manager,Career Page,01-08-2016,tat_count,1
+Delhi,Sales Executive,Direct,01-07-2016,tat_count,1
+Delhi,Businees Development Executive,Direct,01-08-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-07-2016,tat_count,1
+Jharkhand,Businees Development Executive,Direct,01-08-2016,tat_count,1
+Jharkhand,Sales Executive,Direct,01-07-2016,tat_count,1
+Jharkhand,Associate,Direct,01-08-2016,tat_count,1
+Jharkhand,Associate,Direct,01-09-2016,tat_count,3
+Jharkhand,Relationship Manager,Direct,01-07-2016,tat_count,1
+Jharkhand,Territory Manager,Direct,01-07-2016,tat_count,22
+Jharkhand,Territory Manager,Direct,01-08-2016,tat_count,11
+Jharkhand,Territory Manager,Direct,01-09-2016,tat_count,9
+Jharkhand,Sales Executive,Direct,01-07-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-07-2016,tat_count,1
+Assam,Businees Development Executive,Vendor,01-05-2016,candidate_count,1
+Assam,Associate,Direct,01-04-2016,candidate_count,7
+Assam,Associate,Direct,01-05-2016,candidate_count,28
+Assam,Associate,Direct,01-06-2016,candidate_count,7
+Assam,Associate,Career Page,01-04-2016,candidate_count,2
+Assam,Associate,Career Page,01-05-2016,candidate_count,1
+Assam,Associate,Career Page,01-06-2016,candidate_count,8
+Assam,Relationship Manager,Vendor,01-04-2016,candidate_count,3
+Assam,Relationship Manager,Vendor,01-06-2016,candidate_count,5
+Assam,Relationship Manager,Direct,01-04-2016,candidate_count,3
+Assam,Relationship Manager,Direct,01-05-2016,candidate_count,2
+Assam,Relationship Manager,Direct,01-06-2016,candidate_count,2
+Assam,Relationship Manager,Career Page,01-04-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-05-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-06-2016,candidate_count,5
+Assam,Relationship Manager,Referral,01-06-2016,candidate_count,1
+Assam,Territory Manager,Vendor,01-04-2016,candidate_count,2
+Assam,Territory Manager,Direct,01-04-2016,candidate_count,10
+Assam,Territory Manager,Direct,01-05-2016,candidate_count,13
+Assam,Territory Manager,Direct,01-06-2016,candidate_count,22
+Assam,Territory Manager,Career Page,01-04-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-05-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-06-2016,candidate_count,5
+Assam,Corporate Role,Direct,01-04-2016,candidate_count,1
+Assam,Corporate Role,Direct,01-05-2016,candidate_count,2
+Assam,Corporate Role,Career Page,01-06-2016,candidate_count,3
+Assam,Businees Development Executive,Direct,01-05-2016,candidate_count,1
+Assam,Sales Executive,Direct,01-06-2016,candidate_count,1
+Assam,Administration Executive,Job Portal,01-06-2016,candidate_count,1
+Assam,Administration Executive,Vendor,01-04-2016,candidate_count,1
+Delhi,Businees Development Executive,Vendor,01-05-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-04-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-05-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-04-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-05-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-06-2016,candidate_count,9
+Delhi,Sales Executive,Direct,01-04-2016,candidate_count,1
+Delhi,Associate,Vendor,01-04-2016,candidate_count,5
+Delhi,Associate,Vendor,01-05-2016,candidate_count,5
+Delhi,Associate,Vendor,01-06-2016,candidate_count,23
+Delhi,Associate,Direct,01-04-2016,candidate_count,9
+Delhi,Associate,Direct,01-05-2016,candidate_count,13
+Delhi,Associate,Direct,01-06-2016,candidate_count,50
+Delhi,Associate,Career Page,01-04-2016,candidate_count,17
+Delhi,Associate,Career Page,01-05-2016,candidate_count,41
+Delhi,Associate,Career Page,01-06-2016,candidate_count,56
+Delhi,Associate,Referral,01-04-2016,candidate_count,6
+Delhi,Associate,Referral,01-05-2016,candidate_count,2
+Delhi,Associate,Referral,01-06-2016,candidate_count,1
+Delhi,Relationship Manager,Vendor,01-04-2016,candidate_count,35
+Delhi,Relationship Manager,Vendor,01-05-2016,candidate_count,28
+Delhi,Relationship Manager,Vendor,01-06-2016,candidate_count,21
+Delhi,Relationship Manager,Direct,01-04-2016,candidate_count,3
+Delhi,Relationship Manager,Direct,01-05-2016,candidate_count,10
+Delhi,Relationship Manager,Direct,01-06-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-04-2016,candidate_count,11
+Delhi,Relationship Manager,Career Page,01-05-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-06-2016,candidate_count,8
+Delhi,Territory Manager,Vendor,01-04-2016,candidate_count,2
+Delhi,Territory Manager,Vendor,01-05-2016,candidate_count,4
+Delhi,Territory Manager,Vendor,01-06-2016,candidate_count,8
+Delhi,Territory Manager,Direct,01-04-2016,candidate_count,19
+Delhi,Territory Manager,Direct,01-05-2016,candidate_count,31
+Delhi,Territory Manager,Direct,01-06-2016,candidate_count,17
+Delhi,Territory Manager,Career Page,01-04-2016,candidate_count,2
+Delhi,Territory Manager,Career Page,01-05-2016,candidate_count,14
+Delhi,Territory Manager,Career Page,01-06-2016,candidate_count,7
+Delhi,Territory Manager,Job Portal,01-05-2016,candidate_count,1
+Delhi,Corporate Role,Career Page,01-06-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-04-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-04-2016,candidate_count,2
+Delhi,Sales Executive,Direct,01-06-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-04-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-05-2016,candidate_count,1
+Delhi,Sales Executive,Job Portal,01-05-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-05-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-06-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-06-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-05-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-04-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-05-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-06-2016,candidate_count,6
+Delhi,Sales Executive,Career Page,01-04-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-06-2016,candidate_count,1
+Delhi,Sales Executive,Referral,01-06-2016,candidate_count,1
+Delhi,Administration Executive,Vendor,01-05-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-05-2016,candidate_count,1
+Delhi,Administration Executive,Career Page,01-04-2016,candidate_count,1
+Delhi,Administration Executive,Referral,01-05-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-04-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-04-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-04-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-05-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Direct,01-05-2016,candidate_count,3
+Jharkhand,Businees Development Executive,Career Page,01-04-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Career Page,01-06-2016,candidate_count,4
+Jharkhand,Sales Executive,Direct,01-04-2016,candidate_count,2
+Jharkhand,Sales Executive,Career Page,01-06-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-04-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-06-2016,candidate_count,1
+Jharkhand,Associate,Direct,01-04-2016,candidate_count,4
+Jharkhand,Associate,Direct,01-05-2016,candidate_count,11
+Jharkhand,Associate,Direct,01-06-2016,candidate_count,12
+Jharkhand,Associate,Career Page,01-04-2016,candidate_count,5
+Jharkhand,Associate,Career Page,01-05-2016,candidate_count,15
+Jharkhand,Associate,Career Page,01-06-2016,candidate_count,22
+Jharkhand,Associate,Referral,01-04-2016,candidate_count,1
+Jharkhand,Associate,Referral,01-06-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-04-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-05-2016,candidate_count,2
+Jharkhand,Relationship Manager,Vendor,01-06-2016,candidate_count,2
+Jharkhand,Relationship Manager,Direct,01-04-2016,candidate_count,10
+Jharkhand,Relationship Manager,Direct,01-05-2016,candidate_count,1
+Jharkhand,Relationship Manager,Direct,01-06-2016,candidate_count,3
+Jharkhand,Relationship Manager,Career Page,01-04-2016,candidate_count,1
+Jharkhand,Relationship Manager,Career Page,01-05-2016,candidate_count,4
+Jharkhand,Relationship Manager,Career Page,01-06-2016,candidate_count,4
+Jharkhand,Territory Manager,Vendor,01-04-2016,candidate_count,1
+Jharkhand,Territory Manager,Vendor,01-06-2016,candidate_count,1
+Jharkhand,Territory Manager,Direct,01-04-2016,candidate_count,31
+Jharkhand,Territory Manager,Direct,01-05-2016,candidate_count,12
+Jharkhand,Territory Manager,Direct,01-06-2016,candidate_count,14
+Jharkhand,Territory Manager,Career Page,01-04-2016,candidate_count,2
+Jharkhand,Territory Manager,Career Page,01-05-2016,candidate_count,21
+Jharkhand,Territory Manager,Career Page,01-06-2016,candidate_count,19
+Jharkhand,Corporate Role,Direct,01-05-2016,candidate_count,2
+Jharkhand,Corporate Role,Career Page,01-06-2016,candidate_count,4
+Jharkhand,Sales Executive,Vendor,01-06-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-06-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-04-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-06-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-04-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-06-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-05-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-04-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-05-2016,candidate_count,1
+Assam,Associate,Direct,01-04-2016,conversion_ratio_num,4
+Assam,Associate,Direct,01-05-2016,conversion_ratio_num,17
+Assam,Relationship Manager,Direct,01-04-2016,conversion_ratio_num,2
+Assam,Relationship Manager,Direct,01-05-2016,conversion_ratio_num,2
+Assam,Territory Manager,Vendor,01-04-2016,conversion_ratio_num,2
+Assam,Territory Manager,Direct,01-04-2016,conversion_ratio_num,8
+Assam,Territory Manager,Direct,01-05-2016,conversion_ratio_num,10
+Assam,Territory Manager,Direct,01-06-2016,conversion_ratio_num,4
+Assam,Corporate Role,Direct,01-04-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-04-2016,conversion_ratio_num,5
+Delhi,Associate,Direct,01-05-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-06-2016,conversion_ratio_num,2
+Delhi,Associate,Career Page,01-04-2016,conversion_ratio_num,1
+Delhi,Associate,Career Page,01-05-2016,conversion_ratio_num,2
+Delhi,Relationship Manager,Vendor,01-04-2016,conversion_ratio_num,1
+Delhi,Relationship Manager,Direct,01-05-2016,conversion_ratio_num,4
+Delhi,Territory Manager,Direct,01-04-2016,conversion_ratio_num,5
+Delhi,Territory Manager,Direct,01-05-2016,conversion_ratio_num,19
+Delhi,Territory Manager,Direct,01-06-2016,conversion_ratio_num,9
+Delhi,Territory Manager,Career Page,01-05-2016,conversion_ratio_num,1
+Delhi,Sales Executive,Direct,01-04-2016,conversion_ratio_num,1
+Delhi,Businees Development Executive,Direct,01-05-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-04-2016,conversion_ratio_num,1
+Jharkhand,Businees Development Executive,Direct,01-05-2016,conversion_ratio_num,1
+Jharkhand,Sales Executive,Direct,01-04-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-05-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-06-2016,conversion_ratio_num,3
+Jharkhand,Relationship Manager,Direct,01-04-2016,conversion_ratio_num,1
+Jharkhand,Territory Manager,Direct,01-04-2016,conversion_ratio_num,22
+Jharkhand,Territory Manager,Direct,01-05-2016,conversion_ratio_num,11
+Jharkhand,Territory Manager,Direct,01-06-2016,conversion_ratio_num,9
+Jharkhand,Sales Executive,Direct,01-04-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-04-2016,conversion_ratio_num,1
+Assam,Associate,Direct,01-04-2016,tat_sum,182
+Assam,Associate,Direct,01-05-2016,tat_sum,547
+Assam,Relationship Manager,Direct,01-04-2016,tat_sum,81
+Assam,Relationship Manager,Direct,01-05-2016,tat_sum,73
+Assam,Territory Manager,Vendor,01-04-2016,tat_sum,59
+Assam,Territory Manager,Direct,01-04-2016,tat_sum,311
+Assam,Territory Manager,Direct,01-05-2016,tat_sum,196
+Assam,Territory Manager,Direct,01-06-2016,tat_sum,49
+Assam,Corporate Role,Direct,01-04-2016,tat_sum,17
+Delhi,Associate,Direct,01-04-2016,tat_sum,195
+Delhi,Associate,Direct,01-05-2016,tat_sum,33
+Delhi,Associate,Direct,01-06-2016,tat_sum,50
+Delhi,Associate,Career Page,01-04-2016,tat_sum,49
+Delhi,Associate,Career Page,01-05-2016,tat_sum,59
+Delhi,Relationship Manager,Vendor,01-04-2016,tat_sum,83
+Delhi,Relationship Manager,Direct,01-05-2016,tat_sum,125
+Delhi,Territory Manager,Direct,01-04-2016,tat_sum,140
+Delhi,Territory Manager,Direct,01-05-2016,tat_sum,303
+Delhi,Territory Manager,Direct,01-06-2016,tat_sum,211
+Delhi,Territory Manager,Career Page,01-05-2016,tat_sum,8
+Delhi,Sales Executive,Direct,01-04-2016,tat_sum,68
+Delhi,Businees Development Executive,Direct,01-05-2016,tat_sum,12
+Jharkhand,Administration Executive,Direct,01-04-2016,tat_sum,84
+Jharkhand,Businees Development Executive,Direct,01-05-2016,tat_sum,14
+Jharkhand,Sales Executive,Direct,01-04-2016,tat_sum,58
+Jharkhand,Associate,Direct,01-05-2016,tat_sum,41
+Jharkhand,Associate,Direct,01-06-2016,tat_sum,40
+Jharkhand,Relationship Manager,Direct,01-04-2016,tat_sum,51
+Jharkhand,Territory Manager,Direct,01-04-2016,tat_sum,349
+Jharkhand,Territory Manager,Direct,01-05-2016,tat_sum,124
+Jharkhand,Territory Manager,Direct,01-06-2016,tat_sum,167
+Jharkhand,Sales Executive,Direct,01-04-2016,tat_sum,39
+Jharkhand,Administration Executive,Direct,01-04-2016,tat_sum,48
+Assam,Businees Development Executive,Vendor,01-05-2016,compensation_sum,16
+Assam,Associate,Direct,01-04-2016,compensation_sum,2
+Assam,Associate,Direct,01-05-2016,compensation_sum,3
+Assam,Associate,Direct,01-06-2016,compensation_sum,0
+Assam,Associate,Career Page,01-04-2016,compensation_sum,1
+Assam,Associate,Career Page,01-05-2016,compensation_sum,0
+Assam,Associate,Career Page,01-06-2016,compensation_sum,7
+Assam,Relationship Manager,Vendor,01-04-2016,compensation_sum,380004
+Assam,Relationship Manager,Vendor,01-06-2016,compensation_sum,642004
+Assam,Relationship Manager,Direct,01-04-2016,compensation_sum,500000
+Assam,Relationship Manager,Direct,01-05-2016,compensation_sum,0
+Assam,Relationship Manager,Direct,01-06-2016,compensation_sum,0
+Assam,Relationship Manager,Career Page,01-04-2016,compensation_sum,2
+Assam,Relationship Manager,Career Page,01-05-2016,compensation_sum,4
+Assam,Relationship Manager,Career Page,01-06-2016,compensation_sum,643009
+Assam,Relationship Manager,Referral,01-06-2016,compensation_sum,210000
+Assam,Territory Manager,Vendor,01-04-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-04-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-05-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-06-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-04-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-05-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-06-2016,compensation_sum,208775
+Assam,Corporate Role,Direct,01-04-2016,compensation_sum,0
+Assam,Corporate Role,Direct,01-05-2016,compensation_sum,15
+Assam,Corporate Role,Career Page,01-06-2016,compensation_sum,870013
+Assam,Businees Development Executive,Direct,01-05-2016,compensation_sum,0
+Assam,Sales Executive,Direct,01-06-2016,compensation_sum,0
+Assam,Administration Executive,Job Portal,01-06-2016,compensation_sum,0
+Assam,Administration Executive,Vendor,01-04-2016,compensation_sum,700000
+Delhi,Businees Development Executive,Vendor,01-05-2016,compensation_sum,19
+Delhi,Businees Development Executive,Direct,01-04-2016,compensation_sum,10
+Delhi,Businees Development Executive,Direct,01-05-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-04-2016,compensation_sum,275004
+Delhi,Businees Development Executive,Career Page,01-05-2016,compensation_sum,6
+Delhi,Businees Development Executive,Career Page,01-06-2016,compensation_sum,170028
+Delhi,Sales Executive,Direct,01-04-2016,compensation_sum,0
+Delhi,Associate,Vendor,01-04-2016,compensation_sum,800013
+Delhi,Associate,Vendor,01-05-2016,compensation_sum,18
+Delhi,Associate,Vendor,01-06-2016,compensation_sum,2783047
+Delhi,Associate,Direct,01-04-2016,compensation_sum,550000
+Delhi,Associate,Direct,01-05-2016,compensation_sum,580000
+Delhi,Associate,Direct,01-06-2016,compensation_sum,300004
+Delhi,Associate,Career Page,01-04-2016,compensation_sum,995018
+Delhi,Associate,Career Page,01-05-2016,compensation_sum,1213922
+Delhi,Associate,Career Page,01-06-2016,compensation_sum,1945220
+Delhi,Associate,Referral,01-04-2016,compensation_sum,714294
+Delhi,Associate,Referral,01-05-2016,compensation_sum,588000
+Delhi,Associate,Referral,01-06-2016,compensation_sum,338000
+Delhi,Relationship Manager,Vendor,01-04-2016,compensation_sum,1500099
+Delhi,Relationship Manager,Vendor,01-05-2016,compensation_sum,4676130
+Delhi,Relationship Manager,Vendor,01-06-2016,compensation_sum,2285464
+Delhi,Relationship Manager,Direct,01-04-2016,compensation_sum,5
+Delhi,Relationship Manager,Direct,01-05-2016,compensation_sum,1850007
+Delhi,Relationship Manager,Direct,01-06-2016,compensation_sum,20
+Delhi,Relationship Manager,Career Page,01-04-2016,compensation_sum,1442013
+Delhi,Relationship Manager,Career Page,01-05-2016,compensation_sum,930019
+Delhi,Relationship Manager,Career Page,01-06-2016,compensation_sum,840028
+Delhi,Territory Manager,Vendor,01-04-2016,compensation_sum,12
+Delhi,Territory Manager,Vendor,01-05-2016,compensation_sum,11
+Delhi,Territory Manager,Vendor,01-06-2016,compensation_sum,207
+Delhi,Territory Manager,Direct,01-04-2016,compensation_sum,1
+Delhi,Territory Manager,Direct,01-05-2016,compensation_sum,1456012
+Delhi,Territory Manager,Direct,01-06-2016,compensation_sum,144002
+Delhi,Territory Manager,Career Page,01-04-2016,compensation_sum,3100003
+Delhi,Territory Manager,Career Page,01-05-2016,compensation_sum,590012
+Delhi,Territory Manager,Career Page,01-06-2016,compensation_sum,230005
+Delhi,Territory Manager,Job Portal,01-05-2016,compensation_sum,0
+Delhi,Corporate Role,Career Page,01-06-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-04-2016,compensation_sum,17
+Delhi,Sales Executive,Direct,01-04-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-06-2016,compensation_sum,941
+Delhi,Sales Executive,Career Page,01-04-2016,compensation_sum,0
+Delhi,Sales Executive,Career Page,01-05-2016,compensation_sum,0
+Delhi,Sales Executive,Job Portal,01-05-2016,compensation_sum,0
+Delhi,Businees Development Executive,Direct,01-05-2016,compensation_sum,320000
+Delhi,Businees Development Executive,Direct,01-06-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-06-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-05-2016,compensation_sum,6
+Delhi,Sales Executive,Direct,01-04-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-05-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-06-2016,compensation_sum,939532
+Delhi,Sales Executive,Career Page,01-04-2016,compensation_sum,2
+Delhi,Sales Executive,Career Page,01-06-2016,compensation_sum,0
+Delhi,Sales Executive,Referral,01-06-2016,compensation_sum,240000
+Delhi,Administration Executive,Vendor,01-05-2016,compensation_sum,8
+Delhi,Administration Executive,Direct,01-05-2016,compensation_sum,0
+Delhi,Administration Executive,Career Page,01-04-2016,compensation_sum,5
+Delhi,Administration Executive,Referral,01-05-2016,compensation_sum,4
+Delhi,Administration Executive,Direct,01-04-2016,compensation_sum,0
+Jharkhand,Administration Executive,Direct,01-04-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Vendor,01-04-2016,compensation_sum,15
+Jharkhand,Businees Development Executive,Vendor,01-05-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Direct,01-05-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-04-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-06-2016,compensation_sum,15
+Jharkhand,Sales Executive,Direct,01-04-2016,compensation_sum,6
+Jharkhand,Sales Executive,Career Page,01-06-2016,compensation_sum,5
+Jharkhand,Associate,Vendor,01-04-2016,compensation_sum,350006
+Jharkhand,Associate,Vendor,01-06-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-04-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-05-2016,compensation_sum,750004
+Jharkhand,Associate,Direct,01-06-2016,compensation_sum,3
+Jharkhand,Associate,Career Page,01-04-2016,compensation_sum,13
+Jharkhand,Associate,Career Page,01-05-2016,compensation_sum,10
+Jharkhand,Associate,Career Page,01-06-2016,compensation_sum,730009
+Jharkhand,Associate,Referral,01-04-2016,compensation_sum,0
+Jharkhand,Associate,Referral,01-06-2016,compensation_sum,2
+Jharkhand,Relationship Manager,Vendor,01-04-2016,compensation_sum,5
+Jharkhand,Relationship Manager,Vendor,01-05-2016,compensation_sum,9
+Jharkhand,Relationship Manager,Vendor,01-06-2016,compensation_sum,600005
+Jharkhand,Relationship Manager,Direct,01-04-2016,compensation_sum,730014
+Jharkhand,Relationship Manager,Direct,01-05-2016,compensation_sum,0
+Jharkhand,Relationship Manager,Direct,01-06-2016,compensation_sum,450000
+Jharkhand,Relationship Manager,Career Page,01-04-2016,compensation_sum,230000
+Jharkhand,Relationship Manager,Career Page,01-05-2016,compensation_sum,108006
+Jharkhand,Relationship Manager,Career Page,01-06-2016,compensation_sum,360000
+Jharkhand,Territory Manager,Vendor,01-04-2016,compensation_sum,0
+Jharkhand,Territory Manager,Vendor,01-06-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-04-2016,compensation_sum,13
+Jharkhand,Territory Manager,Direct,01-05-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-06-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-04-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-05-2016,compensation_sum,156005
+Jharkhand,Territory Manager,Career Page,01-06-2016,compensation_sum,490008
+Jharkhand,Corporate Role,Direct,01-05-2016,compensation_sum,0
+Jharkhand,Corporate Role,Career Page,01-06-2016,compensation_sum,550023
+Jharkhand,Sales Executive,Vendor,01-06-2016,compensation_sum,14
+Jharkhand,Sales Executive,Direct,01-06-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-04-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-06-2016,compensation_sum,0
+Jharkhand,Sales Executive,Career Page,01-04-2016,compensation_sum,260000
+Jharkhand,Sales Executive,Career Page,01-06-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-05-2016,compensation_sum,10
+Jharkhand,Administration Executive,Direct,01-04-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-05-2016,compensation_sum,6
+Assam,Associate,Direct,01-04-2016,tat_count,4
+Assam,Associate,Direct,01-05-2016,tat_count,17
+Assam,Relationship Manager,Direct,01-04-2016,tat_count,2
+Assam,Relationship Manager,Direct,01-05-2016,tat_count,2
+Assam,Territory Manager,Vendor,01-04-2016,tat_count,2
+Assam,Territory Manager,Direct,01-04-2016,tat_count,8
+Assam,Territory Manager,Direct,01-05-2016,tat_count,10
+Assam,Territory Manager,Direct,01-06-2016,tat_count,4
+Assam,Corporate Role,Direct,01-04-2016,tat_count,1
+Delhi,Associate,Direct,01-04-2016,tat_count,5
+Delhi,Associate,Direct,01-05-2016,tat_count,1
+Delhi,Associate,Direct,01-06-2016,tat_count,2
+Delhi,Associate,Career Page,01-04-2016,tat_count,1
+Delhi,Associate,Career Page,01-05-2016,tat_count,2
+Delhi,Relationship Manager,Vendor,01-04-2016,tat_count,1
+Delhi,Relationship Manager,Direct,01-05-2016,tat_count,4
+Delhi,Territory Manager,Direct,01-04-2016,tat_count,5
+Delhi,Territory Manager,Direct,01-05-2016,tat_count,19
+Delhi,Territory Manager,Direct,01-06-2016,tat_count,9
+Delhi,Territory Manager,Career Page,01-05-2016,tat_count,1
+Delhi,Sales Executive,Direct,01-04-2016,tat_count,1
+Delhi,Businees Development Executive,Direct,01-05-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-04-2016,tat_count,1
+Jharkhand,Businees Development Executive,Direct,01-05-2016,tat_count,1
+Jharkhand,Sales Executive,Direct,01-04-2016,tat_count,1
+Jharkhand,Associate,Direct,01-05-2016,tat_count,1
+Jharkhand,Associate,Direct,01-06-2016,tat_count,3
+Jharkhand,Relationship Manager,Direct,01-04-2016,tat_count,1
+Jharkhand,Territory Manager,Direct,01-04-2016,tat_count,22
+Jharkhand,Territory Manager,Direct,01-05-2016,tat_count,11
+Jharkhand,Territory Manager,Direct,01-06-2016,tat_count,9
+Jharkhand,Sales Executive,Direct,01-04-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-04-2016,tat_count,1
+Assam,Businees Development Executive,Vendor,01-02-2016,candidate_count,1
+Assam,Associate,Direct,01-01-2016,candidate_count,7
+Assam,Associate,Direct,01-02-2016,candidate_count,28
+Assam,Associate,Direct,01-03-2016,candidate_count,7
+Assam,Associate,Career Page,01-01-2016,candidate_count,2
+Assam,Associate,Career Page,01-02-2016,candidate_count,1
+Assam,Associate,Career Page,01-03-2016,candidate_count,8
+Assam,Relationship Manager,Vendor,01-01-2016,candidate_count,3
+Assam,Relationship Manager,Vendor,01-03-2016,candidate_count,5
+Assam,Relationship Manager,Direct,01-01-2016,candidate_count,3
+Assam,Relationship Manager,Direct,01-02-2016,candidate_count,2
+Assam,Relationship Manager,Direct,01-03-2016,candidate_count,2
+Assam,Relationship Manager,Career Page,01-01-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-02-2016,candidate_count,5
+Assam,Relationship Manager,Career Page,01-03-2016,candidate_count,5
+Assam,Relationship Manager,Referral,01-03-2016,candidate_count,1
+Assam,Territory Manager,Vendor,01-01-2016,candidate_count,2
+Assam,Territory Manager,Direct,01-01-2016,candidate_count,10
+Assam,Territory Manager,Direct,01-02-2016,candidate_count,13
+Assam,Territory Manager,Direct,01-03-2016,candidate_count,22
+Assam,Territory Manager,Career Page,01-01-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-02-2016,candidate_count,3
+Assam,Territory Manager,Career Page,01-03-2016,candidate_count,5
+Assam,Corporate Role,Direct,01-01-2016,candidate_count,1
+Assam,Corporate Role,Direct,01-02-2016,candidate_count,2
+Assam,Corporate Role,Career Page,01-03-2016,candidate_count,3
+Assam,Businees Development Executive,Direct,01-02-2016,candidate_count,1
+Assam,Sales Executive,Direct,01-03-2016,candidate_count,1
+Assam,Administration Executive,Job Portal,01-03-2016,candidate_count,1
+Assam,Administration Executive,Vendor,01-01-2016,candidate_count,1
+Delhi,Businees Development Executive,Vendor,01-02-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-01-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-02-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-01-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-02-2016,candidate_count,1
+Delhi,Businees Development Executive,Career Page,01-03-2016,candidate_count,9
+Delhi,Sales Executive,Direct,01-01-2016,candidate_count,1
+Delhi,Associate,Vendor,01-01-2016,candidate_count,5
+Delhi,Associate,Vendor,01-02-2016,candidate_count,5
+Delhi,Associate,Vendor,01-03-2016,candidate_count,23
+Delhi,Associate,Direct,01-01-2016,candidate_count,9
+Delhi,Associate,Direct,01-02-2016,candidate_count,13
+Delhi,Associate,Direct,01-03-2016,candidate_count,50
+Delhi,Associate,Career Page,01-01-2016,candidate_count,17
+Delhi,Associate,Career Page,01-02-2016,candidate_count,41
+Delhi,Associate,Career Page,01-03-2016,candidate_count,56
+Delhi,Associate,Referral,01-01-2016,candidate_count,6
+Delhi,Associate,Referral,01-02-2016,candidate_count,2
+Delhi,Associate,Referral,01-03-2016,candidate_count,1
+Delhi,Relationship Manager,Vendor,01-01-2016,candidate_count,35
+Delhi,Relationship Manager,Vendor,01-02-2016,candidate_count,28
+Delhi,Relationship Manager,Vendor,01-03-2016,candidate_count,21
+Delhi,Relationship Manager,Direct,01-01-2016,candidate_count,3
+Delhi,Relationship Manager,Direct,01-02-2016,candidate_count,10
+Delhi,Relationship Manager,Direct,01-03-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-01-2016,candidate_count,11
+Delhi,Relationship Manager,Career Page,01-02-2016,candidate_count,6
+Delhi,Relationship Manager,Career Page,01-03-2016,candidate_count,8
+Delhi,Territory Manager,Vendor,01-01-2016,candidate_count,2
+Delhi,Territory Manager,Vendor,01-02-2016,candidate_count,4
+Delhi,Territory Manager,Vendor,01-03-2016,candidate_count,8
+Delhi,Territory Manager,Direct,01-01-2016,candidate_count,19
+Delhi,Territory Manager,Direct,01-02-2016,candidate_count,31
+Delhi,Territory Manager,Direct,01-03-2016,candidate_count,17
+Delhi,Territory Manager,Career Page,01-01-2016,candidate_count,2
+Delhi,Territory Manager,Career Page,01-02-2016,candidate_count,14
+Delhi,Territory Manager,Career Page,01-03-2016,candidate_count,7
+Delhi,Territory Manager,Job Portal,01-02-2016,candidate_count,1
+Delhi,Corporate Role,Career Page,01-03-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-01-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-01-2016,candidate_count,2
+Delhi,Sales Executive,Direct,01-03-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-01-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-02-2016,candidate_count,1
+Delhi,Sales Executive,Job Portal,01-02-2016,candidate_count,1
+Delhi,Businees Development Executive,Direct,01-02-2016,candidate_count,2
+Delhi,Businees Development Executive,Direct,01-03-2016,candidate_count,2
+Delhi,Businees Development Executive,Career Page,01-03-2016,candidate_count,1
+Delhi,Sales Executive,Vendor,01-02-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-01-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-02-2016,candidate_count,1
+Delhi,Sales Executive,Direct,01-03-2016,candidate_count,6
+Delhi,Sales Executive,Career Page,01-01-2016,candidate_count,1
+Delhi,Sales Executive,Career Page,01-03-2016,candidate_count,1
+Delhi,Sales Executive,Referral,01-03-2016,candidate_count,1
+Delhi,Administration Executive,Vendor,01-02-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-02-2016,candidate_count,1
+Delhi,Administration Executive,Career Page,01-01-2016,candidate_count,1
+Delhi,Administration Executive,Referral,01-02-2016,candidate_count,1
+Delhi,Administration Executive,Direct,01-01-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-01-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-01-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Vendor,01-02-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Direct,01-02-2016,candidate_count,3
+Jharkhand,Businees Development Executive,Career Page,01-01-2016,candidate_count,1
+Jharkhand,Businees Development Executive,Career Page,01-03-2016,candidate_count,4
+Jharkhand,Sales Executive,Direct,01-01-2016,candidate_count,2
+Jharkhand,Sales Executive,Career Page,01-03-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-01-2016,candidate_count,2
+Jharkhand,Associate,Vendor,01-03-2016,candidate_count,1
+Jharkhand,Associate,Direct,01-01-2016,candidate_count,4
+Jharkhand,Associate,Direct,01-02-2016,candidate_count,11
+Jharkhand,Associate,Direct,01-03-2016,candidate_count,12
+Jharkhand,Associate,Career Page,01-01-2016,candidate_count,5
+Jharkhand,Associate,Career Page,01-02-2016,candidate_count,15
+Jharkhand,Associate,Career Page,01-03-2016,candidate_count,22
+Jharkhand,Associate,Referral,01-01-2016,candidate_count,1
+Jharkhand,Associate,Referral,01-03-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-01-2016,candidate_count,1
+Jharkhand,Relationship Manager,Vendor,01-02-2016,candidate_count,2
+Jharkhand,Relationship Manager,Vendor,01-03-2016,candidate_count,2
+Jharkhand,Relationship Manager,Direct,01-01-2016,candidate_count,10
+Jharkhand,Relationship Manager,Direct,01-02-2016,candidate_count,1
+Jharkhand,Relationship Manager,Direct,01-03-2016,candidate_count,3
+Jharkhand,Relationship Manager,Career Page,01-01-2016,candidate_count,1
+Jharkhand,Relationship Manager,Career Page,01-02-2016,candidate_count,4
+Jharkhand,Relationship Manager,Career Page,01-03-2016,candidate_count,4
+Jharkhand,Territory Manager,Vendor,01-01-2016,candidate_count,1
+Jharkhand,Territory Manager,Vendor,01-03-2016,candidate_count,1
+Jharkhand,Territory Manager,Direct,01-01-2016,candidate_count,31
+Jharkhand,Territory Manager,Direct,01-02-2016,candidate_count,12
+Jharkhand,Territory Manager,Direct,01-03-2016,candidate_count,14
+Jharkhand,Territory Manager,Career Page,01-01-2016,candidate_count,2
+Jharkhand,Territory Manager,Career Page,01-02-2016,candidate_count,21
+Jharkhand,Territory Manager,Career Page,01-03-2016,candidate_count,19
+Jharkhand,Corporate Role,Direct,01-02-2016,candidate_count,2
+Jharkhand,Corporate Role,Career Page,01-03-2016,candidate_count,4
+Jharkhand,Sales Executive,Vendor,01-03-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-03-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-01-2016,candidate_count,1
+Jharkhand,Sales Executive,Direct,01-03-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-01-2016,candidate_count,1
+Jharkhand,Sales Executive,Career Page,01-03-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-02-2016,candidate_count,1
+Jharkhand,Administration Executive,Direct,01-01-2016,candidate_count,1
+Jharkhand,Administration Executive,Vendor,01-02-2016,candidate_count,1
+Assam,Associate,Direct,01-01-2016,conversion_ratio_num,4
+Assam,Associate,Direct,01-02-2016,conversion_ratio_num,17
+Assam,Relationship Manager,Direct,01-01-2016,conversion_ratio_num,2
+Assam,Relationship Manager,Direct,01-02-2016,conversion_ratio_num,2
+Assam,Territory Manager,Vendor,01-01-2016,conversion_ratio_num,2
+Assam,Territory Manager,Direct,01-01-2016,conversion_ratio_num,8
+Assam,Territory Manager,Direct,01-02-2016,conversion_ratio_num,10
+Assam,Territory Manager,Direct,01-03-2016,conversion_ratio_num,4
+Assam,Corporate Role,Direct,01-01-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-01-2016,conversion_ratio_num,5
+Delhi,Associate,Direct,01-02-2016,conversion_ratio_num,1
+Delhi,Associate,Direct,01-03-2016,conversion_ratio_num,2
+Delhi,Associate,Career Page,01-01-2016,conversion_ratio_num,1
+Delhi,Associate,Career Page,01-02-2016,conversion_ratio_num,2
+Delhi,Relationship Manager,Vendor,01-01-2016,conversion_ratio_num,1
+Delhi,Relationship Manager,Direct,01-02-2016,conversion_ratio_num,4
+Delhi,Territory Manager,Direct,01-01-2016,conversion_ratio_num,5
+Delhi,Territory Manager,Direct,01-02-2016,conversion_ratio_num,19
+Delhi,Territory Manager,Direct,01-03-2016,conversion_ratio_num,9
+Delhi,Territory Manager,Career Page,01-02-2016,conversion_ratio_num,1
+Delhi,Sales Executive,Direct,01-01-2016,conversion_ratio_num,1
+Delhi,Businees Development Executive,Direct,01-02-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-01-2016,conversion_ratio_num,1
+Jharkhand,Businees Development Executive,Direct,01-02-2016,conversion_ratio_num,1
+Jharkhand,Sales Executive,Direct,01-01-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-02-2016,conversion_ratio_num,1
+Jharkhand,Associate,Direct,01-03-2016,conversion_ratio_num,3
+Jharkhand,Relationship Manager,Direct,01-01-2016,conversion_ratio_num,1
+Jharkhand,Territory Manager,Direct,01-01-2016,conversion_ratio_num,22
+Jharkhand,Territory Manager,Direct,01-02-2016,conversion_ratio_num,11
+Jharkhand,Territory Manager,Direct,01-03-2016,conversion_ratio_num,9
+Jharkhand,Sales Executive,Direct,01-01-2016,conversion_ratio_num,1
+Jharkhand,Administration Executive,Direct,01-01-2016,conversion_ratio_num,1
+Assam,Associate,Direct,01-01-2016,tat_sum,182
+Assam,Associate,Direct,01-02-2016,tat_sum,547
+Assam,Relationship Manager,Direct,01-01-2016,tat_sum,81
+Assam,Relationship Manager,Direct,01-02-2016,tat_sum,73
+Assam,Territory Manager,Vendor,01-01-2016,tat_sum,59
+Assam,Territory Manager,Direct,01-01-2016,tat_sum,311
+Assam,Territory Manager,Direct,01-02-2016,tat_sum,196
+Assam,Territory Manager,Direct,01-03-2016,tat_sum,49
+Assam,Corporate Role,Direct,01-01-2016,tat_sum,17
+Delhi,Associate,Direct,01-01-2016,tat_sum,195
+Delhi,Associate,Direct,01-02-2016,tat_sum,33
+Delhi,Associate,Direct,01-03-2016,tat_sum,50
+Delhi,Associate,Career Page,01-01-2016,tat_sum,49
+Delhi,Associate,Career Page,01-02-2016,tat_sum,59
+Delhi,Relationship Manager,Vendor,01-01-2016,tat_sum,83
+Delhi,Relationship Manager,Direct,01-02-2016,tat_sum,125
+Delhi,Territory Manager,Direct,01-01-2016,tat_sum,140
+Delhi,Territory Manager,Direct,01-02-2016,tat_sum,303
+Delhi,Territory Manager,Direct,01-03-2016,tat_sum,211
+Delhi,Territory Manager,Career Page,01-02-2016,tat_sum,8
+Delhi,Sales Executive,Direct,01-01-2016,tat_sum,68
+Delhi,Businees Development Executive,Direct,01-02-2016,tat_sum,12
+Jharkhand,Administration Executive,Direct,01-01-2016,tat_sum,84
+Jharkhand,Businees Development Executive,Direct,01-02-2016,tat_sum,14
+Jharkhand,Sales Executive,Direct,01-01-2016,tat_sum,58
+Jharkhand,Associate,Direct,01-02-2016,tat_sum,41
+Jharkhand,Associate,Direct,01-03-2016,tat_sum,40
+Jharkhand,Relationship Manager,Direct,01-01-2016,tat_sum,51
+Jharkhand,Territory Manager,Direct,01-01-2016,tat_sum,349
+Jharkhand,Territory Manager,Direct,01-02-2016,tat_sum,124
+Jharkhand,Territory Manager,Direct,01-03-2016,tat_sum,167
+Jharkhand,Sales Executive,Direct,01-01-2016,tat_sum,39
+Jharkhand,Administration Executive,Direct,01-01-2016,tat_sum,48
+Assam,Businees Development Executive,Vendor,01-02-2016,compensation_sum,16
+Assam,Associate,Direct,01-01-2016,compensation_sum,2
+Assam,Associate,Direct,01-02-2016,compensation_sum,3
+Assam,Associate,Direct,01-03-2016,compensation_sum,0
+Assam,Associate,Career Page,01-01-2016,compensation_sum,1
+Assam,Associate,Career Page,01-02-2016,compensation_sum,0
+Assam,Associate,Career Page,01-03-2016,compensation_sum,7
+Assam,Relationship Manager,Vendor,01-01-2016,compensation_sum,380004
+Assam,Relationship Manager,Vendor,01-03-2016,compensation_sum,642004
+Assam,Relationship Manager,Direct,01-01-2016,compensation_sum,500000
+Assam,Relationship Manager,Direct,01-02-2016,compensation_sum,0
+Assam,Relationship Manager,Direct,01-03-2016,compensation_sum,0
+Assam,Relationship Manager,Career Page,01-01-2016,compensation_sum,2
+Assam,Relationship Manager,Career Page,01-02-2016,compensation_sum,4
+Assam,Relationship Manager,Career Page,01-03-2016,compensation_sum,643009
+Assam,Relationship Manager,Referral,01-03-2016,compensation_sum,210000
+Assam,Territory Manager,Vendor,01-01-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-01-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-02-2016,compensation_sum,0
+Assam,Territory Manager,Direct,01-03-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-01-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-02-2016,compensation_sum,0
+Assam,Territory Manager,Career Page,01-03-2016,compensation_sum,208775
+Assam,Corporate Role,Direct,01-01-2016,compensation_sum,0
+Assam,Corporate Role,Direct,01-02-2016,compensation_sum,15
+Assam,Corporate Role,Career Page,01-03-2016,compensation_sum,870013
+Assam,Businees Development Executive,Direct,01-02-2016,compensation_sum,0
+Assam,Sales Executive,Direct,01-03-2016,compensation_sum,0
+Assam,Administration Executive,Job Portal,01-03-2016,compensation_sum,0
+Assam,Administration Executive,Vendor,01-01-2016,compensation_sum,700000
+Delhi,Businees Development Executive,Vendor,01-02-2016,compensation_sum,19
+Delhi,Businees Development Executive,Direct,01-01-2016,compensation_sum,10
+Delhi,Businees Development Executive,Direct,01-02-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-01-2016,compensation_sum,275004
+Delhi,Businees Development Executive,Career Page,01-02-2016,compensation_sum,6
+Delhi,Businees Development Executive,Career Page,01-03-2016,compensation_sum,170028
+Delhi,Sales Executive,Direct,01-01-2016,compensation_sum,0
+Delhi,Associate,Vendor,01-01-2016,compensation_sum,800013
+Delhi,Associate,Vendor,01-02-2016,compensation_sum,18
+Delhi,Associate,Vendor,01-03-2016,compensation_sum,2783047
+Delhi,Associate,Direct,01-01-2016,compensation_sum,550000
+Delhi,Associate,Direct,01-02-2016,compensation_sum,580000
+Delhi,Associate,Direct,01-03-2016,compensation_sum,300004
+Delhi,Associate,Career Page,01-01-2016,compensation_sum,995018
+Delhi,Associate,Career Page,01-02-2016,compensation_sum,1213922
+Delhi,Associate,Career Page,01-03-2016,compensation_sum,1945220
+Delhi,Associate,Referral,01-01-2016,compensation_sum,714294
+Delhi,Associate,Referral,01-02-2016,compensation_sum,588000
+Delhi,Associate,Referral,01-03-2016,compensation_sum,338000
+Delhi,Relationship Manager,Vendor,01-01-2016,compensation_sum,1500099
+Delhi,Relationship Manager,Vendor,01-02-2016,compensation_sum,4676130
+Delhi,Relationship Manager,Vendor,01-03-2016,compensation_sum,2285464
+Delhi,Relationship Manager,Direct,01-01-2016,compensation_sum,5
+Delhi,Relationship Manager,Direct,01-02-2016,compensation_sum,1850007
+Delhi,Relationship Manager,Direct,01-03-2016,compensation_sum,20
+Delhi,Relationship Manager,Career Page,01-01-2016,compensation_sum,1442013
+Delhi,Relationship Manager,Career Page,01-02-2016,compensation_sum,930019
+Delhi,Relationship Manager,Career Page,01-03-2016,compensation_sum,840028
+Delhi,Territory Manager,Vendor,01-01-2016,compensation_sum,12
+Delhi,Territory Manager,Vendor,01-02-2016,compensation_sum,11
+Delhi,Territory Manager,Vendor,01-03-2016,compensation_sum,207
+Delhi,Territory Manager,Direct,01-01-2016,compensation_sum,1
+Delhi,Territory Manager,Direct,01-02-2016,compensation_sum,1456012
+Delhi,Territory Manager,Direct,01-03-2016,compensation_sum,144002
+Delhi,Territory Manager,Career Page,01-01-2016,compensation_sum,3100003
+Delhi,Territory Manager,Career Page,01-02-2016,compensation_sum,590012
+Delhi,Territory Manager,Career Page,01-03-2016,compensation_sum,230005
+Delhi,Territory Manager,Job Portal,01-02-2016,compensation_sum,0
+Delhi,Corporate Role,Career Page,01-03-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-01-2016,compensation_sum,17
+Delhi,Sales Executive,Direct,01-01-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-03-2016,compensation_sum,941
+Delhi,Sales Executive,Career Page,01-01-2016,compensation_sum,0
+Delhi,Sales Executive,Career Page,01-02-2016,compensation_sum,0
+Delhi,Sales Executive,Job Portal,01-02-2016,compensation_sum,0
+Delhi,Businees Development Executive,Direct,01-02-2016,compensation_sum,320000
+Delhi,Businees Development Executive,Direct,01-03-2016,compensation_sum,0
+Delhi,Businees Development Executive,Career Page,01-03-2016,compensation_sum,0
+Delhi,Sales Executive,Vendor,01-02-2016,compensation_sum,6
+Delhi,Sales Executive,Direct,01-01-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-02-2016,compensation_sum,0
+Delhi,Sales Executive,Direct,01-03-2016,compensation_sum,939532
+Delhi,Sales Executive,Career Page,01-01-2016,compensation_sum,2
+Delhi,Sales Executive,Career Page,01-03-2016,compensation_sum,0
+Delhi,Sales Executive,Referral,01-03-2016,compensation_sum,240000
+Delhi,Administration Executive,Vendor,01-02-2016,compensation_sum,8
+Delhi,Administration Executive,Direct,01-02-2016,compensation_sum,0
+Delhi,Administration Executive,Career Page,01-01-2016,compensation_sum,5
+Delhi,Administration Executive,Referral,01-02-2016,compensation_sum,4
+Delhi,Administration Executive,Direct,01-01-2016,compensation_sum,0
+Jharkhand,Administration Executive,Direct,01-01-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Vendor,01-01-2016,compensation_sum,15
+Jharkhand,Businees Development Executive,Vendor,01-02-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Direct,01-02-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-01-2016,compensation_sum,0
+Jharkhand,Businees Development Executive,Career Page,01-03-2016,compensation_sum,15
+Jharkhand,Sales Executive,Direct,01-01-2016,compensation_sum,6
+Jharkhand,Sales Executive,Career Page,01-03-2016,compensation_sum,5
+Jharkhand,Associate,Vendor,01-01-2016,compensation_sum,350006
+Jharkhand,Associate,Vendor,01-03-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-01-2016,compensation_sum,4
+Jharkhand,Associate,Direct,01-02-2016,compensation_sum,750004
+Jharkhand,Associate,Direct,01-03-2016,compensation_sum,3
+Jharkhand,Associate,Career Page,01-01-2016,compensation_sum,13
+Jharkhand,Associate,Career Page,01-02-2016,compensation_sum,10
+Jharkhand,Associate,Career Page,01-03-2016,compensation_sum,730009
+Jharkhand,Associate,Referral,01-01-2016,compensation_sum,0
+Jharkhand,Associate,Referral,01-03-2016,compensation_sum,2
+Jharkhand,Relationship Manager,Vendor,01-01-2016,compensation_sum,5
+Jharkhand,Relationship Manager,Vendor,01-02-2016,compensation_sum,9
+Jharkhand,Relationship Manager,Vendor,01-03-2016,compensation_sum,600005
+Jharkhand,Relationship Manager,Direct,01-01-2016,compensation_sum,730014
+Jharkhand,Relationship Manager,Direct,01-02-2016,compensation_sum,0
+Jharkhand,Relationship Manager,Direct,01-03-2016,compensation_sum,450000
+Jharkhand,Relationship Manager,Career Page,01-01-2016,compensation_sum,230000
+Jharkhand,Relationship Manager,Career Page,01-02-2016,compensation_sum,108006
+Jharkhand,Relationship Manager,Career Page,01-03-2016,compensation_sum,360000
+Jharkhand,Territory Manager,Vendor,01-01-2016,compensation_sum,0
+Jharkhand,Territory Manager,Vendor,01-03-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-01-2016,compensation_sum,13
+Jharkhand,Territory Manager,Direct,01-02-2016,compensation_sum,0
+Jharkhand,Territory Manager,Direct,01-03-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-01-2016,compensation_sum,0
+Jharkhand,Territory Manager,Career Page,01-02-2016,compensation_sum,156005
+Jharkhand,Territory Manager,Career Page,01-03-2016,compensation_sum,490008
+Jharkhand,Corporate Role,Direct,01-02-2016,compensation_sum,0
+Jharkhand,Corporate Role,Career Page,01-03-2016,compensation_sum,550023
+Jharkhand,Sales Executive,Vendor,01-03-2016,compensation_sum,14
+Jharkhand,Sales Executive,Direct,01-03-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-01-2016,compensation_sum,0
+Jharkhand,Sales Executive,Direct,01-03-2016,compensation_sum,0
+Jharkhand,Sales Executive,Career Page,01-01-2016,compensation_sum,260000
+Jharkhand,Sales Executive,Career Page,01-03-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-02-2016,compensation_sum,10
+Jharkhand,Administration Executive,Direct,01-01-2016,compensation_sum,0
+Jharkhand,Administration Executive,Vendor,01-02-2016,compensation_sum,6
+Assam,Associate,Direct,01-01-2016,tat_count,4
+Assam,Associate,Direct,01-02-2016,tat_count,17
+Assam,Relationship Manager,Direct,01-01-2016,tat_count,2
+Assam,Relationship Manager,Direct,01-02-2016,tat_count,2
+Assam,Territory Manager,Vendor,01-01-2016,tat_count,2
+Assam,Territory Manager,Direct,01-01-2016,tat_count,8
+Assam,Territory Manager,Direct,01-02-2016,tat_count,10
+Assam,Territory Manager,Direct,01-03-2016,tat_count,4
+Assam,Corporate Role,Direct,01-01-2016,tat_count,1
+Delhi,Associate,Direct,01-01-2016,tat_count,5
+Delhi,Associate,Direct,01-02-2016,tat_count,1
+Delhi,Associate,Direct,01-03-2016,tat_count,2
+Delhi,Associate,Career Page,01-01-2016,tat_count,1
+Delhi,Associate,Career Page,01-02-2016,tat_count,2
+Delhi,Relationship Manager,Vendor,01-01-2016,tat_count,1
+Delhi,Relationship Manager,Direct,01-02-2016,tat_count,4
+Delhi,Territory Manager,Direct,01-01-2016,tat_count,5
+Delhi,Territory Manager,Direct,01-02-2016,tat_count,19
+Delhi,Territory Manager,Direct,01-03-2016,tat_count,9
+Delhi,Territory Manager,Career Page,01-02-2016,tat_count,1
+Delhi,Sales Executive,Direct,01-01-2016,tat_count,1
+Delhi,Businees Development Executive,Direct,01-02-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-01-2016,tat_count,1
+Jharkhand,Businees Development Executive,Direct,01-02-2016,tat_count,1
+Jharkhand,Sales Executive,Direct,01-01-2016,tat_count,1
+Jharkhand,Associate,Direct,01-02-2016,tat_count,1
+Jharkhand,Associate,Direct,01-03-2016,tat_count,3
+Jharkhand,Relationship Manager,Direct,01-01-2016,tat_count,1
+Jharkhand,Territory Manager,Direct,01-01-2016,tat_count,22
+Jharkhand,Territory Manager,Direct,01-02-2016,tat_count,11
+Jharkhand,Territory Manager,Direct,01-03-2016,tat_count,9
+Jharkhand,Sales Executive,Direct,01-01-2016,tat_count,1
+Jharkhand,Administration Executive,Direct,01-01-2016,tat_count,1

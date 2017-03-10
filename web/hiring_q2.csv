@@ -1,403 +1,1609 @@
 metric_id_1,m1,metric_id_2,m2,metric_id_3,m3,metric_id_4,m4,metric_id_5,m5,metric_id_6,m6,metric_id_7,m7,type,value
-4,Assam,2,Corporate,1,Vendor,3,01-11-16,5,05-10 yrs,3,01-02 yrs,7,6,candidate_count,1
-4,Assam,4,CSO,2,Direct,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,4,CSO,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,4,CSO,2,Direct,2,01-10-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-4,Assam,4,CSO,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-4,Assam,4,CSO,2,Direct,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
-4,Assam,4,CSO,2,Direct,2,01-10-16,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
-4,Assam,4,CSO,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,15
-4,Assam,4,CSO,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
-4,Assam,4,CSO,2,Direct,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
-4,Assam,4,CSO,2,Direct,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
-4,Assam,4,CSO,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,4,CSO,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-4,Assam,4,CSO,2,Direct,3,01-11-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-4,Assam,4,CSO,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-4,Assam,4,CSO,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,4,CSO,2,Direct,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-4,Assam,4,CSO,2,Direct,4,01-12-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-4,Assam,4,CSO,2,Direct,4,01-12-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-4,Assam,4,CSO,2,Direct,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
-4,Assam,4,CSO,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-4,Assam,4,CSO,3,Career Page,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,4,CSO,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-4,Assam,4,CSO,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,6
-4,Assam,4,CSO,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,4,CSO,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,5,RM,1,Vendor,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,5,RM,1,Vendor,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,5,RM,1,Vendor,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-4,Assam,5,RM,1,Vendor,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
-4,Assam,5,RM,1,Vendor,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,5,RM,1,Vendor,4,01-12-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-4,Assam,5,RM,1,Vendor,4,01-12-16,6,10-50 yrs,5,05-10 yrs,4,3,candidate_count,1
-4,Assam,5,RM,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-4,Assam,5,RM,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-4,Assam,5,RM,2,Direct,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-4,Assam,5,RM,2,Direct,3,01-11-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-4,Assam,5,RM,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-4,Assam,5,RM,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-4,Assam,5,RM,2,Direct,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,5,RM,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,2
-4,Assam,5,RM,3,Career Page,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-4,Assam,5,RM,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,5,RM,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,3
-4,Assam,5,RM,3,Career Page,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,5,RM,3,Career Page,3,01-11-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-4,Assam,5,RM,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-4,Assam,5,RM,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,5,RM,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-4,Assam,5,RM,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-4,Assam,5,RM,4,Referral,4,01-12-16,4,02-05 yrs,2,00-01 yrs,6,5,candidate_count,1
-4,Assam,6,BD,1,Vendor,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,2
-4,Assam,6,BD,2,Direct,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,7
-4,Assam,6,BD,2,Direct,2,01-10-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-4,Assam,6,BD,2,Direct,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,6,BD,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-4,Assam,6,BD,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,10
-4,Assam,6,BD,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,6,BD,2,Direct,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-4,Assam,6,BD,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-4,Assam,6,BD,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,15
-4,Assam,6,BD,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,6,BD,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
-4,Assam,6,BD,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-4,Assam,6,BD,2,Direct,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,6,BD,2,Direct,4,01-12-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-4,Assam,6,BD,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,2
-4,Assam,6,BD,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,6,BD,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,3
-4,Assam,6,BD,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,4
-4,Assam,6,BD,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-4,Assam,9,Administration,2,Direct,2,01-10-16,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
-4,Assam,9,Administration,2,Direct,3,01-11-16,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
-4,Assam,9,Administration,2,Direct,3,01-11-16,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
-4,Assam,9,Administration,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-4,Assam,9,Administration,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-4,Assam,9,Administration,3,Career Page,4,01-12-16,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
-4,Assam,11,Support,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-4,Assam,12,Credit,2,Direct,4,01-12-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-4,Assam,14,Others,5,Job Portal,4,01-12-16,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
-4,Assam,16,Marketing,1,Vendor,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,2,Corporate,1,Vendor,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,2,Corporate,2,Direct,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,2,Corporate,2,Direct,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,2,Corporate,2,Direct,3,01-11-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-8,Delhi,2,Corporate,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,2,Corporate,3,Career Page,2,01-10-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,2,Corporate,3,Career Page,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,2,Corporate,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
-8,Delhi,2,Corporate,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,2,Corporate,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,4
-8,Delhi,3,IT,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,2,01-10-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,2,01-10-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,2,01-10-16,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,3,01-11-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,3,01-11-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,3,01-11-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,3,01-11-16,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,6
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,4
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
-8,Delhi,4,CSO,1,Vendor,4,01-12-16,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,2,Direct,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,4
-8,Delhi,4,CSO,2,Direct,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,2,Direct,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-8,Delhi,4,CSO,2,Direct,2,01-10-16,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
-8,Delhi,4,CSO,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,7
-8,Delhi,4,CSO,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,2,Direct,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,2,Direct,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-8,Delhi,4,CSO,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,40
-8,Delhi,4,CSO,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
-8,Delhi,4,CSO,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
-8,Delhi,4,CSO,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,6
-8,Delhi,4,CSO,3,Career Page,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
-8,Delhi,4,CSO,3,Career Page,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,4,CSO,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-8,Delhi,4,CSO,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
-8,Delhi,4,CSO,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,19
-8,Delhi,4,CSO,3,Career Page,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
-8,Delhi,4,CSO,3,Career Page,3,01-11-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
-8,Delhi,4,CSO,3,Career Page,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,7
-8,Delhi,4,CSO,3,Career Page,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,7
-8,Delhi,4,CSO,3,Career Page,3,01-11-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,32
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,12
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,3,Career Page,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,4,Referral,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,2
-8,Delhi,4,CSO,4,Referral,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,4,CSO,4,Referral,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,4,Referral,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,4,Referral,3,01-11-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,4,CSO,4,Referral,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,4,CSO,4,Referral,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,5,RM,1,Vendor,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,1,Vendor,2,01-10-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
-8,Delhi,5,RM,1,Vendor,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,8
-8,Delhi,5,RM,1,Vendor,2,01-10-16,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,2,01-10-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,3
-8,Delhi,5,RM,1,Vendor,2,01-10-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
-8,Delhi,5,RM,1,Vendor,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,9
-8,Delhi,5,RM,1,Vendor,2,01-10-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
-8,Delhi,5,RM,1,Vendor,2,01-10-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,3
-8,Delhi,5,RM,1,Vendor,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,1,Vendor,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,4
-8,Delhi,5,RM,1,Vendor,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,1,Vendor,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,6
-8,Delhi,5,RM,1,Vendor,3,01-11-16,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
-8,Delhi,5,RM,1,Vendor,3,01-11-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
-8,Delhi,5,RM,1,Vendor,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
-8,Delhi,5,RM,1,Vendor,3,01-11-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,3,01-11-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,4
-8,Delhi,5,RM,1,Vendor,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,2
-8,Delhi,5,RM,1,Vendor,3,01-11-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-8,Delhi,5,RM,1,Vendor,3,01-11-16,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
-8,Delhi,5,RM,1,Vendor,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,5,RM,1,Vendor,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,1,Vendor,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,1,Vendor,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
-8,Delhi,5,RM,1,Vendor,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
-8,Delhi,5,RM,1,Vendor,4,01-12-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,1,Vendor,4,01-12-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,1,Vendor,4,01-12-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
-8,Delhi,5,RM,1,Vendor,4,01-12-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,4
-8,Delhi,5,RM,1,Vendor,4,01-12-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
-8,Delhi,5,RM,1,Vendor,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,2,Direct,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,5,RM,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,2,Direct,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
-8,Delhi,5,RM,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-8,Delhi,5,RM,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,5,RM,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,2,Direct,4,01-12-16,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,2,Direct,4,01-12-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-8,Delhi,5,RM,2,Direct,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,2,Direct,4,01-12-16,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
-8,Delhi,5,RM,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,3
-8,Delhi,5,RM,3,Career Page,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,3,Career Page,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,3,Career Page,2,01-10-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,3,Career Page,2,01-10-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,3,Career Page,2,01-10-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,5,RM,3,Career Page,3,01-11-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
-8,Delhi,5,RM,3,Career Page,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,5,RM,3,Career Page,3,01-11-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,5,RM,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
-8,Delhi,5,RM,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,5,RM,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,5,RM,3,Career Page,4,01-12-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-8,Delhi,6,BD,1,Vendor,2,01-10-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
-8,Delhi,6,BD,1,Vendor,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,1,Vendor,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,6,BD,1,Vendor,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,1,Vendor,3,01-11-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,1,Vendor,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,5
-8,Delhi,6,BD,1,Vendor,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,1,Vendor,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,1,Vendor,4,01-12-16,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
-8,Delhi,6,BD,2,Direct,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,7
-8,Delhi,6,BD,2,Direct,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
-8,Delhi,6,BD,2,Direct,2,01-10-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
-8,Delhi,6,BD,2,Direct,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
-8,Delhi,6,BD,2,Direct,2,01-10-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,6,BD,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,6,BD,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,16
-8,Delhi,6,BD,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,7
-8,Delhi,6,BD,2,Direct,3,01-11-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-8,Delhi,6,BD,2,Direct,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-8,Delhi,6,BD,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,6,BD,2,Direct,3,01-11-16,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,2
-8,Delhi,6,BD,2,Direct,3,01-11-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,6,BD,2,Direct,3,01-11-16,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
-8,Delhi,6,BD,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,11
-8,Delhi,6,BD,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
-8,Delhi,6,BD,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,6,BD,2,Direct,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,3,Career Page,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,3,Career Page,2,01-10-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,6,BD,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,10
-8,Delhi,6,BD,3,Career Page,3,01-11-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-8,Delhi,6,BD,3,Career Page,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
-8,Delhi,6,BD,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,5
-8,Delhi,6,BD,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,6,BD,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,6,BD,5,Job Portal,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,9,Administration,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,10,Finance,1,Vendor,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,10,Finance,2,Direct,2,01-10-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-8,Delhi,10,Finance,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,10,Finance,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,10,Finance,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-8,Delhi,10,Finance,3,Career Page,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,10,Finance,5,Job Portal,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,11,Support,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-8,Delhi,11,Support,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,11,Support,2,Direct,4,01-12-16,3,01-02 yrs,2,00-01 yrs,4,3,candidate_count,1
-8,Delhi,11,Support,2,Direct,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,11,Support,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,12,Credit,1,Vendor,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,12,Credit,2,Direct,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,12,Credit,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,12,Credit,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,12,Credit,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,12,Credit,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,12,Credit,2,Direct,4,01-12-16,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
-8,Delhi,12,Credit,2,Direct,4,01-12-16,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
-8,Delhi,12,Credit,2,Direct,4,01-12-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-8,Delhi,12,Credit,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-8,Delhi,12,Credit,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,12,Credit,4,Referral,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-8,Delhi,14,Others,1,Vendor,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-8,Delhi,14,Others,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,14,Others,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-8,Delhi,14,Others,4,Referral,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-8,Delhi,16,Marketing,2,Direct,2,01-10-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,1,HR,2,Direct,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,2,Corporate,1,Vendor,2,01-10-16,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
-14,Jharkhand,2,Corporate,1,Vendor,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,2,Corporate,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,2,Corporate,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-14,Jharkhand,2,Corporate,2,Direct,3,01-11-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,2,Corporate,3,Career Page,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,2,Corporate,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,2,Corporate,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,2,Corporate,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,2,Corporate,3,Career Page,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,3,IT,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,3,IT,2,Direct,2,01-10-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,3,IT,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,3,IT,3,Career Page,4,01-12-16,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
-14,Jharkhand,4,CSO,1,Vendor,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,1,Vendor,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,1,Vendor,4,01-12-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
-14,Jharkhand,4,CSO,2,Direct,2,01-10-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,2,01-10-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,7
-14,Jharkhand,4,CSO,2,Direct,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,3,01-11-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,10
-14,Jharkhand,4,CSO,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,2,Direct,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,3
-14,Jharkhand,4,CSO,3,Career Page,2,01-10-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,10
-14,Jharkhand,4,CSO,3,Career Page,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,3,01-11-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
-14,Jharkhand,4,CSO,3,Career Page,3,01-11-16,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,13
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,3,Career Page,4,01-12-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,4,CSO,4,Referral,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,4,CSO,4,Referral,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,1,Vendor,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,1,Vendor,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,1,Vendor,3,01-11-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,5,RM,1,Vendor,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,5,RM,1,Vendor,4,01-12-16,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,2
-14,Jharkhand,5,RM,2,Direct,2,01-10-16,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,3,01-11-16,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,5,RM,2,Direct,4,01-12-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,5,RM,3,Career Page,2,01-10-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,2
-14,Jharkhand,5,RM,3,Career Page,3,01-11-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,5,RM,3,Career Page,3,01-11-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,5,RM,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,3
-14,Jharkhand,5,RM,3,Career Page,4,01-12-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,6,BD,1,Vendor,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,1,Vendor,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,25
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,4,02-05 yrs,3,01-02 yrs,5,4,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,2,01-10-16,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,10
-14,Jharkhand,6,BD,2,Direct,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,3,01-11-16,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,12
-14,Jharkhand,6,BD,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,2,Direct,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,3,Career Page,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,6,BD,3,Career Page,2,01-10-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,6,BD,3,Career Page,3,01-11-16,1,00 yrs,1,00 yrs,1,0,candidate_count,14
-14,Jharkhand,6,BD,3,Career Page,3,01-11-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
-14,Jharkhand,6,BD,3,Career Page,3,01-11-16,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
-14,Jharkhand,6,BD,3,Career Page,3,01-11-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
-14,Jharkhand,6,BD,3,Career Page,3,01-11-16,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
-14,Jharkhand,6,BD,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,13
-14,Jharkhand,6,BD,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
-14,Jharkhand,6,BD,3,Career Page,4,01-12-16,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
-14,Jharkhand,6,BD,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
-14,Jharkhand,6,BD,3,Career Page,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,9,Administration,2,Direct,3,01-11-16,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
-14,Jharkhand,9,Administration,2,Direct,3,01-11-16,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
-14,Jharkhand,9,Administration,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,9,Administration,3,Career Page,4,01-12-16,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
-14,Jharkhand,9,Administration,3,Career Page,4,01-12-16,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
-14,Jharkhand,9,Administration,3,Career Page,4,01-12-16,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
-14,Jharkhand,10,Finance,1,Vendor,4,01-12-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
-14,Jharkhand,10,Finance,2,Direct,4,01-12-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,12,Credit,2,Direct,2,01-10-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,12,Credit,2,Direct,4,01-12-16,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
-14,Jharkhand,12,Credit,3,Career Page,2,01-10-16,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
-14,Jharkhand,12,Credit,3,Career Page,4,01-12-16,1,00 yrs,1,00 yrs,1,0,candidate_count,1
-14,Jharkhand,14,Others,1,Vendor,3,01-11-16,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
-14,Jharkhand,14,Others,2,Direct,2,01-10-16,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
-14,Jharkhand,16,Marketing,1,Vendor,3,01-11-16,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,2,Businees Development Executive,1,Vendor,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-10-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,2,01-10-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,4,Associate,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+4,Assam,4,Associate,2,Direct,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,4,Associate,2,Direct,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+4,Assam,4,Associate,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+4,Assam,4,Associate,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,1,Vendor,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-12-2016,6,10-50 yrs,5,05-10 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,5,Relationship Manager,3,Career Page,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-11-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,4,Referral,4,01-12-2016,4,02-05 yrs,2,00-01 yrs,6,5,candidate_count,1
+4,Assam,6,Territory Manager,1,Vendor,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,2,Direct,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+4,Assam,6,Territory Manager,2,Direct,2,01-10-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+4,Assam,6,Territory Manager,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,6,Territory Manager,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,6,Territory Manager,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,6,Territory Manager,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+4,Assam,6,Territory Manager,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,2,01-10-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-11-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-11-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+4,Assam,11,Businees Development Executive,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,12,Sales Executive,2,Direct,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,14,Administration Executive,5,Job Portal,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,16,Administration Executive,1,Vendor,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,1,Vendor,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-10-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,4
+8,Delhi,3,Sales Executive,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-10-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-11-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,6
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-12-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,4,Associate,2,Direct,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,2,01-10-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,4,Associate,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,40
+8,Delhi,4,Associate,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+8,Delhi,4,Associate,3,Career Page,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,3,Career Page,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,19
+8,Delhi,4,Associate,3,Career Page,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,4,Associate,3,Career Page,3,01-11-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,32
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,12
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,8
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,9
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,6
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-11-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-12-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-11-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,6,Territory Manager,1,Vendor,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-11-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,1,Vendor,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,6,Territory Manager,2,Direct,2,01-10-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,16
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-11-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,11
+8,Delhi,6,Territory Manager,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-10-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+8,Delhi,6,Territory Manager,3,Career Page,3,01-11-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,5,Job Portal,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,9,Corporate Role,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,1,Vendor,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-10-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,5,Job Portal,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-12-2016,3,01-02 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,1,Vendor,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,4,Referral,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,14,Administration Executive,1,Vendor,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,14,Administration Executive,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,4,Referral,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,16,Administration Executive,2,Direct,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,1,Administration Executive,2,Direct,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,2,01-10-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-11-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-10-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-12-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,4,01-12-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+14,Jharkhand,4,Associate,2,Direct,2,01-10-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-10-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+14,Jharkhand,4,Associate,2,Direct,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-11-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,3,Career Page,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,4,Associate,3,Career Page,3,01-11-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-12-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-11-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-10-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,2,01-10-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-11-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-11-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,25
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,5,4,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-10-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-11-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,12
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-10-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-11-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,14
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-11-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-11-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-11-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-11-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-12-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-12-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+14,Jharkhand,10,Sales Executive,1,Vendor,4,01-12-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,10,Sales Executive,2,Direct,4,01-12-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,2,01-10-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,4,01-12-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,2,01-10-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,4,01-12-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,14,Administration Executive,1,Vendor,3,01-11-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+14,Jharkhand,14,Administration Executive,2,Direct,2,01-10-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,16,Administration Executive,1,Vendor,3,01-11-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,2,Businees Development Executive,1,Vendor,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-07-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,2,01-07-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,4,Associate,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+4,Assam,4,Associate,2,Direct,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,4,Associate,2,Direct,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+4,Assam,4,Associate,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+4,Assam,4,Associate,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,1,Vendor,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-09-2016,6,10-50 yrs,5,05-10 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,5,Relationship Manager,3,Career Page,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-08-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,4,Referral,4,01-09-2016,4,02-05 yrs,2,00-01 yrs,6,5,candidate_count,1
+4,Assam,6,Territory Manager,1,Vendor,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,2,Direct,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+4,Assam,6,Territory Manager,2,Direct,2,01-07-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+4,Assam,6,Territory Manager,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,6,Territory Manager,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,6,Territory Manager,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,6,Territory Manager,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+4,Assam,6,Territory Manager,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,2,01-07-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-08-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-08-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+4,Assam,11,Businees Development Executive,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,12,Sales Executive,2,Direct,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,14,Administration Executive,5,Job Portal,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,16,Administration Executive,1,Vendor,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,1,Vendor,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-07-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,4
+8,Delhi,3,Sales Executive,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-07-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-08-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,6
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-09-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,4,Associate,2,Direct,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,2,01-07-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,4,Associate,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,40
+8,Delhi,4,Associate,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+8,Delhi,4,Associate,3,Career Page,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,3,Career Page,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,19
+8,Delhi,4,Associate,3,Career Page,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,4,Associate,3,Career Page,3,01-08-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,32
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,12
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,8
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,9
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,6
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-08-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-09-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-08-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,6,Territory Manager,1,Vendor,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-08-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,1,Vendor,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,6,Territory Manager,2,Direct,2,01-07-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,16
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-08-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,11
+8,Delhi,6,Territory Manager,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-07-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+8,Delhi,6,Territory Manager,3,Career Page,3,01-08-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,5,Job Portal,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,9,Corporate Role,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,1,Vendor,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-07-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,5,Job Portal,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-09-2016,3,01-02 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,1,Vendor,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,4,Referral,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,14,Administration Executive,1,Vendor,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,14,Administration Executive,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,4,Referral,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,16,Administration Executive,2,Direct,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,1,Administration Executive,2,Direct,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,2,01-07-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-08-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-07-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-09-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,4,01-09-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+14,Jharkhand,4,Associate,2,Direct,2,01-07-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-07-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+14,Jharkhand,4,Associate,2,Direct,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-08-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,3,Career Page,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,4,Associate,3,Career Page,3,01-08-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-09-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-08-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-07-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,2,01-07-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-08-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-08-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,25
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,5,4,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-07-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-08-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,12
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-07-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-08-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,14
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-08-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-08-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-08-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-08-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-09-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-09-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+14,Jharkhand,10,Sales Executive,1,Vendor,4,01-09-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,10,Sales Executive,2,Direct,4,01-09-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,2,01-07-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,4,01-09-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,2,01-07-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,4,01-09-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,14,Administration Executive,1,Vendor,3,01-08-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+14,Jharkhand,14,Administration Executive,2,Direct,2,01-07-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,16,Administration Executive,1,Vendor,3,01-08-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,2,Businees Development Executive,1,Vendor,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-04-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,2,01-04-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,4,Associate,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+4,Assam,4,Associate,2,Direct,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,4,Associate,2,Direct,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+4,Assam,4,Associate,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+4,Assam,4,Associate,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,1,Vendor,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-06-2016,6,10-50 yrs,5,05-10 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,5,Relationship Manager,3,Career Page,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-05-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,4,Referral,4,01-06-2016,4,02-05 yrs,2,00-01 yrs,6,5,candidate_count,1
+4,Assam,6,Territory Manager,1,Vendor,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,2,Direct,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+4,Assam,6,Territory Manager,2,Direct,2,01-04-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+4,Assam,6,Territory Manager,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,6,Territory Manager,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,6,Territory Manager,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,6,Territory Manager,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+4,Assam,6,Territory Manager,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,2,01-04-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-05-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-05-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+4,Assam,11,Businees Development Executive,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,12,Sales Executive,2,Direct,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,14,Administration Executive,5,Job Portal,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,16,Administration Executive,1,Vendor,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,1,Vendor,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-04-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,4
+8,Delhi,3,Sales Executive,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-04-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-05-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,6
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-06-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,4,Associate,2,Direct,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,2,01-04-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,4,Associate,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,40
+8,Delhi,4,Associate,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+8,Delhi,4,Associate,3,Career Page,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,3,Career Page,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,19
+8,Delhi,4,Associate,3,Career Page,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,4,Associate,3,Career Page,3,01-05-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,32
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,12
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,8
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,9
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,6
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-05-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-06-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-05-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,6,Territory Manager,1,Vendor,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-05-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,1,Vendor,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,6,Territory Manager,2,Direct,2,01-04-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,16
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-05-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,11
+8,Delhi,6,Territory Manager,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-04-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+8,Delhi,6,Territory Manager,3,Career Page,3,01-05-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,5,Job Portal,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,9,Corporate Role,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,1,Vendor,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-04-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,5,Job Portal,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-06-2016,3,01-02 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,1,Vendor,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,4,Referral,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,14,Administration Executive,1,Vendor,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,14,Administration Executive,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,4,Referral,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,16,Administration Executive,2,Direct,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,1,Administration Executive,2,Direct,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,2,01-04-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-05-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-04-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-06-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,4,01-06-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+14,Jharkhand,4,Associate,2,Direct,2,01-04-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-04-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+14,Jharkhand,4,Associate,2,Direct,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-05-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,3,Career Page,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,4,Associate,3,Career Page,3,01-05-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-06-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-05-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-04-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,2,01-04-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-05-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-05-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,25
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,5,4,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-04-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-05-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,12
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-04-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-05-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,14
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-05-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-05-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-05-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-05-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-06-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-06-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+14,Jharkhand,10,Sales Executive,1,Vendor,4,01-06-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,10,Sales Executive,2,Direct,4,01-06-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,2,01-04-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,4,01-06-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,2,01-04-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,4,01-06-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,14,Administration Executive,1,Vendor,3,01-05-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+14,Jharkhand,14,Administration Executive,2,Direct,2,01-04-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,16,Administration Executive,1,Vendor,3,01-05-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,2,Businees Development Executive,1,Vendor,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-01-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,2,01-01-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,4,Associate,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+4,Assam,4,Associate,2,Direct,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,4,Associate,2,Direct,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+4,Assam,4,Associate,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,2,Direct,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,4,Associate,2,Direct,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,2
+4,Assam,4,Associate,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+4,Assam,4,Associate,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,4,Associate,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,1,Vendor,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,1,Vendor,4,01-03-2016,6,10-50 yrs,5,05-10 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,5,Relationship Manager,2,Direct,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,5,Relationship Manager,3,Career Page,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,3,01-02-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+4,Assam,5,Relationship Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+4,Assam,5,Relationship Manager,4,Referral,4,01-03-2016,4,02-05 yrs,2,00-01 yrs,6,5,candidate_count,1
+4,Assam,6,Territory Manager,1,Vendor,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,2,Direct,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+4,Assam,6,Territory Manager,2,Direct,2,01-01-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+4,Assam,6,Territory Manager,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,15
+4,Assam,6,Territory Manager,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+4,Assam,6,Territory Manager,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,2,Direct,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+4,Assam,6,Territory Manager,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,6,Territory Manager,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+4,Assam,6,Territory Manager,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+4,Assam,6,Territory Manager,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,2,01-01-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-02-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,1
+4,Assam,9,Corporate Role,2,Direct,3,01-02-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+4,Assam,9,Corporate Role,3,Career Page,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+4,Assam,11,Businees Development Executive,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,12,Sales Executive,2,Direct,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+4,Assam,14,Administration Executive,5,Job Portal,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+4,Assam,16,Administration Executive,1,Vendor,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,1,Vendor,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,2,Direct,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,2,01-01-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,2,Businees Development Executive,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,4
+8,Delhi,3,Sales Executive,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,2,01-01-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,3,01-02-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,6
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+8,Delhi,4,Associate,1,Vendor,4,01-03-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,4,Associate,2,Direct,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,2,01-01-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,4,Associate,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,40
+8,Delhi,4,Associate,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,6
+8,Delhi,4,Associate,3,Career Page,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,4
+8,Delhi,4,Associate,3,Career Page,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,19
+8,Delhi,4,Associate,3,Career Page,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,4,Associate,3,Career Page,3,01-02-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,7
+8,Delhi,4,Associate,3,Career Page,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,32
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,12
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,3,Career Page,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,4,Associate,4,Referral,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,4,Associate,4,Referral,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,4,Associate,4,Referral,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,8
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,9
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,6
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,3,01-02-2016,6,10-50 yrs,3,01-02 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,4
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,2
+8,Delhi,5,Relationship Manager,1,Vendor,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-03-2016,4,02-05 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,2,Direct,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-02-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,5,Relationship Manager,3,Career Page,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,4
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,5,Relationship Manager,3,Career Page,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+8,Delhi,6,Territory Manager,1,Vendor,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,3,01-02-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,1,Vendor,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,1,Vendor,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,5
+8,Delhi,6,Territory Manager,2,Direct,2,01-01-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,16
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,7
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,6,10-50 yrs,3,01-02 yrs,7,6,candidate_count,2
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,3,01-02-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,11
+8,Delhi,6,Territory Manager,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,2,Direct,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,2,01-01-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+8,Delhi,6,Territory Manager,3,Career Page,3,01-02-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+8,Delhi,6,Territory Manager,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,5
+8,Delhi,6,Territory Manager,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,6,Territory Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,6,Territory Manager,5,Job Portal,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,9,Corporate Role,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,1,Vendor,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-01-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,10,Sales Executive,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+8,Delhi,10,Sales Executive,3,Career Page,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,10,Sales Executive,5,Job Portal,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-03-2016,3,01-02 yrs,2,00-01 yrs,4,3,candidate_count,1
+8,Delhi,11,Businees Development Executive,2,Direct,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,11,Businees Development Executive,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,1,Vendor,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,5,4,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+8,Delhi,12,Sales Executive,2,Direct,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+8,Delhi,12,Sales Executive,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,12,Sales Executive,4,Referral,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+8,Delhi,14,Administration Executive,1,Vendor,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+8,Delhi,14,Administration Executive,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+8,Delhi,14,Administration Executive,4,Referral,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+8,Delhi,16,Administration Executive,2,Direct,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,1,Administration Executive,2,Direct,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,2,01-01-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,1,Vendor,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,2,Direct,3,01-02-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,2,Businees Development Executive,3,Career Page,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,2,Direct,2,01-01-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,3,Sales Executive,3,Career Page,4,01-03-2016,6,10-50 yrs,5,05-10 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,1,Vendor,4,01-03-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,2
+14,Jharkhand,4,Associate,2,Direct,2,01-01-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,2,01-01-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,7
+14,Jharkhand,4,Associate,2,Direct,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,3,01-02-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,2,Direct,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,4,Associate,3,Career Page,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,4,Associate,3,Career Page,3,01-02-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,3
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,3,Career Page,4,01-03-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,4,Associate,4,Referral,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,3,01-02-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,1,Vendor,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,5,05-10 yrs,3,01-02 yrs,4,3,candidate_count,2
+14,Jharkhand,5,Relationship Manager,2,Direct,2,01-01-2016,6,10-50 yrs,6,10-50 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,2,Direct,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,2,01-01-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,2
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-02-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,3,01-02-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,3
+14,Jharkhand,5,Relationship Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,1,Vendor,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,25
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,5,4,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,2,01-01-2016,6,10-50 yrs,4,02-05 yrs,6,5,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,10
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,3,01-02-2016,3,01-02 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,12
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,2,Direct,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,2,01-01-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-02-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,14
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-02-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,3
+14,Jharkhand,6,Territory Manager,3,Career Page,3,01-02-2016,4,02-05 yrs,4,02-05 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,13
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,3,2,candidate_count,1
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,2
+14,Jharkhand,6,Territory Manager,3,Career Page,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-02-2016,5,05-10 yrs,5,05-10 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,2,Direct,3,01-02-2016,6,10-50 yrs,4,02-05 yrs,4,3,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-03-2016,3,01-02 yrs,3,01-02 yrs,2,1,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,7,6,candidate_count,1
+14,Jharkhand,9,Corporate Role,3,Career Page,4,01-03-2016,6,10-50 yrs,4,02-05 yrs,8,7,candidate_count,1
+14,Jharkhand,10,Sales Executive,1,Vendor,4,01-03-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
+14,Jharkhand,10,Sales Executive,2,Direct,4,01-03-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,2,01-01-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,12,Sales Executive,2,Direct,4,01-03-2016,2,00-01 yrs,2,00-01 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,2,01-01-2016,4,02-05 yrs,4,02-05 yrs,2,1,candidate_count,1
+14,Jharkhand,12,Sales Executive,3,Career Page,4,01-03-2016,1,00 yrs,1,00 yrs,1,0,candidate_count,1
+14,Jharkhand,14,Administration Executive,1,Vendor,3,01-02-2016,5,05-10 yrs,3,01-02 yrs,6,5,candidate_count,1
+14,Jharkhand,14,Administration Executive,2,Direct,2,01-01-2016,4,02-05 yrs,3,01-02 yrs,3,2,candidate_count,1
+14,Jharkhand,16,Administration Executive,1,Vendor,3,01-02-2016,5,05-10 yrs,4,02-05 yrs,5,4,candidate_count,1
