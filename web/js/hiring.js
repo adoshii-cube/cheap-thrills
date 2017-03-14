@@ -22,7 +22,11 @@ $(document).ready(function () {
         //ONLY ADD ACTIVE TO THE PANEL'S CORRESPONDING QUESTION THAT WAS CLICKED
         var x = $('body').find(".mdl-tabs__tab.is-active").attr('href');
         $('body').find(x).addClass("is-active");
-        dc.renderAll();
+        dc.renderAll("q1");
+        dc.renderAll("q2");
+        dc.renderAll("q3");
+        dc.renderAll("q4");
+        dc.renderAll("q5");
 
     });
 

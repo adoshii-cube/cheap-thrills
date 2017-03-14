@@ -10,6 +10,7 @@ $(document).ready(function () {
     plotAttritionQ3();
     $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
+    plotAttritionQ4();
     $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     $(".mdl-tabs__tab").on("click", function () {
@@ -18,19 +19,26 @@ $(document).ready(function () {
         //ONLY ADD ACTIVE TO THE PANEL'S CORRESPONDING QUESTION THAT WAS CLICKED
         var x = $('body').find(".mdl-tabs__tab.is-active").attr('href');
         $('body').find(x).addClass("is-active");
-        dc.renderAll();
+        dc.renderAll("q1");
+        dc.renderAll("q2");
+        dc.renderAll("q3");
     });
 
     $(".mdl-chart__reset").on("click", function () {
         var buttonId = $(this).attr("id");
         dc.filterAll(buttonId);
         dc.redrawAll(buttonId);
-
     });
 });
 
 function isHigh(v) {
     return v.m5 === "High";
+}
+function isC1(v) {
+    return v.Category === "Metal";
+}
+function isC2(v) {
+    return v.Category === "Finance";
 }
 
 function plotAttritionQ1() {
@@ -284,7 +292,7 @@ function plotAttritionQ1() {
         chart4.render();
 
         chart5
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName5)
                 .group(metricNameGroup5)
                 .valueAccessor(function (p) {
@@ -332,7 +340,7 @@ function plotAttritionQ1() {
         chart5.render();
 
         chart6
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName6)
                 .group(metricNameGroup6)
                 .valueAccessor(function (p) {
@@ -380,7 +388,7 @@ function plotAttritionQ1() {
         chart6.render();
 
         chart7
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName7)
                 .group(metricNameGroup7)
                 .valueAccessor(function (p) {
@@ -664,7 +672,7 @@ function plotAttritionQ2() {
         chart4.render();
 
         chart5
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName5)
                 .group(metricNameGroup5)
                 .elasticY(true)
@@ -672,6 +680,34 @@ function plotAttritionQ2() {
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
                 .centerBar(false);
+        chart5.on("renderlet", function (chart) {
+            var gLabels = chart.select(".labels");
+            if (gLabels.empty()) {
+                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
+            }
+
+            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
+            gLabelsData.exit().remove(); //Remove unused elements
+
+            gLabelsData.enter().append("text"); //Add new elements
+
+            gLabelsData
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', 'white')
+                    .text(function (d) {
+                        return d3.select(d).data()[0].data.value;
+                    })
+                    .attr('x', function (d) {
+                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
+                    })
+                    .attr('y', function (d) {
+                        return +d.getAttribute('y') + 15;
+                    })
+                    .attr('style', function (d) {
+                        if (+d.getAttribute('height') < 18)
+                            return "display:none";
+                    });
+        });
         chart5.render();
 
         chart6
@@ -688,7 +724,7 @@ function plotAttritionQ2() {
         chart6.render();
 
         chart7
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName7)
                 .group(metricNameGroup7)
                 .elasticY(true)
@@ -696,9 +732,37 @@ function plotAttritionQ2() {
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
                 .centerBar(false);
+        chart7.on("renderlet", function (chart) {
+            var gLabels = chart.select(".labels");
+            if (gLabels.empty()) {
+                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
+            }
+
+            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
+            gLabelsData.exit().remove(); //Remove unused elements
+
+            gLabelsData.enter().append("text"); //Add new elements
+
+            gLabelsData
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', 'white')
+                    .text(function (d) {
+                        return d3.select(d).data()[0].data.value;
+                    })
+                    .attr('x', function (d) {
+                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
+                    })
+                    .attr('y', function (d) {
+                        return +d.getAttribute('y') + 15;
+                    })
+                    .attr('style', function (d) {
+                        if (+d.getAttribute('height') < 18)
+                            return "display:none";
+                    });
+        });
         chart7.render();
         chart8
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName8)
                 .group(metricNameGroup8)
                 .elasticY(true)
@@ -745,7 +809,7 @@ function plotAttritionQ2() {
         });
         chart8.render();
 //        chart8
-//                .margins({top: 0, bottom: 30, left: 50, right: 20})
+//                .margins({top: 10, bottom: 30, left: 50, right: 20})
 //                .dimension(metricName8)
 //                .group(metricNameGroup8)
 //                .elasticY(true)
@@ -1035,12 +1099,10 @@ function plotAttritionQ3() {
         chart4.render();
 
         chart5
-                .width(450)
-                .height(200)
                 .x(d3.scale.ordinal().domain(cf))
                 .xUnits(dc.units.ordinal)
                 .brushOn(false)
-                .yAxisLabel("Count")
+                .colors(['#303f9f'])
                 .dimension(metricName5)
                 .group(metricNameGroup5)
                 .on('renderlet', function (chart) {
@@ -1048,6 +1110,34 @@ function plotAttritionQ3() {
                         console.log("click!", d);
                     });
                 });
+        chart5.on("renderlet", function (chart) {
+            var gLabels = chart.select(".labels");
+            if (gLabels.empty()) {
+                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
+            }
+
+            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
+            gLabelsData.exit().remove(); //Remove unused elements
+
+            gLabelsData.enter().append("text"); //Add new elements
+
+            gLabelsData
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', 'white')
+                    .text(function (d) {
+                        return d3.select(d).data()[0].data.value;
+                    })
+                    .attr('x', function (d) {
+                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
+                    })
+                    .attr('y', function (d) {
+                        return +d.getAttribute('y') + 15;
+                    })
+                    .attr('style', function (d) {
+                        if (+d.getAttribute('height') < 18)
+                            return "display:none";
+                    });
+        });
         chart5.render();
 
         chart6
@@ -1140,5 +1230,75 @@ function plotAttritionQ3() {
         });
 
         chart7.render();
+    });
+}
+
+function plotAttritionQ4() {
+    var chart2 = dc.compositeChart("#attrition_q4_chart2", "q4");
+
+    d3.csv("attrition_q4.csv", function (error, data) {
+        var cf = crossfilter(data);
+
+        var time = cf.dimension(function (d) {
+            return +d["Time"];
+        });
+
+        var c1 = time.group().reduce(
+                function (p, v) {
+                    if (isC1(v)) {
+                        p += +v.Value;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isC1(v)) {
+                        p -= +v.Value;
+                    }
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+        var c2 = time.group().reduce(
+                function (p, v) {
+                    if (isC2(v)) {
+                        p += +v.Value;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isC2(v)) {
+                        p -= +v.Value;
+                    }
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+
+        chart2
+                .width(768)
+                .height(480)
+                .x(d3.scale.linear().domain([0, 50]))
+                .yAxisLabel("Probability of Survival")
+                .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
+                .renderHorizontalGridLines(true)
+                .compose([
+                    dc.lineChart(chart2)
+                            .dimension(time)
+                            .colors('red')
+                            .group(c1, "Top Line")
+                            .dashStyle([2, 2]),
+                    dc.lineChart(chart2)
+                            .dimension(time)
+                            .colors('blue')
+                            .group(c2, "Bottom Line")
+                            .dashStyle([5, 5])
+                ])
+                .brushOn(false)
+                .render();
+
     });
 }
