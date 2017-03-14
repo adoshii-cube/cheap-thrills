@@ -1607,7 +1607,7 @@ function plotHiringQ5Charts() {
                 }
             });
             $("#hiring_q5_chart5 .dc-table-row").on("click", function () {
-                PopupCenter('/owen-prototype-jsp/popup.html', 'example', '900', '280');
+                PopupCenter('popup.html', 'example', '900', '280');
             });
         });
 
