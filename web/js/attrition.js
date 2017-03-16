@@ -802,12 +802,12 @@ function plotAttritionQ2() {
                         if (+d.getAttribute('height') < 18)
                             return "display:none";
                     });
-            
+
             chart.selectAll('rect').on("click", function (d) {
                 console.log("click!", d);
             });
             // Calculate average value of the bars
-            var average = total/count;
+            var average = total / count;
             // Pass the Y coordinate as the average, so flat average line
             var left_y = average, right_y = average; // use real statistics here!
             var extra_data = [
@@ -1187,41 +1187,62 @@ function plotAttritionQ3() {
 }
 
 function plotAttritionQ4() {
-    var chart1 = dc.selectMenu("#attrition_q4_chart1", "q4");
+//    var chart1 = dc.selectMenu("#attrition_q4_chart1", "q4");
     var chart2 = dc.seriesChart("#attrition_q4_chart2", "q4");
 
     d3.csv("survival.csv", function (error, data) {
         var cf = crossfilter(data);
 
-        var metricName1 = cf.dimension(function (d) {
-            return d["DropDown"];
-        });
-        var metricNameGroup1 = metricName1.group().reduce(
-                function (p, v) {
-                    p += +v.Value;
-                    return p;
-                },
-                function (p, v) {
-                    p -= +v.Value;
-                    return p;
-                },
-                function () {
-                    return 0;
-                }
-        );
+//        var metricName1 = cf.dimension(function (d) {
+//            return d["DropDown"];
+//        });
+//        var metricNameGroup1 = metricName1.group().reduce(
+//                function (p, v) {
+//                    p += +v.Value;
+//                    return p;
+//                },
+//                function (p, v) {
+//                    p -= +v.Value;
+//                    return p;
+//                },
+//                function () {
+//                    return 0;
+//                }
+//        );
         var metricName2 = cf.dimension(function (d) {
-            return [+d.Time, d.Category];
+            return [+d.Time, d.DropDown, d.Category];
         });
         var metricNameGroup2 = metricName2.group().reduceSum(function (d) {
             return +d.Value;
         });
 
-        chart1
-                .dimension(metricName1)
-                .group(metricNameGroup1)
-                .controlsUseVisibility(true);
-        chart1.render();
+//        chart1
+//                .dimension(metricName1)
+//                .group(metricNameGroup1)
+//                .controlsUseVisibility(true);
+//        chart1.render();
+        function BusinessUnit(kv) {
+            if (kv.key[1] === "BusinessUnit") {
+                return kv.value;
+            }
+        }
+        function Gender(kv) {
+            if (kv.key[1] === "Gender") {
+                return kv.value;
+            }
+        }
 
+        var accessors = {
+            BusinessUnit: BusinessUnit,
+            Gender: Gender
+        };
+        var radioButton = "BusinessUnit";
+        d3.selectAll('#attrition_q4_chart1 input')
+                .on('click', function () {
+                    radioButton = this.value;
+                    chart2.valueAccessor(accessors[this.value]);
+                    dc.redrawAll("q4");
+                });
         chart2
 //                .width(768)
                 .height(480)
@@ -1232,22 +1253,26 @@ function plotAttritionQ4() {
                 })
 //                .yAxisLabel("Probability of Survival")
                 .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
+                .valueAccessor(BusinessUnit)
                 .dimension(metricName2)
                 .group(metricNameGroup2)
+                .elasticY(true)
+                .controlsUseVisibility(true)
                 .data(function (group) {
                     return group.all().filter(function (kv) {
-                        return kv.value > 0;
+                        if (kv.key[1] === radioButton)
+                            return kv.value > 0;
                     });
                 })
                 .seriesAccessor(function (d) {
-                    return "Curve for: " + d.key[1];
+                    return "Curve for: " + d.key[2];
                 })
                 .keyAccessor(function (d) {
                     return d.key[0];
                 })
-                .valueAccessor(function (d) {
-                    return +d.value;
-                })
+//                .valueAccessor(function (d) {
+//                    return +d.value;
+//                })
                 .legend(dc.legend().x(700).y(20).itemHeight(13).gap(5).horizontal(1).legendWidth(250).itemWidth(120))
                 .brushOn(false);
         chart2.render();
