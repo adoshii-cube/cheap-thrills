@@ -22,6 +22,7 @@ $(document).ready(function () {
         dc.renderAll("q1");
         dc.renderAll("q2");
         dc.renderAll("q3");
+        dc.renderAll("q4");
     });
 
     $(".mdl-chart__reset").on("click", function () {
@@ -771,15 +772,52 @@ function plotAttritionQ2() {
                 .ordinalColors(['#7986CB'])
                 .centerBar(false);
         chart8.on("renderlet", function (chart) {
+
+
+            var gLabels = chart.select(".labels");
+            if (gLabels.empty()) {
+                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
+            }
+
+            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
+            gLabelsData.exit().remove(); //Remove unused elements
+
+            gLabelsData.enter().append("text"); //Add new elements
+            var total = 0, count = 0;
+            gLabelsData
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', 'white')
+                    .text(function (d) {
+                        count++;
+                        total += d3.select(d).data()[0].data.value;
+                        return d3.select(d).data()[0].data.value;
+                    })
+                    .attr('x', function (d) {
+                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
+                    })
+                    .attr('y', function (d) {
+                        return +d.getAttribute('y') + 15;
+                    })
+                    .attr('style', function (d) {
+                        if (+d.getAttribute('height') < 18)
+                            return "display:none";
+                    });
+            
             chart.selectAll('rect').on("click", function (d) {
                 console.log("click!", d);
             });
-//            var left_y = 0, right_y = 0;
-//            function (d) {
-//                left_y = d.n ? d.tot / d.n : 0, right_y = d.n ? d.tot / d.n : 0;
-//            };
-            var left_y = 100, right_y = 100; // use real statistics here!
-            var extra_data = [{x: chart.x().range()[0], y: chart.y()(left_y)}, {x: chart.x().range()[1], y: chart.y()(right_y)}];
+            // Calculate average value of the bars
+            var average = total/count;
+            // Pass the Y coordinate as the average, so flat average line
+            var left_y = average, right_y = average; // use real statistics here!
+            var extra_data = [
+//              First x coordinate is the x value of the first bar (zero)
+                {x: chart.x().range()[0], y: chart.y()(left_y)},
+//              Last x coordinate is the x value of the last bar ending, which means
+//              count - 1, as index begins at 0, so starting point of last bar
+//              plus (+) value at index 1, which is the width between any two bars
+                {x: chart.x().range()[count - 1] + chart.x().range()[1], y: chart.y()(right_y)}
+            ];
             var line = d3.svg.line()
                     .x(function (d) {
                         return d.x;
@@ -808,91 +846,6 @@ function plotAttritionQ2() {
                     .text('avg');
         });
         chart8.render();
-//        chart8
-//                .margins({top: 10, bottom: 30, left: 50, right: 20})
-//                .dimension(metricName8)
-//                .group(metricNameGroup8)
-//                .elasticY(true)
-//                .x(d3.scale.ordinal().domain(metricName8)) // Need the empty val to offset the first value
-//                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
-//                .ordinalColors(['#7986CB'])
-//                .centerBar(false);
-//        chart8.on("renderlet", function (chart) {
-//            chart.selectAll('rect').on("click", function (d) {
-//                console.log("click!", d);
-//            });
-////            var left_y = 0, right_y = 0;
-////            function (d) {
-////                left_y = d.n ? d.tot / d.n : 0, right_y = d.n ? d.tot / d.n : 0;
-////            };
-//            var left_y = 100, right_y = 100; // use real statistics here!
-//            var extra_data = [{x: chart.x().range()[0], y: chart.y()(left_y)}, {x: chart.x().range()[1], y: chart.y()(right_y)}];
-//            var line = d3.svg.line()
-//                    .x(function (d) {
-//                        return d.x;
-//                    })
-//                    .y(function (d) {
-//                        return d.y;
-//                    })
-//                    .interpolate('linear');
-//            var chartBody = chart.select('g.chart-body');
-//            var path = chartBody.selectAll('path.extra').data([extra_data]);
-//            path.enter().append('path').attr({
-//                class: 'extra',
-//                stroke: 'red',
-//                id: 'extra-line'
-//            });
-//            path.attr('d', line);
-//            // and perhaps you'd like to label it?
-//            var text = chartBody.selectAll('text.extra-label').data([0]);
-//            text.enter().append('text')
-//                    .attr('text-anchor', 'middle')
-//                    .append('textPath').attr({
-//                class: 'extra-label',
-//                'xlink:href': '#extra-line',
-//                startOffset: '50%'
-//            })
-//                    .text('avg');
-//        });
-//        chart8.render();
-
-
-//        var q = queue()
-//                        .defer(d3.csv, "attrition_q2.csv")
-//                        .defer(d3.csv, "attrition_q2.csv");
-//                q.await(function (error, exp1, exp2) {
-//                    var ndx = crossfilter();
-//                    ndx.add(exp1.map(function (d) {
-//                        return {x: +d.m8, y2: 0, y1: d.m8 * d.Run / 1000};
-//                    }));
-//                    ndx.add(exp2.map(function (d) {
-//                        return {x: +d.m8, y1: 0, y2: d.m8 * d.m8 / 1000};
-//                    }));
-//                    var dim = ndx.dimension(dc.pluck('x')),
-//                            grp1 = dim.group().reduceSum(dc.pluck('y1')),
-//                            grp2 = dim.group().reduceSum(dc.pluck('y2'));
-//                    chart8
-//                            .width(768)
-//                            .height(480)
-//                            .x(d3.scale.linear().domain([0, 20]))
-//                            .yAxisLabel("The Y Axis")
-//                            .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
-//                            .renderHorizontalGridLines(true)
-//                            .compose([
-//                                dc.barChart(chart8)
-//                                        .dimension(dim)
-//                                        .colors('red')
-//                                        .group(grp1, "Top Line")
-//                                        .dashStyle([2, 2]),
-//                                dc.lineChart(chart8)
-//                                        .dimension(dim)
-//                                        .colors('blue')
-//                                        .group(grp2, "Bottom Line")
-//                                        .dashStyle([5, 5])
-//                            ])
-//                            .brushOn(false)
-//                            .render();
-//                });
 
     });
 }
@@ -1234,71 +1187,69 @@ function plotAttritionQ3() {
 }
 
 function plotAttritionQ4() {
-    var chart2 = dc.compositeChart("#attrition_q4_chart2", "q4");
+    var chart1 = dc.selectMenu("#attrition_q4_chart1", "q4");
+    var chart2 = dc.seriesChart("#attrition_q4_chart2", "q4");
 
-    d3.csv("attrition_q4.csv", function (error, data) {
+    d3.csv("survival.csv", function (error, data) {
         var cf = crossfilter(data);
 
-        var time = cf.dimension(function (d) {
-            return +d["Time"];
+        var metricName1 = cf.dimension(function (d) {
+            return d["DropDown"];
+        });
+        var metricNameGroup1 = metricName1.group().reduce(
+                function (p, v) {
+                    p += +v.Value;
+                    return p;
+                },
+                function (p, v) {
+                    p -= +v.Value;
+                    return p;
+                },
+                function () {
+                    return 0;
+                }
+        );
+        var metricName2 = cf.dimension(function (d) {
+            return [+d.Time, d.Category];
+        });
+        var metricNameGroup2 = metricName2.group().reduceSum(function (d) {
+            return +d.Value;
         });
 
-        var c1 = time.group().reduce(
-                function (p, v) {
-                    if (isC1(v)) {
-                        p += +v.Value;
-                    }
-                    return p;
-                },
-                function (p, v) {
-                    if (isC1(v)) {
-                        p -= +v.Value;
-                    }
-                    return p;
-                },
-                function () {
-                    return 0;
-                }
-        );
-        var c2 = time.group().reduce(
-                function (p, v) {
-                    if (isC2(v)) {
-                        p += +v.Value;
-                    }
-                    return p;
-                },
-                function (p, v) {
-                    if (isC2(v)) {
-                        p -= +v.Value;
-                    }
-                    return p;
-                },
-                function () {
-                    return 0;
-                }
-        );
+        chart1
+                .dimension(metricName1)
+                .group(metricNameGroup1)
+                .controlsUseVisibility(true);
+        chart1.render();
 
         chart2
-                .width(768)
+//                .width(768)
                 .height(480)
+                .margins({top: 30, bottom: 30, left: 50, right: 20})
                 .x(d3.scale.linear().domain([0, 50]))
-                .yAxisLabel("Probability of Survival")
+                .chart(function (c) {
+                    return dc.lineChart(c).interpolate('basis');
+                })
+//                .yAxisLabel("Probability of Survival")
                 .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
-                .renderHorizontalGridLines(true)
-                .compose([
-                    dc.lineChart(chart2)
-                            .dimension(time)
-                            .colors('red')
-                            .group(c1, "Top Line")
-                            .dashStyle([2, 2]),
-                    dc.lineChart(chart2)
-                            .dimension(time)
-                            .colors('blue')
-                            .group(c2, "Bottom Line")
-                            .dashStyle([5, 5])
-                ])
-                .brushOn(false)
-                .render();
-
+                .dimension(metricName2)
+                .group(metricNameGroup2)
+                .data(function (group) {
+                    return group.all().filter(function (kv) {
+                        return kv.value > 0;
+                    });
+                })
+                .seriesAccessor(function (d) {
+                    return "Curve for: " + d.key[1];
+                })
+                .keyAccessor(function (d) {
+                    return d.key[0];
+                })
+                .valueAccessor(function (d) {
+                    return +d.value;
+                })
+                .legend(dc.legend().x(700).y(20).itemHeight(13).gap(5).horizontal(1).legendWidth(250).itemWidth(120))
+                .brushOn(false);
+        chart2.render();
     });
 }
