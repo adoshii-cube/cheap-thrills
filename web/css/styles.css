@@ -825,7 +825,7 @@ div .mdl-textfield__label:after {
 
 #attrition_q4_chart1 label{
     width: 9em;
-    float: right;
+    /*float: right;*/
 }
 
 .mdl-chart__cost{
