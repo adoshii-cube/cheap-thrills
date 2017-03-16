@@ -4,3 +4,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+build.xml
+build-impl.xml
+*.properties
+project.xml
