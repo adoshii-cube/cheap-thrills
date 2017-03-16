@@ -1265,7 +1265,7 @@ function plotAttritionQ4() {
                     });
                 })
                 .seriesAccessor(function (d) {
-                    return "Curve for: " + d.key[2];
+                    return d.key[2];
                 })
                 .keyAccessor(function (d) {
                     return d.key[0];

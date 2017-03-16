@@ -127,13 +127,19 @@ textarea{
     border-bottom: 4px solid transparent;
 }
 
-.android-navigation .mdl-navigation__link:hover {
-    border-bottom: 4px solid #303f9f;
+.android-navigation .selected{
+    border-bottom: 4px solid #fff !important;
+    opacity: 1;
 }
 
-.android-navigation .mdl-navigation__link:focus {
-    border-bottom: 4px solid #303f9f;
+.android-navigation .mdl-navigation__link:hover {
+    border-bottom: 4px solid #fff;
     outline: none;
+}
+
+.mdl-layout__drawer > .mdl-navigation > .selected{
+    background-color: #303f9f;
+    color: white;
 }
 
 .android-search-box {
