@@ -1149,9 +1149,8 @@ function plotAttritionQ3() {
 function plotAttritionQ4() {
     var chart2 = dc.seriesChart("#attrition_q4_chart2", "q4");
 
-    d3.csv("survival.csv", function (error, data) {
+    d3.csv("attrition_q4.csv", function (error, data) {
         var cf = crossfilter(data);
-
 
         var metricName2 = cf.dimension(function (d) {
             return [+d.Time, d.DropDown, d.Category];
