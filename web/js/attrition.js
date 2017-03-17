@@ -35,12 +35,6 @@ $(document).ready(function () {
 function isHigh(v) {
     return v.m5 === "High";
 }
-function isC1(v) {
-    return v.Category === "Metal";
-}
-function isC2(v) {
-    return v.Category === "Finance";
-}
 
 function plotAttritionQ1() {
     var chart1 = dc.selectMenu("#attrition_q1_chart1", "q1");
@@ -258,9 +252,6 @@ function plotAttritionQ1() {
                                 )
                         )
                 .xUnits(d3.time.months);
-//                .xAxis()
-//                .ticks(d3.time.month, 1)
-//                .tickFormat(d3.time.format("%b '%y"));
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -299,15 +290,10 @@ function plotAttritionQ1() {
                 .valueAccessor(function (p) {
                     return p.value.avg;
                 })
-//            .yAxisLabel("Count")
                 .elasticY(true)
-//            .showYAxis(false)
                 .x(d3.scale.ordinal().domain(metricName5)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-//            .label(function (d) {
-//                return d.key + " = " + d.value;
-//            })
                 .centerBar(false);
 
         chart5.on("renderlet", function (chart) {
@@ -347,15 +333,10 @@ function plotAttritionQ1() {
                 .valueAccessor(function (p) {
                     return p.value.avg;
                 })
-//            .yAxisLabel("Count")
                 .elasticY(true)
-//            .showYAxis(false)
                 .x(d3.scale.ordinal().domain(metricName6)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-//            .label(function (d) {
-//                return d.key + " = " + d.value;
-//            })
                 .centerBar(false);
 
         chart6.on("renderlet", function (chart) {
@@ -395,15 +376,10 @@ function plotAttritionQ1() {
                 .valueAccessor(function (p) {
                     return p.value.avg;
                 })
-//            .yAxisLabel("Count")
                 .elasticY(true)
-//            .showYAxis(false)
                 .x(d3.scale.ordinal().domain(metricName7)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-//            .label(function (d) {
-//                return d.key + " = " + d.value;
-//            })
                 .centerBar(false);
 
         chart7.on("renderlet", function (chart) {
@@ -458,13 +434,11 @@ function plotAttritionQ2() {
     var chart6 = dc.pieChart("#attrition_q2_chart6", "q2");
     var chart7 = dc.barChart("#attrition_q2_chart7", "q2");
     var chart8 = dc.barChart("#attrition_q2_chart8", "q2");
-//    var chart8 = dc.numberDisplay("#attrition_q2_chart8", "q2");
     d3.csv("attrition_q2.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
             d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
-//            d.m7 = +d.m7;
         });
 
         var metricName1 = cf.dimension(function (d) {
@@ -584,19 +558,13 @@ function plotAttritionQ2() {
         });
         var metricNameGroup8 = metricName8.group().reduce(
                 function (p, v) {
-//                    ++p.n;
-//                    p.tot += +v.value;
                     p += +v.Left;
                     return p;
                 },
                 function (p, v) {
-//                    --p.n;
-//                    p.tot -= +v.value;
-                    p -= +v.Left;
                     return p;
                 },
                 function () {
-//                    return {n: 0, tot: 0};
                     return 0;
                 }
         );
@@ -638,10 +606,6 @@ function plotAttritionQ2() {
                                 )
                         )
                 .xUnits(d3.time.months);
-//                .xAxis()
-//                .ticks(d3.time.month, 1)
-//                .tickFormat(d3.time.format("%b '%y"));
-
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
             if (gLabels.empty()) {
@@ -843,7 +807,7 @@ function plotAttritionQ2() {
                 'xlink:href': '#extra-line',
                 startOffset: '50%'
             })
-                    .text('avg');
+                    .text('Average');
         });
         chart8.render();
 
@@ -1017,9 +981,7 @@ function plotAttritionQ3() {
                                 )
                         )
                 .xUnits(d3.time.months);
-//                .xAxis()
-//                .ticks(d3.time.month, 1)
-//                .tickFormat(d3.time.format("%b '%y"));
+
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -1177,9 +1139,7 @@ function plotAttritionQ3() {
                     $(Element).css("text-align", "left");
                 }
             });
-//            $("#hiring_q5_chart5 .dc-table-row").on("click", function () {
-//                PopupCenter('/owen-prototype-jsp/popup.html', 'example', '900', '280');
-//            });
+
         });
 
         chart7.render();
@@ -1187,28 +1147,12 @@ function plotAttritionQ3() {
 }
 
 function plotAttritionQ4() {
-//    var chart1 = dc.selectMenu("#attrition_q4_chart1", "q4");
     var chart2 = dc.seriesChart("#attrition_q4_chart2", "q4");
 
     d3.csv("survival.csv", function (error, data) {
         var cf = crossfilter(data);
 
-//        var metricName1 = cf.dimension(function (d) {
-//            return d["DropDown"];
-//        });
-//        var metricNameGroup1 = metricName1.group().reduce(
-//                function (p, v) {
-//                    p += +v.Value;
-//                    return p;
-//                },
-//                function (p, v) {
-//                    p -= +v.Value;
-//                    return p;
-//                },
-//                function () {
-//                    return 0;
-//                }
-//        );
+
         var metricName2 = cf.dimension(function (d) {
             return [+d.Time, d.DropDown, d.Category];
         });
@@ -1216,11 +1160,6 @@ function plotAttritionQ4() {
             return +d.Value;
         });
 
-//        chart1
-//                .dimension(metricName1)
-//                .group(metricNameGroup1)
-//                .controlsUseVisibility(true);
-//        chart1.render();
         function BusinessUnit(kv) {
             if (kv.key[1] === "BusinessUnit") {
                 return kv.value;
@@ -1244,14 +1183,12 @@ function plotAttritionQ4() {
                     dc.redrawAll("q4");
                 });
         chart2
-//                .width(768)
                 .height(480)
                 .margins({top: 30, bottom: 30, left: 50, right: 20})
                 .x(d3.scale.linear().domain([0, 50]))
                 .chart(function (c) {
                     return dc.lineChart(c).interpolate('basis');
                 })
-//                .yAxisLabel("Probability of Survival")
                 .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
                 .valueAccessor(BusinessUnit)
                 .dimension(metricName2)
@@ -1270,9 +1207,6 @@ function plotAttritionQ4() {
                 .keyAccessor(function (d) {
                     return d.key[0];
                 })
-//                .valueAccessor(function (d) {
-//                    return +d.value;
-//                })
                 .legend(
                         dc.legend()
                         .x($('#attrition_q4_chart2').width() + 18)
@@ -1286,15 +1220,9 @@ function plotAttritionQ4() {
                 .brushOn(false);
         chart2.margins().top += 30;
 
-//        var adjustX = 100, adjustY = 40;
         window.onresize = function () {
-            chart2.legend().x($('#attrition_q4_chart2').width() + 18);
-//            chart2.margins().left += 40;
-//            chart2
-//                    .width($('#attrition_q4_chart2').width())
-//                    .height($('#attrition_q4_chart2').height())
-//                    .rescale()
-//                    .redraw();
+            chart2.legend().x(18);
+
         };
         chart2.render();
     });
