@@ -1273,8 +1273,29 @@ function plotAttritionQ4() {
 //                .valueAccessor(function (d) {
 //                    return +d.value;
 //                })
-                .legend(dc.legend().x(700).y(20).itemHeight(13).gap(5).horizontal(1).legendWidth(250).itemWidth(120))
+                .legend(
+                        dc.legend()
+                        .x($('#attrition_q4_chart2').width() + 18)
+                        .y(0)
+                        .itemHeight(13)
+                        .gap(5)
+                        .horizontal(true)
+                        .legendWidth(250)
+                        .autoItemWidth(false)
+                        )
                 .brushOn(false);
+        chart2.margins().top += 30;
+
+//        var adjustX = 100, adjustY = 40;
+        window.onresize = function () {
+            chart2.legend().x($('#attrition_q4_chart2').width() + 18);
+//            chart2.margins().left += 40;
+//            chart2
+//                    .width($('#attrition_q4_chart2').width())
+//                    .height($('#attrition_q4_chart2').height())
+//                    .rescale()
+//                    .redraw();
+        };
         chart2.render();
     });
 }
