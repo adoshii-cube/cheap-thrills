@@ -1,19 +1,19 @@
 $(document).ready(function () {
 
-    plotHiringQ1Charts();
+    plotEngagementQ1Charts();
 //    $('body').find('a[href$="tab1-panel"]').removeClass('vertical-mdl-tabs-disabled');
 //    $('body').find('a[href$="tab1-panel"]').addClass('is-active');
 
-    plotHiringQ2Charts();
+    plotEngagementQ2Charts();
 //    $('body').find('a[href$="tab2-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-    plotHiringQ3Charts();
+    plotEngagementQ3Charts();
 //    $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-    plotHiringQ4Charts();
+    plotEngagementQ4Charts();
 //    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-    plotHiringQ5Charts();
+    plotEngagementQ5Charts();
 //    $('body').find('a[href$="tab5-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     $(".mdl-tabs__tab").on("click", function () {
@@ -37,25 +37,6 @@ $(document).ready(function () {
     });
 });
 
-function isCandidateCount(v) {
-    return v.type === "candidate_count";
-}
-function isTATCount(v) {
-    return v.type === "tat_count";
-}
-function isTATSum(v) {
-    return v.type === "tat_sum";
-}
-function isConvNumerator(v) {
-    return v.type === "conversion_ratio_num";
-}
-function isConvDenominator(v) {
-    return v.type === "conversion_ratio_deno";
-}
-function isCompensationSum(v) {
-    return v.type === "compensation_sum";
-}
-
 function enableTab(tabId, totalChartsToBePlotted, chartsPlotted) {
 
     if (tabId === "tab1-panel") {
@@ -70,19 +51,19 @@ function enableTab(tabId, totalChartsToBePlotted, chartsPlotted) {
     }
 }
 
-function plotHiringQ1Charts() {
+function plotEngagementQ1Charts() {
 
-    var chart1 = dc.selectMenu("#hiring_q1_chart1", "q1");
-    var chart2 = dc.selectMenu("#hiring_q1_chart2", "q1");
-    var chart3 = dc.selectMenu("#hiring_q1_chart3", "q1");
-    var chart4 = dc.barChart("#hiring_q1_chart4", "q1");
-    var chart5 = dc.barChart("#hiring_q1_chart5", "q1");
-    var chart6 = dc.pieChart("#hiring_q1_chart6", "q1");
-    var chart7 = dc.pieChart("#hiring_q1_chart7", "q1");
-    var chart8 = dc.pieChart("#hiring_q1_chart8", "q1");
-    var chart9 = dc.pieChart("#hiring_q1_chart9", "q1");
+    var chart1 = dc.selectMenu("#engagement_q1_chart1", "q1");
+    var chart2 = dc.selectMenu("#engagement_q1_chart2", "q1");
+    var chart3 = dc.selectMenu("#engagement_q1_chart3", "q1");
+    var chart4 = dc.barChart("#engagement_q1_chart4", "q1");
+    var chart5 = dc.numberDisplay("#engagement_q1_chart5", "q1");
+    var chart6 = dc.numberDisplay("#engagement_q1_chart6", "q1");
+    var chart7 = dc.numberDisplay("#engagement_q1_chart7", "q1");
+    var chart8 = dc.rowChart("#engagement_q1_chart8", "q1");
+    var chart9 = dc.rowChart("#engagement_q1_chart9", "q1");
 
-    d3.csv("hiring_q1.csv", function (error, data) {
+    d3.csv("engagement_q1.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -310,117 +291,21 @@ function plotHiringQ1Charts() {
         chart4.render();
         count++;
 
-        chart5
-                .margins({top: 20, bottom: 30, left: 50, right: 20})
-                .dimension(metricName5)
-                .group(metricNameGroup5)
-                .elasticY(true)
-                .x(d3.scale.ordinal().domain(metricName5)) // Need the empty val to offset the first value
-                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
-                .ordinalColors(['#7986CB'])
-                .centerBar(false);
-        chart5.on("renderlet", function (chart) {
-            var gLabels = chart.select(".labels");
-            if (gLabels.empty()) {
-                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
-            }
-
-            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
-            gLabelsData.exit().remove(); //Remove unused elements
-
-            gLabelsData.enter().append("text") //Add new elements
-
-            gLabelsData
-                    .attr('text-anchor', 'middle')
-                    .attr('fill', 'white')
-                    .text(function (d) {
-                        return d3.select(d).data()[0].data.value
-                    })
-                    .attr('x', function (d) {
-                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
-                    })
-                    .attr('y', function (d) {
-                        return +d.getAttribute('y') + 15;
-                    })
-                    .attr('style', function (d) {
-                        if (+d.getAttribute('height') < 18)
-                            return "display:none";
-                    });
-        });
-        chart5.render();
-        count++;
-
-        chart6
-                .dimension(metricName6)
-                .group(metricNameGroup6)
-                .externalLabels(10)
-                .externalRadiusPadding(25)
-                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
-                .label(function (d) {
-                    return d.key + ": " + d3.round((d.value / d3.sum(metricNameGroup6.all(), function (d) {
-                        return d.value;
-                    })) * 100, 1) + "%";
-                });
-        chart6.render();
-        count++;
-
-        chart7
-                .dimension(metricName7)
-                .group(metricNameGroup7)
-                .externalLabels(10)
-                .externalRadiusPadding(25)
-                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
-                .label(function (d) {
-                    return d.key + ": " + d3.round((d.value / d3.sum(metricNameGroup7.all(), function (d) {
-                        return d.value;
-                    })) * 100, 1) + "%";
-                });
-        chart7.render();
-        count++;
-
-        chart8
-                .dimension(metricName8)
-                .group(metricNameGroup8)
-                .externalLabels(10)
-                .externalRadiusPadding(25)
-                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
-                .label(function (d) {
-                    return d.key + ": " + d3.round((d.value / d3.sum(metricNameGroup8.all(), function (d) {
-                        return d.value;
-                    })) * 100, 1) + "%";
-                });
-        chart8.render();
-        count++;
-
-        chart9
-                .dimension(metricName9)
-                .group(metricNameGroup9)
-                .externalLabels(10)
-                .externalRadiusPadding(25)
-                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
-                .label(function (d) {
-                    return d.key + ": " + d3.round((d.value / d3.sum(metricNameGroup9.all(), function (d) {
-                        return d.value;
-                    })) * 100, 1) + "%";
-                });
-        chart9.render();
-        count++;
-
         enableTab("tab1-panel", 9, count);
     });
 
 }
 
-function plotHiringQ2Charts() {
-    var chart1 = dc.selectMenu("#hiring_q2_chart1", "q2");
-    var chart2 = dc.selectMenu("#hiring_q2_chart2", "q2");
-    var chart3 = dc.selectMenu("#hiring_q2_chart3", "q2");
-    var chart4 = dc.barChart("#hiring_q2_chart4", "q2");
-    var chart5 = dc.barChart("#hiring_q2_chart5", "q2");
-    var chart6 = dc.barChart("#hiring_q2_chart6", "q2");
-    var chart7 = dc.pieChart("#hiring_q2_chart7", "q2");
+function plotEngagementQ2Charts() {
+    var chart1 = dc.selectMenu("#engagement_q2_chart1", "q2");
+    var chart2 = dc.selectMenu("#engagement_q2_chart2", "q2");
+    var chart3 = dc.selectMenu("#engagement_q2_chart3", "q2");
+    var chart4 = dc.barChart("#engagement_q2_chart4", "q2");
+    var chart5 = dc.barChart("#engagement_q2_chart5", "q2");
+    var chart6 = dc.barChart("#engagement_q2_chart6", "q2");
+    var chart7 = dc.barChart("#engagement_q2_chart7", "q2");
 
-    d3.csv("hiring_q2.csv", function (error, data) {
+    d3.csv("engagement_q2.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -730,16 +615,42 @@ function plotHiringQ2Charts() {
         count++;
 
         chart7
+                .margins({top: 0, bottom: 30, left: 50, right: 20})
                 .dimension(metricName7)
                 .group(metricNameGroup7)
-                .externalLabels(10)
-                .externalRadiusPadding(25)
-                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
-                .label(function (d) {
-                    return d.key + ": " + d3.round((d.value / d3.sum(metricNameGroup7.all(), function (d) {
-                        return d.value;
-                    })) * 100, 1) + "%";
-                });
+                .elasticY(true)
+                .x(d3.scale.ordinal().domain(metricName7)) // Need the empty val to offset the first value
+                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
+                .ordinalColors(['#7986CB'])
+                .centerBar(false);
+        chart7.on("renderlet", function (chart) {
+            var gLabels = chart.select(".labels");
+            if (gLabels.empty()) {
+                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
+            }
+
+            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
+            gLabelsData.exit().remove(); //Remove unused elements
+
+            gLabelsData.enter().append("text") //Add new elements
+
+            gLabelsData
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', 'white')
+                    .text(function (d) {
+                        return d3.select(d).data()[0].data.value
+                    })
+                    .attr('x', function (d) {
+                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
+                    })
+                    .attr('y', function (d) {
+                        return +d.getAttribute('y') + 15;
+                    })
+                    .attr('style', function (d) {
+                        if (+d.getAttribute('height') < 18)
+                            return "display:none";
+                    });
+        });
         chart7.render();
         count++;
 
@@ -747,15 +658,15 @@ function plotHiringQ2Charts() {
     });
 }
 
-function plotHiringQ3Charts() {
-    var chart1 = dc.selectMenu("#hiring_q3_chart1", "q3");
-    var chart2 = dc.selectMenu("#hiring_q3_chart2", "q3");
-    var chart3 = dc.selectMenu("#hiring_q3_chart3", "q3");
-    var chart4 = dc.barChart("#hiring_q3_chart4", "q3");
-    var chart5 = dc.rowChart("#hiring_q3_chart5", "q3");
-    var chart6 = dc.rowChart("#hiring_q3_chart6", "q3");
+function plotEngagementQ3Charts() {
+    var chart1 = dc.selectMenu("#engagement_q3_chart1", "q3");
+    var chart2 = dc.selectMenu("#engagement_q3_chart2", "q3");
+    var chart3 = dc.selectMenu("#engagement_q3_chart3", "q3");
+    var chart4 = dc.barChart("#engagement_q3_chart4", "q3");
+    var chart5 = dc.scatterPlot("#engagement_q3_chart5", "q3");
+    var chart6 = dc.dataTable("#engagement_q3_chart6", "q3");
 
-    d3.csv("hiring_q3.csv", function (error, data) {
+    d3.csv("engagement_q3.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -987,45 +898,20 @@ function plotHiringQ3Charts() {
         chart4.render();
         count++;
 
-        chart5
-                .valueAccessor(function (p) {
-                    return p.value.avg;
-                })
-                .dimension(tatMetricName5)
-                .group(tatMetricNameGroup5)
-                .elasticX(true)
-                .ordinalColors(['#7986CB']);
-        chart5.filter = function () {};
-        chart5.render();
-        count++;
 
-        chart6
-                .valueAccessor(function (p) {
-                    return p.value.avg;
-                })
-                .dimension(tatMetricName6)
-                .group(tatMetricNameGroup6)
-                .elasticX(true)
-                .ordinalColors(['#7986CB']);
-        chart6.filter = function () {};
-        chart6.render();
-        count++;
 
         enableTab("tab3-panel", 6, count);
     });
 }
 
-function plotHiringQ4Charts() {
-    var chart1 = dc.selectMenu("#hiring_q4_chart1", "q4");
-    var chart2 = dc.selectMenu("#hiring_q4_chart2", "q4");
-    var chart3 = dc.selectMenu("#hiring_q4_chart3", "q4");
-    var chart4 = dc.barChart("#hiring_q4_chart4", "q4");
-    var chart5 = dc.pieChart("#hiring_q4_chart5", "q4");
-    var chart6 = dc.barChart("#hiring_q4_chart6", "q4");
-    var chart7 = dc.barChart("#hiring_q4_chart7", "q4");
-    var chart8 = dc.barChart("#hiring_q4_chart8", "q4");
+function plotEngagementQ4Charts() {
+    var chart1 = dc.selectMenu("#engagement_q4_chart1", "q4");
+    var chart2 = dc.selectMenu("#engagement_q4_chart2", "q4");
+    var chart3 = dc.selectMenu("#engagement_q4_chart3", "q4");
+    var chart4 = dc.barChart("#engagement_q4_chart4", "q4");
+    var chart5 = dc.barChart("#engagement_q4_chart5", "q4");
 
-    d3.csv("hiring_q4.csv", function (error, data) {
+    d3.csv("engagement_q4.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1134,104 +1020,6 @@ function plotHiringQ4Charts() {
                 }
         );
 
-        var sohMetricName6 = cf.dimension(function (d) {
-            return d["m3"];
-        });
-        var sohMetricNameGroup6 = sohMetricName6.group().reduce(
-                function (p, v) {
-                    if (isConvNumerator(v)) {
-                        p.numerator += +v.value;
-                    }
-                    if (isCandidateCount(v)) {
-                        p.denominator += +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator * 100), 2);
-                    return p;
-                },
-                function (p, v) {
-                    if (isConvNumerator(v)) {
-                        p.numerator -= +v.value;
-                    }
-                    if (isCandidateCount(v)) {
-                        p.denominator -= +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator * 100), 2);
-                    return p;
-                },
-                function () {
-                    return{
-                        denominator: 0,
-                        numerator: 0,
-                        avg: 0
-                    };
-                }
-        );
-
-        var sohMetricName7 = cf.dimension(function (d) {
-            return d["m3"];
-        });
-        var sohMetricNameGroup7 = sohMetricName7.group().reduce(
-                function (p, v) {
-                    if (isTATSum(v)) {
-                        p.numerator += +v.value;
-                    }
-                    if (isCandidateCount(v)) {
-                        p.denominator += +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator), 2);
-                    return p;
-                },
-                function (p, v) {
-                    if (isTATSum(v)) {
-                        p.numerator -= +v.value;
-                    }
-                    if (isCandidateCount(v)) {
-                        p.denominator -= +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator), 2);
-                    return p;
-                },
-                function () {
-                    return{
-                        denominator: 0,
-                        numerator: 0,
-                        avg: 0
-                    };
-                }
-        );
-
-        var sohMetricName8 = cf.dimension(function (d) {
-            return d["m3"];
-        });
-        var sohMetricNameGroup8 = sohMetricName8.group().reduce(
-                function (p, v) {
-                    if (isCompensationSum(v)) {
-                        p.numerator += +v.value;
-                    }
-                    if (isCandidateCount(v)) {
-                        p.denominator += +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator), 2);
-                    return p;
-                },
-                function (p, v) {
-                    if (isCompensationSum(v)) {
-                        p.numerator -= +v.value;
-                    }
-                    if (isCandidateCount(v)) {
-                        p.denominator -= +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator), 2);
-                    return p;
-                },
-                function () {
-                    return{
-                        denominator: 0,
-                        numerator: 0,
-                        avg: 0
-                    };
-                }
-        );
         var count = 0;
         chart1
                 .dimension(sohMetricName1)
@@ -1308,179 +1096,19 @@ function plotHiringQ4Charts() {
         chart4.render();
         count++;
 
-        chart5
-                .dimension(sohMetricName5)
-                .group(sohMetricNameGroup5)
-                .externalLabels(10)
-                .externalRadiusPadding(25)
-                .ordinalColors(['#ef5350', '#EC407A', '#AB47BC', '#7E57C2', '#5C6BC0', '#42A5F5', '#26C6DA', '#26A69A', '#66BB6A', '#9CCC65', '#D4E157', '#FFEE58', '#FFCA28', '#FFA726', '#FF7043'])
-                .label(function (d) {
-                    return d.key + ": " + d3.round((d.value / d3.sum(sohMetricNameGroup5.all(), function (d) {
-                        return d.value;
-                    })) * 100, 1) + "%";
-                });
-        chart5.render();
-        count++;
 
-        chart6
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
-                .dimension(sohMetricName6)
-                .group(sohMetricNameGroup6)
-//            .yAxisLabel("Count")
-                .elasticY(true)
-//            .showYAxis(false)
-                .valueAccessor(function (p) {
-                    return p.value.avg;
-                })
-                .x(d3.scale.ordinal().domain(sohMetricNameGroup6)) // Need the empty val to offset the first value
-                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
-                .ordinalColors(['#7986CB'])
-//            .label(function (d) {
-//                return d.key + " = " + d.value;
-//            })
-                .centerBar(false);
-
-        chart6.on("renderlet", function (chart) {
-            var gLabels = chart.select(".labels");
-            if (gLabels.empty()) {
-                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
-            }
-
-            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
-            gLabelsData.exit().remove(); //Remove unused elements
-
-            gLabelsData.enter().append("text") //Add new elements
-
-            gLabelsData
-                    .attr('text-anchor', 'middle')
-                    .attr('fill', 'white')
-                    .text(function (d) {
-                        return d3.select(d).data()[0].data.value.avg
-                    })
-                    .attr('x', function (d) {
-                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
-                    })
-                    .attr('y', function (d) {
-                        return +d.getAttribute('y') + 15;
-                    })
-                    .attr('style', function (d) {
-                        if (+d.getAttribute('height') < 18)
-                            return "display:none";
-                    });
-        });
-        chart6.render();
-        count++;
-
-        chart7
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
-                .dimension(sohMetricName7)
-                .group(sohMetricNameGroup7)
-//            .yAxisLabel("Count")
-                .elasticY(true)
-//            .showYAxis(false)
-                .valueAccessor(function (p) {
-                    return p.value.avg;
-                })
-                .x(d3.scale.ordinal().domain(sohMetricNameGroup7)) // Need the empty val to offset the first value
-                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
-                .ordinalColors(['#7986CB'])
-//            .label(function (d) {
-//                return d.key + " = " + d.value;
-//            })
-                .centerBar(false);
-
-        chart7.on("renderlet", function (chart) {
-            var gLabels = chart.select(".labels");
-            if (gLabels.empty()) {
-                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
-            }
-
-            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
-            gLabelsData.exit().remove(); //Remove unused elements
-
-            gLabelsData.enter().append("text") //Add new elements
-
-            gLabelsData
-                    .attr('text-anchor', 'middle')
-                    .attr('fill', 'white')
-                    .text(function (d) {
-                        return d3.select(d).data()[0].data.value.avg
-                    })
-                    .attr('x', function (d) {
-                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
-                    })
-                    .attr('y', function (d) {
-                        return +d.getAttribute('y') + 15;
-                    })
-                    .attr('style', function (d) {
-                        if (+d.getAttribute('height') < 18)
-                            return "display:none";
-                    });
-        });
-        chart7.render();
-        count++;
-
-        chart8
-                .margins({top: 0, bottom: 30, left: 50, right: 20})
-                .dimension(sohMetricName8)
-                .group(sohMetricNameGroup8)
-//            .yAxisLabel("Count")
-                .elasticY(true)
-//            .showYAxis(false)
-                .valueAccessor(function (p) {
-                    return p.value.avg;
-                })
-                .x(d3.scale.ordinal().domain(sohMetricNameGroup8)) // Need the empty val to offset the first value
-                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
-                .ordinalColors(['#7986CB'])
-//            .label(function (d) {
-//                return d.key + " = " + d.value;
-//            })
-                .centerBar(false);
-
-        chart8.on("renderlet", function (chart) {
-            var gLabels = chart.select(".labels");
-            if (gLabels.empty()) {
-                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
-            }
-
-            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
-            gLabelsData.exit().remove(); //Remove unused elements
-
-            gLabelsData.enter().append("text") //Add new elements
-
-            gLabelsData
-                    .attr('text-anchor', 'middle')
-                    .attr('fill', 'white')
-                    .text(function (d) {
-                        return d3.select(d).data()[0].data.value.avg
-                    })
-                    .attr('x', function (d) {
-                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
-                    })
-                    .attr('y', function (d) {
-                        return +d.getAttribute('y') + 15;
-                    })
-                    .attr('style', function (d) {
-                        if (+d.getAttribute('height') < 18)
-                            return "display:none";
-                    });
-        });
-        chart8.render();
-        count++;
-
-        enableTab("tab4-panel", 8, count);
+        enableTab("tab4-panel", 5, count);
     });
 }
 
-function plotHiringQ5Charts() {
-    var chart1 = dc.selectMenu("#hiring_q5_chart1", "q5");
-    var chart2 = dc.selectMenu("#hiring_q5_chart2", "q5");
-    var chart3 = dc.selectMenu("#hiring_q5_chart3", "q5");
-    var chart4 = dc.barChart("#hiring_q5_chart4", "q5");
-    var chart5 = dc.dataTable("#hiring_q5_chart5", "q5");
+function plotEngagementQ5Charts() {
+    var chart1 = dc.selectMenu("#engagement_q5_chart1", "q5");
+    var chart2 = dc.selectMenu("#engagement_q5_chart2", "q5");
+    var chart3 = dc.selectMenu("#engagement_q5_chart3", "q5");
+    var chart4 = dc.barChart("#engagement_q5_chart4", "q5");
+//    var chart5 = dc.dataTable("#engagement_q5_chart5", "q5");
 
-    d3.csv("hiring_q5.csv", function (error, data) {
+    d3.csv("engagement_q5.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1551,15 +1179,6 @@ function plotHiringQ5Charts() {
                     return 0;
                 }
         );
-        var metricName5 = cf.dimension(function (d) {
-            return d.m5;
-        });
-        var metricNameGroup5 = function (d) {
-            return d.type;
-//            var format = d3.format('02d');
-//            return d.m4.getFullYear() + '/' + format((d.m4.getMonth() + 1));
-        };
-
         var count = 0;
 
         chart1
@@ -1637,94 +1256,9 @@ function plotHiringQ5Charts() {
         chart4.render();
         count++;
 
-        chart5
-                .dimension(metricName5)
-                .group(metricNameGroup5)
-                .showGroups(false)
-                .size(100)
-                .columns([
-//                    Writing column name directly means the database column name is the one that will be displayed onscreen
-//                    'm6',
-                    {
-                        label: 'Name',
-                        format: function (d) {
-                            return d.m5;
-                        }
-                    },
-                    {
-                        label: 'Recommend to Hire',
-                        format: function (d) {
-                            return d.m6;
-                        }
-                    },
-                    {
-                        label: 'Recommended Role',
-                        format: function (d) {
-                            return d.m2;
-                        }
-                    },
-                    {
-                        label: 'Recommended Location',
-                        format: function (d) {
-                            return d.m1;
-                        }
-                    },
-                    {
-                        label: 'Recommended Salary',
-                        format: function (d) {
-                            return d.m7;
-                        }
-                    }
-                ]);
-        chart5.on("renderlet", function (chart) {
 
-//            CONDITIONAL FORMAT FOR YES/NO
-            $("#hiring_q5_chart5 td").each(function (index, Element) {
-                switch (Element.textContent) {
-                    case "YES":
-                        $(Element).css("color", "#4caf50");
-                        break;
-                    case "NO":
-                        $(Element).css("color", "#f44336");
-                        break;
-                }
-            });
-
-//            CONDITIONAL FORMAT TO CHECK IF NUMBER, RIGHT ALIGN, ELSE, LEFT ALIGN
-            var reg = new RegExp('^[0-9]+$');
-            $("#hiring_q5_chart5 td").each(function (index, Element) {
-                if (Element.textContent.match(reg) !== null) {
-                    $(Element).css("text-align", "right");
-                } else {
-                    $(Element).css("text-align", "left");
-                }
-            });
-            $("#hiring_q5_chart5 .dc-table-row").on("click", function () {
-                PopupCenter('popup.html', 'example', '900', '280');
-            });
-        });
-
-        chart5.render();
-        count++;
 
         enableTab("tab5-panel", 5, count);
 
-        function PopupCenter(url, title, w, h) {
-            // Fixes dual-screen position                         Most browsers      Firefox
-            var dualScreenLeft = window.screenLeft !== undefined ? window.screenLeft : screen.left;
-            var dualScreenTop = window.screenTop !== undefined ? window.screenTop : screen.top;
-
-            var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
-            var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
-
-            var left = ((width / 2) - (w / 2)) + dualScreenLeft;
-            var top = ((height / 2) - (h / 2)) + dualScreenTop;
-            var newWindow = window.open(url, title, 'scrollbars=yes, directories=no,titlebar=no,toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
-
-            // Puts focus on the newWindow
-            if (window.focus) {
-                newWindow.focus();
-            }
-        }
     });
 }

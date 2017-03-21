@@ -1,17 +1,17 @@
 $(document).ready(function () {
 
     plotAttritionQ1();
-    $('body').find('a[href$="tab1-panel"]').removeClass('vertical-mdl-tabs-disabled');
-    $('body').find('a[href$="tab1-panel"]').addClass('is-active');
+//    $('body').find('a[href$="tab1-panel"]').removeClass('vertical-mdl-tabs-disabled');
+//    $('body').find('a[href$="tab1-panel"]').addClass('is-active');
 
     plotAttritionQ2();
-    $('body').find('a[href$="tab2-panel"]').removeClass('vertical-mdl-tabs-disabled');
+//    $('body').find('a[href$="tab2-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     plotAttritionQ3();
-    $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
+//    $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     plotAttritionQ4();
-    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
+//    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     $(".mdl-tabs__tab").on("click", function () {
         //REMOVE ACTIVE CLASS FOR ALL PANELS
@@ -34,6 +34,20 @@ $(document).ready(function () {
 
 function isHigh(v) {
     return v.m5 === "High";
+}
+
+function enableTab(tabId, totalChartsToBePlotted, chartsPlotted) {
+
+    if (tabId === "tab1-panel") {
+        if (totalChartsToBePlotted === chartsPlotted) {
+            $('body').find('a[href$="' + tabId + '"]').removeClass('vertical-mdl-tabs-disabled');
+            $('body').find('a[href$="' + tabId + '"]').addClass('is-active');
+        }
+    } else {
+        if (totalChartsToBePlotted === chartsPlotted) {
+            $('body').find('a[href$="' + tabId + '"]').removeClass('vertical-mdl-tabs-disabled');
+        }
+    }
 }
 
 function plotAttritionQ1() {
@@ -215,23 +229,27 @@ function plotAttritionQ1() {
                 }
         );
 
+        var count = 0;
         chart1
                 .dimension(metricName1)
                 .group(metricNameGroup1)
                 .controlsUseVisibility(true);
         chart1.render();
+        count++;
 
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
                 .controlsUseVisibility(true);
         chart2.render();
+        count++;
 
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
                 .controlsUseVisibility(true);
         chart3.render();
+        count++;
 
         var minDate = metricName4.bottom(1)[0].m4;
         var maxDate = metricName4.top(1)[0].m4;
@@ -282,6 +300,7 @@ function plotAttritionQ1() {
                     });
         });
         chart4.render();
+        count++;
 
         chart5
                 .margins({top: 10, bottom: 30, left: 50, right: 20})
@@ -325,6 +344,7 @@ function plotAttritionQ1() {
                     });
         });
         chart5.render();
+        count++;
 
         chart6
                 .margins({top: 10, bottom: 30, left: 50, right: 20})
@@ -368,6 +388,7 @@ function plotAttritionQ1() {
                     });
         });
         chart6.render();
+        count++;
 
         chart7
                 .margins({top: 10, bottom: 30, left: 50, right: 20})
@@ -411,6 +432,7 @@ function plotAttritionQ1() {
                     });
         });
         chart7.render();
+        count++;
 
         chart8
                 .formatNumber(d3.format(".3s"))
@@ -422,6 +444,9 @@ function plotAttritionQ1() {
         setInterval(function () {
             chart8.redraw();
         }, 0);
+        count++;
+
+        enableTab("tab1-panel", 8, count);
     });
 }
 
@@ -568,24 +593,28 @@ function plotAttritionQ2() {
                     return 0;
                 }
         );
+        var count = 0;
 
         chart1
                 .dimension(metricName1)
                 .group(metricNameGroup1)
                 .controlsUseVisibility(true);
         chart1.render();
+        count++;
 
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
                 .controlsUseVisibility(true);
         chart2.render();
+        count++;
 
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
                 .controlsUseVisibility(true);
         chart3.render();
+        count++;
 
         var minDate = metricName4.bottom(1)[0].m4;
         var maxDate = metricName4.top(1)[0].m4;
@@ -635,6 +664,7 @@ function plotAttritionQ2() {
                     });
         });
         chart4.render();
+        count++;
 
         chart5
                 .margins({top: 10, bottom: 30, left: 50, right: 20})
@@ -674,6 +704,7 @@ function plotAttritionQ2() {
                     });
         });
         chart5.render();
+        count++;
 
         chart6
                 .dimension(metricName6)
@@ -687,6 +718,7 @@ function plotAttritionQ2() {
                     })) * 100, 1) + "%";
                 });
         chart6.render();
+        count++;
 
         chart7
                 .margins({top: 10, bottom: 30, left: 50, right: 20})
@@ -726,6 +758,8 @@ function plotAttritionQ2() {
                     });
         });
         chart7.render();
+        count++;
+
         chart8
                 .margins({top: 10, bottom: 30, left: 50, right: 20})
                 .dimension(metricName8)
@@ -810,7 +844,9 @@ function plotAttritionQ2() {
                     .text('Average');
         });
         chart8.render();
+        count++;
 
+        enableTab("tab2-panel", 8, count);
     });
 }
 
@@ -944,23 +980,28 @@ function plotAttritionQ3() {
             return d.m5;
         };
 
+        var count = 0;
+
         chart1
                 .dimension(metricName1)
                 .group(metricNameGroup1)
                 .controlsUseVisibility(true);
         chart1.render();
+        count++;
 
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
                 .controlsUseVisibility(true);
         chart2.render();
+        count++;
 
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
                 .controlsUseVisibility(true);
         chart3.render();
+        count++;
 
         var minDate = metricName4.bottom(1)[0].m4;
         var maxDate = metricName4.top(1)[0].m4;
@@ -1012,6 +1053,7 @@ function plotAttritionQ3() {
                     });
         });
         chart4.render();
+        count++;
 
         chart5
                 .x(d3.scale.ordinal().domain(cf))
@@ -1054,6 +1096,7 @@ function plotAttritionQ3() {
                     });
         });
         chart5.render();
+        count++;
 
         chart6
                 .dimension(metricName6)
@@ -1067,6 +1110,7 @@ function plotAttritionQ3() {
                     })) * 100, 1) + "%";
                 });
         chart6.render();
+        count++;
 
         chart7
                 .dimension(metricName7)
@@ -1143,6 +1187,9 @@ function plotAttritionQ3() {
         });
 
         chart7.render();
+        count++;
+
+        enableTab("tab3-panel", 7, count);
     });
 }
 
@@ -1159,6 +1206,7 @@ function plotAttritionQ4() {
             return +d.Value;
         });
 
+        var count = 0;
         function BusinessUnit(kv) {
             if (kv.key[1] === "BusinessUnit") {
                 return kv.value;
@@ -1183,8 +1231,10 @@ function plotAttritionQ4() {
                 });
         chart2
                 .height(480)
-                .margins({top: 30, bottom: 30, left: 50, right: 20})
+                .margins({top: 30, bottom: 30, left: 30, right: 20})
                 .x(d3.scale.linear().domain([0, 50]))
+                .yAxisLabel("Probability of Survival")
+                .xAxisLabel("Survival Time (in years)")
                 .chart(function (c) {
                     return dc.lineChart(c).interpolate('basis');
                 })
@@ -1218,11 +1268,14 @@ function plotAttritionQ4() {
                         )
                 .brushOn(false);
         chart2.margins().top += 30;
-
+        
         window.onresize = function () {
             chart2.legend().x(18);
 
         };
         chart2.render();
+        count++;
+
+        enableTab("tab4-panel", 1, count);
     });
 }
