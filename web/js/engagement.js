@@ -89,18 +89,26 @@ function plotEngagementQ1Charts() {
         var metricNameGroup1 = metricName1.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName2 = cf.dimension(function (d) {
@@ -109,18 +117,26 @@ function plotEngagementQ1Charts() {
         var metricNameGroup2 = metricName2.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName3 = cf.dimension(function (d) {
@@ -129,18 +145,26 @@ function plotEngagementQ1Charts() {
         var metricNameGroup3 = metricName3.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName4 = cf.dimension(function (d) {
@@ -149,18 +173,26 @@ function plotEngagementQ1Charts() {
         var metricNameGroup4 = metricName4.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName5 = cf.dimension(function (d) {
@@ -310,6 +342,9 @@ function plotEngagementQ1Charts() {
         chart1
                 .dimension(metricName1)
                 .group(metricNameGroup1)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart1.render();
         count++;
@@ -317,6 +352,9 @@ function plotEngagementQ1Charts() {
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart2.render();
         count++;
@@ -324,6 +362,9 @@ function plotEngagementQ1Charts() {
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart3.render();
         count++;
@@ -341,15 +382,15 @@ function plotEngagementQ1Charts() {
                 .colors(['#303f9f'])
                 .mouseZoomable(true)
                 .barPadding(0.05)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .x(d3.time.scale().
                         domain(
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
                                 )
                         )
                 .xUnits(d3.time.months);
-//                .xAxis()
-//                .ticks(d3.time.month, 1)
-//                .tickFormat(d3.time.format("%b '%y"));
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -366,7 +407,7 @@ function plotEngagementQ1Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value;
+                        return d3.select(d).data()[0].data.value.avg;
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -384,7 +425,7 @@ function plotEngagementQ1Charts() {
 
 
         chart5
-                .formatNumber(d3.format(".2s"))
+                .formatNumber(d3.format(".3s"))
                 .valueAccessor(function (d) {
                     return d.value.avg;
                 })
@@ -392,7 +433,7 @@ function plotEngagementQ1Charts() {
         count++;
 
         chart6
-                .formatNumber(d3.format(".2s"))
+                .formatNumber(d3.format(".3s"))
                 .valueAccessor(function (d) {
                     return d.value.avg;
                 })
@@ -400,7 +441,7 @@ function plotEngagementQ1Charts() {
         count++;
 
         chart7
-                .formatNumber(d3.format(".2s"))
+                .formatNumber(d3.format(".3s"))
                 .valueAccessor(function (d) {
                     return d.value.avg;
                 })
@@ -464,15 +505,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup1 = metricName1.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName2 = cf.dimension(function (d) {
@@ -480,15 +529,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup2 = metricName2.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName3 = cf.dimension(function (d) {
@@ -496,15 +553,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup3 = metricName3.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName4 = cf.dimension(function (d) {
@@ -512,15 +577,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup4 = metricName4.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName5 = cf.dimension(function (d) {
@@ -625,6 +698,9 @@ function plotEngagementQ2Charts() {
         chart1
                 .dimension(metricName1)
                 .group(metricNameGroup1)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart1.render();
         count++;
@@ -632,6 +708,9 @@ function plotEngagementQ2Charts() {
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart2.render();
         count++;
@@ -639,6 +718,9 @@ function plotEngagementQ2Charts() {
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart3.render();
         count++;
@@ -656,6 +738,9 @@ function plotEngagementQ2Charts() {
                 .colors(['#303f9f'])
                 .mouseZoomable(true)
                 .barPadding(0.05)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .x(d3.time.scale().
                         domain(
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
@@ -681,7 +766,7 @@ function plotEngagementQ2Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value;
+                        return d3.select(d).data()[0].data.value.avg;
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
