@@ -27,6 +27,7 @@ $(document).ready(function () {
 
     $(".mdl-chart__reset").on("click", function () {
         var buttonId = $(this).attr("id");
+        dc.refocusAll(buttonId);
         dc.filterAll(buttonId);
         dc.redrawAll(buttonId);
     });
