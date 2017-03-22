@@ -803,7 +803,16 @@ div .mdl-textfield__label:after {
 .mdl-chart__bar text{
     color: #000000;
 }
-
+.mdl-chart__score{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    height: 140px;
+    color: #9E9E9E;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+}
 #hiring_q5_chart5,
 #attrition_q3_chart7{
     width: 98%;

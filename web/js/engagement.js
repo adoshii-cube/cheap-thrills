@@ -7,13 +7,13 @@ $(document).ready(function () {
     plotEngagementQ2Charts();
 //    $('body').find('a[href$="tab2-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-    plotEngagementQ3Charts();
+//    plotEngagementQ3Charts();
 //    $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-    plotEngagementQ4Charts();
+//    plotEngagementQ4Charts();
 //    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-    plotEngagementQ5Charts();
+//    plotEngagementQ5Charts();
 //    $('body').find('a[href$="tab5-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     $(".mdl-tabs__tab").on("click", function () {
@@ -33,6 +33,7 @@ $(document).ready(function () {
     $(".mdl-chart__reset").on("click", function () {
         var buttonId = $(this).attr("id");
         dc.filterAll(buttonId);
+//        dc.refocusAll(buttonId);
         dc.redrawAll(buttonId);
     });
 });
@@ -51,6 +52,18 @@ function enableTab(tabId, totalChartsToBePlotted, chartsPlotted) {
     }
 }
 
+function isCandidateCount(v) {
+    return v.type === 'candidate_count';
+}
+
+function isComponent(v) {
+    return v.type === 'component';
+}
+
+function isNetwork(v) {
+    return v.type === 'network';
+}
+
 function plotEngagementQ1Charts() {
 
     var chart1 = dc.selectMenu("#engagement_q1_chart1", "q1");
@@ -67,7 +80,7 @@ function plotEngagementQ1Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
         });
 
         var metricName1 = cf.dimension(function (d) {
@@ -75,11 +88,15 @@ function plotEngagementQ1Charts() {
         });
         var metricNameGroup1 = metricName1.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p += +v.value;
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p -= +v.value;
+                    }
                     return p;
                 },
                 function () {
@@ -91,11 +108,15 @@ function plotEngagementQ1Charts() {
         });
         var metricNameGroup2 = metricName2.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p += +v.value;
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p -= +v.value;
+                    }
                     return p;
                 },
                 function () {
@@ -107,11 +128,15 @@ function plotEngagementQ1Charts() {
         });
         var metricNameGroup3 = metricName3.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p += +v.value;
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p -= +v.value;
+                    }
                     return p;
                 },
                 function () {
@@ -123,11 +148,15 @@ function plotEngagementQ1Charts() {
         });
         var metricNameGroup4 = metricName4.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p += +v.value;
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p -= +v.value;
+                    }
                     return p;
                 },
                 function () {
@@ -135,85 +164,147 @@ function plotEngagementQ1Charts() {
                 }
         );
         var metricName5 = cf.dimension(function (d) {
-            return d["m5"];
+            return d["type"];
         });
         var metricNameGroup5 = metricName5.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName6 = cf.dimension(function (d) {
-            return d["m6"];
+            return d["type"];
         });
         var metricNameGroup6 = metricName6.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p.num += +v.mood;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p.num -= +v.mood;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName7 = cf.dimension(function (d) {
-            return d["m7"];
+            return d["type"];
         });
         var metricNameGroup7 = metricName7.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isCandidateCount(v)) {
+                        p.num += +v.nps;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isCandidateCount(v)) {
+                        p.num -= +v.nps;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName8 = cf.dimension(function (d) {
-            return d["m8"];
+            return d["component"];
         });
         var metricNameGroup8 = metricName8.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isComponent(v)) {
+                        p.num += +v.value;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isComponent(v)) {
+                        p.num -= +v.value;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
+
         var metricName9 = cf.dimension(function (d) {
-            return d["m9"];
+            return d["network"];
         });
         var metricNameGroup9 = metricName9.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    if (isNetwork(v)) {
+                        p.num += +v.value;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    if (isNetwork(v)) {
+                        p.num -= +v.value;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
+                    }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
+
 
         var count = 0;
         chart1
@@ -291,6 +382,62 @@ function plotEngagementQ1Charts() {
         chart4.render();
         count++;
 
+
+        chart5
+                .formatNumber(d3.format(".2s"))
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
+                .group(metricNameGroup5);
+        count++;
+
+        chart6
+                .formatNumber(d3.format(".2s"))
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
+                .group(metricNameGroup6);
+        count++;
+
+        chart7
+                .formatNumber(d3.format(".2s"))
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
+                .group(metricNameGroup7);
+        count++;
+
+        setInterval(function () {
+            chart5.redraw();
+            chart6.redraw();
+            chart7.redraw();
+        }, 0);
+
+        chart8
+                .valueAccessor(function (p) {
+                    return p.value.avg;
+                })
+                .dimension(metricName8)
+                .group(metricNameGroup8)
+                .elasticX(true)
+                .ordinalColors(['#7986CB']);
+        chart8.filter = function () {};
+        chart8.render();
+        count++;
+
+        chart9
+                .valueAccessor(function (p) {
+                    return p.value.avg;
+                })
+                .dimension(metricName9)
+                .group(metricNameGroup9)
+                .elasticX(true)
+                .ordinalColors(['#7986CB']);
+        chart9.filter = function () {};
+        chart9.render();
+        count++;
+
+
         enableTab("tab1-panel", 9, count);
     });
 
@@ -304,7 +451,7 @@ function plotEngagementQ2Charts() {
     var chart5 = dc.barChart("#engagement_q2_chart5", "q2");
     var chart6 = dc.barChart("#engagement_q2_chart6", "q2");
     var chart7 = dc.barChart("#engagement_q2_chart7", "q2");
-
+    var chart8 = dc.barChart("#engagement_q2_chart8", "q2");
     d3.csv("engagement_q2.csv", function (error, data) {
         var cf = crossfilter(data);
 
@@ -428,22 +575,6 @@ function plotEngagementQ2Charts() {
             return d["m8"];
         });
         var metricNameGroup8 = metricName8.group().reduce(
-                function (p, v) {
-                    p += +v.value;
-                    return p;
-                },
-                function (p, v) {
-                    p -= +v.value;
-                    return p;
-                },
-                function () {
-                    return 0;
-                }
-        );
-        var metricName9 = cf.dimension(function (d) {
-            return d["m9"];
-        });
-        var metricNameGroup9 = metricName9.group().reduce(
                 function (p, v) {
                     p += +v.value;
                     return p;
@@ -653,8 +784,46 @@ function plotEngagementQ2Charts() {
         });
         chart7.render();
         count++;
+        chart8
+                .margins({top: 0, bottom: 30, left: 50, right: 20})
+                .dimension(metricName8)
+                .group(metricNameGroup8)
+                .elasticY(true)
+                .x(d3.scale.ordinal().domain(metricName8)) // Need the empty val to offset the first value
+                .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
+                .ordinalColors(['#7986CB'])
+                .centerBar(false);
+        chart8.on("renderlet", function (chart) {
+            var gLabels = chart.select(".labels");
+            if (gLabels.empty()) {
+                gLabels = chart.select(".chart-body").append('g').classed('labels', true);
+            }
 
-        enableTab("tab2-panel", 7, count);
+            var gLabelsData = gLabels.selectAll("text").data(chart.selectAll(".bar")[0]);
+            gLabelsData.exit().remove(); //Remove unused elements
+
+            gLabelsData.enter().append("text") //Add new elements
+
+            gLabelsData
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', 'white')
+                    .text(function (d) {
+                        return d3.select(d).data()[0].data.value
+                    })
+                    .attr('x', function (d) {
+                        return +d.getAttribute('x') + (d.getAttribute('width') / 2);
+                    })
+                    .attr('y', function (d) {
+                        return +d.getAttribute('y') + 15;
+                    })
+                    .attr('style', function (d) {
+                        if (+d.getAttribute('height') < 18)
+                            return "display:none";
+                    });
+        });
+        chart8.render();
+        count++;
+        enableTab("tab2-panel", 8, count);
     });
 }
 
