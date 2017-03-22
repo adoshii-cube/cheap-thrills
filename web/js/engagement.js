@@ -528,15 +528,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup5 = metricName5.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName6 = cf.dimension(function (d) {
@@ -544,15 +552,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup6 = metricName6.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName7 = cf.dimension(function (d) {
@@ -560,15 +576,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup7 = metricName7.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName8 = cf.dimension(function (d) {
@@ -576,15 +600,23 @@ function plotEngagementQ2Charts() {
         });
         var metricNameGroup8 = metricName8.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
 
@@ -673,7 +705,10 @@ function plotEngagementQ2Charts() {
                 .x(d3.scale.ordinal().domain(metricName5)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-                .centerBar(false);
+                .centerBar(false)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                });
         chart5.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
             if (gLabels.empty()) {
@@ -689,7 +724,7 @@ function plotEngagementQ2Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value
+                        return d3.select(d).data()[0].data.value.avg
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -713,7 +748,10 @@ function plotEngagementQ2Charts() {
                 .x(d3.scale.ordinal().domain(metricName5)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-                .centerBar(false);
+                .centerBar(false)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                });
         chart6.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
             if (gLabels.empty()) {
@@ -729,7 +767,7 @@ function plotEngagementQ2Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value
+                        return d3.select(d).data()[0].data.value.avg
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -753,7 +791,10 @@ function plotEngagementQ2Charts() {
                 .x(d3.scale.ordinal().domain(metricName7)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-                .centerBar(false);
+                .centerBar(false)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                });
         chart7.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
             if (gLabels.empty()) {
@@ -769,7 +810,7 @@ function plotEngagementQ2Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value
+                        return d3.select(d).data()[0].data.value.avg
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -792,7 +833,10 @@ function plotEngagementQ2Charts() {
                 .x(d3.scale.ordinal().domain(metricName8)) // Need the empty val to offset the first value
                 .xUnits(dc.units.ordinal) // Tell Dc.js that we're using an ordinal x axis
                 .ordinalColors(['#7986CB'])
-                .centerBar(false);
+                .centerBar(false)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                });
         chart8.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
             if (gLabels.empty()) {
@@ -808,7 +852,7 @@ function plotEngagementQ2Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value
+                        return d3.select(d).data()[0].data.value.avg
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);

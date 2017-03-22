@@ -1,501 +1,501 @@
-m1,m2,m3,m4,m5,m6,m7,m8,value
-Assam,Associate,Finance,01-08-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Associate,Finance,01-03-2016,25-30 yrs,Female,Marketing,01-02 yrs,1
-Assam,Associate,Infrastructure,01-12-2016,25-30 yrs,Male,IT,00-01 yrs,1
-Assam,Relationship Manager,Finance,01-01-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Assam,Relationship Manager,Finance,01-10-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Sales Executive,Telecommunication,01-05-2016,30-40 yrs,Male,Marketing,00-01 yrs,1
-Assam,Administration Executive,Metal,01-09-2016,30-40 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Sales Executive,Retail,01-09-2016,20-25 yrs,Male,Support,00-01 yrs,1
-Delhi,Territory Manager,Finance,01-04-2016,20-25 yrs,Male,Finance,05-10 yrs,1
-Delhi,Territory Manager,Finance,01-11-2016,20-25 yrs,Female,Support,00-01 yrs,1
-Jharkhand,Corporate Role,Retail,01-09-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Associate,Retail,01-04-2016,20-25 yrs,Female,HR,00-01 yrs,1
-Assam,Businees Development Executive,Telecommunication,01-04-2016,20-25 yrs,Male,Marketing,00-01 yrs,1
-Delhi,Territory Manager,Retail,01-07-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Assam,Administration Executive,Retail,01-09-2016,20-25 yrs,Male,Marketing,10+ yrs,1
-Assam,Businees Development Executive,Retail,01-07-2016,20-25 yrs,Female,IT,00-01 yrs,1
-Assam,Businees Development Executive,Finance,01-04-2016,20-25 yrs,Female,Sales,02-05 yrs,1
-Delhi,Businees Development Executive,Power,01-08-2016,20-25 yrs,Female,Sales,10+ yrs,1
-Delhi,Administration Executive,Finance,01-10-2016,25-30 yrs,Male,Support,01-02 yrs,1
-Assam,Administration Executive,Finance,01-01-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Corporate Role,Retail,01-12-2016,25-30 yrs,Male,IT,01-02 yrs,1
-Delhi,Sales Executive,Telecommunication,01-12-2016,25-30 yrs,Female,Marketing,10+ yrs,1
-Jharkhand,Administration Executive,Metal,01-06-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Delhi,Relationship Manager,Retail,01-09-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Corporate Role,Metal,01-09-2016,25-30 yrs,Male,Finance,10+ yrs,1
-Delhi,Corporate Role,Retail,01-02-2016,25-30 yrs,Female,IT,01-02 yrs,1
-Delhi,Sales Executive,Metal,01-11-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Assam,Territory Manager,Metal,01-03-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Territory Manager,Metal,01-06-2016,30-40 yrs,Male,Sales,02-05 yrs,1
-Delhi,Relationship Manager,Finance,01-05-2016,30-40 yrs,Male,HR,01-02 yrs,1
-Jharkhand,Administration Executive,Retail,01-06-2016,30-40 yrs,Male,IT,00-01 yrs,1
-Jharkhand,Relationship Manager,Retail,01-12-2016,30-40 yrs,Female,Sales,01-02 yrs,1
-Assam,Sales Executive,Power,01-03-2016,30-40 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Administration Executive,Finance,01-04-2016,30-40 yrs,Male,Finance,02-05 yrs,1
-Delhi,Associate,Metal,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Delhi,Sales Executive,Finance,01-07-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Jharkhand,Relationship Manager,Telecommunication,01-03-2016,20-25 yrs,Male,Sales,05-10 yrs,1
-Assam,Businees Development Executive,Infrastructure,01-08-2016,20-25 yrs,Female,Sales,01-02 yrs,1
-Jharkhand,Associate,Metal,01-01-2016,20-25 yrs,Female,Finance,05-10 yrs,1
-Delhi,Businees Development Executive,Telecommunication,01-02-2016,20-25 yrs,Male,Support,00-01 yrs,1
-Jharkhand,Associate,Metal,01-11-2016,20-25 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Relationship Manager,Metal,01-03-2016,20-25 yrs,Male,Support,05-10 yrs,1
-Delhi,Businees Development Executive,Telecommunication,01-02-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Delhi,Associate,Finance,01-07-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Assam,Corporate Role,Finance,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Delhi,Businees Development Executive,Infrastructure,01-06-2016,25-30 yrs,Male,Support,01-02 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-02-2016,30-40 yrs,Male,Sales,02-05 yrs,1
-Delhi,Relationship Manager,Finance,01-05-2016,30-40 yrs,Male,Support,10+ yrs,1
-Delhi,Businees Development Executive,Telecommunication,01-10-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Administration Executive,Retail,01-06-2016,30-40 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Sales Executive,Finance,01-12-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Businees Development Executive,Retail,01-12-2016,30-40 yrs,Male,Marketing,02-05 yrs,1
-Jharkhand,Relationship Manager,Telecommunication,01-11-2016,30-40 yrs,Male,Marketing,10+ yrs,1
-Delhi,Territory Manager,Metal,01-02-2016,30-40 yrs,Male,Sales,10+ yrs,1
-Jharkhand,Businees Development Executive,Finance,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Assam,Territory Manager,Finance,01-08-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Relationship Manager,Retail,01-04-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Associate,Retail,01-08-2016,30-40 yrs,Male,HR,01-02 yrs,1
-Assam,Territory Manager,Finance,01-11-2016,20-25 yrs,Male,HR,02-05 yrs,1
-Assam,Businees Development Executive,Power,01-06-2016,20-25 yrs,Male,HR,00-01 yrs,1
-Assam,Associate,Retail,01-06-2016,25-30 yrs,Male,HR,00-01 yrs,1
-Assam,Businees Development Executive,Finance,01-12-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Jharkhand,Associate,Retail,01-07-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Associate,Finance,01-06-2016,20-25 yrs,Male,Marketing,00-01 yrs,1
-Assam,Territory Manager,Retail,01-02-2016,20-25 yrs,Female,Finance,01-02 yrs,1
-Assam,Administration Executive,Retail,01-07-2016,25-30 yrs,Male,Marketing,02-05 yrs,1
-Jharkhand,Sales Executive,Infrastructure,01-01-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Corporate Role,Telecommunication,01-09-2016,20-25 yrs,Female,Finance,02-05 yrs,1
-Jharkhand,Businees Development Executive,Finance,01-09-2016,20-25 yrs,Male,Finance,00-01 yrs,1
-Assam,Associate,Finance,01-05-2016,25-30 yrs,Male,Support,01-02 yrs,1
-Jharkhand,Sales Executive,Metal,01-12-2016,25-30 yrs,Female,Support,10+ yrs,1
-Assam,Associate,Power,01-05-2016,25-30 yrs,Female,Finance,00-01 yrs,1
-Delhi,Territory Manager,Retail,01-04-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Assam,Corporate Role,Retail,01-03-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Delhi,Sales Executive,Infrastructure,01-04-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Corporate Role,Finance,01-04-2016,20-25 yrs,Male,HR,00-01 yrs,1
-Assam,Administration Executive,Finance,01-01-2016,20-25 yrs,Male,Finance,00-01 yrs,1
-Delhi,Administration Executive,Finance,01-10-2016,20-25 yrs,Female,Marketing,00-01 yrs,1
-Jharkhand,Territory Manager,Power,01-11-2016,25-30 yrs,Male,Support,05-10 yrs,1
-Assam,Relationship Manager,Retail,01-10-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Relationship Manager,Metal,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Associate,Infrastructure,01-05-2016,25-30 yrs,Male,HR,00-01 yrs,1
-Delhi,Sales Executive,Metal,01-02-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Administration Executive,Finance,01-05-2016,20-25 yrs,Male,Marketing,02-05 yrs,1
-Delhi,Relationship Manager,Retail,01-07-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Relationship Manager,Finance,01-02-2016,20-25 yrs,Female,Marketing,00-01 yrs,1
-Jharkhand,Relationship Manager,Infrastructure,01-05-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Sales Executive,Retail,01-07-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Businees Development Executive,Retail,01-08-2016,25-30 yrs,Female,HR,00-01 yrs,1
-Delhi,Sales Executive,Metal,01-07-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Assam,Sales Executive,Metal,01-04-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Delhi,Administration Executive,Metal,01-01-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Associate,Retail,01-02-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Assam,Sales Executive,Retail,01-04-2016,25-30 yrs,Male,IT,00-01 yrs,1
-Assam,Associate,Telecommunication,01-01-2016,20-25 yrs,Female,Support,00-01 yrs,1
-Delhi,Sales Executive,Finance,01-10-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Assam,Corporate Role,Retail,01-02-2016,20-25 yrs,Male,Support,00-01 yrs,1
-Assam,Administration Executive,Metal,01-06-2016,20-25 yrs,Male,Sales,05-10 yrs,1
-Assam,Sales Executive,Infrastructure,01-12-2016,20-25 yrs,Female,Sales,00-01 yrs,1
-Assam,Associate,Infrastructure,01-11-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Relationship Manager,Telecommunication,01-05-2016,25-30 yrs,Male,Support,00-01 yrs,1
-Delhi,Associate,Retail,01-07-2016,25-30 yrs,Male,Marketing,02-05 yrs,1
-Assam,Associate,Power,01-08-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Territory Manager,Retail,01-01-2016,25-30 yrs,Female,Marketing,01-02 yrs,1
-Jharkhand,Territory Manager,Power,01-04-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-03-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Sales Executive,Power,01-03-2016,20-25 yrs,Male,IT,01-02 yrs,1
-Delhi,Relationship Manager,Retail,01-11-2016,20-25 yrs,Female,Finance,05-10 yrs,1
-Jharkhand,Associate,Metal,01-09-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Relationship Manager,Telecommunication,01-10-2016,20-25 yrs,Male,Marketing,10+ yrs,1
-Assam,Relationship Manager,Retail,01-02-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Businees Development Executive,Retail,01-03-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Corporate Role,Retail,01-03-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Sales Executive,Retail,01-02-2016,20-25 yrs,Male,Finance,05-10 yrs,1
-Jharkhand,Territory Manager,Retail,01-08-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Administration Executive,Infrastructure,01-01-2016,25-30 yrs,Female,Sales,01-02 yrs,1
-Delhi,Sales Executive,Power,01-03-2016,25-30 yrs,Female,Support,00-01 yrs,1
-Jharkhand,Sales Executive,Power,01-09-2016,30-40 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Associate,Telecommunication,01-09-2016,30-40 yrs,Male,Marketing,05-10 yrs,1
-Delhi,Administration Executive,Finance,01-02-2016,30-40 yrs,Male,Finance,10+ yrs,1
-Jharkhand,Businees Development Executive,Power,01-02-2016,30-40 yrs,Male,Marketing,02-05 yrs,1
-Delhi,Associate,Infrastructure,01-08-2016,30-40 yrs,Male,Sales,05-10 yrs,1
-Delhi,Sales Executive,Metal,01-01-2016,40-50 yrs,Male,Sales,01-02 yrs,1
-Delhi,Businees Development Executive,Infrastructure,01-05-2016,30-40 yrs,Male,Support,05-10 yrs,1
-Delhi,Administration Executive,Power,01-10-2016,30-40 yrs,Male,Marketing,00-01 yrs,1
-Assam,Territory Manager,Retail,01-06-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Territory Manager,Retail,01-03-2016,25-30 yrs,Male,HR,05-10 yrs,1
-Jharkhand,Territory Manager,Telecommunication,01-03-2016,30-40 yrs,Female,Sales,00-01 yrs,1
-Delhi,Territory Manager,Retail,01-12-2016,00-20 yrs,Not categorized,Sales,05-10 yrs,1
-Assam,Territory Manager,Metal,01-11-2016,30-40 yrs,Male,IT,01-02 yrs,1
-Jharkhand,Corporate Role,Metal,01-03-2016,25-30 yrs,Male,Marketing,10+ yrs,1
-Jharkhand,Sales Executive,Telecommunication,01-03-2016,20-25 yrs,Female,Finance,00-01 yrs,1
-Assam,Relationship Manager,Infrastructure,01-01-2016,30-40 yrs,Male,IT,00-01 yrs,1
-Jharkhand,Administration Executive,Metal,01-07-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Relationship Manager,Finance,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Sales Executive,Finance,01-12-2016,20-25 yrs,Male,Marketing,02-05 yrs,1
-Jharkhand,Businees Development Executive,Finance,01-04-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Sales Executive,Telecommunication,01-01-2016,20-25 yrs,Female,Support,00-01 yrs,1
-Delhi,Associate,Metal,01-05-2016,25-30 yrs,Male,HR,02-05 yrs,1
-Assam,Associate,Metal,01-10-2016,25-30 yrs,Female,Marketing,00-01 yrs,1
-Assam,Territory Manager,Metal,01-05-2016,25-30 yrs,Female,Marketing,00-01 yrs,1
-Jharkhand,Businees Development Executive,Infrastructure,01-09-2016,30-40 yrs,Female,Marketing,00-01 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-10-2016,30-40 yrs,Male,Sales,10+ yrs,1
-Jharkhand,Associate,Telecommunication,01-04-2016,25-30 yrs,Female,Support,10+ yrs,1
-Assam,Associate,Telecommunication,01-08-2016,30-40 yrs,Female,Sales,10+ yrs,1
-Delhi,Businees Development Executive,Metal,01-12-2016,30-40 yrs,Male,Marketing,00-01 yrs,1
-Assam,Associate,Telecommunication,01-11-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Delhi,Businees Development Executive,Retail,01-11-2016,30-40 yrs,Female,IT,02-05 yrs,1
-Delhi,Territory Manager,Finance,01-11-2016,25-30 yrs,Female,IT,01-02 yrs,1
-Assam,Relationship Manager,Retail,01-11-2016,25-30 yrs,Male,HR,01-02 yrs,1
-Delhi,Sales Executive,Infrastructure,01-02-2016,25-30 yrs,Male,Support,00-01 yrs,1
-Delhi,Relationship Manager,Metal,01-05-2016,25-30 yrs,Female,Support,02-05 yrs,1
-Delhi,Corporate Role,Telecommunication,01-12-2016,30-40 yrs,Male,Marketing,01-02 yrs,1
-Assam,Sales Executive,Finance,01-12-2016,20-25 yrs,Male,IT,00-01 yrs,1
-Delhi,Sales Executive,Retail,01-10-2016,20-25 yrs,Female,Finance,01-02 yrs,1
-Jharkhand,Relationship Manager,Retail,01-04-2016,20-25 yrs,Male,Finance,02-05 yrs,1
-Delhi,Relationship Manager,Retail,01-07-2016,25-30 yrs,Female,HR,10+ yrs,1
-Delhi,Administration Executive,Retail,01-02-2016,25-30 yrs,Female,Sales,05-10 yrs,1
-Jharkhand,Associate,Retail,01-02-2016,25-30 yrs,Female,Finance,10+ yrs,1
-Delhi,Businees Development Executive,Retail,01-09-2016,25-30 yrs,Female,Finance,01-02 yrs,1
-Assam,Sales Executive,Metal,01-05-2016,25-30 yrs,Male,Finance,10+ yrs,1
-Assam,Sales Executive,Infrastructure,01-03-2016,25-30 yrs,Female,Finance,01-02 yrs,1
-Jharkhand,Associate,Finance,01-02-2016,25-30 yrs,Female,Marketing,05-10 yrs,1
-Jharkhand,Sales Executive,Retail,01-08-2016,25-30 yrs,Female,HR,01-02 yrs,1
-Jharkhand,Territory Manager,Finance,01-10-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Assam,Associate,Retail,01-11-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Corporate Role,Retail,01-09-2016,30-40 yrs,Male,Sales,02-05 yrs,1
-Delhi,Territory Manager,Finance,01-02-2016,30-40 yrs,Female,Sales,05-10 yrs,1
-Delhi,Associate,Metal,01-02-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Associate,Finance,01-07-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Corporate Role,Metal,01-06-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Relationship Manager,Metal,01-11-2016,30-40 yrs,Female,Marketing,01-02 yrs,1
-Delhi,Relationship Manager,Retail,01-04-2016,20-25 yrs,Female,Sales,01-02 yrs,1
-Delhi,Administration Executive,Infrastructure,01-01-2016,20-25 yrs,Female,Marketing,05-10 yrs,1
-Delhi,Associate,Infrastructure,01-10-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Assam,Territory Manager,Retail,01-07-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-03-2016,20-25 yrs,Male,Marketing,10+ yrs,1
-Assam,Sales Executive,Finance,01-01-2016,25-30 yrs,Female,Support,00-01 yrs,1
-Assam,Relationship Manager,Retail,01-12-2016,25-30 yrs,Male,Finance,02-05 yrs,1
-Assam,Relationship Manager,Finance,01-04-2016,30-40 yrs,Male,Sales,02-05 yrs,1
-Assam,Associate,Retail,01-04-2016,30-40 yrs,Female,Finance,00-01 yrs,1
-Assam,Sales Executive,Retail,01-09-2016,20-25 yrs,Male,Sales,10+ yrs,1
-Assam,Administration Executive,Infrastructure,01-09-2016,20-25 yrs,Male,HR,01-02 yrs,1
-Delhi,Sales Executive,Retail,01-07-2016,20-25 yrs,Female,Support,01-02 yrs,1
-Assam,Associate,Power,01-04-2016,20-25 yrs,Female,Sales,10+ yrs,1
-Jharkhand,Sales Executive,Power,01-07-2016,20-25 yrs,Female,Support,02-05 yrs,1
-Jharkhand,Territory Manager,Power,01-07-2016,25-30 yrs,Male,Sales,05-10 yrs,1
-Assam,Businees Development Executive,Infrastructure,01-12-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Delhi,Associate,Retail,01-01-2016,25-30 yrs,Female,Marketing,00-01 yrs,1
-Delhi,Businees Development Executive,Power,01-04-2016,30-40 yrs,Male,IT,01-02 yrs,1
-Delhi,Relationship Manager,Retail,01-04-2016,30-40 yrs,Male,Finance,02-05 yrs,1
-Delhi,Territory Manager,Finance,01-01-2016,20-25 yrs,Male,IT,02-05 yrs,1
-Jharkhand,Associate,Retail,01-08-2016,20-25 yrs,Male,IT,00-01 yrs,1
-Delhi,Corporate Role,Power,01-01-2016,20-25 yrs,Female,Support,02-05 yrs,1
-Assam,Corporate Role,Telecommunication,01-06-2016,20-25 yrs,Male,Finance,05-10 yrs,1
-Assam,Administration Executive,Metal,01-03-2016,20-25 yrs,Female,Sales,10+ yrs,1
-Assam,Sales Executive,Metal,01-01-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Assam,Businees Development Executive,Telecommunication,01-03-2016,20-25 yrs,Female,Finance,02-05 yrs,1
-Jharkhand,Businees Development Executive,Telecommunication,01-08-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Relationship Manager,Finance,01-12-2016,20-25 yrs,Male,HR,10+ yrs,1
-Delhi,Relationship Manager,Finance,01-05-2016,20-25 yrs,Female,IT,00-01 yrs,1
-Assam,Territory Manager,Power,01-09-2016,20-25 yrs,Female,HR,02-05 yrs,1
-Delhi,Administration Executive,Power,01-08-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Sales Executive,Metal,01-02-2016,25-30 yrs,Female,Sales,02-05 yrs,1
-Assam,Associate,Retail,01-12-2016,25-30 yrs,Female,IT,10+ yrs,1
-Assam,Sales Executive,Metal,01-04-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Relationship Manager,Retail,01-04-2016,25-30 yrs,Female,Support,00-01 yrs,1
-Delhi,Businees Development Executive,Telecommunication,01-09-2016,25-30 yrs,Male,Marketing,10+ yrs,1
-Assam,Businees Development Executive,Finance,01-07-2016,25-30 yrs,Not categorized,Sales,00-01 yrs,1
-Assam,Associate,Finance,01-07-2016,20-25 yrs,Female,IT,00-01 yrs,1
-Assam,Corporate Role,Retail,01-05-2016,20-25 yrs,Male,Finance,00-01 yrs,1
-Delhi,Relationship Manager,Retail,01-03-2016,20-25 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Sales Executive,Retail,01-04-2016,20-25 yrs,Female,Support,00-01 yrs,1
-Jharkhand,Associate,Metal,01-12-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Associate,Finance,01-02-2016,20-25 yrs,Female,Finance,01-02 yrs,1
-Jharkhand,Corporate Role,Power,01-11-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Sales Executive,Finance,01-04-2016,25-30 yrs,Male,Finance,05-10 yrs,1
-Delhi,Administration Executive,Metal,01-08-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Assam,Businees Development Executive,Retail,01-08-2016,30-40 yrs,Male,HR,02-05 yrs,1
-Assam,Territory Manager,Retail,01-12-2016,30-40 yrs,Male,Support,00-01 yrs,1
-Delhi,Territory Manager,Power,01-12-2016,30-40 yrs,Female,Marketing,01-02 yrs,1
-Assam,Relationship Manager,Retail,01-03-2016,00-20 yrs,Female,Marketing,00-01 yrs,1
-Delhi,Businees Development Executive,Telecommunication,01-03-2016,20-25 yrs,Male,HR,05-10 yrs,1
-Assam,Relationship Manager,Metal,01-08-2016,20-25 yrs,Female,Sales,01-02 yrs,1
-Assam,Relationship Manager,Power,01-02-2016,20-25 yrs,Male,Finance,00-01 yrs,1
-Delhi,Territory Manager,Finance,01-05-2016,20-25 yrs,Male,HR,00-01 yrs,1
-Jharkhand,Businees Development Executive,Infrastructure,01-05-2016,20-25 yrs,Female,Marketing,02-05 yrs,1
-Delhi,Administration Executive,Power,01-12-2016,20-25 yrs,Male,Sales,10+ yrs,1
-Delhi,Territory Manager,Retail,01-09-2016,20-25 yrs,Female,Finance,10+ yrs,1
-Jharkhand,Associate,Retail,01-03-2016,20-25 yrs,Female,Support,02-05 yrs,1
-Delhi,Businees Development Executive,Finance,01-05-2016,20-25 yrs,Male,HR,10+ yrs,1
-Delhi,Territory Manager,Finance,01-03-2016,20-25 yrs,Female,Marketing,01-02 yrs,1
-Assam,Associate,Finance,01-01-2016,20-25 yrs,Female,Sales,00-01 yrs,1
-Assam,Corporate Role,Retail,01-06-2016,20-25 yrs,Male,IT,10+ yrs,1
-Assam,Associate,Power,01-12-2016,20-25 yrs,Female,Finance,00-01 yrs,1
-Delhi,Corporate Role,Metal,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Delhi,Administration Executive,Infrastructure,01-06-2016,25-30 yrs,Female,HR,01-02 yrs,1
-Delhi,Sales Executive,Finance,01-12-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Corporate Role,Retail,01-01-2016,25-30 yrs,Male,HR,05-10 yrs,1
-Delhi,Territory Manager,Infrastructure,01-08-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Assam,Associate,Metal,01-02-2016,25-30 yrs,Female,Finance,00-01 yrs,1
-Delhi,Relationship Manager,Finance,01-04-2016,25-30 yrs,Female,Finance,02-05 yrs,1
-Delhi,Territory Manager,Metal,01-02-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Relationship Manager,Retail,01-08-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Sales Executive,Retail,01-06-2016,25-30 yrs,Female,IT,00-01 yrs,1
-Delhi,Territory Manager,Retail,01-07-2016,20-25 yrs,Male,Support,00-01 yrs,1
-Jharkhand,Sales Executive,Finance,01-03-2016,20-25 yrs,Female,IT,01-02 yrs,1
-Assam,Businees Development Executive,Infrastructure,01-09-2016,20-25 yrs,Female,Finance,00-01 yrs,1
-Jharkhand,Sales Executive,Finance,01-09-2016,20-25 yrs,Male,Finance,05-10 yrs,1
-Assam,Relationship Manager,Retail,01-07-2016,20-25 yrs,Female,Sales,01-02 yrs,1
-Jharkhand,Businees Development Executive,Finance,01-05-2016,20-25 yrs,Male,Marketing,02-05 yrs,1
-Jharkhand,Sales Executive,Infrastructure,01-12-2016,20-25 yrs,Female,Sales,05-10 yrs,1
-Jharkhand,Associate,Finance,01-06-2016,20-25 yrs,Male,Marketing,02-05 yrs,1
-Delhi,Relationship Manager,Retail,01-03-2016,20-25 yrs,Female,IT,01-02 yrs,1
-Jharkhand,Associate,Metal,01-01-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Delhi,Sales Executive,Finance,01-05-2016,20-25 yrs,Male,Finance,01-02 yrs,1
-Assam,Sales Executive,Retail,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Sales Executive,Retail,01-12-2016,20-25 yrs,Female,Support,00-01 yrs,1
-Delhi,Businees Development Executive,Finance,01-01-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Assam,Businees Development Executive,Metal,01-02-2016,20-25 yrs,Female,Marketing,00-01 yrs,1
-Jharkhand,Territory Manager,Telecommunication,01-11-2016,20-25 yrs,Male,Support,00-01 yrs,1
-Delhi,Relationship Manager,Metal,01-01-2016,20-25 yrs,Female,Finance,00-01 yrs,1
-Jharkhand,Corporate Role,Finance,01-05-2016,20-25 yrs,Female,Sales,00-01 yrs,1
-Delhi,Territory Manager,Infrastructure,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Territory Manager,Infrastructure,01-01-2016,20-25 yrs,Male,Marketing,10+ yrs,1
-Jharkhand,Sales Executive,Finance,01-05-2016,25-30 yrs,Female,Support,00-01 yrs,1
-Assam,Businees Development Executive,Telecommunication,01-04-2016,25-30 yrs,Male,IT,10+ yrs,1
-Assam,Businees Development Executive,Metal,01-04-2016,25-30 yrs,Male,Finance,10+ yrs,1
-Assam,Corporate Role,Finance,01-02-2016,25-30 yrs,Male,IT,00-01 yrs,1
-Jharkhand,Administration Executive,Metal,01-12-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Associate,Metal,01-11-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Delhi,Sales Executive,Metal,01-09-2016,25-30 yrs,Male,IT,00-01 yrs,1
-Jharkhand,Associate,Retail,01-09-2016,25-30 yrs,Female,Marketing,00-01 yrs,1
-Jharkhand,Relationship Manager,Metal,01-10-2016,25-30 yrs,Female,Finance,01-02 yrs,1
-Delhi,Corporate Role,Power,01-06-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Sales Executive,Retail,01-01-2016,30-40 yrs,Male,Sales,10+ yrs,1
-Jharkhand,Administration Executive,Retail,01-07-2016,30-40 yrs,Female,Marketing,01-02 yrs,1
-Assam,Corporate Role,Finance,01-08-2016,20-25 yrs,Female,Marketing,00-01 yrs,1
-Delhi,Associate,Telecommunication,01-10-2016,20-25 yrs,Male,Sales,02-05 yrs,1
-Delhi,Territory Manager,Metal,01-12-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Associate,Finance,01-11-2016,25-30 yrs,Female,Finance,00-01 yrs,1
-Assam,Corporate Role,Metal,01-05-2016,25-30 yrs,Female,IT,01-02 yrs,1
-Assam,Sales Executive,Retail,01-06-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Sales Executive,Retail,01-09-2016,30-40 yrs,Female,Finance,01-02 yrs,1
-Delhi,Corporate Role,Infrastructure,01-10-2016,30-40 yrs,Female,Finance,00-01 yrs,1
-Assam,Sales Executive,Metal,01-11-2016,25-30 yrs,Female,Support,00-01 yrs,1
-Assam,Territory Manager,Retail,01-01-2016,20-25 yrs,Female,IT,00-01 yrs,1
-Assam,Businees Development Executive,Telecommunication,01-10-2016,20-25 yrs,Male,Support,02-05 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-11-2016,20-25 yrs,Male,Sales,05-10 yrs,1
-Assam,Associate,Retail,01-12-2016,20-25 yrs,Female,Marketing,01-02 yrs,1
-Delhi,Associate,Metal,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Delhi,Businees Development Executive,Retail,01-01-2016,25-30 yrs,Male,Support,00-01 yrs,1
-Delhi,Businees Development Executive,Retail,01-03-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Assam,Administration Executive,Finance,01-03-2016,25-30 yrs,Male,Sales,10+ yrs,1
-Delhi,Sales Executive,Infrastructure,01-03-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Relationship Manager,Metal,01-12-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Assam,Sales Executive,Telecommunication,01-04-2016,25-30 yrs,Male,Marketing,05-10 yrs,1
-Delhi,Territory Manager,Telecommunication,01-03-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Assam,Businees Development Executive,Finance,01-02-2016,25-30 yrs,Male,Finance,05-10 yrs,1
-Jharkhand,Corporate Role,Retail,01-09-2016,25-30 yrs,Not categorized,IT,00-01 yrs,1
-Assam,Sales Executive,Retail,01-07-2016,30-40 yrs,Female,Sales,02-05 yrs,1
-Jharkhand,Associate,Retail,01-08-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Assam,Sales Executive,Metal,01-11-2016,30-40 yrs,Female,HR,01-02 yrs,1
-Jharkhand,Territory Manager,Telecommunication,01-09-2016,30-40 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-12-2016,30-40 yrs,Male,Marketing,05-10 yrs,1
-Assam,Administration Executive,Retail,01-03-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Corporate Role,Finance,01-05-2016,30-40 yrs,Male,IT,02-05 yrs,1
-Delhi,Businees Development Executive,Telecommunication,01-01-2016,30-40 yrs,Male,HR,01-02 yrs,1
-Jharkhand,Corporate Role,Finance,01-08-2016,30-40 yrs,Female,Support,00-01 yrs,1
-Assam,Sales Executive,Retail,01-05-2016,30-40 yrs,Male,IT,01-02 yrs,1
-Jharkhand,Territory Manager,Retail,01-07-2016,20-25 yrs,Female,Sales,02-05 yrs,1
-Jharkhand,Associate,Telecommunication,01-01-2016,20-25 yrs,Male,Marketing,00-01 yrs,1
-Assam,Associate,Metal,01-05-2016,20-25 yrs,Male,Support,01-02 yrs,1
-Delhi,Relationship Manager,Retail,01-05-2016,20-25 yrs,Male,IT,02-05 yrs,1
-Assam,Relationship Manager,Power,01-08-2016,25-30 yrs,Male,IT,02-05 yrs,1
-Assam,Administration Executive,Metal,01-04-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Administration Executive,Finance,01-03-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Sales Executive,Retail,01-10-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Sales Executive,Telecommunication,01-11-2016,25-30 yrs,Female,Support,00-01 yrs,1
-Assam,Businees Development Executive,Retail,01-04-2016,25-30 yrs,Female,Finance,00-01 yrs,1
-Assam,Businees Development Executive,Infrastructure,01-12-2016,25-30 yrs,Male,Support,02-05 yrs,1
-Assam,Relationship Manager,Metal,01-10-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Delhi,Territory Manager,Infrastructure,01-04-2016,25-30 yrs,Not categorized,Finance,01-02 yrs,1
-Assam,Territory Manager,Finance,01-08-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Delhi,Associate,Metal,01-06-2016,30-40 yrs,Male,IT,01-02 yrs,1
-Jharkhand,Businees Development Executive,Telecommunication,01-02-2016,30-40 yrs,Male,IT,02-05 yrs,1
-Delhi,Sales Executive,Metal,01-01-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Associate,Telecommunication,01-06-2016,30-40 yrs,Female,Sales,01-02 yrs,1
-Delhi,Sales Executive,Infrastructure,01-09-2016,30-40 yrs,Female,Sales,05-10 yrs,1
-Assam,Administration Executive,Finance,01-06-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Territory Manager,Retail,01-12-2016,30-40 yrs,Not categorized,Sales,02-05 yrs,1
-Assam,Sales Executive,Finance,01-03-2016,20-25 yrs,Male,Support,00-01 yrs,1
-Jharkhand,Relationship Manager,Telecommunication,01-01-2016,20-25 yrs,Male,Finance,00-01 yrs,1
-Delhi,Sales Executive,Retail,01-12-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Assam,Associate,Metal,01-12-2016,25-30 yrs,Male,HR,00-01 yrs,1
-Jharkhand,Sales Executive,Retail,01-01-2016,25-30 yrs,Male,IT,00-01 yrs,1
-Assam,Relationship Manager,Finance,01-09-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Administration Executive,Finance,01-03-2016,25-30 yrs,Male,Support,00-01 yrs,1
-Assam,Territory Manager,Retail,01-05-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Territory Manager,Finance,01-06-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Delhi,Territory Manager,Finance,01-10-2016,25-30 yrs,Male,IT,00-01 yrs,1
-Jharkhand,Corporate Role,Retail,01-01-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Delhi,Relationship Manager,Infrastructure,01-01-2016,25-30 yrs,Not categorized,IT,10+ yrs,1
-Assam,Administration Executive,Infrastructure,01-03-2016,30-40 yrs,Male,Finance,10+ yrs,1
-Jharkhand,Associate,Telecommunication,01-01-2016,30-40 yrs,Male,Support,02-05 yrs,1
-Assam,Sales Executive,Metal,01-04-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Assam,Sales Executive,Retail,01-03-2016,30-40 yrs,Male,Marketing,10+ yrs,1
-Jharkhand,Associate,Telecommunication,01-04-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Delhi,Businees Development Executive,Metal,01-06-2016,30-40 yrs,Female,IT,00-01 yrs,1
-Delhi,Businees Development Executive,Power,01-10-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Assam,Territory Manager,Retail,01-12-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Delhi,Territory Manager,Retail,01-08-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Assam,Administration Executive,Power,01-02-2016,25-30 yrs,Male,Marketing,10+ yrs,1
-Delhi,Corporate Role,Finance,01-10-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Assam,Territory Manager,Metal,01-07-2016,25-30 yrs,Female,Marketing,05-10 yrs,1
-Jharkhand,Territory Manager,Metal,01-08-2016,30-40 yrs,Female,Marketing,00-01 yrs,1
-Delhi,Associate,Metal,01-02-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Corporate Role,Finance,01-01-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Territory Manager,Telecommunication,01-10-2016,30-40 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Associate,Telecommunication,01-03-2016,30-40 yrs,Female,Sales,02-05 yrs,1
-Jharkhand,Relationship Manager,Retail,01-04-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Assam,Businees Development Executive,Metal,01-09-2016,20-25 yrs,Female,Marketing,00-01 yrs,1
-Assam,Relationship Manager,Infrastructure,01-11-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Associate,Retail,01-11-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Assam,Businees Development Executive,Metal,01-05-2016,25-30 yrs,Female,HR,10+ yrs,1
-Assam,Relationship Manager,Retail,01-03-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Associate,Finance,01-06-2016,30-40 yrs,Male,Sales,10+ yrs,1
-Jharkhand,Sales Executive,Power,01-01-2016,20-25 yrs,Male,Support,02-05 yrs,1
-Jharkhand,Sales Executive,Telecommunication,01-08-2016,20-25 yrs,Male,IT,00-01 yrs,1
-Jharkhand,Businees Development Executive,Metal,01-09-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Delhi,Relationship Manager,Finance,01-08-2016,25-30 yrs,Male,HR,02-05 yrs,1
-Delhi,Relationship Manager,Power,01-05-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Businees Development Executive,Finance,01-08-2016,25-30 yrs,Male,Marketing,02-05 yrs,1
-Assam,Corporate Role,Metal,01-03-2016,25-30 yrs,Male,Support,01-02 yrs,1
-Delhi,Administration Executive,Telecommunication,01-11-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Delhi,Administration Executive,Finance,01-01-2016,30-40 yrs,Male,Finance,10+ yrs,1
-Assam,Associate,Metal,01-11-2016,20-25 yrs,Male,Sales,02-05 yrs,1
-Delhi,Sales Executive,Retail,01-12-2016,20-25 yrs,Male,HR,00-01 yrs,1
-Delhi,Associate,Finance,01-04-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Delhi,Associate,Retail,01-01-2016,25-30 yrs,Male,Sales,10+ yrs,1
-Delhi,Relationship Manager,Retail,01-02-2016,25-30 yrs,Male,Marketing,02-05 yrs,1
-Delhi,Administration Executive,Infrastructure,01-11-2016,30-40 yrs,Male,IT,01-02 yrs,1
-Jharkhand,Associate,Retail,01-04-2016,20-25 yrs,Male,HR,01-02 yrs,1
-Assam,Businees Development Executive,Retail,01-02-2016,20-25 yrs,Female,IT,01-02 yrs,1
-Delhi,Relationship Manager,Retail,01-07-2016,20-25 yrs,Male,HR,05-10 yrs,1
-Delhi,Territory Manager,Retail,01-04-2016,20-25 yrs,Female,Sales,01-02 yrs,1
-Delhi,Associate,Retail,01-08-2016,20-25 yrs,Male,Support,02-05 yrs,1
-Assam,Corporate Role,Metal,01-07-2016,25-30 yrs,Female,Sales,05-10 yrs,1
-Delhi,Relationship Manager,Retail,01-02-2016,25-30 yrs,Female,Sales,00-01 yrs,1
-Jharkhand,Administration Executive,Finance,01-01-2016,25-30 yrs,Male,Finance,05-10 yrs,1
-Delhi,Associate,Retail,01-05-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Territory Manager,Finance,01-02-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Territory Manager,Finance,01-05-2016,25-30 yrs,Male,Sales,10+ yrs,1
-Assam,Corporate Role,Finance,01-09-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Sales Executive,Finance,01-09-2016,30-40 yrs,Male,Finance,02-05 yrs,1
-Assam,Relationship Manager,Power,01-09-2016,00-20 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Relationship Manager,Retail,01-01-2016,20-25 yrs,Male,HR,01-02 yrs,1
-Jharkhand,Associate,Finance,01-09-2016,20-25 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Relationship Manager,Finance,01-10-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Associate,Telecommunication,01-10-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Assam,Sales Executive,Finance,01-10-2016,25-30 yrs,Male,Support,05-10 yrs,1
-Jharkhand,Relationship Manager,Metal,01-05-2016,25-30 yrs,Male,Marketing,02-05 yrs,1
-Delhi,Associate,Finance,01-12-2016,40-50 yrs,Male,Marketing,00-01 yrs,1
-Assam,Territory Manager,Infrastructure,01-03-2016,20-25 yrs,Male,IT,01-02 yrs,1
-Assam,Relationship Manager,Infrastructure,01-09-2016,20-25 yrs,Male,Marketing,00-01 yrs,1
-Assam,Sales Executive,Finance,01-01-2016,20-25 yrs,Male,HR,02-05 yrs,1
-Jharkhand,Relationship Manager,Metal,01-08-2016,20-25 yrs,Male,IT,01-02 yrs,1
-Assam,Sales Executive,Telecommunication,01-12-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Delhi,Relationship Manager,Metal,01-12-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Assam,Relationship Manager,Telecommunication,01-06-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Jharkhand,Relationship Manager,Finance,01-08-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Assam,Businees Development Executive,Metal,01-05-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Delhi,Territory Manager,Metal,01-04-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Assam,Sales Executive,Finance,01-10-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Assam,Corporate Role,Power,01-11-2016,30-40 yrs,Male,Sales,10+ yrs,1
-Delhi,Administration Executive,Infrastructure,01-03-2016,40-50 yrs,Male,Finance,02-05 yrs,1
-Delhi,Businees Development Executive,Metal,01-09-2016,20-25 yrs,Male,HR,00-01 yrs,1
-Delhi,Sales Executive,Retail,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Businees Development Executive,Telecommunication,01-02-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Assam,Administration Executive,Retail,01-04-2016,25-30 yrs,Male,Finance,05-10 yrs,1
-Jharkhand,Territory Manager,Telecommunication,01-07-2016,25-30 yrs,Male,Sales,10+ yrs,1
-Delhi,Associate,Finance,01-08-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Delhi,Associate,Finance,01-09-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Delhi,Businees Development Executive,Finance,01-02-2016,25-30 yrs,Male,Sales,05-10 yrs,1
-Delhi,Associate,Infrastructure,01-03-2016,25-30 yrs,Male,HR,02-05 yrs,1
-Assam,Administration Executive,Finance,01-02-2016,25-30 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Administration Executive,Metal,01-06-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Delhi,Associate,Finance,01-10-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Jharkhand,Administration Executive,Metal,01-12-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Delhi,Relationship Manager,Finance,01-04-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Relationship Manager,Retail,01-02-2016,00-20 yrs,Male,HR,05-10 yrs,1
-Jharkhand,Associate,Power,01-06-2016,20-25 yrs,Male,Sales,10+ yrs,1
-Delhi,Associate,Metal,01-03-2016,20-25 yrs,Male,Sales,10+ yrs,1
-Delhi,Businees Development Executive,Finance,01-01-2016,20-25 yrs,Male,IT,00-01 yrs,1
-Delhi,Businees Development Executive,Finance,01-05-2016,20-25 yrs,Male,Sales,01-02 yrs,1
-Delhi,Sales Executive,Infrastructure,01-01-2016,20-25 yrs,Male,HR,01-02 yrs,1
-Delhi,Associate,Infrastructure,01-01-2016,20-25 yrs,Male,Finance,01-02 yrs,1
-Assam,Associate,Retail,01-08-2016,25-30 yrs,Male,Marketing,02-05 yrs,1
-Delhi,Associate,Retail,01-06-2016,25-30 yrs,Male,Sales,10+ yrs,1
-Delhi,Associate,Retail,01-09-2016,25-30 yrs,Male,HR,01-02 yrs,1
-Assam,Sales Executive,Finance,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Sales Executive,Telecommunication,01-05-2016,25-30 yrs,Male,Marketing,10+ yrs,1
-Delhi,Businees Development Executive,Power,01-06-2016,30-40 yrs,Male,IT,00-01 yrs,1
-Delhi,Sales Executive,Metal,01-06-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Jharkhand,Corporate Role,Finance,01-03-2016,20-25 yrs,Male,Sales,05-10 yrs,1
-Delhi,Relationship Manager,Power,01-05-2016,20-25 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Relationship Manager,Power,01-01-2016,20-25 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Territory Manager,Metal,01-07-2016,20-25 yrs,Male,IT,01-02 yrs,1
-Delhi,Relationship Manager,Power,01-07-2016,20-25 yrs,Female,Support,01-02 yrs,1
-Assam,Businees Development Executive,Telecommunication,01-01-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Territory Manager,Retail,01-11-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Sales Executive,Power,01-07-2016,20-25 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Corporate Role,Retail,01-03-2016,20-25 yrs,Female,Marketing,01-02 yrs,1
-Jharkhand,Administration Executive,Retail,01-03-2016,25-30 yrs,Male,Marketing,01-02 yrs,1
-Delhi,Corporate Role,Infrastructure,01-02-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Sales Executive,Metal,01-10-2016,25-30 yrs,Female,Finance,01-02 yrs,1
-Delhi,Territory Manager,Finance,01-07-2016,30-40 yrs,Male,Support,01-02 yrs,1
-Jharkhand,Sales Executive,Power,01-05-2016,30-40 yrs,Male,Finance,10+ yrs,1
-Assam,Relationship Manager,Infrastructure,01-06-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Administration Executive,Retail,01-05-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Assam,Relationship Manager,Metal,01-01-2016,30-40 yrs,Male,Sales,00-01 yrs,1
-Delhi,Corporate Role,Telecommunication,01-07-2016,30-40 yrs,Male,Support,00-01 yrs,1
-Assam,Corporate Role,Finance,01-03-2016,20-25 yrs,Male,Marketing,00-01 yrs,1
-Delhi,Sales Executive,Finance,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Relationship Manager,Metal,01-01-2016,25-30 yrs,Female,Sales,02-05 yrs,1
-Jharkhand,Corporate Role,Metal,01-08-2016,25-30 yrs,Female,Finance,02-05 yrs,1
-Delhi,Relationship Manager,Power,01-10-2016,25-30 yrs,Male,HR,00-01 yrs,1
-Assam,Relationship Manager,Power,01-05-2016,20-25 yrs,Male,Sales,00-01 yrs,1
-Delhi,Relationship Manager,Retail,01-11-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Delhi,Associate,Finance,01-11-2016,20-25 yrs,Female,Support,00-01 yrs,1
-Delhi,Associate,Retail,01-11-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Jharkhand,Associate,Retail,01-09-2016,30-40 yrs,Male,Marketing,01-02 yrs,1
-Assam,Corporate Role,Power,01-02-2016,25-30 yrs,Male,HR,10+ yrs,1
-Jharkhand,Sales Executive,Telecommunication,01-02-2016,20-25 yrs,Female,Sales,01-02 yrs,1
-Delhi,Territory Manager,Power,01-04-2016,25-30 yrs,Male,Sales,10+ yrs,1
-Jharkhand,Administration Executive,Metal,01-07-2016,30-40 yrs,Male,HR,00-01 yrs,1
-Delhi,Associate,Telecommunication,01-11-2016,30-40 yrs,Male,IT,10+ yrs,1
-Jharkhand,Sales Executive,Retail,01-05-2016,30-40 yrs,Male,Sales,01-02 yrs,1
-Assam,Administration Executive,Metal,01-10-2016,30-40 yrs,Male,IT,00-01 yrs,1
-Delhi,Businees Development Executive,Retail,01-02-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Delhi,Sales Executive,Finance,01-07-2016,20-25 yrs,Male,HR,05-10 yrs,1
-Jharkhand,Territory Manager,Power,01-10-2016,20-25 yrs,Female,Support,05-10 yrs,1
-Jharkhand,Sales Executive,Metal,01-05-2016,25-30 yrs,Male,Finance,00-01 yrs,1
-Jharkhand,Territory Manager,Finance,01-10-2016,20-25 yrs,Male,HR,00-01 yrs,1
-Jharkhand,Sales Executive,Retail,01-01-2016,20-25 yrs,Male,Finance,01-02 yrs,1
-Delhi,Associate,Finance,01-06-2016,20-25 yrs,Female,Sales,10+ yrs,1
-Jharkhand,Territory Manager,Finance,01-11-2016,25-30 yrs,Male,Marketing,00-01 yrs,1
-Assam,Corporate Role,Metal,01-08-2016,30-40 yrs,Male,Finance,01-02 yrs,1
-Delhi,Relationship Manager,Retail,01-06-2016,30-40 yrs,Male,Marketing,00-01 yrs,1
-Jharkhand,Sales Executive,Telecommunication,01-12-2016,25-30 yrs,Male,Finance,05-10 yrs,1
-Delhi,Associate,Power,01-11-2016,25-30 yrs,Male,Sales,02-05 yrs,1
-Jharkhand,Sales Executive,Infrastructure,01-03-2016,25-30 yrs,Female,Marketing,02-05 yrs,1
-Jharkhand,Territory Manager,Metal,01-10-2016,30-40 yrs,Male,Finance,00-01 yrs,1
-Assam,Relationship Manager,Metal,01-05-2016,30-40 yrs,Male,Marketing,05-10 yrs,1
-Jharkhand,Relationship Manager,Telecommunication,01-12-2016,20-25 yrs,Female,Finance,01-02 yrs,1
-Delhi,Territory Manager,Retail,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Delhi,Associate,Power,01-06-2016,25-30 yrs,Male,Sales,01-02 yrs,1
-Assam,Associate,Infrastructure,01-03-2016,25-30 yrs,Female,Sales,01-02 yrs,1
-Assam,Businees Development Executive,Power,01-04-2016,25-30 yrs,Male,Sales,00-01 yrs,1
-Assam,Administration Executive,Metal,01-06-2016,25-30 yrs,Male,Finance,02-05 yrs,1
+m1,m2,m3,m4,m5,m6,m7,m8,value,engagement
+Assam,Associate,Finance,01-08-2016,30-40 yrs,Male,Sales,00-01 yrs,1,2
+Delhi,Associate,Finance,01-03-2016,25-30 yrs,Female,Marketing,01-02 yrs,1,2
+Assam,Associate,Infrastructure,01-12-2016,25-30 yrs,Male,IT,00-01 yrs,1,2
+Assam,Relationship Manager,Finance,01-01-2016,30-40 yrs,Male,Sales,01-02 yrs,1,4
+Assam,Relationship Manager,Finance,01-10-2016,30-40 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Sales Executive,Telecommunication,01-05-2016,30-40 yrs,Male,Marketing,00-01 yrs,1,2
+Assam,Administration Executive,Metal,01-09-2016,30-40 yrs,Male,Marketing,01-02 yrs,1,4
+Jharkhand,Sales Executive,Retail,01-09-2016,20-25 yrs,Male,Support,00-01 yrs,1,2
+Delhi,Territory Manager,Finance,01-04-2016,20-25 yrs,Male,Finance,05-10 yrs,1,3
+Delhi,Territory Manager,Finance,01-11-2016,20-25 yrs,Female,Support,00-01 yrs,1,4
+Jharkhand,Corporate Role,Retail,01-09-2016,20-25 yrs,Male,Sales,00-01 yrs,1,4
+Delhi,Associate,Retail,01-04-2016,20-25 yrs,Female,HR,00-01 yrs,1,4
+Assam,Businees Development Executive,Telecommunication,01-04-2016,20-25 yrs,Male,Marketing,00-01 yrs,1,3
+Delhi,Territory Manager,Retail,01-07-2016,20-25 yrs,Male,Sales,00-01 yrs,1,5
+Assam,Administration Executive,Retail,01-09-2016,20-25 yrs,Male,Marketing,10+ yrs,1,1
+Assam,Businees Development Executive,Retail,01-07-2016,20-25 yrs,Female,IT,00-01 yrs,1,3
+Assam,Businees Development Executive,Finance,01-04-2016,20-25 yrs,Female,Sales,02-05 yrs,1,3
+Delhi,Businees Development Executive,Power,01-08-2016,20-25 yrs,Female,Sales,10+ yrs,1,1
+Delhi,Administration Executive,Finance,01-10-2016,25-30 yrs,Male,Support,01-02 yrs,1,2
+Assam,Administration Executive,Finance,01-01-2016,25-30 yrs,Male,Sales,02-05 yrs,1,2
+Jharkhand,Corporate Role,Retail,01-12-2016,25-30 yrs,Male,IT,01-02 yrs,1,2
+Delhi,Sales Executive,Telecommunication,01-12-2016,25-30 yrs,Female,Marketing,10+ yrs,1,2
+Jharkhand,Administration Executive,Metal,01-06-2016,25-30 yrs,Male,Finance,00-01 yrs,1,1
+Delhi,Relationship Manager,Retail,01-09-2016,25-30 yrs,Male,Sales,01-02 yrs,1,5
+Jharkhand,Corporate Role,Metal,01-09-2016,25-30 yrs,Male,Finance,10+ yrs,1,1
+Delhi,Corporate Role,Retail,01-02-2016,25-30 yrs,Female,IT,01-02 yrs,1,4
+Delhi,Sales Executive,Metal,01-11-2016,25-30 yrs,Male,Finance,00-01 yrs,1,3
+Assam,Territory Manager,Metal,01-03-2016,30-40 yrs,Male,Finance,00-01 yrs,1,2
+Delhi,Territory Manager,Metal,01-06-2016,30-40 yrs,Male,Sales,02-05 yrs,1,5
+Delhi,Relationship Manager,Finance,01-05-2016,30-40 yrs,Male,HR,01-02 yrs,1,4
+Jharkhand,Administration Executive,Retail,01-06-2016,30-40 yrs,Male,IT,00-01 yrs,1,5
+Jharkhand,Relationship Manager,Retail,01-12-2016,30-40 yrs,Female,Sales,01-02 yrs,1,3
+Assam,Sales Executive,Power,01-03-2016,30-40 yrs,Male,Marketing,01-02 yrs,1,1
+Delhi,Administration Executive,Finance,01-04-2016,30-40 yrs,Male,Finance,02-05 yrs,1,5
+Delhi,Associate,Metal,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Sales Executive,Finance,01-07-2016,25-30 yrs,Female,Sales,00-01 yrs,1,2
+Jharkhand,Relationship Manager,Telecommunication,01-03-2016,20-25 yrs,Male,Sales,05-10 yrs,1,4
+Assam,Businees Development Executive,Infrastructure,01-08-2016,20-25 yrs,Female,Sales,01-02 yrs,1,1
+Jharkhand,Associate,Metal,01-01-2016,20-25 yrs,Female,Finance,05-10 yrs,1,3
+Delhi,Businees Development Executive,Telecommunication,01-02-2016,20-25 yrs,Male,Support,00-01 yrs,1,3
+Jharkhand,Associate,Metal,01-11-2016,20-25 yrs,Male,Finance,00-01 yrs,1,4
+Jharkhand,Relationship Manager,Metal,01-03-2016,20-25 yrs,Male,Support,05-10 yrs,1,5
+Delhi,Businees Development Executive,Telecommunication,01-02-2016,25-30 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Associate,Finance,01-07-2016,30-40 yrs,Male,Finance,01-02 yrs,1,5
+Assam,Corporate Role,Finance,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Businees Development Executive,Infrastructure,01-06-2016,25-30 yrs,Male,Support,01-02 yrs,1,5
+Jharkhand,Businees Development Executive,Metal,01-02-2016,30-40 yrs,Male,Sales,02-05 yrs,1,5
+Delhi,Relationship Manager,Finance,01-05-2016,30-40 yrs,Male,Support,10+ yrs,1,4
+Delhi,Businees Development Executive,Telecommunication,01-10-2016,30-40 yrs,Male,Sales,01-02 yrs,1,2
+Jharkhand,Administration Executive,Retail,01-06-2016,30-40 yrs,Male,Marketing,00-01 yrs,1,5
+Jharkhand,Sales Executive,Finance,01-12-2016,30-40 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Businees Development Executive,Retail,01-12-2016,30-40 yrs,Male,Marketing,02-05 yrs,1,5
+Jharkhand,Relationship Manager,Telecommunication,01-11-2016,30-40 yrs,Male,Marketing,10+ yrs,1,2
+Delhi,Territory Manager,Metal,01-02-2016,30-40 yrs,Male,Sales,10+ yrs,1,1
+Jharkhand,Businees Development Executive,Finance,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1,5
+Assam,Territory Manager,Finance,01-08-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,2
+Jharkhand,Relationship Manager,Retail,01-04-2016,30-40 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Associate,Retail,01-08-2016,30-40 yrs,Male,HR,01-02 yrs,1,2
+Assam,Territory Manager,Finance,01-11-2016,20-25 yrs,Male,HR,02-05 yrs,1,1
+Assam,Businees Development Executive,Power,01-06-2016,20-25 yrs,Male,HR,00-01 yrs,1,1
+Assam,Associate,Retail,01-06-2016,25-30 yrs,Male,HR,00-01 yrs,1,3
+Assam,Businees Development Executive,Finance,01-12-2016,25-30 yrs,Female,Sales,00-01 yrs,1,3
+Jharkhand,Associate,Retail,01-07-2016,25-30 yrs,Male,Finance,01-02 yrs,1,5
+Jharkhand,Associate,Finance,01-06-2016,20-25 yrs,Male,Marketing,00-01 yrs,1,3
+Assam,Territory Manager,Retail,01-02-2016,20-25 yrs,Female,Finance,01-02 yrs,1,4
+Assam,Administration Executive,Retail,01-07-2016,25-30 yrs,Male,Marketing,02-05 yrs,1,5
+Jharkhand,Sales Executive,Infrastructure,01-01-2016,30-40 yrs,Male,Finance,00-01 yrs,1,2
+Delhi,Corporate Role,Telecommunication,01-09-2016,20-25 yrs,Female,Finance,02-05 yrs,1,2
+Jharkhand,Businees Development Executive,Finance,01-09-2016,20-25 yrs,Male,Finance,00-01 yrs,1,2
+Assam,Associate,Finance,01-05-2016,25-30 yrs,Male,Support,01-02 yrs,1,3
+Jharkhand,Sales Executive,Metal,01-12-2016,25-30 yrs,Female,Support,10+ yrs,1,2
+Assam,Associate,Power,01-05-2016,25-30 yrs,Female,Finance,00-01 yrs,1,1
+Delhi,Territory Manager,Retail,01-04-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,5
+Assam,Corporate Role,Retail,01-03-2016,25-30 yrs,Male,Finance,00-01 yrs,1,2
+Delhi,Sales Executive,Infrastructure,01-04-2016,20-25 yrs,Male,Sales,01-02 yrs,1,3
+Jharkhand,Corporate Role,Finance,01-04-2016,20-25 yrs,Male,HR,00-01 yrs,1,4
+Assam,Administration Executive,Finance,01-01-2016,20-25 yrs,Male,Finance,00-01 yrs,1,3
+Delhi,Administration Executive,Finance,01-10-2016,20-25 yrs,Female,Marketing,00-01 yrs,1,3
+Jharkhand,Territory Manager,Power,01-11-2016,25-30 yrs,Male,Support,05-10 yrs,1,1
+Assam,Relationship Manager,Retail,01-10-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Jharkhand,Relationship Manager,Metal,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1,2
+Jharkhand,Associate,Infrastructure,01-05-2016,25-30 yrs,Male,HR,00-01 yrs,1,4
+Delhi,Sales Executive,Metal,01-02-2016,30-40 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Administration Executive,Finance,01-05-2016,20-25 yrs,Male,Marketing,02-05 yrs,1,3
+Delhi,Relationship Manager,Retail,01-07-2016,20-25 yrs,Male,Sales,00-01 yrs,1,2
+Delhi,Relationship Manager,Finance,01-02-2016,20-25 yrs,Female,Marketing,00-01 yrs,1,4
+Jharkhand,Relationship Manager,Infrastructure,01-05-2016,20-25 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Sales Executive,Retail,01-07-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,3
+Delhi,Businees Development Executive,Retail,01-08-2016,25-30 yrs,Female,HR,00-01 yrs,1,4
+Delhi,Sales Executive,Metal,01-07-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,1
+Assam,Sales Executive,Metal,01-04-2016,25-30 yrs,Male,Sales,01-02 yrs,1,5
+Delhi,Administration Executive,Metal,01-01-2016,25-30 yrs,Male,Sales,02-05 yrs,1,5
+Jharkhand,Associate,Retail,01-02-2016,25-30 yrs,Male,Sales,01-02 yrs,1,4
+Assam,Sales Executive,Retail,01-04-2016,25-30 yrs,Male,IT,00-01 yrs,1,3
+Assam,Associate,Telecommunication,01-01-2016,20-25 yrs,Female,Support,00-01 yrs,1,2
+Delhi,Sales Executive,Finance,01-10-2016,20-25 yrs,Male,Sales,01-02 yrs,1,1
+Assam,Corporate Role,Retail,01-02-2016,20-25 yrs,Male,Support,00-01 yrs,1,3
+Assam,Administration Executive,Metal,01-06-2016,20-25 yrs,Male,Sales,05-10 yrs,1,4
+Assam,Sales Executive,Infrastructure,01-12-2016,20-25 yrs,Female,Sales,00-01 yrs,1,1
+Assam,Associate,Infrastructure,01-11-2016,25-30 yrs,Male,Sales,02-05 yrs,1,4
+Jharkhand,Relationship Manager,Telecommunication,01-05-2016,25-30 yrs,Male,Support,00-01 yrs,1,1
+Delhi,Associate,Retail,01-07-2016,25-30 yrs,Male,Marketing,02-05 yrs,1,2
+Assam,Associate,Power,01-08-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,3
+Delhi,Territory Manager,Retail,01-01-2016,25-30 yrs,Female,Marketing,01-02 yrs,1,2
+Jharkhand,Territory Manager,Power,01-04-2016,25-30 yrs,Male,Sales,02-05 yrs,1,3
+Jharkhand,Businees Development Executive,Metal,01-03-2016,30-40 yrs,Male,Sales,00-01 yrs,1,5
+Jharkhand,Sales Executive,Power,01-03-2016,20-25 yrs,Male,IT,01-02 yrs,1,1
+Delhi,Relationship Manager,Retail,01-11-2016,20-25 yrs,Female,Finance,05-10 yrs,1,5
+Jharkhand,Associate,Metal,01-09-2016,20-25 yrs,Male,Sales,00-01 yrs,1,1
+Delhi,Relationship Manager,Telecommunication,01-10-2016,20-25 yrs,Male,Marketing,10+ yrs,1,4
+Assam,Relationship Manager,Retail,01-02-2016,20-25 yrs,Male,Sales,00-01 yrs,1,5
+Jharkhand,Businees Development Executive,Retail,01-03-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,5
+Jharkhand,Corporate Role,Retail,01-03-2016,20-25 yrs,Male,Sales,01-02 yrs,1,3
+Jharkhand,Sales Executive,Retail,01-02-2016,20-25 yrs,Male,Finance,05-10 yrs,1,3
+Jharkhand,Territory Manager,Retail,01-08-2016,25-30 yrs,Male,Sales,00-01 yrs,1,5
+Jharkhand,Administration Executive,Infrastructure,01-01-2016,25-30 yrs,Female,Sales,01-02 yrs,1,3
+Delhi,Sales Executive,Power,01-03-2016,25-30 yrs,Female,Support,00-01 yrs,1,3
+Jharkhand,Sales Executive,Power,01-09-2016,30-40 yrs,Male,Marketing,00-01 yrs,1,2
+Jharkhand,Associate,Telecommunication,01-09-2016,30-40 yrs,Male,Marketing,05-10 yrs,1,4
+Delhi,Administration Executive,Finance,01-02-2016,30-40 yrs,Male,Finance,10+ yrs,1,1
+Jharkhand,Businees Development Executive,Power,01-02-2016,30-40 yrs,Male,Marketing,02-05 yrs,1,5
+Delhi,Associate,Infrastructure,01-08-2016,30-40 yrs,Male,Sales,05-10 yrs,1,5
+Delhi,Sales Executive,Metal,01-01-2016,40-50 yrs,Male,Sales,01-02 yrs,1,5
+Delhi,Businees Development Executive,Infrastructure,01-05-2016,30-40 yrs,Male,Support,05-10 yrs,1,3
+Delhi,Administration Executive,Power,01-10-2016,30-40 yrs,Male,Marketing,00-01 yrs,1,5
+Assam,Territory Manager,Retail,01-06-2016,30-40 yrs,Male,Sales,00-01 yrs,1,4
+Jharkhand,Territory Manager,Retail,01-03-2016,25-30 yrs,Male,HR,05-10 yrs,1,4
+Jharkhand,Territory Manager,Telecommunication,01-03-2016,30-40 yrs,Female,Sales,00-01 yrs,1,5
+Delhi,Territory Manager,Retail,01-12-2016,00-20 yrs,Not categorized,Sales,05-10 yrs,1,4
+Assam,Territory Manager,Metal,01-11-2016,30-40 yrs,Male,IT,01-02 yrs,1,5
+Jharkhand,Corporate Role,Metal,01-03-2016,25-30 yrs,Male,Marketing,10+ yrs,1,3
+Jharkhand,Sales Executive,Telecommunication,01-03-2016,20-25 yrs,Female,Finance,00-01 yrs,1,3
+Assam,Relationship Manager,Infrastructure,01-01-2016,30-40 yrs,Male,IT,00-01 yrs,1,3
+Jharkhand,Administration Executive,Metal,01-07-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,4
+Jharkhand,Relationship Manager,Finance,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1,3
+Jharkhand,Sales Executive,Finance,01-12-2016,20-25 yrs,Male,Marketing,02-05 yrs,1,5
+Jharkhand,Businees Development Executive,Finance,01-04-2016,20-25 yrs,Male,Sales,00-01 yrs,1,1
+Jharkhand,Sales Executive,Telecommunication,01-01-2016,20-25 yrs,Female,Support,00-01 yrs,1,5
+Delhi,Associate,Metal,01-05-2016,25-30 yrs,Male,HR,02-05 yrs,1,2
+Assam,Associate,Metal,01-10-2016,25-30 yrs,Female,Marketing,00-01 yrs,1,2
+Assam,Territory Manager,Metal,01-05-2016,25-30 yrs,Female,Marketing,00-01 yrs,1,2
+Jharkhand,Businees Development Executive,Infrastructure,01-09-2016,30-40 yrs,Female,Marketing,00-01 yrs,1,1
+Jharkhand,Businees Development Executive,Metal,01-10-2016,30-40 yrs,Male,Sales,10+ yrs,1,2
+Jharkhand,Associate,Telecommunication,01-04-2016,25-30 yrs,Female,Support,10+ yrs,1,2
+Assam,Associate,Telecommunication,01-08-2016,30-40 yrs,Female,Sales,10+ yrs,1,2
+Delhi,Businees Development Executive,Metal,01-12-2016,30-40 yrs,Male,Marketing,00-01 yrs,1,5
+Assam,Associate,Telecommunication,01-11-2016,30-40 yrs,Male,Finance,01-02 yrs,1,1
+Delhi,Businees Development Executive,Retail,01-11-2016,30-40 yrs,Female,IT,02-05 yrs,1,4
+Delhi,Territory Manager,Finance,01-11-2016,25-30 yrs,Female,IT,01-02 yrs,1,2
+Assam,Relationship Manager,Retail,01-11-2016,25-30 yrs,Male,HR,01-02 yrs,1,1
+Delhi,Sales Executive,Infrastructure,01-02-2016,25-30 yrs,Male,Support,00-01 yrs,1,1
+Delhi,Relationship Manager,Metal,01-05-2016,25-30 yrs,Female,Support,02-05 yrs,1,3
+Delhi,Corporate Role,Telecommunication,01-12-2016,30-40 yrs,Male,Marketing,01-02 yrs,1,1
+Assam,Sales Executive,Finance,01-12-2016,20-25 yrs,Male,IT,00-01 yrs,1,1
+Delhi,Sales Executive,Retail,01-10-2016,20-25 yrs,Female,Finance,01-02 yrs,1,5
+Jharkhand,Relationship Manager,Retail,01-04-2016,20-25 yrs,Male,Finance,02-05 yrs,1,5
+Delhi,Relationship Manager,Retail,01-07-2016,25-30 yrs,Female,HR,10+ yrs,1,4
+Delhi,Administration Executive,Retail,01-02-2016,25-30 yrs,Female,Sales,05-10 yrs,1,3
+Jharkhand,Associate,Retail,01-02-2016,25-30 yrs,Female,Finance,10+ yrs,1,1
+Delhi,Businees Development Executive,Retail,01-09-2016,25-30 yrs,Female,Finance,01-02 yrs,1,5
+Assam,Sales Executive,Metal,01-05-2016,25-30 yrs,Male,Finance,10+ yrs,1,2
+Assam,Sales Executive,Infrastructure,01-03-2016,25-30 yrs,Female,Finance,01-02 yrs,1,5
+Jharkhand,Associate,Finance,01-02-2016,25-30 yrs,Female,Marketing,05-10 yrs,1,5
+Jharkhand,Sales Executive,Retail,01-08-2016,25-30 yrs,Female,HR,01-02 yrs,1,1
+Jharkhand,Territory Manager,Finance,01-10-2016,25-30 yrs,Male,Finance,01-02 yrs,1,2
+Assam,Associate,Retail,01-11-2016,25-30 yrs,Male,Finance,01-02 yrs,1,5
+Jharkhand,Corporate Role,Retail,01-09-2016,30-40 yrs,Male,Sales,02-05 yrs,1,4
+Delhi,Territory Manager,Finance,01-02-2016,30-40 yrs,Female,Sales,05-10 yrs,1,3
+Delhi,Associate,Metal,01-02-2016,30-40 yrs,Male,Finance,00-01 yrs,1,5
+Delhi,Associate,Finance,01-07-2016,30-40 yrs,Male,Finance,00-01 yrs,1,1
+Jharkhand,Corporate Role,Metal,01-06-2016,30-40 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Relationship Manager,Metal,01-11-2016,30-40 yrs,Female,Marketing,01-02 yrs,1,1
+Delhi,Relationship Manager,Retail,01-04-2016,20-25 yrs,Female,Sales,01-02 yrs,1,5
+Delhi,Administration Executive,Infrastructure,01-01-2016,20-25 yrs,Female,Marketing,05-10 yrs,1,3
+Delhi,Associate,Infrastructure,01-10-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,5
+Assam,Territory Manager,Retail,01-07-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,1
+Jharkhand,Businees Development Executive,Metal,01-03-2016,20-25 yrs,Male,Marketing,10+ yrs,1,1
+Assam,Sales Executive,Finance,01-01-2016,25-30 yrs,Female,Support,00-01 yrs,1,2
+Assam,Relationship Manager,Retail,01-12-2016,25-30 yrs,Male,Finance,02-05 yrs,1,5
+Assam,Relationship Manager,Finance,01-04-2016,30-40 yrs,Male,Sales,02-05 yrs,1,4
+Assam,Associate,Retail,01-04-2016,30-40 yrs,Female,Finance,00-01 yrs,1,5
+Assam,Sales Executive,Retail,01-09-2016,20-25 yrs,Male,Sales,10+ yrs,1,2
+Assam,Administration Executive,Infrastructure,01-09-2016,20-25 yrs,Male,HR,01-02 yrs,1,2
+Delhi,Sales Executive,Retail,01-07-2016,20-25 yrs,Female,Support,01-02 yrs,1,3
+Assam,Associate,Power,01-04-2016,20-25 yrs,Female,Sales,10+ yrs,1,1
+Jharkhand,Sales Executive,Power,01-07-2016,20-25 yrs,Female,Support,02-05 yrs,1,2
+Jharkhand,Territory Manager,Power,01-07-2016,25-30 yrs,Male,Sales,05-10 yrs,1,2
+Assam,Businees Development Executive,Infrastructure,01-12-2016,25-30 yrs,Female,Sales,00-01 yrs,1,4
+Delhi,Associate,Retail,01-01-2016,25-30 yrs,Female,Marketing,00-01 yrs,1,1
+Delhi,Businees Development Executive,Power,01-04-2016,30-40 yrs,Male,IT,01-02 yrs,1,4
+Delhi,Relationship Manager,Retail,01-04-2016,30-40 yrs,Male,Finance,02-05 yrs,1,2
+Delhi,Territory Manager,Finance,01-01-2016,20-25 yrs,Male,IT,02-05 yrs,1,5
+Jharkhand,Associate,Retail,01-08-2016,20-25 yrs,Male,IT,00-01 yrs,1,4
+Delhi,Corporate Role,Power,01-01-2016,20-25 yrs,Female,Support,02-05 yrs,1,4
+Assam,Corporate Role,Telecommunication,01-06-2016,20-25 yrs,Male,Finance,05-10 yrs,1,3
+Assam,Administration Executive,Metal,01-03-2016,20-25 yrs,Female,Sales,10+ yrs,1,2
+Assam,Sales Executive,Metal,01-01-2016,20-25 yrs,Male,Sales,01-02 yrs,1,1
+Assam,Businees Development Executive,Telecommunication,01-03-2016,20-25 yrs,Female,Finance,02-05 yrs,1,3
+Jharkhand,Businees Development Executive,Telecommunication,01-08-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,3
+Delhi,Relationship Manager,Finance,01-12-2016,20-25 yrs,Male,HR,10+ yrs,1,1
+Delhi,Relationship Manager,Finance,01-05-2016,20-25 yrs,Female,IT,00-01 yrs,1,1
+Assam,Territory Manager,Power,01-09-2016,20-25 yrs,Female,HR,02-05 yrs,1,2
+Delhi,Administration Executive,Power,01-08-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,3
+Jharkhand,Sales Executive,Metal,01-02-2016,25-30 yrs,Female,Sales,02-05 yrs,1,1
+Assam,Associate,Retail,01-12-2016,25-30 yrs,Female,IT,10+ yrs,1,1
+Assam,Sales Executive,Metal,01-04-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Assam,Relationship Manager,Retail,01-04-2016,25-30 yrs,Female,Support,00-01 yrs,1,4
+Delhi,Businees Development Executive,Telecommunication,01-09-2016,25-30 yrs,Male,Marketing,10+ yrs,1,3
+Assam,Businees Development Executive,Finance,01-07-2016,25-30 yrs,Not categorized,Sales,00-01 yrs,1,4
+Assam,Associate,Finance,01-07-2016,20-25 yrs,Female,IT,00-01 yrs,1,4
+Assam,Corporate Role,Retail,01-05-2016,20-25 yrs,Male,Finance,00-01 yrs,1,2
+Delhi,Relationship Manager,Retail,01-03-2016,20-25 yrs,Male,Sales,02-05 yrs,1,4
+Jharkhand,Sales Executive,Retail,01-04-2016,20-25 yrs,Female,Support,00-01 yrs,1,1
+Jharkhand,Associate,Metal,01-12-2016,20-25 yrs,Male,Sales,00-01 yrs,1,2
+Jharkhand,Associate,Finance,01-02-2016,20-25 yrs,Female,Finance,01-02 yrs,1,5
+Jharkhand,Corporate Role,Power,01-11-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,2
+Jharkhand,Sales Executive,Finance,01-04-2016,25-30 yrs,Male,Finance,05-10 yrs,1,1
+Delhi,Administration Executive,Metal,01-08-2016,30-40 yrs,Male,Sales,00-01 yrs,1,4
+Assam,Businees Development Executive,Retail,01-08-2016,30-40 yrs,Male,HR,02-05 yrs,1,2
+Assam,Territory Manager,Retail,01-12-2016,30-40 yrs,Male,Support,00-01 yrs,1,2
+Delhi,Territory Manager,Power,01-12-2016,30-40 yrs,Female,Marketing,01-02 yrs,1,2
+Assam,Relationship Manager,Retail,01-03-2016,00-20 yrs,Female,Marketing,00-01 yrs,1,1
+Delhi,Businees Development Executive,Telecommunication,01-03-2016,20-25 yrs,Male,HR,05-10 yrs,1,2
+Assam,Relationship Manager,Metal,01-08-2016,20-25 yrs,Female,Sales,01-02 yrs,1,2
+Assam,Relationship Manager,Power,01-02-2016,20-25 yrs,Male,Finance,00-01 yrs,1,3
+Delhi,Territory Manager,Finance,01-05-2016,20-25 yrs,Male,HR,00-01 yrs,1,1
+Jharkhand,Businees Development Executive,Infrastructure,01-05-2016,20-25 yrs,Female,Marketing,02-05 yrs,1,2
+Delhi,Administration Executive,Power,01-12-2016,20-25 yrs,Male,Sales,10+ yrs,1,1
+Delhi,Territory Manager,Retail,01-09-2016,20-25 yrs,Female,Finance,10+ yrs,1,4
+Jharkhand,Associate,Retail,01-03-2016,20-25 yrs,Female,Support,02-05 yrs,1,5
+Delhi,Businees Development Executive,Finance,01-05-2016,20-25 yrs,Male,HR,10+ yrs,1,5
+Delhi,Territory Manager,Finance,01-03-2016,20-25 yrs,Female,Marketing,01-02 yrs,1,1
+Assam,Associate,Finance,01-01-2016,20-25 yrs,Female,Sales,00-01 yrs,1,4
+Assam,Corporate Role,Retail,01-06-2016,20-25 yrs,Male,IT,10+ yrs,1,4
+Assam,Associate,Power,01-12-2016,20-25 yrs,Female,Finance,00-01 yrs,1,1
+Delhi,Corporate Role,Metal,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Administration Executive,Infrastructure,01-06-2016,25-30 yrs,Female,HR,01-02 yrs,1,4
+Delhi,Sales Executive,Finance,01-12-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Assam,Corporate Role,Retail,01-01-2016,25-30 yrs,Male,HR,05-10 yrs,1,3
+Delhi,Territory Manager,Infrastructure,01-08-2016,25-30 yrs,Male,Sales,02-05 yrs,1,3
+Assam,Associate,Metal,01-02-2016,25-30 yrs,Female,Finance,00-01 yrs,1,3
+Delhi,Relationship Manager,Finance,01-04-2016,25-30 yrs,Female,Finance,02-05 yrs,1,4
+Delhi,Territory Manager,Metal,01-02-2016,25-30 yrs,Male,Sales,01-02 yrs,1,2
+Jharkhand,Relationship Manager,Retail,01-08-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Jharkhand,Sales Executive,Retail,01-06-2016,25-30 yrs,Female,IT,00-01 yrs,1,2
+Delhi,Territory Manager,Retail,01-07-2016,20-25 yrs,Male,Support,00-01 yrs,1,4
+Jharkhand,Sales Executive,Finance,01-03-2016,20-25 yrs,Female,IT,01-02 yrs,1,3
+Assam,Businees Development Executive,Infrastructure,01-09-2016,20-25 yrs,Female,Finance,00-01 yrs,1,3
+Jharkhand,Sales Executive,Finance,01-09-2016,20-25 yrs,Male,Finance,05-10 yrs,1,1
+Assam,Relationship Manager,Retail,01-07-2016,20-25 yrs,Female,Sales,01-02 yrs,1,3
+Jharkhand,Businees Development Executive,Finance,01-05-2016,20-25 yrs,Male,Marketing,02-05 yrs,1,4
+Jharkhand,Sales Executive,Infrastructure,01-12-2016,20-25 yrs,Female,Sales,05-10 yrs,1,3
+Jharkhand,Associate,Finance,01-06-2016,20-25 yrs,Male,Marketing,02-05 yrs,1,5
+Delhi,Relationship Manager,Retail,01-03-2016,20-25 yrs,Female,IT,01-02 yrs,1,2
+Jharkhand,Associate,Metal,01-01-2016,20-25 yrs,Male,Sales,01-02 yrs,1,2
+Delhi,Sales Executive,Finance,01-05-2016,20-25 yrs,Male,Finance,01-02 yrs,1,5
+Assam,Sales Executive,Retail,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1,2
+Delhi,Sales Executive,Retail,01-12-2016,20-25 yrs,Female,Support,00-01 yrs,1,1
+Delhi,Businees Development Executive,Finance,01-01-2016,20-25 yrs,Male,Sales,01-02 yrs,1,3
+Assam,Businees Development Executive,Metal,01-02-2016,20-25 yrs,Female,Marketing,00-01 yrs,1,1
+Jharkhand,Territory Manager,Telecommunication,01-11-2016,20-25 yrs,Male,Support,00-01 yrs,1,2
+Delhi,Relationship Manager,Metal,01-01-2016,20-25 yrs,Female,Finance,00-01 yrs,1,3
+Jharkhand,Corporate Role,Finance,01-05-2016,20-25 yrs,Female,Sales,00-01 yrs,1,5
+Delhi,Territory Manager,Infrastructure,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1,3
+Jharkhand,Territory Manager,Infrastructure,01-01-2016,20-25 yrs,Male,Marketing,10+ yrs,1,1
+Jharkhand,Sales Executive,Finance,01-05-2016,25-30 yrs,Female,Support,00-01 yrs,1,1
+Assam,Businees Development Executive,Telecommunication,01-04-2016,25-30 yrs,Male,IT,10+ yrs,1,4
+Assam,Businees Development Executive,Metal,01-04-2016,25-30 yrs,Male,Finance,10+ yrs,1,3
+Assam,Corporate Role,Finance,01-02-2016,25-30 yrs,Male,IT,00-01 yrs,1,5
+Jharkhand,Administration Executive,Metal,01-12-2016,25-30 yrs,Male,Sales,01-02 yrs,1,4
+Jharkhand,Associate,Metal,01-11-2016,25-30 yrs,Female,Sales,00-01 yrs,1,3
+Delhi,Sales Executive,Metal,01-09-2016,25-30 yrs,Male,IT,00-01 yrs,1,1
+Jharkhand,Associate,Retail,01-09-2016,25-30 yrs,Female,Marketing,00-01 yrs,1,1
+Jharkhand,Relationship Manager,Metal,01-10-2016,25-30 yrs,Female,Finance,01-02 yrs,1,3
+Delhi,Corporate Role,Power,01-06-2016,30-40 yrs,Male,Finance,00-01 yrs,1,5
+Jharkhand,Sales Executive,Retail,01-01-2016,30-40 yrs,Male,Sales,10+ yrs,1,1
+Jharkhand,Administration Executive,Retail,01-07-2016,30-40 yrs,Female,Marketing,01-02 yrs,1,1
+Assam,Corporate Role,Finance,01-08-2016,20-25 yrs,Female,Marketing,00-01 yrs,1,2
+Delhi,Associate,Telecommunication,01-10-2016,20-25 yrs,Male,Sales,02-05 yrs,1,3
+Delhi,Territory Manager,Metal,01-12-2016,25-30 yrs,Male,Sales,00-01 yrs,1,4
+Jharkhand,Associate,Finance,01-11-2016,25-30 yrs,Female,Finance,00-01 yrs,1,4
+Assam,Corporate Role,Metal,01-05-2016,25-30 yrs,Female,IT,01-02 yrs,1,4
+Assam,Sales Executive,Retail,01-06-2016,30-40 yrs,Male,Sales,01-02 yrs,1,4
+Jharkhand,Sales Executive,Retail,01-09-2016,30-40 yrs,Female,Finance,01-02 yrs,1,1
+Delhi,Corporate Role,Infrastructure,01-10-2016,30-40 yrs,Female,Finance,00-01 yrs,1,4
+Assam,Sales Executive,Metal,01-11-2016,25-30 yrs,Female,Support,00-01 yrs,1,1
+Assam,Territory Manager,Retail,01-01-2016,20-25 yrs,Female,IT,00-01 yrs,1,1
+Assam,Businees Development Executive,Telecommunication,01-10-2016,20-25 yrs,Male,Support,02-05 yrs,1,4
+Jharkhand,Businees Development Executive,Metal,01-11-2016,20-25 yrs,Male,Sales,05-10 yrs,1,2
+Assam,Associate,Retail,01-12-2016,20-25 yrs,Female,Marketing,01-02 yrs,1,4
+Delhi,Associate,Metal,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Businees Development Executive,Retail,01-01-2016,25-30 yrs,Male,Support,00-01 yrs,1,1
+Delhi,Businees Development Executive,Retail,01-03-2016,25-30 yrs,Male,Sales,01-02 yrs,1,5
+Assam,Administration Executive,Finance,01-03-2016,25-30 yrs,Male,Sales,10+ yrs,1,1
+Delhi,Sales Executive,Infrastructure,01-03-2016,25-30 yrs,Male,Finance,01-02 yrs,1,3
+Jharkhand,Relationship Manager,Metal,01-12-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,1
+Assam,Sales Executive,Telecommunication,01-04-2016,25-30 yrs,Male,Marketing,05-10 yrs,1,3
+Delhi,Territory Manager,Telecommunication,01-03-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,3
+Assam,Businees Development Executive,Finance,01-02-2016,25-30 yrs,Male,Finance,05-10 yrs,1,1
+Jharkhand,Corporate Role,Retail,01-09-2016,25-30 yrs,Not categorized,IT,00-01 yrs,1,1
+Assam,Sales Executive,Retail,01-07-2016,30-40 yrs,Female,Sales,02-05 yrs,1,3
+Jharkhand,Associate,Retail,01-08-2016,30-40 yrs,Male,Finance,00-01 yrs,1,1
+Assam,Sales Executive,Metal,01-11-2016,30-40 yrs,Female,HR,01-02 yrs,1,5
+Jharkhand,Territory Manager,Telecommunication,01-09-2016,30-40 yrs,Male,Marketing,01-02 yrs,1,1
+Jharkhand,Businees Development Executive,Metal,01-12-2016,30-40 yrs,Male,Marketing,05-10 yrs,1,4
+Assam,Administration Executive,Retail,01-03-2016,30-40 yrs,Male,Sales,00-01 yrs,1,1
+Delhi,Corporate Role,Finance,01-05-2016,30-40 yrs,Male,IT,02-05 yrs,1,5
+Delhi,Businees Development Executive,Telecommunication,01-01-2016,30-40 yrs,Male,HR,01-02 yrs,1,1
+Jharkhand,Corporate Role,Finance,01-08-2016,30-40 yrs,Female,Support,00-01 yrs,1,5
+Assam,Sales Executive,Retail,01-05-2016,30-40 yrs,Male,IT,01-02 yrs,1,4
+Jharkhand,Territory Manager,Retail,01-07-2016,20-25 yrs,Female,Sales,02-05 yrs,1,5
+Jharkhand,Associate,Telecommunication,01-01-2016,20-25 yrs,Male,Marketing,00-01 yrs,1,2
+Assam,Associate,Metal,01-05-2016,20-25 yrs,Male,Support,01-02 yrs,1,1
+Delhi,Relationship Manager,Retail,01-05-2016,20-25 yrs,Male,IT,02-05 yrs,1,1
+Assam,Relationship Manager,Power,01-08-2016,25-30 yrs,Male,IT,02-05 yrs,1,1
+Assam,Administration Executive,Metal,01-04-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,5
+Delhi,Administration Executive,Finance,01-03-2016,25-30 yrs,Male,Sales,00-01 yrs,1,5
+Assam,Sales Executive,Retail,01-10-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Assam,Sales Executive,Telecommunication,01-11-2016,25-30 yrs,Female,Support,00-01 yrs,1,4
+Assam,Businees Development Executive,Retail,01-04-2016,25-30 yrs,Female,Finance,00-01 yrs,1,3
+Assam,Businees Development Executive,Infrastructure,01-12-2016,25-30 yrs,Male,Support,02-05 yrs,1,3
+Assam,Relationship Manager,Metal,01-10-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,3
+Delhi,Territory Manager,Infrastructure,01-04-2016,25-30 yrs,Not categorized,Finance,01-02 yrs,1,3
+Assam,Territory Manager,Finance,01-08-2016,30-40 yrs,Male,Finance,01-02 yrs,1,3
+Delhi,Associate,Metal,01-06-2016,30-40 yrs,Male,IT,01-02 yrs,1,4
+Jharkhand,Businees Development Executive,Telecommunication,01-02-2016,30-40 yrs,Male,IT,02-05 yrs,1,1
+Delhi,Sales Executive,Metal,01-01-2016,30-40 yrs,Male,Sales,01-02 yrs,1,5
+Jharkhand,Associate,Telecommunication,01-06-2016,30-40 yrs,Female,Sales,01-02 yrs,1,2
+Delhi,Sales Executive,Infrastructure,01-09-2016,30-40 yrs,Female,Sales,05-10 yrs,1,3
+Assam,Administration Executive,Finance,01-06-2016,30-40 yrs,Male,Sales,01-02 yrs,1,5
+Jharkhand,Territory Manager,Retail,01-12-2016,30-40 yrs,Not categorized,Sales,02-05 yrs,1,5
+Assam,Sales Executive,Finance,01-03-2016,20-25 yrs,Male,Support,00-01 yrs,1,5
+Jharkhand,Relationship Manager,Telecommunication,01-01-2016,20-25 yrs,Male,Finance,00-01 yrs,1,1
+Delhi,Sales Executive,Retail,01-12-2016,25-30 yrs,Male,Sales,02-05 yrs,1,3
+Assam,Associate,Metal,01-12-2016,25-30 yrs,Male,HR,00-01 yrs,1,4
+Jharkhand,Sales Executive,Retail,01-01-2016,25-30 yrs,Male,IT,00-01 yrs,1,4
+Assam,Relationship Manager,Finance,01-09-2016,25-30 yrs,Male,Sales,00-01 yrs,1,2
+Jharkhand,Administration Executive,Finance,01-03-2016,25-30 yrs,Male,Support,00-01 yrs,1,5
+Assam,Territory Manager,Retail,01-05-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,3
+Jharkhand,Territory Manager,Finance,01-06-2016,25-30 yrs,Male,Sales,01-02 yrs,1,1
+Delhi,Territory Manager,Finance,01-10-2016,25-30 yrs,Male,IT,00-01 yrs,1,4
+Jharkhand,Corporate Role,Retail,01-01-2016,25-30 yrs,Female,Sales,00-01 yrs,1,3
+Delhi,Relationship Manager,Infrastructure,01-01-2016,25-30 yrs,Not categorized,IT,10+ yrs,1,2
+Assam,Administration Executive,Infrastructure,01-03-2016,30-40 yrs,Male,Finance,10+ yrs,1,5
+Jharkhand,Associate,Telecommunication,01-01-2016,30-40 yrs,Male,Support,02-05 yrs,1,5
+Assam,Sales Executive,Metal,01-04-2016,30-40 yrs,Male,Sales,00-01 yrs,1,5
+Assam,Sales Executive,Retail,01-03-2016,30-40 yrs,Male,Marketing,10+ yrs,1,3
+Jharkhand,Associate,Telecommunication,01-04-2016,30-40 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Businees Development Executive,Metal,01-06-2016,30-40 yrs,Female,IT,00-01 yrs,1,2
+Delhi,Businees Development Executive,Power,01-10-2016,25-30 yrs,Male,Finance,01-02 yrs,1,4
+Assam,Territory Manager,Retail,01-12-2016,25-30 yrs,Male,Sales,01-02 yrs,1,2
+Delhi,Territory Manager,Retail,01-08-2016,30-40 yrs,Male,Sales,00-01 yrs,1,2
+Assam,Administration Executive,Power,01-02-2016,25-30 yrs,Male,Marketing,10+ yrs,1,1
+Delhi,Corporate Role,Finance,01-10-2016,25-30 yrs,Male,Sales,02-05 yrs,1,4
+Assam,Territory Manager,Metal,01-07-2016,25-30 yrs,Female,Marketing,05-10 yrs,1,1
+Jharkhand,Territory Manager,Metal,01-08-2016,30-40 yrs,Female,Marketing,00-01 yrs,1,1
+Delhi,Associate,Metal,01-02-2016,30-40 yrs,Male,Finance,00-01 yrs,1,1
+Jharkhand,Corporate Role,Finance,01-01-2016,30-40 yrs,Male,Finance,01-02 yrs,1,4
+Jharkhand,Territory Manager,Telecommunication,01-10-2016,30-40 yrs,Male,Marketing,01-02 yrs,1,3
+Jharkhand,Associate,Telecommunication,01-03-2016,30-40 yrs,Female,Sales,02-05 yrs,1,1
+Jharkhand,Relationship Manager,Retail,01-04-2016,30-40 yrs,Male,Sales,01-02 yrs,1,5
+Assam,Businees Development Executive,Metal,01-09-2016,20-25 yrs,Female,Marketing,00-01 yrs,1,5
+Assam,Relationship Manager,Infrastructure,01-11-2016,25-30 yrs,Male,Sales,00-01 yrs,1,1
+Jharkhand,Associate,Retail,01-11-2016,25-30 yrs,Male,Sales,01-02 yrs,1,2
+Assam,Businees Development Executive,Metal,01-05-2016,25-30 yrs,Female,HR,10+ yrs,1,4
+Assam,Relationship Manager,Retail,01-03-2016,30-40 yrs,Male,Finance,01-02 yrs,1,5
+Jharkhand,Associate,Finance,01-06-2016,30-40 yrs,Male,Sales,10+ yrs,1,1
+Jharkhand,Sales Executive,Power,01-01-2016,20-25 yrs,Male,Support,02-05 yrs,1,5
+Jharkhand,Sales Executive,Telecommunication,01-08-2016,20-25 yrs,Male,IT,00-01 yrs,1,5
+Jharkhand,Businees Development Executive,Metal,01-09-2016,25-30 yrs,Male,Finance,01-02 yrs,1,3
+Delhi,Relationship Manager,Finance,01-08-2016,25-30 yrs,Male,HR,02-05 yrs,1,3
+Delhi,Relationship Manager,Power,01-05-2016,25-30 yrs,Male,Sales,00-01 yrs,1,4
+Assam,Businees Development Executive,Finance,01-08-2016,25-30 yrs,Male,Marketing,02-05 yrs,1,3
+Assam,Corporate Role,Metal,01-03-2016,25-30 yrs,Male,Support,01-02 yrs,1,5
+Delhi,Administration Executive,Telecommunication,01-11-2016,30-40 yrs,Male,Finance,01-02 yrs,1,3
+Delhi,Administration Executive,Finance,01-01-2016,30-40 yrs,Male,Finance,10+ yrs,1,1
+Assam,Associate,Metal,01-11-2016,20-25 yrs,Male,Sales,02-05 yrs,1,1
+Delhi,Sales Executive,Retail,01-12-2016,20-25 yrs,Male,HR,00-01 yrs,1,5
+Delhi,Associate,Finance,01-04-2016,25-30 yrs,Female,Sales,00-01 yrs,1,4
+Delhi,Associate,Retail,01-01-2016,25-30 yrs,Male,Sales,10+ yrs,1,4
+Delhi,Relationship Manager,Retail,01-02-2016,25-30 yrs,Male,Marketing,02-05 yrs,1,1
+Delhi,Administration Executive,Infrastructure,01-11-2016,30-40 yrs,Male,IT,01-02 yrs,1,2
+Jharkhand,Associate,Retail,01-04-2016,20-25 yrs,Male,HR,01-02 yrs,1,4
+Assam,Businees Development Executive,Retail,01-02-2016,20-25 yrs,Female,IT,01-02 yrs,1,3
+Delhi,Relationship Manager,Retail,01-07-2016,20-25 yrs,Male,HR,05-10 yrs,1,1
+Delhi,Territory Manager,Retail,01-04-2016,20-25 yrs,Female,Sales,01-02 yrs,1,3
+Delhi,Associate,Retail,01-08-2016,20-25 yrs,Male,Support,02-05 yrs,1,2
+Assam,Corporate Role,Metal,01-07-2016,25-30 yrs,Female,Sales,05-10 yrs,1,3
+Delhi,Relationship Manager,Retail,01-02-2016,25-30 yrs,Female,Sales,00-01 yrs,1,3
+Jharkhand,Administration Executive,Finance,01-01-2016,25-30 yrs,Male,Finance,05-10 yrs,1,1
+Delhi,Associate,Retail,01-05-2016,30-40 yrs,Male,Finance,00-01 yrs,1,5
+Jharkhand,Territory Manager,Finance,01-02-2016,25-30 yrs,Male,Finance,01-02 yrs,1,2
+Jharkhand,Territory Manager,Finance,01-05-2016,25-30 yrs,Male,Sales,10+ yrs,1,3
+Assam,Corporate Role,Finance,01-09-2016,30-40 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Sales Executive,Finance,01-09-2016,30-40 yrs,Male,Finance,02-05 yrs,1,2
+Assam,Relationship Manager,Power,01-09-2016,00-20 yrs,Male,Sales,01-02 yrs,1,5
+Jharkhand,Relationship Manager,Retail,01-01-2016,20-25 yrs,Male,HR,01-02 yrs,1,2
+Jharkhand,Associate,Finance,01-09-2016,20-25 yrs,Male,Marketing,00-01 yrs,1,3
+Jharkhand,Relationship Manager,Finance,01-10-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,2
+Delhi,Associate,Telecommunication,01-10-2016,25-30 yrs,Male,Finance,00-01 yrs,1,1
+Assam,Sales Executive,Finance,01-10-2016,25-30 yrs,Male,Support,05-10 yrs,1,2
+Jharkhand,Relationship Manager,Metal,01-05-2016,25-30 yrs,Male,Marketing,02-05 yrs,1,3
+Delhi,Associate,Finance,01-12-2016,40-50 yrs,Male,Marketing,00-01 yrs,1,5
+Assam,Territory Manager,Infrastructure,01-03-2016,20-25 yrs,Male,IT,01-02 yrs,1,1
+Assam,Relationship Manager,Infrastructure,01-09-2016,20-25 yrs,Male,Marketing,00-01 yrs,1,5
+Assam,Sales Executive,Finance,01-01-2016,20-25 yrs,Male,HR,02-05 yrs,1,1
+Jharkhand,Relationship Manager,Metal,01-08-2016,20-25 yrs,Male,IT,01-02 yrs,1,3
+Assam,Sales Executive,Telecommunication,01-12-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,5
+Delhi,Relationship Manager,Metal,01-12-2016,25-30 yrs,Male,Finance,00-01 yrs,1,3
+Assam,Relationship Manager,Telecommunication,01-06-2016,25-30 yrs,Male,Sales,01-02 yrs,1,2
+Jharkhand,Relationship Manager,Finance,01-08-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,2
+Assam,Businees Development Executive,Metal,01-05-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,3
+Delhi,Territory Manager,Metal,01-04-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,4
+Assam,Sales Executive,Finance,01-10-2016,25-30 yrs,Male,Finance,01-02 yrs,1,3
+Assam,Corporate Role,Power,01-11-2016,30-40 yrs,Male,Sales,10+ yrs,1,3
+Delhi,Administration Executive,Infrastructure,01-03-2016,40-50 yrs,Male,Finance,02-05 yrs,1,1
+Delhi,Businees Development Executive,Metal,01-09-2016,20-25 yrs,Male,HR,00-01 yrs,1,4
+Delhi,Sales Executive,Retail,01-06-2016,20-25 yrs,Male,Sales,00-01 yrs,1,4
+Jharkhand,Businees Development Executive,Telecommunication,01-02-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,1
+Assam,Administration Executive,Retail,01-04-2016,25-30 yrs,Male,Finance,05-10 yrs,1,5
+Jharkhand,Territory Manager,Telecommunication,01-07-2016,25-30 yrs,Male,Sales,10+ yrs,1,5
+Delhi,Associate,Finance,01-08-2016,25-30 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Associate,Finance,01-09-2016,25-30 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Businees Development Executive,Finance,01-02-2016,25-30 yrs,Male,Sales,05-10 yrs,1,1
+Delhi,Associate,Infrastructure,01-03-2016,25-30 yrs,Male,HR,02-05 yrs,1,1
+Assam,Administration Executive,Finance,01-02-2016,25-30 yrs,Male,Finance,01-02 yrs,1,2
+Jharkhand,Administration Executive,Metal,01-06-2016,25-30 yrs,Male,Finance,00-01 yrs,1,2
+Delhi,Associate,Finance,01-10-2016,30-40 yrs,Male,Sales,00-01 yrs,1,2
+Jharkhand,Administration Executive,Metal,01-12-2016,30-40 yrs,Male,Finance,01-02 yrs,1,5
+Delhi,Relationship Manager,Finance,01-04-2016,30-40 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Relationship Manager,Retail,01-02-2016,00-20 yrs,Male,HR,05-10 yrs,1,2
+Jharkhand,Associate,Power,01-06-2016,20-25 yrs,Male,Sales,10+ yrs,1,5
+Delhi,Associate,Metal,01-03-2016,20-25 yrs,Male,Sales,10+ yrs,1,3
+Delhi,Businees Development Executive,Finance,01-01-2016,20-25 yrs,Male,IT,00-01 yrs,1,5
+Delhi,Businees Development Executive,Finance,01-05-2016,20-25 yrs,Male,Sales,01-02 yrs,1,5
+Delhi,Sales Executive,Infrastructure,01-01-2016,20-25 yrs,Male,HR,01-02 yrs,1,5
+Delhi,Associate,Infrastructure,01-01-2016,20-25 yrs,Male,Finance,01-02 yrs,1,2
+Assam,Associate,Retail,01-08-2016,25-30 yrs,Male,Marketing,02-05 yrs,1,5
+Delhi,Associate,Retail,01-06-2016,25-30 yrs,Male,Sales,10+ yrs,1,3
+Delhi,Associate,Retail,01-09-2016,25-30 yrs,Male,HR,01-02 yrs,1,5
+Assam,Sales Executive,Finance,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1,5
+Assam,Sales Executive,Telecommunication,01-05-2016,25-30 yrs,Male,Marketing,10+ yrs,1,4
+Delhi,Businees Development Executive,Power,01-06-2016,30-40 yrs,Male,IT,00-01 yrs,1,3
+Delhi,Sales Executive,Metal,01-06-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,4
+Jharkhand,Corporate Role,Finance,01-03-2016,20-25 yrs,Male,Sales,05-10 yrs,1,5
+Delhi,Relationship Manager,Power,01-05-2016,20-25 yrs,Male,Marketing,01-02 yrs,1,4
+Delhi,Relationship Manager,Power,01-01-2016,20-25 yrs,Male,Finance,01-02 yrs,1,3
+Jharkhand,Territory Manager,Metal,01-07-2016,20-25 yrs,Male,IT,01-02 yrs,1,2
+Delhi,Relationship Manager,Power,01-07-2016,20-25 yrs,Female,Support,01-02 yrs,1,2
+Assam,Businees Development Executive,Telecommunication,01-01-2016,20-25 yrs,Male,Sales,00-01 yrs,1,3
+Delhi,Territory Manager,Retail,01-11-2016,20-25 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Sales Executive,Power,01-07-2016,20-25 yrs,Male,Finance,01-02 yrs,1,5
+Jharkhand,Corporate Role,Retail,01-03-2016,20-25 yrs,Female,Marketing,01-02 yrs,1,3
+Jharkhand,Administration Executive,Retail,01-03-2016,25-30 yrs,Male,Marketing,01-02 yrs,1,5
+Delhi,Corporate Role,Infrastructure,01-02-2016,25-30 yrs,Male,Sales,02-05 yrs,1,2
+Jharkhand,Sales Executive,Metal,01-10-2016,25-30 yrs,Female,Finance,01-02 yrs,1,1
+Delhi,Territory Manager,Finance,01-07-2016,30-40 yrs,Male,Support,01-02 yrs,1,2
+Jharkhand,Sales Executive,Power,01-05-2016,30-40 yrs,Male,Finance,10+ yrs,1,1
+Assam,Relationship Manager,Infrastructure,01-06-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,4
+Jharkhand,Administration Executive,Retail,01-05-2016,30-40 yrs,Male,Sales,00-01 yrs,1,1
+Assam,Relationship Manager,Metal,01-01-2016,30-40 yrs,Male,Sales,00-01 yrs,1,1
+Delhi,Corporate Role,Telecommunication,01-07-2016,30-40 yrs,Male,Support,00-01 yrs,1,4
+Assam,Corporate Role,Finance,01-03-2016,20-25 yrs,Male,Marketing,00-01 yrs,1,5
+Delhi,Sales Executive,Finance,01-09-2016,25-30 yrs,Male,Finance,00-01 yrs,1,5
+Jharkhand,Relationship Manager,Metal,01-01-2016,25-30 yrs,Female,Sales,02-05 yrs,1,5
+Jharkhand,Corporate Role,Metal,01-08-2016,25-30 yrs,Female,Finance,02-05 yrs,1,1
+Delhi,Relationship Manager,Power,01-10-2016,25-30 yrs,Male,HR,00-01 yrs,1,2
+Assam,Relationship Manager,Power,01-05-2016,20-25 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Relationship Manager,Retail,01-11-2016,25-30 yrs,Male,Finance,00-01 yrs,1,4
+Delhi,Associate,Finance,01-11-2016,20-25 yrs,Female,Support,00-01 yrs,1,2
+Delhi,Associate,Retail,01-11-2016,30-40 yrs,Male,Finance,01-02 yrs,1,1
+Jharkhand,Associate,Retail,01-09-2016,30-40 yrs,Male,Marketing,01-02 yrs,1,3
+Assam,Corporate Role,Power,01-02-2016,25-30 yrs,Male,HR,10+ yrs,1,5
+Jharkhand,Sales Executive,Telecommunication,01-02-2016,20-25 yrs,Female,Sales,01-02 yrs,1,2
+Delhi,Territory Manager,Power,01-04-2016,25-30 yrs,Male,Sales,10+ yrs,1,4
+Jharkhand,Administration Executive,Metal,01-07-2016,30-40 yrs,Male,HR,00-01 yrs,1,2
+Delhi,Associate,Telecommunication,01-11-2016,30-40 yrs,Male,IT,10+ yrs,1,5
+Jharkhand,Sales Executive,Retail,01-05-2016,30-40 yrs,Male,Sales,01-02 yrs,1,5
+Assam,Administration Executive,Metal,01-10-2016,30-40 yrs,Male,IT,00-01 yrs,1,1
+Delhi,Businees Development Executive,Retail,01-02-2016,25-30 yrs,Male,Sales,01-02 yrs,1,4
+Delhi,Sales Executive,Finance,01-07-2016,20-25 yrs,Male,HR,05-10 yrs,1,3
+Jharkhand,Territory Manager,Power,01-10-2016,20-25 yrs,Female,Support,05-10 yrs,1,5
+Jharkhand,Sales Executive,Metal,01-05-2016,25-30 yrs,Male,Finance,00-01 yrs,1,5
+Jharkhand,Territory Manager,Finance,01-10-2016,20-25 yrs,Male,HR,00-01 yrs,1,1
+Jharkhand,Sales Executive,Retail,01-01-2016,20-25 yrs,Male,Finance,01-02 yrs,1,1
+Delhi,Associate,Finance,01-06-2016,20-25 yrs,Female,Sales,10+ yrs,1,2
+Jharkhand,Territory Manager,Finance,01-11-2016,25-30 yrs,Male,Marketing,00-01 yrs,1,4
+Assam,Corporate Role,Metal,01-08-2016,30-40 yrs,Male,Finance,01-02 yrs,1,5
+Delhi,Relationship Manager,Retail,01-06-2016,30-40 yrs,Male,Marketing,00-01 yrs,1,2
+Jharkhand,Sales Executive,Telecommunication,01-12-2016,25-30 yrs,Male,Finance,05-10 yrs,1,3
+Delhi,Associate,Power,01-11-2016,25-30 yrs,Male,Sales,02-05 yrs,1,3
+Jharkhand,Sales Executive,Infrastructure,01-03-2016,25-30 yrs,Female,Marketing,02-05 yrs,1,3
+Jharkhand,Territory Manager,Metal,01-10-2016,30-40 yrs,Male,Finance,00-01 yrs,1,2
+Assam,Relationship Manager,Metal,01-05-2016,30-40 yrs,Male,Marketing,05-10 yrs,1,3
+Jharkhand,Relationship Manager,Telecommunication,01-12-2016,20-25 yrs,Female,Finance,01-02 yrs,1,4
+Delhi,Territory Manager,Retail,01-01-2016,25-30 yrs,Male,Sales,00-01 yrs,1,5
+Delhi,Associate,Power,01-06-2016,25-30 yrs,Male,Sales,01-02 yrs,1,2
+Assam,Associate,Infrastructure,01-03-2016,25-30 yrs,Female,Sales,01-02 yrs,1,2
+Assam,Businees Development Executive,Power,01-04-2016,25-30 yrs,Male,Sales,00-01 yrs,1,2
+Assam,Administration Executive,Metal,01-06-2016,25-30 yrs,Male,Finance,02-05 yrs,1,3
