@@ -629,10 +629,10 @@ function plotEngagementQ2Charts() {
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
                                 )
                         )
-                .xUnits(d3.time.months)
-                .xAxis()
-                .ticks(d3.time.month, 1)
-                .tickFormat(d3.time.format("%b '%y"));
+                .xUnits(d3.time.months);
+//                .xAxis()
+//                .ticks(d3.time.month, 1)
+//                .tickFormat(d3.time.format("%b '%y"));
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
