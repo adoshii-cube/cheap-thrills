@@ -813,6 +813,12 @@ div .mdl-textfield__label:after {
     align-items: center;
     font-size: 5rem;
 }
+
+#engagement_q5_chart6{
+    width: 100%;
+    height: 50vh;
+}
+
 #hiring_q5_chart5,
 #engagement_q3_chart6,
 #attrition_q3_chart7{
@@ -835,12 +841,14 @@ div .mdl-textfield__label:after {
     cursor: pointer;
 }
 
-#attrition_q4_chart1{
+#attrition_q4_chart1,
+#engagement_q5_chart5{
     margin-left: 16px;
     margin-bottom: 16px;
 }
 
-#attrition_q4_chart1 label{
+#attrition_q4_chart1 label,
+#engagement_q5_chart5 label{
     width: 9em;
     /*float: right;*/
 }

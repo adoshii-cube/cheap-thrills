@@ -13,7 +13,7 @@ $(document).ready(function () {
     plotEngagementQ4Charts();
 //    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-//    plotEngagementQ5Charts();
+    plotEngagementQ5Charts();
 //    $('body').find('a[href$="tab5-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
     $(".mdl-tabs__tab").on("click", function () {
@@ -1313,6 +1313,7 @@ function plotEngagementQ3Charts() {
         enableTab("tab3-panel", 6, count);
     });
 }
+
 function plotEngagementQ4Charts() {
     var chart1 = dc.selectMenu("#engagement_q4_chart1", "q4");
     var chart2 = dc.selectMenu("#engagement_q4_chart2", "q4");
@@ -1609,7 +1610,7 @@ function plotEngagementQ5Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
         });
 
         var metricName1 = cf.dimension(function (d) {
@@ -1617,15 +1618,23 @@ function plotEngagementQ5Charts() {
         });
         var metricNameGroup1 = metricName1.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.value;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.value;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName2 = cf.dimension(function (d) {
@@ -1633,15 +1642,23 @@ function plotEngagementQ5Charts() {
         });
         var metricNameGroup2 = metricName2.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.value;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.value;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName3 = cf.dimension(function (d) {
@@ -1649,15 +1666,23 @@ function plotEngagementQ5Charts() {
         });
         var metricNameGroup3 = metricName3.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.value;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.value;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
         var metricName4 = cf.dimension(function (d) {
@@ -1665,22 +1690,34 @@ function plotEngagementQ5Charts() {
         });
         var metricNameGroup4 = metricName4.group().reduce(
                 function (p, v) {
-                    p += +v.value;
+                    p.num += +v.value;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    p -= +v.value;
+                    p.num -= +v.value;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
+
         var count = 0;
 
         chart1
                 .dimension(metricName1)
                 .group(metricNameGroup1)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart1.render();
         count++;
@@ -1688,6 +1725,9 @@ function plotEngagementQ5Charts() {
         chart2
                 .dimension(metricName2)
                 .group(metricNameGroup2)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart2.render();
         count++;
@@ -1695,6 +1735,9 @@ function plotEngagementQ5Charts() {
         chart3
                 .dimension(metricName3)
                 .group(metricNameGroup3)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart3.render();
         count++;
@@ -1712,15 +1755,18 @@ function plotEngagementQ5Charts() {
                 .colors(['#303f9f'])
                 .mouseZoomable(true)
                 .barPadding(0.05)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .x(d3.time.scale().
                         domain(
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
                                 )
                         )
-                .xUnits(d3.time.months)
-                .xAxis()
-                .ticks(d3.time.month, 1)
-                .tickFormat(d3.time.format("%b '%y"));
+                .xUnits(d3.time.months);
+//                .xAxis()
+//                .ticks(d3.time.month, 1)
+//                .tickFormat(d3.time.format("%b '%y"));
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -1737,7 +1783,7 @@ function plotEngagementQ5Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value;
+                        return d3.select(d).data()[0].data.value.avg;
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -1752,10 +1798,76 @@ function plotEngagementQ5Charts() {
         });
         chart4.render();
         count++;
+        var nodes = readTextFile("engagement_q5.csv");
+        var edges = readTextFile("edge.csv");
+        var network = null;
 
+        var container = document.getElementById('engagement_q5_chart6');
+        var ndata = nodes.data;
 
+        ndata.forEach(function (d) {
+            d.id = +d.id;
+            d.value = +d.value;
+        });
+        var edata = edges.data;
+        edata.forEach(function (d) {
+            d.from = +d.from;
+            d.to = +d.to;
+            d.value = +d.value;
+        });
+        var networkData = {
+            nodes: ndata,
+            edges: edata
+        };
+        var options = {
+            nodes: {
+                shape: 'dot',
+                size: 16
+            }
+        };
+        network = new vis.Network(container, networkData, options);
+        network.on("stabilizationProgress", function (params) {
+            var maxWidth = 496;
+            var minWidth = 20;
+            var widthFactor = params.iterations / params.total;
+            var width = Math.max(minWidth, maxWidth * widthFactor);
+
+            document.getElementById('bar').style.width = width + 'px';
+            document.getElementById('text').innerHTML = Math.round(widthFactor * 100) + '%';
+        });
+        network.once("stabilizationIterationsDone", function () {
+            document.getElementById('text').innerHTML = '100%';
+            document.getElementById('bar').style.width = '496px';
+            document.getElementById('loadingBar').style.opacity = 0;
+            // really clean the dom element
+            setTimeout(function () {
+                document.getElementById('loadingBar').style.display = 'none';
+            }, 500);
+        });
+        count++;
 
         enableTab("tab5-panel", 5, count);
 
     });
+}
+
+function readTextFile(file) {
+    var data;
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if (rawFile.readyState === 4)
+        {
+            if (rawFile.status === 200 || rawFile.status === 0)
+            {
+                allText = rawFile.responseText;
+                data = Papa.parse(allText, {
+                    header: true
+                });
+            }
+        }
+    };
+    rawFile.send(null);
+    return data;
 }
