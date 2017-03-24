@@ -7,10 +7,10 @@ $(document).ready(function () {
     plotEngagementQ2Charts();
 //    $('body').find('a[href$="tab2-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-//    plotEngagementQ3Charts();
+    plotEngagementQ3Charts();
 //    $('body').find('a[href$="tab3-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
-//    plotEngagementQ4Charts();
+    plotEngagementQ4Charts();
 //    $('body').find('a[href$="tab4-panel"]').removeClass('vertical-mdl-tabs-disabled');
 
 //    plotEngagementQ5Charts();
@@ -961,209 +961,256 @@ function plotEngagementQ3Charts() {
     var chart2 = dc.selectMenu("#engagement_q3_chart2", "q3");
     var chart3 = dc.selectMenu("#engagement_q3_chart3", "q3");
     var chart4 = dc.barChart("#engagement_q3_chart4", "q3");
-    var chart5 = dc.scatterPlot("#engagement_q3_chart5", "q3");
+    var chart5 = dc.seriesChart("#engagement_q3_chart5", "q3");
     var chart6 = dc.dataTable("#engagement_q3_chart6", "q3");
 
     d3.csv("engagement_q3.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
         });
 
-        var tatMetricName1 = cf.dimension(function (d) {
+        var metricName1 = cf.dimension(function (d) {
             return d["m1"];
         });
-        var tatMetricNameGroup1 = tatMetricName1.group().reduce(
+        var metricNameGroup1 = metricName1.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
-        var tatMetricName2 = cf.dimension(function (d) {
+        var metricName2 = cf.dimension(function (d) {
             return d["m2"];
         });
-        var tatMetricNameGroup2 = tatMetricName2.group().reduce(
+        var metricNameGroup2 = metricName2.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
-        var tatMetricName3 = cf.dimension(function (d) {
+        var metricName3 = cf.dimension(function (d) {
             return d["m3"];
         });
-        var tatMetricNameGroup3 = tatMetricName3.group().reduce(
+        var metricNameGroup3 = metricName3.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
-        var tatMetricName4 = cf.dimension(function (d) {
+        var metricName4 = cf.dimension(function (d) {
             return +d.m4;
         });
-        var tatMetricNameGroup4 = tatMetricName4.group().reduce(
+        var metricNameGroup4 = metricName4.group().reduce(
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p += +v.value;
+                        p.num += +v.engagement;
+                        ++p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function (p, v) {
                     if (isCandidateCount(v)) {
-                        p -= +v.value;
+                        p.num -= +v.engagement;
+                        --p.count;
+                        p.avg = d3.round(p.num / p.count, 2);
                     }
                     return p;
                 },
                 function () {
-                    return 0;
-                }
-        );
-
-        var tatMetricName5 = cf.dimension(function (d) {
-            return d["m5"];
-        });
-        var tatMetricNameGroup5 = tatMetricName5.group().reduce(
-                function (p, v) {
-                    if (isTATSum(v)) {
-                        p.numerator += +v.value;
-                    }
-                    if (isTATCount(v)) {
-                        p.denominator += +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator), 2);
-                    return p;
-                },
-                function (p, v) {
-                    if (isTATSum(v)) {
-                        p.numerator -= +v.value;
-                    }
-                    if (isTATCount(v)) {
-                        p.denominator -= +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator), 2);
-                    return p;
-                },
-                function () {
-                    return{
-                        denominator: 0,
-                        numerator: 0,
+                    return {
+                        num: 0,
+                        count: 0,
                         avg: 0
                     };
                 }
         );
-
-        var tatMetricName6 = cf.dimension(function (d) {
-            return d["m6"];
+        var metricName5 = cf.dimension(function (d) {
+//            return [d.component, +d.engagement, +d.importance];
+            return d.component;
         });
-
-        var tatMetricNameGroup6 = tatMetricName6.group().reduce(
+        var metricNameGroup5 = metricName5.group().reduce(
                 function (p, v) {
-                    if (isConvNumerator(v)) {
-                        p.numerator += +v.value;
+                    if (isComponent(v)) {
+                        p.numImp += +v.importance;
+                        p.numEng += +v.engagement;
+                        ++p.count;
+                        p.avgImp = p.numImp / p.count;
+                        p.avgEng = p.numEng / p.count;
                     }
-                    if (isConvDenominator(v)) {
-                        p.denominator += +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator * 100), 2);
                     return p;
                 },
                 function (p, v) {
-                    if (isConvNumerator(v)) {
-                        p.numerator -= +v.value;
+                    if (isComponent(v)) {
+                        p.numImp -= +v.importance;
+                        p.numEng -= +v.engagement;
+                        --p.count;
+                        p.avg = p.numImp / p.count;
+                        p.avg = p.numEng / p.count;
                     }
-                    if (isConvDenominator(v)) {
-                        p.denominator -= +v.value;
-                    }
-                    p.avg = d3.round((p.numerator / p.denominator * 100), 2);
                     return p;
                 },
                 function () {
-                    return{
-                        denominator: 0,
-                        numerator: 0,
-                        avg: 0
+                    return  {
+                        numImp: 0,
+                        numEng: 0,
+                        count: 0,
+                        avgImp: 0,
+                        avgEng: 0
                     };
                 }
         );
+        var metricName6 = cf.dimension(function (d) {
+//            return [d.component, +d.engagement, +d.importance];
+            return d.component;
+        });
+        var metricNameGroup6 = metricName6.group().reduce(
+                function (p, v) {
+                    if (isComponent(v)) {
+                        p.numImp += +v.importance;
+                        p.numEng += +v.engagement;
+                        ++p.count;
+                        p.avgImp = p.numImp / p.count;
+                        p.avgEng = p.numEng / p.count;
+                    }
+                    return p;
+                },
+                function (p, v) {
+                    if (isComponent(v)) {
+                        p.numImp -= +v.importance;
+                        p.numEng -= +v.engagement;
+                        --p.count;
+                        p.avg = p.numImp / p.count;
+                        p.avg = p.numEng / p.count;
+                    }
+                    return p;
+                },
+                function () {
+                    return  {
+                        numImp: 0,
+                        numEng: 0,
+                        count: 0,
+                        avgImp: 0,
+                        avgEng: 0
+                    };
+                }
+        );
+        var rank = function (p) {
+            return "rank";
+        };
 
         var count = 0;
 
         chart1
-                .dimension(tatMetricName1)
-                .group(tatMetricNameGroup1)
+                .dimension(metricName1)
+                .group(metricNameGroup1)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart1.render();
         count++;
 
         chart2
-                .dimension(tatMetricName2)
-                .group(tatMetricNameGroup2)
+                .dimension(metricName2)
+                .group(metricNameGroup2)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart2.render();
         count++;
 
         chart3
-                .dimension(tatMetricName3)
-                .group(tatMetricNameGroup3)
+                .dimension(metricName3)
+                .group(metricNameGroup3)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart3.render();
         count++;
 
-        var minDate = tatMetricName4.bottom(1)[0].m4;
-        var maxDate = tatMetricName4.top(1)[0].m4;
+        var minDate = metricName4.bottom(1)[0].m4;
+        var maxDate = metricName4.top(1)[0].m4;
         chart4
                 .height(75)
                 .brushOn(true)
                 .elasticY(true)
-                .dimension(tatMetricName4)
-                .group(tatMetricNameGroup4)
+                .dimension(metricName4)
+                .group(metricNameGroup4)
                 .showYAxis(false)
                 .centerBar(true)
                 .colors(['#303f9f'])
                 .mouseZoomable(true)
                 .barPadding(0.05)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .x(d3.time.scale().
                         domain(
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
                                 )
                         )
-                .xUnits(d3.time.months)
-                .xAxis()
-                .ticks(d3.time.month, 1)
-                .tickFormat(d3.time.format("%b '%y"));
+                .xUnits(d3.time.months);
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -1180,7 +1227,7 @@ function plotEngagementQ3Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value;
+                        return d3.select(d).data()[0].data.value.avg;
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -1196,12 +1243,76 @@ function plotEngagementQ3Charts() {
         chart4.render();
         count++;
 
+        var symbolScale = d3.scale.ordinal().range(d3.svg.symbolTypes);
+        var symbolAccessor = function (d) {
+            return symbolScale(d.key);
+        };
+        var subChart = function (c) {
+            return dc.scatterPlot(c)
+                    .symbol(symbolAccessor)
+                    .symbolSize(12)
+                    .highlightedSize(15);
+        };
 
+        chart5
+                .chart(subChart)
+                .x(d3.scale.linear().domain([1, 5]))
+                .brushOn(false)
+                .yAxisLabel("Engagement")
+                .xAxisLabel("Importance")
+                .clipPadding(10)
+                .elasticX(true)
+                .elasticY(true)
+                .dimension(metricName5)
+                .group(metricNameGroup5)
+//                .mouseZoomable(true)
+//                .shareTitle(false) // allow default scatter title to work
+                .seriesAccessor(function (d) {
+                    return d.key;
+                })
+                .keyAccessor(function (d) {
+                    return +d.value.avgImp;
+                })
+                .valueAccessor(function (d) {
+                    return +d.value.avgEng;
+                })
+                .legend(dc.legend().x($('#engagement_q3_chart5').width() + 100)
+                        .y(0).itemHeight(13).gap(5).horizontal(1).legendWidth(140).itemWidth(100));
+
+        window.onresize = function () {
+            chart5.legend().x(100);
+        };
+        chart5.margins().left += 40;
+        chart5.render();
+        count++;
+
+        chart6
+                .dimension(metricNameGroup6)
+                .group(rank)
+                .showGroups(false)
+//                .size(100)
+                .columns([
+                    function (d) {
+                        return d.key;
+                    },
+                    function (d) {
+                        return +d.value.avgEng;
+                    },
+                    function (d) {
+                        return +d.value.avgImp;
+                    }
+                ])
+                .sortBy(function (d) {
+                    return d.key;
+                })
+                .order(d3.descending);
+
+        chart6.render();
+        count++;
 
         enableTab("tab3-panel", 6, count);
     });
 }
-
 function plotEngagementQ4Charts() {
     var chart1 = dc.selectMenu("#engagement_q4_chart1", "q4");
     var chart2 = dc.selectMenu("#engagement_q4_chart2", "q4");
@@ -1214,154 +1325,217 @@ function plotEngagementQ4Charts() {
 
         data.forEach(function (d) {
             d.m4 = d3.time.format.utc("%d-%m-%Y").parse(d.m4);
+            d.value = +d.value;
         });
 
-        var sohMetricName1 = cf.dimension(function (d) {
+
+        var metricName1 = cf.dimension(function (d) {
             return d["m1"];
         });
-        var sohMetricNameGroup1 = sohMetricName1.group().reduce(
+        var metricNameGroup1 = metricName1.group().reduce(
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p += +v.value;
-                    }
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
+
                     return p;
                 },
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p -= +v.value;
-                    }
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
+
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
-        var sohMetricName2 = cf.dimension(function (d) {
+        var metricName2 = cf.dimension(function (d) {
             return d["m2"];
         });
-        var sohMetricNameGroup2 = sohMetricName2.group().reduce(
+        var metricNameGroup2 = metricName2.group().reduce(
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p += +v.value;
-                    }
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p -= +v.value;
-                    }
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
+
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
-        var sohMetricName3 = cf.dimension(function (d) {
+        var metricName3 = cf.dimension(function (d) {
             return d["m3"];
         });
-        var sohMetricNameGroup3 = sohMetricName3.group().reduce(
+        var metricNameGroup3 = metricName3.group().reduce(
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p += +v.value;
-                    }
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
+
                     return p;
                 },
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p -= +v.value;
-                    }
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
-        var sohMetricName4 = cf.dimension(function (d) {
+        var metricName4 = cf.dimension(function (d) {
             return +d.m4;
         });
-        var sohMetricNameGroup4 = sohMetricName4.group().reduce(
+        var metricNameGroup4 = metricName4.group().reduce(
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p += +v.value;
-                    }
+                    p.num += +v.engagement;
+                    ++p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p -= +v.value;
-                    }
+                    p.num -= +v.engagement;
+                    --p.count;
+                    p.avg = d3.round(p.num / p.count, 2);
                     return p;
                 },
                 function () {
-                    return 0;
+                    return {
+                        num: 0,
+                        count: 0,
+                        avg: 0
+                    };
                 }
         );
 
-        var sohMetricName5 = cf.dimension(function (d) {
-            return d["m3"];
+        var metricName5 = cf.dimension(function (d) {
+            return d["function"];
         });
-        var sohMetricNameGroup5 = sohMetricName5.group().reduce(
+        var metricNameGroup5 = metricName5.group().reduce(
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p += +v.value;
-                    }
+                    p[v.engagement] = (p[v.engagement] || 0) + v.value;
                     return p;
                 },
                 function (p, v) {
-                    if (isCandidateCount(v)) {
-                        p -= +v.value;
-                    }
+                    p[v.engagement] = (p[v.engagement] || 0) - v.value;
                     return p;
                 },
                 function () {
-                    return 0;
-                }
-        );
+                    return {};
+                });
+
+//        var metricName5;
+//        var metricNameGroup5;
+//        function generateDimensionGroup() {
+//            var selectedX = $('input[name=optionsX]:checked').val();
+//            var selectedY = $('input[name=optionsY]:checked').val();
+//
+//
+//            metricName5 = cf.dimension(function (d) {
+//                return d[selectedX];
+//            });
+//            metricNameGroup5 = metricName5.group().reduce(
+//                    function (p, v) {
+//                        p[v[selectedY]] = (p[v[selectedY]] || 0) + v.value;
+//                        return p;
+//                    },
+//                    function (p, v) {
+//                        p[v[selectedY]] = (p[v[selectedY]] || 0) - v.value;
+//                        return p;
+//                    },
+//                    function () {
+//                        return {};
+//                    });
+//        }
+//        generateDimensionGroup();
+//        d3.selectAll('#engagement_q4_radioX input')
+//                .on('click', function () {
+//                    generateDimensionGroup();
+//                    dc.renderAll("q4");
+//                });
+
+        function sel_stack(i) {
+            return function (d) {
+                return d.value[i];
+            };
+        }
+
 
         var count = 0;
         chart1
-                .dimension(sohMetricName1)
-                .group(sohMetricNameGroup1)
+                .dimension(metricName1)
+                .group(metricNameGroup1)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart1.render();
         count++;
 
         chart2
-                .dimension(sohMetricName2)
-                .group(sohMetricNameGroup2)
+                .dimension(metricName2)
+                .group(metricNameGroup2)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart2.render();
         count++;
 
         chart3
-                .dimension(sohMetricName3)
-                .group(sohMetricNameGroup3)
+                .dimension(metricName3)
+                .group(metricNameGroup3)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .controlsUseVisibility(true);
         chart3.render();
         count++;
 
-        var minDate = sohMetricName4.bottom(1)[0].m4;
-        var maxDate = sohMetricName4.top(1)[0].m4;
+        var minDate = metricName4.bottom(1)[0].m4;
+        var maxDate = metricName4.top(1)[0].m4;
         chart4
                 .height(75)
                 .brushOn(true)
                 .elasticY(true)
-                .dimension(sohMetricName4)
-                .group(sohMetricNameGroup4)
+                .dimension(metricName4)
+                .group(metricNameGroup4)
                 .showYAxis(false)
                 .centerBar(true)
                 .colors(['#303f9f'])
                 .mouseZoomable(true)
                 .barPadding(0.05)
+                .valueAccessor(function (d) {
+                    return d.value.avg;
+                })
                 .x(d3.time.scale().
                         domain(
                                 [d3.time.month.offset(minDate, -1), d3.time.month.offset(maxDate, 1)]
                                 )
                         )
-                .xUnits(d3.time.months)
-                .xAxis()
-                .ticks(d3.time.month, 1)
-                .tickFormat(d3.time.format("%b '%y"));
+                .xUnits(d3.time.months);
 
         chart4.on("renderlet", function (chart) {
             var gLabels = chart.select(".labels");
@@ -1378,7 +1552,7 @@ function plotEngagementQ4Charts() {
                     .attr('text-anchor', 'middle')
                     .attr('fill', 'white')
                     .text(function (d) {
-                        return d3.select(d).data()[0].data.value;
+                        return d3.select(d).data()[0].data.value.avg;
                     })
                     .attr('x', function (d) {
                         return +d.getAttribute('x') + (d.getAttribute('width') / 2);
@@ -1392,6 +1566,31 @@ function plotEngagementQ4Charts() {
                     });
         });
         chart4.render();
+        count++;
+
+        chart5
+                .width(768)
+                .height(480)
+                .x(d3.scale.ordinal().domain(metricName5))
+                .xUnits(dc.units.ordinal)
+                .margins({left: 80, top: 20, right: 10, bottom: 20})
+                .brushOn(false)
+                .elasticY(true)
+                .clipPadding(20)
+//              .title(function(d) {
+//                  return d.key + '[' + this.layer + ']: ' + d.value[this.layer];
+//              })
+                .dimension(metricName5)
+                .group(metricNameGroup5, "1", sel_stack('1'))
+                .renderLabel(true);
+        chart5.legend(dc.legend());
+        dc.override(chart5, 'legendables', function () {
+            var items = chart5._legendables();
+            return items.reverse();
+        });
+        for (var i = 2; i < 6; ++i)
+            chart5.stack(metricNameGroup5, '' + i, sel_stack(i));
+        chart5.render();
         count++;
 
 
