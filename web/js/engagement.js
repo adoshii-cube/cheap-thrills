@@ -1599,6 +1599,9 @@ function plotEngagementQ4Charts() {
     });
 }
 
+var nodes = readTextFile("engagement_q5.csv");
+var edges = readTextFile("edge.csv");
+
 function plotEngagementQ5Charts() {
     var chart1 = dc.selectMenu("#engagement_q5_chart1", "q5");
     var chart2 = dc.selectMenu("#engagement_q5_chart2", "q5");
@@ -1798,56 +1801,70 @@ function plotEngagementQ5Charts() {
         });
         chart4.render();
         count++;
-        var nodes = readTextFile("engagement_q5.csv");
-        var edges = readTextFile("edge.csv");
-        var network = null;
 
-        var container = document.getElementById('engagement_q5_chart6');
-        var ndata = nodes.data;
-
-        ndata.forEach(function (d) {
-            d.id = +d.id;
-            d.value = +d.value;
-        });
-        var edata = edges.data;
-        edata.forEach(function (d) {
-            d.from = +d.from;
-            d.to = +d.to;
-            d.value = +d.value;
-        });
-        var networkData = {
-            nodes: ndata,
-            edges: edata
-        };
-        var options = {
-            nodes: {
-                shape: 'dot',
-                size: 16
-            }
-        };
-        network = new vis.Network(container, networkData, options);
-        network.on("stabilizationProgress", function (params) {
-            var maxWidth = 496;
-            var minWidth = 20;
-            var widthFactor = params.iterations / params.total;
-            var width = Math.max(minWidth, maxWidth * widthFactor);
-
-            document.getElementById('bar').style.width = width + 'px';
-            document.getElementById('text').innerHTML = Math.round(widthFactor * 100) + '%';
-        });
-        network.once("stabilizationIterationsDone", function () {
-            document.getElementById('text').innerHTML = '100%';
-            document.getElementById('bar').style.width = '496px';
-            document.getElementById('loadingBar').style.opacity = 0;
-            // really clean the dom element
-            setTimeout(function () {
-                document.getElementById('loadingBar').style.display = 'none';
-            }, 500);
-        });
+        plotNetworkChart(nodes, edges);
         count++;
 
         enableTab("tab5-panel", 5, count);
 
+    });
+}
+
+function plotNetworkChart() {
+    console.log("inside plot network chart");
+    var selectedM1 = $('#engagement_q5_chart1').find(':selected').attr('value');
+    console.log("selectedM1 ::::: " + selectedM1);
+    var selectedM2 = $('#engagement_q5_chart2').find(':selected').attr('value');
+    console.log("selectedM2 ::::: " + selectedM2);
+    var selectedM3 = $('#engagement_q5_chart3').find(':selected').attr('value');
+    console.log("selectedM3 ::::: " + selectedM3);
+
+    var container = document.getElementById('engagement_q5_chart6');
+    var ndata = nodes.data;
+
+    ndata.forEach(function (d) {
+        d.id = +d.id;
+        d.value = +d.value;
+    });
+    var nDataSet = new vis.DataSet(ndata);
+    var items = nDataSet.get({
+        filter: function (item) {
+            return ((selectedM1 === "" ? item.m1 !== null : item.m1 === selectedM1)
+                    && (selectedM2 === "" ? item.m2 !== null : item.m2 === selectedM2)
+                    && (selectedM3 === "" ? item.m3 !== null : item.m3 === selectedM3));
+        }
+    });
+    var edata = edges.data;
+    edata.forEach(function (d) {
+        d.from = +d.from;
+        d.to = +d.to;
+        d.value = +d.value;
+    });
+    var eDataSet = new vis.DataSet(edata);
+    var networkData = {
+        nodes: items,
+        edges: eDataSet
+    };
+    var options = {};
+
+    var network = new vis.Network(container, networkData, options);
+    network.on("stabilizationProgress", function (params) {
+        var maxWidth = 496;
+        var minWidth = 20;
+        var widthFactor = params.iterations / params.total;
+        var width = Math.max(minWidth, maxWidth * widthFactor);
+
+        document.getElementById('bar').style.width = width + 'px';
+        document.getElementById('text').innerHTML = Math.round(widthFactor * 100) + '%';
+    });
+    network.once("stabilizationIterationsDone", function () {
+        document.getElementById('text').innerHTML = '100%';
+        document.getElementById('bar').style.width = '496px';
+        document.getElementById('loadingBar').style.opacity = 0;
+        // really clean the dom element
+        setTimeout(function () {
+            document.getElementById('loadingBar').style.display = 'none';
+        }, 500);
     });
 }
 
