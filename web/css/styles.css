@@ -819,6 +819,11 @@ div .mdl-textfield__label:after {
     height: 50vh;
 }
 
+#networkLoader{
+    width: 98%;
+    margin: 0 auto;
+}
+
 #hiring_q5_chart5,
 #engagement_q3_chart6,
 #attrition_q3_chart7{
@@ -830,6 +835,10 @@ div .mdl-textfield__label:after {
 .reset{
     float: right;
     font-weight: 700;
+}
+
+.resetForNetwork{
+       display: none;
 }
 
 #hiring_q5_chart5 .dc-table-head,

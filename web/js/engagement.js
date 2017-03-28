@@ -35,6 +35,8 @@ $(document).ready(function () {
         dc.refocusAll(buttonId);
         dc.filterAll(buttonId);
         dc.redrawAll(buttonId);
+
+        plotNetworkChart();
     });
 });
 
@@ -1613,7 +1615,7 @@ function plotEngagementQ5Charts() {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
-            d.m4 = d3.time.format.utc("%d-%m-%y").parse(d.m4);
+            d.m4 = d3.time.format.utc("%d/%m/%y").parse(d.m4);
         });
 
         var metricName1 = cf.dimension(function (d) {
@@ -1756,7 +1758,7 @@ function plotEngagementQ5Charts() {
                 .showYAxis(false)
                 .centerBar(true)
                 .colors(['#303f9f'])
-                .mouseZoomable(true)
+//                .mouseZoomable(true)
                 .barPadding(0.05)
                 .valueAccessor(function (d) {
                     return d.value.avg;
@@ -1799,6 +1801,13 @@ function plotEngagementQ5Charts() {
                             return "display:none";
                     });
         });
+        chart4.on('postRender', function () {
+            chart4.select('.brush').on("mouseup", function () {
+                //additional data processing function called here
+                plotNetworkChart();
+            });
+        });
+
         chart4.render();
         count++;
 
@@ -1811,13 +1820,11 @@ function plotEngagementQ5Charts() {
 }
 
 function plotNetworkChart() {
-    console.log("inside plot network chart");
     var selectedM1 = $('#engagement_q5_chart1').find(':selected').attr('value');
-    console.log("selectedM1 ::::: " + selectedM1);
     var selectedM2 = $('#engagement_q5_chart2').find(':selected').attr('value');
-    console.log("selectedM2 ::::: " + selectedM2);
     var selectedM3 = $('#engagement_q5_chart3').find(':selected').attr('value');
-    console.log("selectedM3 ::::: " + selectedM3);
+    var type = $('input[name=options]:checked').val();
+    var date = $("#engagement_q5_chart4 .reset .filter").text().substring(1, $("#engagement_q5_chart4 .reset .filter").text().length - 1).split("->");
 
     var container = document.getElementById('engagement_q5_chart6');
     var ndata = nodes.data;
@@ -1829,16 +1836,27 @@ function plotNetworkChart() {
     var nDataSet = new vis.DataSet(ndata);
     var items = nDataSet.get({
         filter: function (item) {
+//            item.m4 = d3.time.format.utc("%d/%m/%y").parse(item.m4);
+//            if (date.length > 1) {
+//                date[0] = d3.time.format.utc("%d/%m/%y").parse(date[0].trim());
+//                date[1] = d3.time.format.utc("%d/%m/%y").parse(date[1].trim());
+//            }
+
             return ((selectedM1 === "" ? item.m1 !== null : item.m1 === selectedM1)
                     && (selectedM2 === "" ? item.m2 !== null : item.m2 === selectedM2)
-                    && (selectedM3 === "" ? item.m3 !== null : item.m3 === selectedM3));
+                    && (selectedM3 === "" ? item.m3 !== null : item.m3 === selectedM3)
+                    && (item.type === type)
+                    && (date.length <= 1
+                            ? item.m4 !== null
+                            : (d3.time.format.utc("%d/%m/%y").parse(item.m4) > d3.time.format.utc("%d/%m/%y").parse(date[0].trim())
+                                    && d3.time.format.utc("%d/%m/%y").parse(item.m4) < d3.time.format.utc("%d/%m/%Y").parse(date[1].trim()))));
         }
     });
     var edata = edges.data;
     edata.forEach(function (d) {
         d.from = +d.from;
         d.to = +d.to;
-        d.value = +d.value;
+//        d.value = +d.value;
     });
     var eDataSet = new vis.DataSet(edata);
     var networkData = {
@@ -1846,25 +1864,23 @@ function plotNetworkChart() {
         edges: eDataSet
     };
     var options = {};
+    options.nodes = {
+        color: '#C5CAE9'
+    };
+
+
+
 
     var network = new vis.Network(container, networkData, options);
     network.on("stabilizationProgress", function (params) {
-        var maxWidth = 496;
-        var minWidth = 20;
         var widthFactor = params.iterations / params.total;
-        var width = Math.max(minWidth, maxWidth * widthFactor);
-
-        document.getElementById('bar').style.width = width + 'px';
-        document.getElementById('text').innerHTML = Math.round(widthFactor * 100) + '%';
+        if ($("#networkLoader").css("visibility", "hidden")) {
+            $("#networkLoader").css("visibility", "visible");
+        }
+        $("#networkLoader .progressbar").width(Math.round(widthFactor * 100) + "%");
     });
     network.once("stabilizationIterationsDone", function () {
-        document.getElementById('text').innerHTML = '100%';
-        document.getElementById('bar').style.width = '496px';
-        document.getElementById('loadingBar').style.opacity = 0;
-        // really clean the dom element
-        setTimeout(function () {
-            document.getElementById('loadingBar').style.display = 'none';
-        }, 500);
+        document.getElementById('networkLoader').style.visibility = 'hidden';
     });
 }
 

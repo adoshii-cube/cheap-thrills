@@ -364,6 +364,9 @@ and open the template in the editor.
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Time Period</h2>
                                             </div>
+                                            <div class="reset resetForNetwork">selected: <span class="filter"></span>
+                                                <a href="javascript:monthChart.filterAll().redrawGroup();">reset</a>
+                                            </div>
                                         </div>
                                         <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__line mdl-cell--12-col ">
                                             <div class="mdl-card__title">
@@ -371,23 +374,16 @@ and open the template in the editor.
                                             </div>
                                             <div id="engagement_q5_chart5">
                                                 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
-                                                    <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="Work" checked>
+                                                    <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="Work"  onclick="plotNetworkChart()" checked>
                                                     <span class="mdl-radio__label">Work</span>
                                                 </label>
                                                 <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-3">
-                                                    <input type="radio" id="option-3" class="mdl-radio__button" name="options" value="Mentorship">
+                                                    <input type="radio" id="option-3" class="mdl-radio__button" name="options" value="Mentorship" onclick="plotNetworkChart()">
                                                     <span class="mdl-radio__label">Mentorship</span>
                                                 </label>
                                             </div>
+                                            <div id="networkLoader" class="mdl-progress mdl-js-progress"></div>
                                             <div id="engagement_q5_chart6"></div>
-                                            <div id="loadingBar">
-                                                <div class="outerBorder">
-                                                    <div id="text"></div>
-                                                    <div id="border">
-                                                        <div id="bar"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
