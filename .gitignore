@@ -8,3 +8,4 @@ build.xml
 build-impl.xml
 *.properties
 project.xml
+/web/vis-4.19.1/nbproject/private/

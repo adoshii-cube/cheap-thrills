@@ -1278,8 +1278,16 @@ function plotEngagementQ3Charts() {
                 .valueAccessor(function (d) {
                     return +d.value.avgEng;
                 })
-                .legend(dc.legend().x($('#engagement_q3_chart5').width() + 100)
-                        .y(0).itemHeight(13).gap(5).horizontal(1).legendWidth(140).itemWidth(100));
+                .legend(dc.legend()
+                        .x($('#engagement_q3_chart5').width() + 100)
+                        .y(0)
+                        .itemHeight(13)
+                        .gap(5)
+                        .horizontal(true)
+//                        .legendWidth(100)
+                        .itemWidth(100)
+//                        .autoItemWidth(true)
+                        );
 
         window.onresize = function () {
             chart5.legend().x(100);
@@ -1572,11 +1580,11 @@ function plotEngagementQ4Charts() {
         count++;
 
         chart5
-                .width(768)
+//                .width(768)
                 .height(480)
                 .x(d3.scale.ordinal().domain(metricName5))
                 .xUnits(dc.units.ordinal)
-                .margins({left: 80, top: 20, right: 10, bottom: 20})
+                .margins({left: 80, top: 20, right: 80, bottom: 20})
                 .brushOn(false)
                 .elasticY(true)
                 .clipPadding(20)
@@ -1586,7 +1594,15 @@ function plotEngagementQ4Charts() {
                 .dimension(metricName5)
                 .group(metricNameGroup5, "1", sel_stack('1'))
                 .renderLabel(true);
-        chart5.legend(dc.legend());
+        chart5.legend(
+                dc.legend()
+                .x($('#engagement_q4_chart5').width() + 18)
+                .y(0)
+                .itemHeight(13)
+                .gap(5)
+//                .horizontal(true)
+//                .legendWidth(250)
+                .autoItemWidth(true));
         dc.override(chart5, 'legendables', function () {
             var items = chart5._legendables();
             return items.reverse();
