@@ -1669,13 +1669,13 @@ function plotHiringQ5Charts() {
                         format: function (d) {
                             return d.m1;
                         }
-                    },
-                    {
-                        label: 'Recommended Salary',
-                        format: function (d) {
-                            return d.m7;
-                        }
                     }
+//                    {
+//                        label: 'Recommended Salary',
+//                        format: function (d) {
+//                            return d.m7;
+//                        }
+//                    }
                 ]);
         chart5.on("renderlet", function (chart) {
 
