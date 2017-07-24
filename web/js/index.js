@@ -22,8 +22,8 @@ $(document).ready(function () {
     }
 
     //Username/Password Declaration
-    var unArray = ["hemant@owenanalytics.com", "demo@owenanalytics.com"];
-    var pwArray = ["8PdGr-5CF$33^=Rr", "?!Y*q8grKQcg*j6!"];
+    var unArray = ["rashmi.hr@owenanalytics.com", "tej.ceo@owenanalytics.com", "hitendra.business@owenanalytics.com", "hemant.business@owenanalytics.com", "aditya.business@owenanalytics.com", "demo@owenanalytics.com"];
+    var pwArray = ["abc123","abc123","abc123","abc123","8PdGr-5CF$33^=Rr", "?!Y*q8grKQcg*j6!"];
 
     $("#loginButton").on("click", function () {
 
