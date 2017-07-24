@@ -61,7 +61,7 @@ function plotAttritionQ1() {
     var chart7 = dc.barChart("#attrition_q1_chart7", "q1");
     var chart8 = dc.numberDisplay("#attrition_q1_chart8", "q1");
 
-    d3.csv("attrition_q1.csv", function (error, data) {
+    d3.csv("./data/attrition/attrition_q1.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -460,7 +460,7 @@ function plotAttritionQ2() {
     var chart6 = dc.pieChart("#attrition_q2_chart6", "q2");
     var chart7 = dc.barChart("#attrition_q2_chart7", "q2");
     var chart8 = dc.barChart("#attrition_q2_chart8", "q2");
-    d3.csv("attrition_q2.csv", function (error, data) {
+    d3.csv("./data/attrition/attrition_q2.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -860,7 +860,7 @@ function plotAttritionQ3() {
     var chart6 = dc.pieChart("#attrition_q3_chart6", "q3");
     var chart7 = dc.dataTable("#attrition_q3_chart7", "q3");
 
-    d3.csv("attrition_q3.csv", function (error, data) {
+    d3.csv("./data/attrition/attrition_q3.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1197,7 +1197,7 @@ function plotAttritionQ3() {
 function plotAttritionQ4() {
     var chart2 = dc.seriesChart("#attrition_q4_chart2", "q4");
 
-    d3.csv("attrition_q4.csv", function (error, data) {
+    d3.csv("./data/attrition/attrition_q4.csv", function (error, data) {
         var cf = crossfilter(data);
 
         var metricName2 = cf.dimension(function (d) {

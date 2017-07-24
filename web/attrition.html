@@ -59,10 +59,24 @@ and open the template in the editor.
                     <!-- Navigation. We hide it in small screens. -->
                     <div class="android-navigation-container">
                         <nav class="android-navigation mdl-navigation">
-                            <a class="mdl-navigation__link" href="index.html">Hiring</a>
-                            <a class="mdl-navigation__link" href="engagement.html">Engagement</a>
+                            <a class="mdl-navigation__link" href="hiring.html">Hiring</a>
+                            <a class="mdl-navigation__link--disabled">Engagement</a>
                             <a class="mdl-navigation__link selected" href="">Attrition</a>
                             <!--<a class="mdl-navigation__link" href="">Logout</a>-->
+                            <button id="header-menu"
+                                    class="mdl-button mdl-js-button mdl-button--icon">
+                                <i class="material-icons">more_vert</i>
+                            </button>
+                            <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                                for="header-menu">
+                                <!--<li class="mdl-menu__item">Help & Feedback</li>-->
+                                <!--<li class="mdl-menu__item">Settings</li>-->
+                                <a href="index.html" id="signOut">
+                                    <li class="mdl-menu__item"> 
+                                        Sign out
+                                    </li>
+                                </a>
+                            </ul>
                         </nav>
                     </div>
                     <span class="android-mobile-title mdl-layout-title">
@@ -75,9 +89,10 @@ and open the template in the editor.
                     <img class="android-logo-image" src="images/OWEN_Logo.png" alt="OWEN Logo">
                 </span>
                 <nav class="mdl-navigation">
-                    <a class="mdl-navigation__link" href="index.html">Hiring</a>
-                    <a class="mdl-navigation__link" href="engagement.html">Engagement</a>
+                    <a class="mdl-navigation__link" href="hiring.html">Hiring</a>
+                    <a class="mdl-navigation__link drawer-link-disabled">Engagement</a>
                     <a class="mdl-navigation__link selected" href="attrition.html">Attrition</a>
+                    <a class="mdl-navigation__link" href="index.html">Logout</a>
                 </nav>
             </div>
             <main class="mdl-layout__content">

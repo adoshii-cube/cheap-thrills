@@ -35,12 +35,7 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" href="css/dc.css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
-        <script src="js/papaparse.min.js"></script>
-
         <link rel='shortcut icon' type='image/x-icon' href='images/OWEN_Favicon.ico'/>
-
-        <script src="js/vis.min.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/vis.min.css"/>
 
         <!-- Chrome, Firefox OS and Opera -->
         <meta name="theme-color" content="#303f9f">
@@ -64,10 +59,24 @@ and open the template in the editor.
                     <!-- Navigation. We hide it in small screens. -->
                     <div class="android-navigation-container">
                         <nav class="android-navigation mdl-navigation">
-                            <a class="mdl-navigation__link" href="hiring.html">Hiring</a>
-                            <a class="mdl-navigation__link selected" href="">Engagement</a>
+                            <a class="mdl-navigation__link selected" href="">Hiring</a>
+                            <a class="mdl-navigation__link--disabled">Engagement</a>
                             <a class="mdl-navigation__link" href="attrition.html">Attrition</a>
                             <!--<a class="mdl-navigation__link" href="">Logout</a>-->
+                            <button id="header-menu"
+                                    class="mdl-button mdl-js-button mdl-button--icon">
+                                <i class="material-icons">more_vert</i>
+                            </button>
+                            <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                                for="header-menu">
+                                <!--<li class="mdl-menu__item">Help & Feedback</li>-->
+                                <!--<li class="mdl-menu__item">Settings</li>-->
+                                <a href="index.html" id="signOut">
+                                    <li class="mdl-menu__item"> 
+                                        Sign out
+                                    </li>
+                                </a>
+                            </ul>
                         </nav>
                     </div>
                     <span class="android-mobile-title mdl-layout-title">
@@ -80,99 +89,97 @@ and open the template in the editor.
                     <img class="android-logo-image" src="images/OWEN_Logo.png" alt="OWEN Logo">
                 </span>
                 <nav class="mdl-navigation">
-                    <a class="mdl-navigation__link" href="hiring.html">Hiring</a>
-                    <a class="mdl-navigation__link selected" href="">Engagement</a>
+                    <a class="mdl-navigation__link selected" href="">Hiring</a>
+                    <a class="mdl-navigation__link drawer-link-disabled">Engagement</a>
                     <a class="mdl-navigation__link" href="attrition.html">Attrition</a>
+                    <a class="mdl-navigation__link" href="index.html">Logout</a>
                 </nav>
             </div>
             <main class="mdl-layout__content">
-
                 <div class="page-content">
+                    <!--<div id="loader" class="mdl-progress mdl-js-progress mdl-progress__indeterminate"></div>-->
                     <div class="mdl-tabs vertical-mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
                         <div class="mdl-grid mdl-grid--no-spacing">
                             <div class="mdl-cell mdl-cell--2-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
                                 <div class="mdl-tabs__tab-bar">
                                     <a href="#tab1-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
-                                            Engagement Dashboard
+                                            Demographic profile
                                         </div>
                                     </a>
                                     <a href="#tab2-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
-                                            Demographics
+                                            Experience profile
                                         </div>
                                     </a>
                                     <a href="#tab3-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
-                                            Focus areas
+                                            Hiring funnel
                                         </div>
                                     </a>
                                     <a href="#tab4-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
-                                            Distribution of responses
+                                            Source of hire
                                         </div>
                                     </a>
                                     <a href="#tab5-panel" class="mdl-tabs__tab vertical-mdl-tabs-disabled">
                                         <div>
-                                            Network
+                                            Recommendations
                                         </div>
                                     </a>
                                 </div>
                             </div>
                             <div class="mdl-cell mdl-cell--10-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
-                                <div class="mdl-tabs__panel is-active" id="tab1-panel">
+                                <div class="mdl-tabs__panel is-active" id="tab1-panel"> 
                                     <div class="android-card-container">
                                         <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-chart__reset mdl-cell--12-col" id="q1">
                                             <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset" >
                                                 RESET ALL FILTERS
                                             </button>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q1_chart1">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q1_chart1">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">State</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q1_chart2">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q1_chart2">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Role</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q1_chart3">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q1_chart3">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Source</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="engagement_q1_chart4">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q1_chart4">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Time Period</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__number mdl-cell--4-col ">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q1_chart5">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Engagement Score</h2>
-                                            </div>
-                                            <div class="mdl-chart__score dc-chart" id="engagement_q1_chart5"></div>
-                                        </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__number mdl-cell--4-col ">
-                                            <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Mood Score</h2>
-                                            </div>
-                                            <div class="mdl-chart__score dc-chart" id="engagement_q1_chart6"></div>
-                                        </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__number mdl-cell--4-col ">
-                                            <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Net Promoter Score</h2>
-                                            </div>
-                                            <div class="mdl-chart__score dc-chart"  id="engagement_q1_chart7"></div>
-                                        </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--6-col " id="engagement_q1_chart8">
-                                            <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Components</h2>
+                                                <h2 class="mdl-card__title-text">Age</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--6-col " id="engagement_q1_chart9">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart6">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Network Metrics</h2>
+                                                <h2 class="mdl-card__title-text">Education (by Level)</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart7">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Education (by Stream)</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart8">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Gender</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q1_chart9">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Marital Status</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -180,48 +187,43 @@ and open the template in the editor.
                                 <div class="mdl-tabs__panel" id="tab2-panel">
                                     <div class="android-card-container">
                                         <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-chart__reset mdl-cell--12-col" id="q2">
-                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset" >
+                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset">
                                                 RESET ALL FILTERS
                                             </button>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q2_chart1">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q2_chart1">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">State</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q2_chart2">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q2_chart2">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Role</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q2_chart3">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q2_chart3">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Source</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="engagement_q2_chart4">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q2_chart4">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Time Period</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="engagement_q2_chart5">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q2_chart5">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Age</h2>
+                                                <h2 class="mdl-card__title-text">Total Experience</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="engagement_q2_chart6">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q2_chart6">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Gender</h2>
+                                                <h2 class="mdl-card__title-text">Average Experience</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="engagement_q2_chart7">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q2_chart7">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Function</h2>
-                                            </div>
-                                        </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="engagement_q2_chart8">
-                                            <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Tenure</h2>
+                                                <h2 class="mdl-card__title-text">No. of previous jobs</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -229,169 +231,131 @@ and open the template in the editor.
                                 <div class="mdl-tabs__panel" id="tab3-panel">
                                     <div class="android-card-container">
                                         <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-chart__reset mdl-cell--12-col" id="q3">
-                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset" >
+                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset">
                                                 RESET ALL FILTERS
                                             </button>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q3_chart1">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q3_chart1">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">State</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q3_chart2">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q3_chart2">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Role</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q3_chart3">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q3_chart3">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Source</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="engagement_q3_chart4">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q3_chart4">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Time Period</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__scatter mdl-cell--12-col " id="engagement_q3_chart5">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--6-col " id="hiring_q3_chart5">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Impact</h2>
+                                                <h2 class="mdl-card__title-text">Turnaround Time</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__table mdl-cell--12-col ">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--6-col " id="hiring_q3_chart6">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Data Table</h2>
+                                                <h2 class="mdl-card__title-text">Conversion Ratio</h2>
                                             </div>
-                                            <table class="mdl-data-table mdl-js-data-table" id="engagement_q3_chart6">
-                                                <thead>
-                                                    <tr>
-                                                        <th class="mdl-data-table__cell--non-numeric">Component</th>
-                                                        <th>Engagement Score</th>
-                                                        <th>Importance Score</th>
-                                                    </tr>
-                                                </thead>
-
-                                            </table>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="mdl-tabs__panel" id="tab4-panel">
                                     <div class="android-card-container">
                                         <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-chart__reset mdl-cell--12-col" id="q4">
-                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset" >
+                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset">
                                                 RESET ALL FILTERS
                                             </button>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q4_chart1">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q4_chart1">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">State</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q4_chart2">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q4_chart2">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Role</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q4_chart3">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q4_chart3">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Source</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="engagement_q4_chart4">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q4_chart4">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Time Period</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__stacked mdl-cell--12-col " id="engagement_q4_chart5">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__pie mdl-cell--4-col " id="hiring_q4_chart5">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Distribution</h2>
+                                                <h2 class="mdl-card__title-text">Candidate Count</h2>
                                             </div>
                                         </div>
-
-                                        <!--                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__line mdl-cell--12-col ">
-                                                                                    <div class="mdl-card__title">
-                                                                                        <h2 class="mdl-card__title-text">Distribution</h2>
-                                                                                    </div>
-                                                                                    <div id="engagement_q4_radioX">
-                                                                                        <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
-                                                                                            <input type="radio" id="option-1" class="mdl-radio__button" name="optionsX" value="function" checked>
-                                                                                            <span class="mdl-radio__label">Function</span>
-                                                                                        </label>
-                                                                                        <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
-                                                                                            <input type="radio" id="option-2" class="mdl-radio__button" name="optionsX" value="component">
-                                                                                            <span class="mdl-radio__label">Component</span>
-                                                                                        </label>
-                                                                                    </div>
-                                                                                    <div id="engagement_q4_radioY">
-                                                                                        <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-3">
-                                                                                            <input type="radio" id="option-3" class="mdl-radio__button" name="optionsY" value="engagement" checked>
-                                                                                            <span class="mdl-radio__label">Engagement</span>
-                                                                                        </label>
-                                                                                        <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-4">
-                                                                                            <input type="radio" id="option-4" class="mdl-radio__button" name="optionsY" value="mood">
-                                                                                            <span class="mdl-radio__label">Mood</span>
-                                                                                        </label>
-                                                                                    </div>
-                                                                                    <div id="engagement_q4_chart5"></div>
-                                                                                </div>-->
-
-
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q4_chart6">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Total Conversion</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q4_chart7">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Average TAT</h2>
+                                            </div>
+                                        </div>
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__bar mdl-cell--4-col " id="hiring_q4_chart8">
+                                            <div class="mdl-card__title">
+                                                <h2 class="mdl-card__title-text">Average Previous Compensation</h2>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="mdl-tabs__panel" id="tab5-panel">
                                     <div class="android-card-container">
                                         <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-chart__reset mdl-cell--12-col" id="q5">
-                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset" >
+                                            <button class="mdl-button mdl-js-button mdl-button--primary mdl-js-ripple-effect reset">
                                                 RESET ALL FILTERS
                                             </button>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q5_chart1" onchange="plotNetworkChart()">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q5_chart1">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">State</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q5_chart2" onchange="plotNetworkChart()">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q5_chart2">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Role</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="engagement_q5_chart3" onchange="plotNetworkChart()">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__dropdown mdl-cell--4-col" id="hiring_q5_chart3">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Source</h2>
                                             </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="engagement_q5_chart4">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__timeseries mdl-cell--12-col " id="hiring_q5_chart4">
                                             <div class="mdl-card__title">
                                                 <h2 class="mdl-card__title-text">Time Period</h2>
                                             </div>
-                                            <div class="reset resetForNetwork">selected: <span class="filter"></span>
-                                                <a href="javascript:monthChart.filterAll().redrawGroup();">reset</a>
-                                            </div>
                                         </div>
-                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__line mdl-cell--12-col ">
+                                        <div class="mdl-cell mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp mdl-chart__table mdl-cell--12-col ">
                                             <div class="mdl-card__title">
-                                                <h2 class="mdl-card__title-text">Network Diagram</h2>
+                                                <h2 class="mdl-card__title-text">Recommendation List</h2>
                                             </div>
-                                            <div id="engagement_q5_chart5">
-                                                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
-                                                    <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="Work"  onclick="plotNetworkChart()" checked>
-                                                    <span class="mdl-radio__label">Work</span>
-                                                </label>
-                                                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-3">
-                                                    <input type="radio" id="option-3" class="mdl-radio__button" name="options" value="Mentorship" onclick="plotNetworkChart()">
-                                                    <span class="mdl-radio__label">Mentorship</span>
-                                                </label>
-                                            </div>
-                                            <div id="networkLoader" class="mdl-progress mdl-js-progress"></div>
-                                            <div id="engagement_q5_chart6"></div>
+                                            <table class="mdl-data-table mdl-js-data-table" id="hiring_q5_chart5"></table>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
+                </div>
                 <footer class="mdl-mini-footer">
                     <div class="mdl-mini-footer__left-section">
                         <div class="mdl-logo">
@@ -406,14 +370,12 @@ and open the template in the editor.
                 </footer>
             </main>
         </div>
-
-
         <script src="js/material.min.js"></script>
         <script src="js/mdl-selectfield.min.js"></script>
         <script src="js/d3.min.js"></script>
         <script src="js/crossfilter.min.js"></script>
         <script src="js/dc.min.js"></script>
 
-        <script src="js/engagement.js"></script>
+        <script src="js/hiring.js"></script>
     </body>
 </html>

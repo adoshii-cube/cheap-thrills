@@ -83,7 +83,7 @@ function plotHiringQ1Charts() {
     var chart8 = dc.pieChart("#hiring_q1_chart8", "q1");
     var chart9 = dc.pieChart("#hiring_q1_chart9", "q1");
 
-    d3.csv("hiring_q1.csv", function (error, data) {
+    d3.csv("./data/hiring/hiring_q1.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -421,7 +421,7 @@ function plotHiringQ2Charts() {
     var chart6 = dc.barChart("#hiring_q2_chart6", "q2");
     var chart7 = dc.pieChart("#hiring_q2_chart7", "q2");
 
-    d3.csv("hiring_q2.csv", function (error, data) {
+    d3.csv("./data/hiring/hiring_q2.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -756,7 +756,7 @@ function plotHiringQ3Charts() {
     var chart5 = dc.rowChart("#hiring_q3_chart5", "q3");
     var chart6 = dc.rowChart("#hiring_q3_chart6", "q3");
 
-    d3.csv("hiring_q3.csv", function (error, data) {
+    d3.csv("./data/hiring/hiring_q3.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1026,7 +1026,7 @@ function plotHiringQ4Charts() {
     var chart7 = dc.barChart("#hiring_q4_chart7", "q4");
     var chart8 = dc.barChart("#hiring_q4_chart8", "q4");
 
-    d3.csv("hiring_q4.csv", function (error, data) {
+    d3.csv("./data/hiring/hiring_q4.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1481,7 +1481,7 @@ function plotHiringQ5Charts() {
     var chart4 = dc.barChart("#hiring_q5_chart4", "q5");
     var chart5 = dc.dataTable("#hiring_q5_chart5", "q5");
 
-    d3.csv("hiring_q5.csv", function (error, data) {
+    d3.csv("./data/hiring/hiring_q5.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {

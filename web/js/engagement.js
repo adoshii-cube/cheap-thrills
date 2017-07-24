@@ -78,7 +78,7 @@ function plotEngagementQ1Charts() {
     var chart8 = dc.rowChart("#engagement_q1_chart8", "q1");
     var chart9 = dc.rowChart("#engagement_q1_chart9", "q1");
 
-    d3.csv("engagement_q1.csv", function (error, data) {
+    d3.csv("./data/engagement/engagement_q1.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -495,7 +495,7 @@ function plotEngagementQ2Charts() {
     var chart6 = dc.barChart("#engagement_q2_chart6", "q2");
     var chart7 = dc.barChart("#engagement_q2_chart7", "q2");
     var chart8 = dc.barChart("#engagement_q2_chart8", "q2");
-    d3.csv("engagement_q2.csv", function (error, data) {
+    d3.csv("./data/engagement/engagement_q2.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -966,7 +966,7 @@ function plotEngagementQ3Charts() {
     var chart5 = dc.seriesChart("#engagement_q3_chart5", "q3");
     var chart6 = dc.dataTable("#engagement_q3_chart6", "q3");
 
-    d3.csv("engagement_q3.csv", function (error, data) {
+    d3.csv("./data/engagement/engagement_q3.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1331,7 +1331,7 @@ function plotEngagementQ4Charts() {
     var chart4 = dc.barChart("#engagement_q4_chart4", "q4");
     var chart5 = dc.barChart("#engagement_q4_chart5", "q4");
 
-    d3.csv("engagement_q4.csv", function (error, data) {
+    d3.csv("./data/engagement/engagement_q4.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {
@@ -1617,8 +1617,8 @@ function plotEngagementQ4Charts() {
     });
 }
 
-var nodes = readTextFile("engagement_q5.csv");
-var edges = readTextFile("edge.csv");
+var nodes = readTextFile("./data/engagement/engagement_q5.csv");
+var edges = readTextFile("./data/engagement/edge.csv");
 
 function plotEngagementQ5Charts() {
     var chart1 = dc.selectMenu("#engagement_q5_chart1", "q5");
@@ -1627,7 +1627,7 @@ function plotEngagementQ5Charts() {
     var chart4 = dc.barChart("#engagement_q5_chart4", "q5");
 //    var chart5 = dc.dataTable("#engagement_q5_chart5", "q5");
 
-    d3.csv("engagement_q5.csv", function (error, data) {
+    d3.csv("./data/engagement/engagement_q5.csv", function (error, data) {
         var cf = crossfilter(data);
 
         data.forEach(function (d) {

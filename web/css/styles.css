@@ -125,6 +125,7 @@ textarea{
     line-height: 68px;
     background-color: transparent !important;
     border-bottom: 4px solid transparent;
+    opacity: 1;
 }
 
 .android-navigation .selected{
@@ -140,6 +141,22 @@ textarea{
 .mdl-layout__drawer > .mdl-navigation > .selected{
     background-color: #303f9f;
     color: white;
+}
+
+.mdl-navigation__link--disabled {
+    color: rgba(255,255,255,.57) !important;
+    cursor: no-drop;
+    background-color: transparent;
+    display: inline-block;
+    height: 60px;
+    line-height: 63px;
+    padding: 0 24px;
+    pointer-events: none; /*For Google Chrome Only*/
+}
+
+.mdl-navigation__link--disabled:hover {
+    background-color: transparent !important;
+    cursor: no-drop;
 }
 
 .android-search-box {
@@ -838,7 +855,7 @@ div .mdl-textfield__label:after {
 }
 
 .resetForNetwork{
-       display: none;
+    display: none;
 }
 
 #hiring_q5_chart5 .dc-table-head,
@@ -949,6 +966,12 @@ select {
     text-align: center;
     line-height: 36px;
     vertical-align: middle;
+}
+
+.drawer-link-disabled{
+    background: lightgrey;
+    cursor: no-drop;
+    pointer-events: none;
 }
 
 @media only screen and (max-width: 900px) {
